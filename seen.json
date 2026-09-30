@@ -169,6 +169,8 @@
   "/job/San-Jose/XMLNAME-2027-Intern---Adobe-Sales-Academy-BDR_R170977",
   "/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
   "/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
+  "/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261",
+  "/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Marketing-Manager_R172262",
   "/job/San-Jose/XMLNAME-2027-MBA-University-Graduate---Product-Manager_R171900",
   "/job/Seattle/Enterprise-Architect_R161570"
  ],
@@ -3062,7 +3064,8 @@
   "5253211007",
   "5253281007",
   "5253314007",
-  "5253318007"
+  "5253318007",
+  "5253448007"
  ],
  "Anthropic": [
   "4017331008",
@@ -5280,6 +5283,8 @@
   "/job/New-York-NY/Director--Technical-Program-Manager---Card-Tech_R1001390-1",
   "/job/New-York-NY/Full-stack-Engineer-4--Agentic-Orchestration_R1002667",
   "/job/New-York-NY/Full-stack-Engineer-4--Manager--IC-_R1001219",
+  "/job/New-York-NY/Full-stack-Engineer-4_R1002664",
+  "/job/New-York-NY/Full-stack-Engineer-5_R1002661-1",
   "/job/New-York-NY/Principal-Auditor---Risk-Management_R1002347-1",
   "/job/New-York-NY/Senior-Manager--Product-Management---Back-Office-Servicing-Experiences_R999224-1",
   "/job/New-York-NY/Senior-Product-Manager---Flights-Search-and-Merchandising--Capital-One-Travel_R246408-1",
@@ -5918,6 +5923,7 @@
   "/job/Japan---Tokyo/Senior-Director--Financial-Planning-and-Analysis_R-144074",
   "/job/Philippines---Taguig-City/Marketing-Director--Sprite---Philippines_R-145209",
   "/job/Singapore---Singapore/CPS-SG-Integrated-Management-Systems-Specialist--6-months-contract-_R-145526",
+  "/job/Singapore---Singapore/Demand-Planning-Specialist_R-146199",
   "/job/Turkey---Istanbul/Intern--PACS-Strategic-Initiatives---New-Technologies_R-146863",
   "/job/Turkey---Istanbul/Senior-Director--Public-Affairs--Communications-and-Sustainability---Trkiye_R-146360",
   "/job/US---GA---Atlanta/Customer-Master-Data-and-Billing-Manager_R-146273",
@@ -8086,7 +8092,8 @@
   "8242688",
   "8243349",
   "8243566",
-  "8243739"
+  "8243739",
+  "8244193"
  ],
  "Dropbox": [
   "6330377",
@@ -8262,6 +8269,7 @@
   "/job/USA---California---San-Jose/Principal-Software-Development-Engineer_R-102791-1",
   "/job/USA---Illinois---Chicago/Mobile-Engineer-II--Android-_R-108950-1",
   "/job/USA---Illinois---Chicago/Senior-Financial-Operations-Analyst_R-110036",
+  "/job/USA---Illinois---Chicago/Senior-Partner-Marketing-Specialist--Onboarding_R-110075-1",
   "/job/Washington---Seattle-Campus/Data-Scientist-III---Growth-Marketing_R-107547-1",
   "/job/Washington---Seattle-Campus/Manager--Tax---Compliance-Technology_R-108877",
   "/job/Washington---Seattle-Campus/Senior-Analytics-Partner--People-Analytics_R-106210-1",
@@ -8359,6 +8367,7 @@
   "6111625004",
   "6112112004",
   "6112135004",
+  "6112961004",
   "6113161004",
   "6114301004",
   "6115082004",
@@ -8461,6 +8470,7 @@
   "/job/Peebles/Lead-Engineer-Testing_R5039120-2",
   "/job/Petropolis/Estagio-em-Logstica_R5040327-1",
   "/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Maintenance-Technician_R5040995-1",
+  "/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Test-Technician-Level-2---On-Wing-Support_R5040996-1",
   "/job/Pune/Lead-HRBP_R5039042-1",
   "/job/Queretaro/EID-Intern---Fluids-Systems_R5038310-1",
   "/job/Queretaro/Engineer-2---Integrated-Manufacturing-Engineer-for-Configurations-Hardware_R5040906-1",
@@ -9741,6 +9751,7 @@
   "/job/MSB-Singapore/Logistics-Analyst_JR110202",
   "/job/MSB-Singapore/logistics-analyst-3_JR110196",
   "/job/Manassas-VA----Fab-6/Facilities--Electrical-Technician--Manassas--VA_JR112357",
+  "/job/Manassas-VA----Fab-6/Industrial-Engineer_JR110610",
   "/job/Manassas-VA----Fab-6/Logistics-Security-Intelligence-Analyst_JR112558",
   "/job/Manassas-VA----Fab-6/New-College-Grad---DIR-Process-Engineer_JR113799",
   "/job/Miaoli---Tongluo-Taiwan/SR-EQUIPMENT-ENGINEER--Tongluo-_JR113841",
@@ -10261,6 +10272,7 @@
   "/job/Mumbai-India/Operations-Assistant---Emerging-Markets-Debt--Associate--Investment-Management_JR043642",
   "/job/Mumbai-India/SBL--Collateral--self-directed-Digital-LAL--Platforms--Associate--Wealth-Management_PT-JR042117",
   "/job/Mumbai-India/Trade-Surveillance--Vice-President--Oversight--Monitoring-and-Testing_PT-JR035667",
+  "/job/New-York-New-York-United-States-of-America/Associate---Fixed-Income-Operations_PT-JR044918-1",
   "/job/New-York-New-York-United-States-of-America/Director--Corporate-Controllers--Reporting---Accounting_JR040570",
   "/job/New-York-New-York-United-States-of-America/Global-Financial-Crimes-ISG-Advisory-Vice-President_PT-JR045056-1",
   "/job/New-York-New-York-United-States-of-America/International-Registered-CSA_JR040613-1",
@@ -10874,6 +10886,7 @@
   "8239278",
   "8239380",
   "8239382",
+  "8239421",
   "8239845",
   "8239973",
   "8240035",
@@ -12245,6 +12258,7 @@
   "5ec96ca1-319a-4b85-99ce-e06629099cf9",
   "60deb376-51b5-46c6-9e17-55377a5ef34e",
   "656b4b2e-5670-411c-9091-f355983a92a0",
+  "6628bead-dec0-4ed2-8aef-5a036815d2a0",
   "6754c9cc-89c2-4d7f-b966-66de6e8cac4b",
   "678d1162-e650-4d6d-9532-b287255c00fb",
   "69fd6a56-0050-44f7-9ed2-2c3a7320908d",
@@ -12495,6 +12509,7 @@
   "8035163",
   "8042279",
   "8046842",
+  "8046860",
   "8049465",
   "8049832",
   "8051472",
@@ -12716,6 +12731,7 @@
   "/job/Bengaluru-Millenia/IN-Senior-Associate-SRE-DevOps-GCC-Advisory-Bangalore_735459WD-1",
   "/job/Bilbao/PwC---Secretaria-o---Bilbao_765180WD",
   "/job/Bratislava/Junior-daov-konzultant---Junior-daov-konzultantka_752002WD",
+  "/job/Buenos-Aires/Sales---Operations-Support-Senior-Analyst---Global-Client_765338WD-2",
   "/job/Chennai---Menon-Eternity/IN-Senior-Associate--Oracle-fusion-HCM-Oracle-Advisory-Bangalore_754404WD-1",
   "/job/Gdask/Junior-Cybersecurity-Specialist_741157WD",
   "/job/Gurugram-10-C/IN-Manager-SAP-VIM-Enterprise-Apps-SAP-Advisory-Kolkata_758669WD-2",
@@ -12804,6 +12820,7 @@
   "/job/MA-Boston/Boston---Tax-LLM---Associate---Summer-Fall-2027_5292631EIB-1",
   "/job/MD-Baltimore/Baltimore---Audit---Associate---Winter-2027_764769WD",
   "/job/MI-Detroit/Detroit---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_756946WD",
+  "/job/NY-New-York/New-York---Tax-LLM---Associate---Summer-Fall-2027_5292672EIB-1",
   "/job/UT-Salt-Lake-City/Salt-Lake-City---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_764775WD",
   "/job/WA-Seattle/Seattle---Audit---Associate---Winter-2027_764785WD"
  ],
@@ -13755,6 +13772,7 @@
   "8224452",
   "8227776",
   "8227778",
+  "8227830",
   "8231343",
   "8231864"
  ],
@@ -14418,7 +14436,8 @@
   "744000152737159",
   "744000152737345",
   "744000152739849",
-  "744000152750829"
+  "744000152750829",
+  "744000152754744"
  ],
  "Smartsheet": [
   "3426405",
@@ -14573,6 +14592,7 @@
   "1b7c31c2-d3d7-4fd9-86ef-1f8a4b167335",
   "1bad12df-f443-426f-9d09-e96fc780d698",
   "1c90dd70-ffa8-4a50-844d-00a3e8726bd3",
+  "1cc80dac-67af-4e27-9e17-2fb9ecf683f3",
   "1d940622-e9ae-4b70-80ac-81a55d350fa7",
   "1dc688b3-90b1-4c83-89b8-fee512638de1",
   "1f8252af-5383-44ad-ae97-4c555bc48adc",
@@ -19079,6 +19099,7 @@
   "/job/KR---Seoul-South-Korea/Sr-Manager--Issuing-Solutions-Sales-Executive_REF088973W",
   "/job/MN---Ulaanbaatar-Mongolia/Analyst--Client-Relationship-Management---Mongolia_REF088957W",
   "/job/PA---Panama-City-Panama/Carcam-Products---Solutions-Sr-Manager_REF088795W",
+  "/job/PA---Panama-City-Panama/Manager--Sales-Engineering_REF084675W",
   "/job/SE---Stockholm-Sweden/Senior-Business-Development-Manager----Fintech---Finance-Institutions_REF088558W",
   "/job/SG---Singapore/Cybersecurity-Analyst_REF088711W",
   "/job/SG---Singapore/Director--Cyber-Risk-Practice_REF088674W",
@@ -19472,7 +19493,8 @@
   "8237997",
   "8238525",
   "8238692",
-  "8240198"
+  "8240198",
+  "8241745"
  ],
  "Workday": [
   "/job/INDPune/Customer-Care-Communications-Analyst_JR-0110136",
