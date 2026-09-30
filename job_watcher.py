@@ -128,7 +128,30 @@ def src_smartrecruiters(c):
     return list(jobs.values())
 
 
-SOURCES = {"amazon": src_amazon, "smartrecruiters": src_smartrecruiters, "greenhouse": src_greenhouse, "lever": src_lever, "ashby": src_ashby,
+def src_eightfold(c):
+    # Eightfold career sites (e.g. Qualcomm, Microsoft). c: host, domain, search
+    jobs = {}
+    api = f"https://{c['host']}/api/apply/v2/jobs"
+    for q in c.get("search", ["MBA intern", "intern"]):
+        for start in range(0, 50, 10):
+            r = requests.get(api, params={"domain": c["domain"], "query": q, "start": start,
+                                          "num": 10, "sort_by": "timestamp"},
+                             headers=HEADERS, timeout=TIMEOUT)
+            r.raise_for_status()
+            positions = r.json().get("positions", [])
+            for j in positions:
+                jid = str(j["id"])
+                jobs[jid] = {"id": jid, "title": j.get("name", ""),
+                             "location": j.get("location", "") or "; ".join(j.get("locations") or []),
+                             "url": j.get("canonicalPositionUrl") or f"https://{c['host']}/careers/job/{jid}",
+                             "description": text_of(j.get("job_description", "")),
+                             "_ef": f"{api}/{jid}?domain={c['domain']}"}
+            if len(positions) < 10:
+                break
+    return list(jobs.values())
+
+
+SOURCES = {"amazon": src_amazon, "eightfold": src_eightfold, "smartrecruiters": src_smartrecruiters, "greenhouse": src_greenhouse, "lever": src_lever, "ashby": src_ashby,
            "workday": src_workday, "watch": src_watch}
 
 
@@ -158,7 +181,10 @@ def fill_description(job):
     if job["description"]:
         return
     try:
-        if "_sr" in job:  # SmartRecruiters detail API
+        if "_ef" in job:  # Eightfold detail API
+            job["description"] = text_of(requests.get(job["_ef"], headers=HEADERS, timeout=TIMEOUT)
+                                         .json().get("job_description", ""))
+        elif "_sr" in job:  # SmartRecruiters detail API
             sections = (requests.get(job["_sr"], headers=HEADERS, timeout=TIMEOUT)
                         .json().get("jobAd", {}).get("sections", {}))
             job["description"] = text_of(" ".join(v.get("text", "") for v in sections.values()

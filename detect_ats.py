@@ -70,7 +70,18 @@ def probe_workday(url):
     return 0, ""
 
 
-PROBES = {"greenhouse": probe_greenhouse, "lever": probe_lever, "ashby": probe_ashby,
+def probe_eightfold(val):
+    host, domain = val.split("|")
+    r = requests.get(f"https://{host}/api/apply/v2/jobs", params={"domain": domain, "start": 0, "num": 1},
+                     headers={**HEADERS, "Accept": "application/json"}, timeout=T)
+    if r.ok and "json" in r.headers.get("content-type", ""):
+        d = r.json()
+        pos = d.get("positions") or []
+        return (d.get("count") or len(pos)), (pos[0].get("name", "") if pos else "")
+    return 0, ""
+
+
+PROBES = {"eightfold": probe_eightfold, "greenhouse": probe_greenhouse, "lever": probe_lever, "ashby": probe_ashby,
           "smartrecruiters": probe_smartrecruiters}
 OVERRIDES = yaml.safe_load((ROOT / "overrides.yaml").read_text(encoding="utf-8")) \
     if (ROOT / "overrides.yaml").exists() else {}
@@ -84,13 +95,22 @@ def try_candidates(name):
     hits = []
     for cand in OVERRIDES.get(name) or []:
         (kind, val), = cand.items()
+        # after a hit, only keep looking for extra Workday sites (e.g. Adobe university + experienced)
+        if hits and not (kind == "workday" and hits[0][0]["type"] == "workday"):
+            continue
         try:
             n, sample = probe_workday(val) if kind == "workday" else PROBES[kind](val)
         except Exception:
             continue
         if n:
             entry = {"name": name, "type": kind}
-            entry.update({"url": val, "search": ["MBA", "intern"]} if kind == "workday" else {"slug": val})
+            if kind == "workday":
+                entry.update({"url": val, "search": ["MBA", "intern"]})
+            elif kind == "eightfold":
+                host, domain = val.split("|")
+                entry.update({"host": host, "domain": domain, "search": ["MBA intern", "intern"]})
+            else:
+                entry["slug"] = val
             hits.append((entry, f"{n} jobs, e.g. {sample}"))
     return hits
 

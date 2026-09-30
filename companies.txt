@@ -4,6 +4,7 @@
 # Amazon, Google đã cấu hình trong config.yaml. Microsoft, Apple, Meta, Netflix, Tesla dùng trang riêng -> theo dõi bằng Distill.io.
 
 # --- Enterprise software / cloud ---
+Microsoft
 Salesforce
 Adobe
 Oracle
