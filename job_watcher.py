@@ -112,7 +112,23 @@ def src_amazon(c):
     return list(jobs.values())
 
 
-SOURCES = {"amazon": src_amazon, "greenhouse": src_greenhouse, "lever": src_lever, "ashby": src_ashby,
+def src_smartrecruiters(c):
+    jobs = {}
+    base = f"https://api.smartrecruiters.com/v1/companies/{c['slug']}/postings"
+    for q in c.get("search", ["intern", "MBA"]):
+        r = requests.get(base, params={"q": q, "limit": 100}, headers=HEADERS, timeout=TIMEOUT)
+        r.raise_for_status()
+        for j in r.json().get("content", []):
+            loc = j.get("location") or {}
+            jobs[j["id"]] = {"id": j["id"], "title": j.get("name", ""),
+                             "location": ", ".join(x for x in (loc.get("city"), loc.get("region"),
+                                                               loc.get("country")) if x),
+                             "url": f"https://jobs.smartrecruiters.com/{c['slug']}/{j['id']}",
+                             "description": "", "_sr": f"{base}/{j['id']}"}
+    return list(jobs.values())
+
+
+SOURCES = {"amazon": src_amazon, "smartrecruiters": src_smartrecruiters, "greenhouse": src_greenhouse, "lever": src_lever, "ashby": src_ashby,
            "workday": src_workday, "watch": src_watch}
 
 
@@ -142,7 +158,12 @@ def fill_description(job):
     if job["description"]:
         return
     try:
-        if "_detail" in job:  # Workday detail API
+        if "_sr" in job:  # SmartRecruiters detail API
+            sections = (requests.get(job["_sr"], headers=HEADERS, timeout=TIMEOUT)
+                        .json().get("jobAd", {}).get("sections", {}))
+            job["description"] = text_of(" ".join(v.get("text", "") for v in sections.values()
+                                                   if isinstance(v, dict)))
+        elif "_detail" in job:  # Workday detail API
             r = requests.get(job["_detail"], headers=HEADERS, timeout=TIMEOUT)
             job["description"] = text_of(r.json()["jobPostingInfo"]["jobDescription"])
         else:

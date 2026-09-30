@@ -1,0 +1,85 @@
+# Candidate job-board addresses for companies the basic detector missed.
+# detect_ats.py TESTS each candidate and keeps only the ones that actually respond,
+# so a wrong guess here is harmless. Format: Company name (as in companies.txt): list of candidates
+Salesforce:
+  - workday: https://salesforce.wd12.myworkdayjobs.com/External_Career_Site
+Adobe:
+  - workday: https://adobe.wd5.myworkdayjobs.com/external_university
+  - workday: https://adobe.wd5.myworkdayjobs.com/external_experienced
+Workday:
+  - workday: https://workday.wd5.myworkdayjobs.com/Workday
+Zoom:
+  - workday: https://zoom.wd5.myworkdayjobs.com/Zoom
+DocuSign:
+  - workday: https://docusign.wd1.myworkdayjobs.com/DocuSign
+Autodesk:
+  - workday: https://autodesk.wd1.myworkdayjobs.com/Ext
+Palo Alto Networks:
+  - workday: https://paloaltonetworks.wd5.myworkdayjobs.com/External
+CrowdStrike:
+  - workday: https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers
+HubSpot:
+  - greenhouse: hubspotjobs
+Grammarly:          # company renamed to Superhuman
+  - greenhouse: superhuman
+  - ashby: superhuman
+  - greenhouse: grammarly
+Canva:
+  - smartrecruiters: Canva
+  - lever: canva
+ServiceNow:
+  - smartrecruiters: ServiceNow
+Intuit:
+  - workday: https://intuit.wd1.myworkdayjobs.com/Intuit_Careers
+NVIDIA:
+  - workday: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite
+Intel:
+  - workday: https://intel.wd1.myworkdayjobs.com/External
+AMD:
+  - workday: https://amd.wd1.myworkdayjobs.com/External
+Qualcomm:
+  - workday: https://qualcomm.wd5.myworkdayjobs.com/External
+Cisco:
+  - workday: https://cisco.wd5.myworkdayjobs.com/Cisco_Careers
+Dell:
+  - workday: https://dell.wd1.myworkdayjobs.com/External
+Hewlett Packard Enterprise:
+  - workday: https://hpe.wd5.myworkdayjobs.com/Jobsathpe
+  - workday: https://hpe.wd5.myworkdayjobs.com/ACJobSite
+Micron:
+  - workday: https://micron.wd1.myworkdayjobs.com/External
+Broadcom:
+  - workday: https://broadcom.wd1.myworkdayjobs.com/External_Career
+PayPal:
+  - workday: https://paypal.wd1.myworkdayjobs.com/jobs
+Visa:
+  - smartrecruiters: Visa
+Mastercard:
+  - workday: https://mastercard.wd1.myworkdayjobs.com/CorporateCareers
+Remitly:
+  - workday: https://remitly.wd5.myworkdayjobs.com/Remitly_Careers
+  - greenhouse: remitly
+DoorDash:
+  - greenhouse: doordashusa
+Snap:
+  - workday: https://snapchat.wd1.myworkdayjobs.com/snap
+eBay:
+  - workday: https://ebay.wd5.myworkdayjobs.com/apply
+Etsy:
+  - workday: https://etsy.wd5.myworkdayjobs.com/Etsy_Careers
+Expedia:
+  - workday: https://expedia.wd108.myworkdayjobs.com/search
+Zillow:
+  - workday: https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External
+Redfin:
+  - workday: https://redfin.wd1.myworkdayjobs.com/redfin_careers
+Electronic Arts:
+  - workday: https://ea.wd1.myworkdayjobs.com/EA_External
+Wayfair:
+  - workday: https://wayfair.wd1.myworkdayjobs.com/Wayfair_Careers
+T-Mobile:
+  - workday: https://tmobile.wd1.myworkdayjobs.com/External
+Anduril:
+  - greenhouse: andurilindustries
+Rivian:
+  - workday: https://rivian.wd5.myworkdayjobs.com/careers
