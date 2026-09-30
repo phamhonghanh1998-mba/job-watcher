@@ -1,0 +1,43 @@
+Salesforce
+Adobe
+Oracle
+IBM
+Intuit
+ServiceNow
+Workday
+Atlassian
+HubSpot
+Zoom
+DocuSign
+Autodesk
+Palo Alto Networks
+CrowdStrike
+Rippling
+Grammarly
+Canva
+NVIDIA
+Intel
+AMD
+Qualcomm
+Cisco
+Dell
+Hewlett Packard Enterprise
+Micron
+Broadcom
+PayPal
+Visa
+Mastercard
+Remitly
+Uber
+DoorDash
+Snap
+eBay
+Etsy
+Expedia
+Zillow
+Redfin
+Electronic Arts
+Wayfair
+T-Mobile
+Anduril
+Rivian
