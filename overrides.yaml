@@ -102,3 +102,88 @@ Rivian:
   - workday: https://rivian.wd5.myworkdayjobs.com/careers
   - greenhouse: rivian
   - lever: rivian
+
+# ---- Round 3: beyond tech (candidates; the detector keeps only ones that respond) ----
+Nike:
+  - workday: https://nike.wd1.myworkdayjobs.com/nke
+Walmart:
+  - workday: https://walmart.wd5.myworkdayjobs.com/WalmartExternal
+Target:
+  - workday: https://target.wd5.myworkdayjobs.com/targetcareers
+Home Depot:
+  - workday: https://homedepot.wd5.myworkdayjobs.com/CareerDepot
+Nordstrom:
+  - workday: https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers
+Coca-Cola:
+  - workday: https://coke.wd1.myworkdayjobs.com/coca-cola-careers
+Kraft Heinz:
+  - workday: https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers
+Mondelez:
+  - workday: https://mdlz.wd3.myworkdayjobs.com/External
+Kimberly-Clark:
+  - workday: https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL
+Clorox:
+  - workday: https://clorox.wd1.myworkdayjobs.com/Clorox
+Accenture:
+  - workday: https://accenture.wd103.myworkdayjobs.com/AccentureCareers
+PwC:
+  - workday: https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers
+  - workday: https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers
+Oliver Wyman:
+  - workday: https://mmc.wd1.myworkdayjobs.com/MMC
+Guidehouse:
+  - workday: https://guidehouse.wd1.myworkdayjobs.com/External
+Booz Allen Hamilton:
+  - workday: https://bah.wd1.myworkdayjobs.com/BAH_Jobs
+Alvarez & Marsal:
+  - greenhouse: alvarezandmarsal
+Boeing:
+  - workday: https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS
+Blue Origin:
+  - workday: https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin
+GE Aerospace:
+  - workday: https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite
+GE HealthCare:
+  - workday: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite
+RTX:
+  - workday: https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway
+Caterpillar:
+  - workday: https://cat.wd5.myworkdayjobs.com/CaterpillarCareers
+3M:
+  - workday: https://3m.wd1.myworkdayjobs.com/Search
+Medtronic:
+  - workday: https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers
+Abbott:
+  - workday: https://abbott.wd5.myworkdayjobs.com/abbottcareers
+Pfizer:
+  - workday: https://pfizer.wd1.myworkdayjobs.com/PfizerCareers
+Merck:
+  - workday: https://msd.wd5.myworkdayjobs.com/SearchJobs
+Eli Lilly:
+  - workday: https://lilly.wd5.myworkdayjobs.com/LLY
+Amgen:
+  - workday: https://amgen.wd1.myworkdayjobs.com/Careers
+Genentech:
+  - workday: https://roche.wd3.myworkdayjobs.com/roche-ext
+Danaher:
+  - workday: https://danaher.wd1.myworkdayjobs.com/DanaherJobs
+Stryker:
+  - workday: https://stryker.wd1.myworkdayjobs.com/StrykerCareers
+Philips:
+  - workday: https://philips.wd3.myworkdayjobs.com/jobs-and-careers
+CVS Health:
+  - workday: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers
+Morgan Stanley:
+  - workday: https://ms.wd5.myworkdayjobs.com/External
+Bank of America:
+  - workday: https://ghr.wd1.myworkdayjobs.com/lateral-us
+Capital One:
+  - workday: https://capitalone.wd12.myworkdayjobs.com/Capital_One
+BlackRock:
+  - workday: https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional
+Synchrony:
+  - workday: https://synchronyfinancial.wd5.myworkdayjobs.com/careers
+S&P Global:
+  - workday: https://spgi.wd5.myworkdayjobs.com/SPGI_Careers
+Allstate:
+  - workday: https://allstate.wd5.myworkdayjobs.com/allstate_careers

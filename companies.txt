@@ -100,3 +100,101 @@ Anduril
 SpaceX
 Waymo
 Rivian
+
+# ===== Round 3: beyond tech =====
+# --- Consumer / retail ---
+Starbucks
+Nike
+Procter & Gamble
+PepsiCo
+Coca-Cola
+General Mills
+Kraft Heinz
+Mondelez
+Nestle USA
+Unilever
+Colgate-Palmolive
+Kimberly-Clark
+Clorox
+Estee Lauder
+Hershey
+Kellanova
+Anheuser-Busch
+Walmart
+Target
+Costco
+Nordstrom
+REI
+Home Depot
+Lowes
+Best Buy
+Kroger
+Levi Strauss
+lululemon
+Alaska Airlines
+# --- Consulting beyond MBB ---
+Deloitte
+Accenture
+PwC
+EY
+KPMG
+Kearney
+Oliver Wyman
+LEK Consulting
+ZS Associates
+Point B
+Slalom
+West Monroe
+Alvarez & Marsal
+Guidehouse
+Huron
+Booz Allen Hamilton
+# --- Healthcare / manufacturing / aerospace ---
+Boeing
+Blue Origin
+PACCAR
+Honeywell
+GE Aerospace
+GE HealthCare
+RTX
+Lockheed Martin
+Caterpillar
+John Deere
+3M
+Johnson & Johnson
+Medtronic
+Abbott
+Pfizer
+Merck
+Eli Lilly
+Amgen
+Genentech
+Danaher
+Stryker
+Philips
+Fortive
+Providence
+UnitedHealth Group
+CVS Health
+# --- Financial services ---
+JPMorgan Chase
+Goldman Sachs
+Morgan Stanley
+Bank of America
+Citi
+Wells Fargo
+Capital One
+American Express
+US Bank
+BlackRock
+Fidelity
+Vanguard
+Charles Schwab
+Synchrony
+S&P Global
+Moodys
+Progressive
+Allstate
+Liberty Mutual
+Nationwide
+Russell Investments
