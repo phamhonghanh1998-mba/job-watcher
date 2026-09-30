@@ -303,3 +303,267 @@
 - name: Waymo
   type: greenhouse
   slug: waymo
+- name: Nike
+  type: workday
+  url: https://nike.wd1.myworkdayjobs.com/nke
+  search:
+  - MBA
+  - intern
+- name: Coca-Cola
+  type: workday
+  url: https://coke.wd1.myworkdayjobs.com/coca-cola-careers
+  search:
+  - MBA
+  - intern
+- name: General Mills
+  type: greenhouse
+  slug: general
+- name: Kraft Heinz
+  type: workday
+  url: https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers
+  search:
+  - MBA
+  - intern
+- name: Mondelez
+  type: workday
+  url: https://mdlz.wd3.myworkdayjobs.com/External
+  search:
+  - MBA
+  - intern
+- name: Kimberly-Clark
+  type: workday
+  url: https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL
+  search:
+  - MBA
+  - intern
+- name: Clorox
+  type: workday
+  url: https://clorox.wd1.myworkdayjobs.com/Clorox
+  search:
+  - MBA
+  - intern
+- name: Walmart
+  type: smartrecruiters
+  slug: walmartinc
+- name: Target
+  type: workday
+  url: https://target.wd5.myworkdayjobs.com/targetcareers
+  search:
+  - MBA
+  - intern
+- name: Nordstrom
+  type: workday
+  url: https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers
+  search:
+  - MBA
+  - intern
+- name: Home Depot
+  type: workday
+  url: https://homedepot.wd5.myworkdayjobs.com/CareerDepot
+  search:
+  - MBA
+  - intern
+- name: Accenture
+  type: workday
+  url: https://accenture.wd103.myworkdayjobs.com/AccentureCareers
+  search:
+  - MBA
+  - intern
+- name: PwC
+  type: workday
+  url: https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers
+  search:
+  - MBA
+  - intern
+- name: PwC (2)
+  type: workday
+  url: https://pwc.wd3.myworkdayjobs.com/US_Entry_Level_Careers
+  search:
+  - MBA
+  - intern
+- name: Oliver Wyman
+  type: workday
+  url: https://mmc.wd1.myworkdayjobs.com/MMC
+  search:
+  - MBA
+  - intern
+- name: Point B
+  type: lever
+  slug: pointb
+- name: Guidehouse
+  type: workday
+  url: https://guidehouse.wd1.myworkdayjobs.com/External
+  search:
+  - MBA
+  - intern
+- name: Huron
+  type: workday
+  url: https://huron.wd1.myworkdayjobs.com/HuronCareers
+  search:
+  - MBA
+  - intern
+- name: Booz Allen Hamilton
+  type: workday
+  url: https://bah.wd1.myworkdayjobs.com/BAH_Jobs
+  search:
+  - MBA
+  - intern
+- name: Boeing
+  type: workday
+  url: https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS
+  search:
+  - MBA
+  - intern
+- name: Blue Origin
+  type: workday
+  url: https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin
+  search:
+  - MBA
+  - intern
+- name: GE Aerospace
+  type: workday
+  url: https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite
+  search:
+  - MBA
+  - intern
+- name: GE HealthCare
+  type: workday
+  url: https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite
+  search:
+  - MBA
+  - intern
+- name: RTX
+  type: workday
+  url: https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway
+  search:
+  - MBA
+  - intern
+- name: Caterpillar
+  type: workday
+  url: https://cat.wd5.myworkdayjobs.com/CaterpillarCareers
+  search:
+  - MBA
+  - intern
+- name: 3M
+  type: workday
+  url: https://3m.wd1.myworkdayjobs.com/Search
+  search:
+  - MBA
+  - intern
+- name: Medtronic
+  type: workday
+  url: https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers
+  search:
+  - MBA
+  - intern
+- name: Abbott
+  type: workday
+  url: https://abbott.wd5.myworkdayjobs.com/abbottcareers
+  search:
+  - MBA
+  - intern
+- name: Pfizer
+  type: workday
+  url: https://pfizer.wd1.myworkdayjobs.com/PfizerCareers
+  search:
+  - MBA
+  - intern
+- name: Merck
+  type: workday
+  url: https://msd.wd5.myworkdayjobs.com/SearchJobs
+  search:
+  - MBA
+  - intern
+- name: Eli Lilly
+  type: ashby
+  slug: eli
+- name: Amgen
+  type: workday
+  url: https://amgen.wd1.myworkdayjobs.com/Careers
+  search:
+  - MBA
+  - intern
+- name: Genentech
+  type: workday
+  url: https://roche.wd3.myworkdayjobs.com/roche-ext
+  search:
+  - MBA
+  - intern
+- name: Danaher
+  type: workday
+  url: https://danaher.wd1.myworkdayjobs.com/DanaherJobs
+  search:
+  - MBA
+  - intern
+- name: Stryker
+  type: workday
+  url: https://stryker.wd1.myworkdayjobs.com/StrykerCareers
+  search:
+  - MBA
+  - intern
+- name: Philips
+  type: workday
+  url: https://philips.wd3.myworkdayjobs.com/jobs-and-careers
+  search:
+  - MBA
+  - intern
+- name: CVS Health
+  type: workday
+  url: https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers
+  search:
+  - MBA
+  - intern
+- name: Morgan Stanley
+  type: workday
+  url: https://ms.wd5.myworkdayjobs.com/External
+  search:
+  - MBA
+  - intern
+- name: Bank of America
+  type: workday
+  url: https://ghr.wd1.myworkdayjobs.com/lateral-us
+  search:
+  - MBA
+  - intern
+- name: Capital One
+  type: workday
+  url: https://capitalone.wd12.myworkdayjobs.com/Capital_One
+  search:
+  - MBA
+  - intern
+- name: US Bank
+  type: greenhouse
+  slug: us
+- name: BlackRock
+  type: workday
+  url: https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional
+  search:
+  - MBA
+  - intern
+- name: Vanguard
+  type: workday
+  url: https://vanguard.wd5.myworkdayjobs.com/Vanguard_External
+  search:
+  - MBA
+  - intern
+- name: Charles Schwab
+  type: greenhouse
+  slug: charles
+- name: Synchrony
+  type: workday
+  url: https://synchronyfinancial.wd5.myworkdayjobs.com/careers
+  search:
+  - MBA
+  - intern
+- name: S&P Global
+  type: workday
+  url: https://spgi.wd5.myworkdayjobs.com/SPGI_Careers
+  search:
+  - MBA
+  - intern
+- name: Allstate
+  type: workday
+  url: https://allstate.wd5.myworkdayjobs.com/allstate_careers
+  search:
+  - MBA
+  - intern

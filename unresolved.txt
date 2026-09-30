@@ -13,3 +13,49 @@ Dell
 Redfin
 Electronic Arts
 Rivian
+Starbucks
+Procter & Gamble
+PepsiCo
+Nestle USA
+Unilever
+Colgate-Palmolive
+Estee Lauder
+Hershey
+Kellanova
+Anheuser-Busch
+Costco
+REI
+Lowes
+Best Buy
+Kroger
+Levi Strauss
+lululemon
+Alaska Airlines
+Deloitte
+EY
+KPMG
+Kearney
+LEK Consulting
+ZS Associates
+Slalom
+West Monroe
+Alvarez & Marsal
+PACCAR
+Honeywell
+Lockheed Martin
+John Deere
+Johnson & Johnson
+Fortive
+Providence
+UnitedHealth Group
+JPMorgan Chase
+Goldman Sachs
+Citi
+Wells Fargo
+American Express
+Fidelity
+Moodys
+Progressive
+Liberty Mutual
+Nationwide
+Russell Investments
