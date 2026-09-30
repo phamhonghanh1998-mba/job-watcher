@@ -1,0 +1,21 @@
+name: detect-ats
+on:
+  workflow_dispatch:   # bấm chạy tay mỗi khi bạn sửa companies.txt
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python detect_ats.py
+      - name: Save results
+        run: |
+          git config user.name "job-watcher"
+          git config user.email "job-watcher@users.noreply.github.com"
+          git add detected.yaml unresolved.txt
+          git diff --cached --quiet || (git commit -m "update detected companies" && git push)
