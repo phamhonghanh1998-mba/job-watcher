@@ -4236,6 +4236,7 @@
   "/job/New-York-NY/Associate--Institutional---Pensions_R266107",
   "/job/New-York-NY/Associate--Private-Credit-PEP-Quality-Control-Financial-Reporting--PFS_R265412",
   "/job/New-York-NY/Associate--Product-Strategist----Fundamental-Equities--Thematics---Sectors-Team_R266449",
+  "/job/New-York-NY/Associate--Technology-Audit_R266284",
   "/job/New-York-NY/BlackRock-Active-Investment-Stewardship-Operations---Associate_R266656",
   "/job/New-York-NY/Global-Allocation-Product-Strategy--Vice-President_R266662",
   "/job/New-York-NY/Risk-Strategy---AI-Transformation--Director---RQA_R266257",
@@ -5062,6 +5063,7 @@
   "/job/IN---Indianapolis/Medical-Scribe_R1057912",
   "/job/Irving-750-West-John-Carpenter/Senior-Contract-Analyst---Hybrid_R0958203",
   "/job/LA---Baton-Rouge/Clinical-Informatics-Specialist_R1009929",
+  "/job/MA---Work-from-home/Director-Product-Management---Health-Data-Interoperability_R1022539",
   "/job/MA---Work-from-home/Lead-Director--Digital-Product---Admission-Prevention_R1050201",
   "/job/MA---Work-from-home/Lead-Director-Digital-Product---Clinic-Operations-and-Ambulatory-Workflows_R1050461",
   "/job/MD---Bethesda/Pharmacy-Intern_R1061479",
@@ -5105,7 +5107,8 @@
   "/job/TX---Work-from-home/Provider-Adoption---Onboarding-Specialist_R0950936",
   "/job/TX---Work-from-home/Provider-Customer-Service-Representative_R1017398",
   "/job/VA---Arlington/Pharmacy-Intern_R1061476",
-  "/job/Work-At-Home-Illinois/Underwriting-Analytics---Senior-Analyst_R1017667"
+  "/job/Work-At-Home-Illinois/Underwriting-Analytics---Senior-Analyst_R1017667",
+  "/job/Work-At-Home-Pennsylvania/Provider-Contracting-Senior-Manager--National-Specialty-Value-Based-Care-Partnerships-Remote_R1053336"
  ],
  "Canva": [
   "6000000000760848",
@@ -5216,6 +5219,7 @@
   "/job/McLean-VA/Data-Engineer-4_R1002525-1",
   "/job/McLean-VA/Director--Data-Science_R1002344-1",
   "/job/McLean-VA/Director--Data-Science_R1002371-2",
+  "/job/McLean-VA/Director--FP-A--Capital-One-Shopping_R247815-1",
   "/job/McLean-VA/Director--Full-Stack-Engineer_R1002252-1",
   "/job/McLean-VA/Director--Tech-Recruiting_R1002336-1",
   "/job/McLean-VA/Director--Technical-Program-Manager--EPTech-_R1002066-1",
@@ -5239,9 +5243,11 @@
   "/job/McLean-VA/Principal-Associate--Tech-Risk---Analysis---Technology-Audit_R1002320-1",
   "/job/McLean-VA/Principal-Financial-Analyst---Card-Operations_R1001423-2",
   "/job/McLean-VA/Principal-Project-Manager--Principal-Associate-_R999844-1",
+  "/job/McLean-VA/Product-Manager---Card-Team_R1001787-1",
   "/job/McLean-VA/Risk-Manager--Business-Continuity-and-Resilience-Risk-Management_R245914-1",
   "/job/McLean-VA/Senior-Associate--Corporate-Strategy_R247835-1",
   "/job/McLean-VA/Senior-Associate--Data-Scientist---Credit-Line-Increase-Program_R1002337-1",
+  "/job/McLean-VA/Senior-Associate--Product-Manager---Card-Team_R1001786-1",
   "/job/McLean-VA/Senior-Business-Analyst--Liquidity--Market--and-Capital-Risk-Oversight_R243495-1",
   "/job/McLean-VA/Senior-Director--Ad-Tech-Engineering--Capital-One-Shopping-Tech--Remote---Eligible-_R1001144-1",
   "/job/McLean-VA/Senior-Director--Product-Management--Risk-Data_R1002401-1",
@@ -5250,6 +5256,7 @@
   "/job/McLean-VA/Senior-Manager--Full-stack-Engineer-People-Leader_R1001224-1",
   "/job/McLean-VA/Senior-Manager--Product-Management---US-Card--Servicing---Core-Modernization_R249126-1",
   "/job/McLean-VA/Senior-Manager--Well-Managed--QA---Program-Execution_R1002602-1",
+  "/job/McLean-VA/Senior-Product-Manager---Card-Team_R1001788-1",
   "/job/McLean-VA/Sr-Associate--Product-Management---Card-Recoveries-Platform_R247198-1",
   "/job/McLean-VA/Sr-Business-Analyst---US-Card_R248338-1",
   "/job/McLean-VA/Sr-Business-Analyst--Capital-One-Shopping--Remote---Eligible-_R249862-2",
@@ -5260,6 +5267,7 @@
   "/job/Mexico-City-Mexico/Senior-Manager--Software-Engineering---Full-Stack--People-Manager-_R242853",
   "/job/Mexico-City-Mexico/Sr-Manager--Communications-Manager_R1001639",
   "/job/New-York-NY/Applied-Researcher-4_R1002587-1",
+  "/job/New-York-NY/Data-Engineer-4---Nexus-Products_R1001571-1",
   "/job/New-York-NY/Data-Engineer-4_R1002522-1",
   "/job/New-York-NY/Director--Product-Management---Virtual-Cards_R1002351-1",
   "/job/New-York-NY/Director--Software-Engineering---Bank-Tech_R1002217-1",
@@ -5269,6 +5277,7 @@
   "/job/New-York-NY/Full-stack-Engineer-4--Manager--IC-_R1001219",
   "/job/New-York-NY/Principal-Auditor---Risk-Management_R1002347-1",
   "/job/New-York-NY/Senior-Manager--Product-Management---Back-Office-Servicing-Experiences_R999224-1",
+  "/job/New-York-NY/Senior-Product-Manager---Flights-Search-and-Merchandising--Capital-One-Travel_R246408-1",
   "/job/New-York-NY/Sr-Director--Technical-Program-Management_R1001500-1",
   "/job/New-York-NY/Staff-Engineer--Developer-Insights---AI-Telemetry_R1002569-1",
   "/job/Nottingham--Eng/Senior-Software-Development-Engineer---Services_R235338-1",
@@ -5475,6 +5484,7 @@
   "/job/Tlalnepantla-de-Baz-Mexico/Coordinador-de-Mantenimiento_JR23520",
   "/job/Tlalnepantla-de-Baz-Mexico/P2P-US-Vendor-Master-analyst_23205",
   "/job/Tlalnepantla-de-Baz-Mexico/Staff-Accountant--Sales-Accounting_23244-1",
+  "/job/Wheeling-IL---USA/Logistics-Lead--12hr-Night-Shift-_22933",
   "/job/Wheeling-IL---USA/Packaging-Machine-Operator--12hr-Night-Shift-_JR23396"
  ],
  "Cloudflare": [
@@ -8065,7 +8075,8 @@
   "8240696",
   "8240747",
   "8242688",
-  "8243349"
+  "8243349",
+  "8243739"
  ],
  "Dropbox": [
   "6330377",
@@ -8417,7 +8428,8 @@
   "6206760004",
   "6207950004",
   "6208862004",
-  "6208999004"
+  "6208999004",
+  "6211119004"
  ],
  "GE Aerospace": [
   "/job/Bohemia/Staff-Engineer---Fluid-Systems_R5040811-1",
@@ -8427,6 +8439,7 @@
   "/job/Evendale/Composites-Lead-Mechanical-Design-Engineer_R5040675-1",
   "/job/Evendale/Logistics-Operations-leader_R5032198-1",
   "/job/Evendale/Military-DoD-SkillBridge-Program---Mission-Analysis-Advanced-Lead---Staff-Engineer_R5040898-1",
+  "/job/Evendale/Product-Definition-Engineering-Intern--Commercial---Summer-2027_R5040755-2",
   "/job/Evendale/Senior-Business-Intelligence-Developer_R5040919-1",
   "/job/Evendale/Senior-Marketing-Manager---Market---Narrowbody-Fleet-Forecasting_R5040347-2",
   "/job/Evendale/Supplier-Fulfillment-Leader_R5039784-1",
@@ -8513,6 +8526,7 @@
   "/job/Sao-Paulo/S-OP-Leader---LATAM_R4046746-1",
   "/job/Shanghai/Director--Business-Strategy---Development---AVS_R4047100-1",
   "/job/Shanghai/Director--Business-Strategy---Development---PCS-Private-HKTW_R4047026",
+  "/job/State-College/Warehouse-Associate-II--Shipping--M-F-7-30-AM---4-00-PM_R4046962-1",
   "/job/State-College/Warehouse-Associate_R4045743-1",
   "/job/Warsaw/PCS-Digital-Sales-Lead-Poland_R4046796-1",
   "/job/Warsaw/Service-Center-Apprentice_R4046810",
@@ -9700,6 +9714,7 @@
   "/job/Hyderabad---Phoenix-Aquila-India/Director--Technology-Engineering---Innovation--TE-I----India_JR112917",
   "/job/Hyderabad---Phoenix-Aquila-India/Engineer--HIG-HBM-LAYOUT_JR105858",
   "/job/Hyderabad---Phoenix-Aquila-India/Member-Of-Technical-Staff---HBM-Verification_JR91001-1",
+  "/job/Hyderabad---Phoenix-Aquila-India/Principal--Engineer--ASIC-Physical-Design_JR113608",
   "/job/Hyderabad---Phoenix-Aquila-India/STAFF-ENGINEER--ASIC-VALIDATION_JR113612",
   "/job/Hyderabad---Phoenix-Aquila-India/Sr-AI-Engineer--SMART-MFG---AI_JR113444",
   "/job/Jalisco-Mexico/Design-Verification-Engineer_JR112564",
@@ -9729,6 +9744,7 @@
   "/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697",
   "/job/San-Jose-CA/Principal-Global-Sales-Account-Manager--AI-GPU_JR111462",
   "/job/Sanand---303A---ATSSDMOD-India/Assembly-Test-Tactical-Planner--ATTP_JR108861",
+  "/job/Sanand---303A---ATSSDMOD-India/Manager--Mod-SSD-Assembly-Equipment_JR113244",
   "/job/Sanand---303A---ATSSDMOD-India/SR-MANAGER--MSI-INDUSTRIAL-ENGINEERING_JR112327",
   "/job/Sanand---303A---ATSSDMOD-India/Security-Specialist--P4----Physical-Security-Technology_JR113350",
   "/job/Syracuse-NY---Downtown-Office/Wet-Mechanical-Operations-Engineer_JR100406",
@@ -10856,7 +10872,9 @@
   "8243128",
   "8243158",
   "8243174",
-  "8243180"
+  "8243180",
+  "8243981",
+  "8243989"
  ],
  "Oliver Wyman": [
   "/job/Atlanta---Northside/Client-Executive---Single-Parent-Captives_R_356704",
@@ -11033,6 +11051,7 @@
   "28cd6fe2-4096-426b-8b08-52a66458e2c6",
   "29074a51-9cb3-47c9-a8a7-f283cd14fa6c",
   "295464f1-7d48-468f-afe2-87f9075b7a20",
+  "2986efa0-6d1c-4a1f-a629-13ad86559e24",
   "29c2c171-fb63-4985-9ac5-229b2ff5ced6",
   "29f15e50-1611-4256-afad-03b7df0b7aa7",
   "2a799206-4716-4f26-8aef-372ed6b8df8f",
@@ -12825,10 +12844,13 @@
   "/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/WTRSS-Operations-Lead_01877068",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Directeur-associ---Performance-stratgique-des-fournisseurs---Value-Stream-Manager_01877987",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Equilibreur-au-banc-de-finition_01877931",
+  "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Gestionnaire-de-compte-principal--OEM----Senior-Account-Manager--OEM-_01858036-1",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Mcanicien-d-entretien-industriel_01878221",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Operations-Strategy--Sr-Manager_01877654",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Prpose-au-traitement-thermique_01878258",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Spcialiste-Qualit-de-la-Chane-d-Approvisionnement---Supply-Chain-Quality-Specialist_01878524",
+  "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Specialiste-ingnieurie---Contrats-de-financement-public---acadmique---Engineering-Specialist---Public-Funding---academic-Contracts_01877870",
+  "/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Superviseur-des-oprations--quart-de-soir----Operations-Supervisor--Evening-Shift-_01868523",
   "/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Pilote-d-entreprise--commandant-e--de-bord---Corporate-Pilot--Captain_01849415-1",
   "/job/DE-SH-LUBECK-BLDG-1--Revalstr-1--BLDG-1/Master-Scheduler_01829833",
   "/job/DE-SH-LUBECK-BLDG-1--Revalstr-1--BLDG-1/Materialplaner---Disponent--m-w-d-_01866203",
@@ -12871,6 +12893,7 @@
   "/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Senior-Program-Manager_01849102",
   "/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Sr-Analyst--Security--Onsite-_01874291",
   "/job/US-CT-EAST-HARTFORD-CWSTF--400-Main-St--BLDG-CWSTF/F135-ECU-HPC-Validation-Project-Engineer--Onsite-_01866122",
+  "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/F135-Collins-Partner-Program-ECU-Business-Manager--Onsite-_01873426",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/XMLNAME-2027-Summer-Intern--Systems-Engineering--Onsite-_01872108",
   "/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Intern--Commercial-Engines-Production-Chief-Organization--Summer-2027-_01879223",
   "/job/US-CT-FARMINGTON-0010--10-Farm-Springs-Rd--10-FARM-SPRINGS/Sourcing-Manager---HR-Categories_01878352",
@@ -12926,6 +12949,7 @@
   "/job/US-NC-CHARLOTTE-2730--2730-W-Tyvola-Rd--TYVOLA/Prime-Transformation-Project-Financial-Analyst--PFA-_01878216-1",
   "/job/US-NC-CHARLOTTE-2730--2730-W-Tyvola-Rd--TYVOLA/SAP-Finance-Analyst--Hybrid-_01878011",
   "/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Material-Handling-II---1st-Shift--Onsite-_01878912",
+  "/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Material-Handling-II---2nd-Shift--Onsite-_01878910",
   "/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Material-Handling-2---1st-Shift--Onsite-_01879047",
   "/job/US-NM-FARMINGTON-426N--10059-Hwy-371-S--NORTH-BLDG/XMLNAME-2026-Full-time---Industrial-Engineer-II---Onsite--NM-_01848751",
   "/job/US-OH-TROY-101--101-Waco-St--WACO/Associate-Director--SIOP---Materials-Management-Landing-Systems--Onsite-_01876895",
@@ -14365,7 +14389,8 @@
   "744000152734569",
   "744000152737159",
   "744000152737345",
-  "744000152739849"
+  "744000152739849",
+  "744000152750829"
  ],
  "Smartsheet": [
   "3426405",
@@ -18428,6 +18453,7 @@
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Account-Manager--Roundel---Target-Product-Ads--MSP-or-NYC-_R0000446770",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Designer--Intimates-and-Sleepwear_R0000446514",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Designer---Store-Design_R0000475522",
+  "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Director-Counsel---Real-Estate_R0000475782",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Director-Enterprise-Risk-Portfolio-Management_R0000475006",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Inventory-Analyst-Intern---Minneapolis--MN--Starting-Summer--2027-_R0000450965",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Lead-Program-Manager---Integrated-Energy-Strategy---Resilience_R0000474960",
@@ -19053,6 +19079,7 @@
   "/job/US---Remote---Ohio/Director--Account-Executive_REF088946W",
   "/job/US---San-Francisco-CA/Analyst_REF087892W",
   "/job/US---San-Francisco-CA/Director--Sales-Incentive-Planning---Performance-Management_REF087524W",
+  "/job/US---San-Francisco-CA/Sr-Marketing-Manager_REF088939W",
   "/job/UZ---Tashkent-Uzbekistan/Manager--Ethics-and-Compliance-Officer_REF089011W-1"
  ],
  "Walmart": [],
@@ -19865,6 +19892,7 @@
   "5247835007",
   "5247837007",
   "5247839007",
+  "5247845007",
   "5248539007",
   "5248541007",
   "5249657007",
