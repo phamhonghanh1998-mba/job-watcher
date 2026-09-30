@@ -3018,7 +3018,9 @@
   "5252657007",
   "5252658007",
   "5252663007",
-  "5252665007"
+  "5252665007",
+  "5252765007",
+  "5252767007"
  ],
  "Anthropic": [
   "4017331008",
@@ -4144,10 +4146,12 @@
   "/job/San-Jose/Business-Solutions-Advisor---Capitol-and-Aborn-Financial-Center---Bilingual-Vietnamese-Required_26033441",
   "/job/San-Mateo/Business-Solutions-Advisor---Greater-San-Francisco-Market_26031963",
   "/job/San-Rafael/Business-Solutions-Advisor---San-Rafael-Main-Financial-Center_26033439-2",
-  "/job/Stamford/Merrill-Market-Supervision-Manager_26025565-2"
+  "/job/Stamford/Merrill-Market-Supervision-Manager_26025565-2",
+  "/job/White-Plains/Sr-Relationship-Manager---Global-Commercial-Banking---Middle-Market-Banking--Stamford-White-Plains-_26034207"
  ],
  "BlackRock": [
   "/job/Atlanta-GA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---Atlanta_R266470",
+  "/job/B3G---Skyline-Belgrade-Kneza-Milosa-88-Belgrade/Vice-President--Applied-AI---Data-Science---Investment---Trading-Compliance_R265376",
   "/job/BU3-Budapest-GTC-White-House-Vaci-ut-47-District-XIII-Budapest/Associate--Board-Management---Governance_R266670",
   "/job/Chicago-IL/Associate--Frontend-Software-Engineer--React-_R264790",
   "/job/Chicago-IL/XMLNAME-2027-Quantitative-Masters-Internship-Program---Sales---Relationship-Management---Institutional-Wealth---Chicago_R266475",
@@ -4166,6 +4170,7 @@
   "/job/London-Greater-London/Vice-President--Private-Markets-Data-Management_R266044",
   "/job/Mumbai-India/Analyst--Reconciliations-Investigations_R266521",
   "/job/Mumbai-India/Analyst--Reconciliations-Investigations_R266522",
+  "/job/Mumbai-India/Investment-Operations-Specialist--US-Wealth-Advisory--Associate_R266484",
   "/job/Mumbai-India/Leveraged-Finance-Credit-Research--Private-Financing-Solutions--Vice-President_R265038",
   "/job/New-York-NY/Admin-Business-Coordinator---BlackRock-Capital-Markets--BGM_R266628",
   "/job/New-York-NY/Associate--Corporate-Development_R265829",
@@ -8287,6 +8292,7 @@
   "/job/Petaling-Jaya/T-E-Compliance-Intern_202607-118952",
   "/job/Pleasanton/Global-Diagnostics-Partnering-Lead_202609-123583-1",
   "/job/Pune/Senior-Full-Stack-Engineer---Enterprise-ALM--Test-Automation---AI_202609-124688",
+  "/job/Pune/Technical-Lead---AEM-Platform_202609-122516",
   "/job/Riga/Automation-Business-Partner_202609-124712",
   "/job/Riga/Project-Manager_202607-117757-1",
   "/job/Rotkreuz/Geopolitics-and-Trade-Policy-Manager--6-month-contract-_202609-124749-1",
@@ -9179,6 +9185,7 @@
   "8857353002"
  ],
  "Mastercard": [
+  "/job/Abidjan-Cote-divoire/Senior-Managing-Consultant--Business-Development--Services--Francophone-Africa_R-289538",
   "/job/Almaty-Kazakhstan/Director--Business-Development---MC-Move-products-and-solutions_R-288711",
   "/job/Bogota-Colombia/Manager--Products-and-Solutions---Security-Solutions_R-282730",
   "/job/Bogota-Colombia/Senior-Analyst--Financial-Planning---Analysis_R-291495",
@@ -9200,6 +9207,7 @@
   "/job/London-England-Angel-Lane/Manager--Global-SME-Market-Expansion_R-291258",
   "/job/London-England-Angel-Lane/SVP--Risk--Core-Payments_R-291903",
   "/job/Milan-Italy/Creative-Strategist-Art_R-292298",
+  "/job/Milan-Italy/Sr-Copywriter--Italian---Advisors-Creative-Desk_R-292082",
   "/job/Mumbai-India/Manager--SME-Channel-Distribution-Activation-Specialist_R-281390",
   "/job/New-York-City-New-York/Director--Product-Sales_R-286353",
   "/job/New-York-City-New-York/Manager--Corporate-Treasury_R-291359-1",
@@ -9805,6 +9813,7 @@
   "8230396",
   "8231010",
   "8231579",
+  "8238617",
   "8238623",
   "8239047",
   "8240010"
@@ -9916,6 +9925,7 @@
   "/job/Boston-Massachusetts/Converse-Enterprise-Business-Planning-Graduate-Internship_R-92810",
   "/job/Boston-Massachusetts/Converse-Strategic-Planning-Graduate-Internship_R-92185",
   "/job/Karnataka-India/Lead-Information-Security-Engineer--ITC_R-94214",
+  "/job/Karnataka-India/Lead-Software-Engineer--ITC_R-94366",
   "/job/Karnataka-India/Lead-Technical-Product-Manager--ITC_R-94490",
   "/job/Karnataka-India/Lead-Technical-Product-Manager--ITC_R-94491",
   "/job/Karnataka-India/Lead-Technical-Product-Manager--ITC_R-94492",
@@ -12232,6 +12242,7 @@
   "/job/Bengaluru-Millenia/IN-Associate-SAP-Opentext-SAP-Advisory-Kolkata_757736WD-1",
   "/job/Bengaluru-Millenia/IN-Manager-SAP-FICO-SAP-Advisory-Mumbai_747939WD-1",
   "/job/Bengaluru-Millenia/IN-Manager-Site-Reliability-Architect-Engineer--GCC-Advisory-Pune_752724WD-1",
+  "/job/Bengaluru-Millenia/IN-Senior-Associate--AI-ML-Engineer----Data---Analytics---Advisory--Bangalore_705575WD-1",
   "/job/Bengaluru-Millenia/IN-Senior-Associate--Agentic---Gen-AI---AI-50--Advisory--Bangalore_749612WD-1",
   "/job/Bengaluru-Millenia/IN-Senior-Associate--Informatica-MDM-Developer-Data-Analytics--Advisory--Bangalore_702874WD-1",
   "/job/Bengaluru-Millenia/IN-Senior-Associate--Snowflake-Senior-Data-Engineer-Data-and-Analytics-Advisory-Bangalore_743819WD-1",
@@ -12250,6 +12261,7 @@
   "/job/Hyderabad---Salarpuria/IN-Manager-SAP-VIM-Enterprise-Apps-SAP-Advisory-Kolkata_755653WD-1",
   "/job/Hyderabad---Salarpuria/IN-Senior-Associate-GCP-Agentic-AI-SME-AI-50-Advisory-Bangalore_758215WD-1",
   "/job/Hyderabad---Salarpuria/IN-Senior-Associate-SAP-Ariba-Enterprise-Apps-SAP-Advisory-Bangalore_748364WD-1",
+  "/job/Hyderabad---Salarpuria/IN-Senior-Associate-SAP-PP-SAP-Advisory-Hyderabad_739700WD-1",
   "/job/Kolkata-DN-57/IN-Senior-Associate-SAP-MM-SAP-Advisory-Gurgaon_748448WD-1",
   "/job/Lyon/Manager-en-Transformation-de-la-fonction-Finance---Lyon---F-H_765004WD-1",
   "/job/MI-Detroit/IT-Services--Cyber-Threat-Response-Analyst--Senior-Associate_765017WD",
@@ -13209,7 +13221,10 @@
   "/job/Illinois---Chicago/Senior-Creative-Strategist--Brand-Strategy---Management_JR358677",
   "/job/Illinois---Chicago/Services-Sales-Solutions-Director---HLS_JR355680",
   "/job/Illinois---Chicago/Services-Sales-Solutions-Director_JR345698",
+  "/job/India---Bangalore/Product-Manager---Commerce-Platform--Hyderabad-_JR321301",
+  "/job/India---Hyderabad/Director--Customer-Success-Management_JR332861",
   "/job/India---Hyderabad/Senior-Technical-Consultant_JR362083",
+  "/job/India---Hyderabad/Tax-Senior-Analyst_JR357579",
   "/job/Indiana---Remote/Engagement-Delivery-Manager---Senior-Manager---Slack_JR362180",
   "/job/Israel---Tel-Aviv/Forward-Deployed-Engineer_JR350080",
   "/job/Mexico---Mexico-City/Software---Integration-Engineering-SMTS_JR353660-1",
@@ -13663,6 +13678,7 @@
   "4736426005"
  ],
  "ServiceNow": [
+  "744000145754969",
   "744000146496819",
   "744000146541989",
   "744000146563519",
@@ -18357,6 +18373,7 @@
   "/job/IN---Bengaluru-India/Sr-Director_REF088904W-1",
   "/job/IN---Bengaluru-India/Sr-Systems-Analyst_REF088843W",
   "/job/JP---Tokyo-Japan/Solutions-Manager_REF080669W",
+  "/job/KR---Seoul-South-Korea/Sr-Manager--Issuing-Solutions-Sales-Executive_REF088973W",
   "/job/MN---Ulaanbaatar-Mongolia/Analyst--Client-Relationship-Management---Mongolia_REF088957W",
   "/job/PA---Panama-City-Panama/Carcam-Products---Solutions-Sr-Manager_REF088795W",
   "/job/SG---Singapore/Cybersecurity-Analyst_REF088711W",
