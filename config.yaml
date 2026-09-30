@@ -1,0 +1,33 @@
+# ===== KEYWORD =====
+keywords:
+  # Tiêu đề job phải chứa ít nhất 1 cụm này (không phân biệt hoa/thường)
+  include: ["MBA", "Summer Associate", "Summer 2027", "Internship", "Intern"]
+  # Loại bỏ nếu tiêu đề chứa các cụm này.
+  # KHÔNG thêm "Senior": Amazon đặt tên MBA intern kiểu "Senior Product Manager, MBA Internship"
+  exclude: ["PhD", "Undergraduate", "Bachelor", "Software Engineer", "Software Development",
+            "Hardware", "Research Scientist", "Data Scientist", "High School"]
+  # MẢNG VIỆC: để [] = không giới hạn mảng (đang dùng).
+  # Muốn thu hẹp sau này thì điền, VD: ["Product Manager", "Strategy", "Finance", "Marketing"]
+  roles: []
+  # Để trống [] nếu nhận mọi địa điểm
+  locations: ["Seattle", "Bellevue", "Redmond", "WA", "Remote", "United States", "USA", "US",
+              "New York", "San Francisco", "Bay Area", "Mountain View", "Sunnyvale", "San Jose",
+              "Palo Alto", "Menlo Park", "Cupertino", "Santa Clara", "Austin", "Los Angeles"]
+
+# ===== CHẤM ĐIỂM RESUME (cần ANTHROPIC_API_KEY) =====
+model: claude-haiku-4-5-20251001
+min_fit_score: 50      # dưới điểm này thì không báo
+high_fit_score: 75     # từ điểm này trở lên: thông báo ưu tiên cao
+
+# ===== CÔNG TY NHẬP TAY =====
+# Công ty trong companies.txt được dò tự động (xem detected.yaml).
+# Mục này dành cho công ty có trang riêng, hoặc để sửa kết quả dò sai.
+#   greenhouse/lever/ashby: cần slug   | workday: dán link *.myworkdayjobs.com/<Site>
+#   amazon: dùng API riêng của Amazon  | watch: link trang kết quả tìm kiếm (trang render sẵn HTML)
+companies:
+  - name: Amazon
+    type: amazon
+    search: ["MBA intern", "MBA internship", "Summer 2027"]
+  - name: Google
+    type: watch
+    url: https://www.google.com/about/careers/applications/jobs/results?q=MBA%20intern

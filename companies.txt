@@ -1,0 +1,101 @@
+# Danh sách để detect_ats.py tự dò. Mỗi dòng: Tên công ty
+# hoặc: Tên công ty | link trang careers  (giúp dò chính xác hơn, nhất là công ty dùng Workday)
+# Đây là danh sách khởi đầu. Thêm/bớt thoải mái.
+# Amazon, Google đã cấu hình trong config.yaml. Microsoft, Apple, Meta, Netflix, Tesla dùng trang riêng -> theo dõi bằng Distill.io.
+
+# --- Enterprise software / cloud ---
+Salesforce
+Adobe
+Oracle
+IBM
+Intuit
+ServiceNow
+Workday
+Snowflake
+Databricks
+Atlassian
+HubSpot
+Zoom
+DocuSign
+Autodesk
+Okta
+Twilio
+Datadog
+MongoDB
+Palo Alto Networks
+CrowdStrike
+Cloudflare
+Zscaler
+Box
+Dropbox
+Asana
+Figma
+Notion
+Airtable
+Smartsheet
+Qualtrics
+Rippling
+Gusto
+Samsara
+Grammarly
+Canva
+Palantir
+# --- Semis / hardware ---
+NVIDIA
+Intel
+AMD
+Qualcomm
+Cisco
+Dell
+HP
+Hewlett Packard Enterprise
+Micron
+Broadcom
+Applied Materials
+# --- Fintech / payments ---
+Stripe
+Block
+PayPal
+Visa
+Mastercard
+Coinbase
+Robinhood
+SoFi
+Chime
+Affirm
+Plaid
+Brex
+Ramp
+Toast
+Remitly
+# --- Consumer / marketplace / media ---
+Uber
+Lyft
+Airbnb
+DoorDash
+Instacart
+Pinterest
+Snap
+Reddit
+eBay
+Etsy
+Expedia
+Zillow
+Redfin
+Roblox
+Electronic Arts
+Discord
+Duolingo
+Wayfair
+Spotify
+Peloton
+T-Mobile
+# --- AI / frontier tech ---
+OpenAI
+Anthropic
+Scale AI
+Perplexity
+Anduril
+SpaceX
+Waymo
+Rivian
