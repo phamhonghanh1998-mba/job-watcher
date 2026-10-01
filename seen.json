@@ -3196,7 +3196,8 @@
   "5254434007",
   "5254448007",
   "5254684007",
-  "5254808007"
+  "5254808007",
+  "5254831007"
  ],
  "Anthropic": [
   "4017331008",
@@ -4645,6 +4646,7 @@
   "5427669008",
   "5427717008",
   "5427741008",
+  "5427789008",
   "5427880008",
   "5428275008",
   "5428281008",
@@ -4668,6 +4670,7 @@
   "5435418008",
   "5438117008",
   "5439140008",
+  "5440102008",
   "5440325008"
  ],
  "Blue Origin": [
@@ -4909,6 +4912,7 @@
   "8237828",
   "8240348",
   "8240436",
+  "8241313",
   "8245697"
  ],
  "Brex": [
@@ -5252,6 +5256,7 @@
   "/job/CA---Garden-Grove/Pharmacy-Intern_R1029753",
   "/job/CA---Hacienda-Heights/Pharmacy-Intern_R0982066",
   "/job/CA---Oceanside/Pharmacy-Intern_R0998205",
+  "/job/CA---Pasadena/Pharmacy-Intern_R0982060",
   "/job/CA---Rancho-Bernardo/Pharmacy-Intern_R0998423",
   "/job/CA---South-Lake-Tahoe/Pharmacy-Intern_R0998425",
   "/job/CA---Upland/Pharmacy-Intern_R1024474-1",
@@ -5591,6 +5596,7 @@
   "/job/McLean-VA/Full-stack-Engineer-4--Manager--IC---AWS--JavaScript--Python-_R1002173-1",
   "/job/McLean-VA/Full-stack-Engineer-4--Manager--IC---Python--JavaScript-TypeScript-_R1002597-1",
   "/job/McLean-VA/Full-stack-Engineer-4--Manager--IC-_R1001214-1",
+  "/job/McLean-VA/Full-stack-Engineer-4--Manager--IC-_R1002565-1",
   "/job/McLean-VA/Full-stack-Engineer-4--Manager--IC-_R1002776",
   "/job/McLean-VA/Full-stack-Engineer-4--Node--TypeScript--AWS-_R1002012-1",
   "/job/McLean-VA/Full-stack-Engineer-4--Python--AWS-_R1001336-2",
@@ -9006,6 +9012,7 @@
   "/job/Queretaro/Engineer-2---Integrated-Manufacturing-Engineer-for-Configurations-Hardware_R5040906-1",
   "/job/Queretaro/Intern-for-Mechanical-design_R5040904-1",
   "/job/Queretaro/SW-Tool-Integration-and-Development-Intern_R5037909-1",
+  "/job/Queretaro/Security-Intern_R5040750",
   "/job/Queretaro/Variable-Geometries-Mechanical-Designer_R5037605-1",
   "/job/Remote/Lead-Finance-Specialist--Insurance---Remote-US_R5040629-1",
   "/job/Remote/Private-Markets-Leader_R5038385",
@@ -9402,6 +9409,7 @@
   "/job/Bengaluru-Karntaka-India/Supply-Chain---Inventory-Compliance-Analyst_1210634-1",
   "/job/Berkeley-Heights-New-Jersey-United-States-of-America/Business-Analytics-Transformation---Operations-Manager_1210809-2",
   "/job/Bratislava-22-Bratislavsk-kraj-Slovakia/Automation-Intern_1213207",
+  "/job/Ft-Collins-Colorado-United-States-of-America/Senior-Inbound-Product-Manager---VME-Morpheus_1201560-3",
   "/job/Ft-Collins-Colorado-United-States-of-America/Technical-Product-Manager----Kubernetes-and-Containers_1201563",
   "/job/Herzliya-Israel/Backend-Intern_1211019-1",
   "/job/Herzliya-Israel/Backend-Intern_1211020-1",
@@ -9432,7 +9440,9 @@
   "/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625",
   "/job/Spring-Texas-United-States-of-America/VLSI-Engineer-Intern_1213422",
   "/job/Sunnyvale-California-United-States-of-America/DevOps-Engineer--Sunnyvale--CA-_1213659-2",
-  "/job/Sunnyvale-California-United-States-of-America/Senior-Product-Manager_1197600-2"
+  "/job/Sunnyvale-California-United-States-of-America/Senior-Product-Manager_1197600-2",
+  "/job/Wroclaw-Lower-Silesian-Poland/Intern_1215169",
+  "/job/Wroclaw-Lower-Silesian-Poland/Intern_1215173"
  ],
  "Hewlett Packard Enterprise (2)": [
   "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-3",
@@ -9459,6 +9469,7 @@
   "/job/Herzliya-Israel/Backend-Intern_1211020",
   "/job/Herzliya-Israel/Product-Owner---Part-Time-Intern_1211007-2",
   "/job/Houston-Texas-United-States-of-America/Security-and-Managment-Category-Manager_1208766",
+  "/job/Kuala-Lumpur-Selangor-Malaysia/HPEFS-Adoption-Manage---APJ_1212418",
   "/job/Leixlip-Kildare-Ireland/Financial-Analyst_1005887-1",
   "/job/Leixlip-Kildare-Ireland/Regulatory-Reporting-Team-Lead_1005890-1",
   "/job/Leixlip-Kildare-Ireland/Tax-Compliance-Analyst_1005891-1",
@@ -11525,6 +11536,7 @@
   "8015032",
   "8018310",
   "8018533",
+  "8021037",
   "8021682",
   "8022139",
   "8022189",
@@ -13981,6 +13993,7 @@
   "/job/US-AZ-TUCSON-M05--1151-E-Hermans-Rd--BLDG-M05-External-Site/Cybersecurity-Analyst--Onsite-_01877614",
   "/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineer-II---Onsite-_01876947",
   "/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-I--Onsite-_01872084",
+  "/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-Intern--Summer-2027-_01873571",
   "/job/US-AZ-TUCSON-M13--3601-E-Britannia-Dr--BRITANNIA-M13/Material-Program-Manger_01879088",
   "/job/US-CA-CARLSBAD-5940--5940-Darwin-Ct--DARWIN/Principal-Manufacturing-Readiness-Lead---Ceramic-Matrix-Composites--Onsite-_01878397",
   "/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Advanced-System-Program-Quality-Lead_01879411",
@@ -14013,6 +14026,7 @@
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/XMLNAME-2027-Summer-Intern--Systems-Engineering--Onsite-_01872108",
   "/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Intern--Commercial-Engines-Production-Chief-Organization--Summer-2027-_01879223",
   "/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/PW4000-112--Program-Manager--Onsite-_01878518-1",
+  "/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Program-Quality-Manager--Mature-Commercial-Engines--Onsite-_01879569",
   "/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/XMLNAME-24K-Customer-Technical-Service-Engineering-Intern--Summer-2027--Onsite-_01875003",
   "/job/US-CT-EAST-HARTFORD-RTRC-A--411-Silver-Ln--RTRC-A/Information-System-Security-Officer--ISSO-_01877478-1",
   "/job/US-CT-EAST-HARTFORD-RTRC-L--411-Silver-Ln--RTRC-L/Senior-Researcher--Photonics---Optics_01877688",
@@ -14023,6 +14037,7 @@
   "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/NDT-Inspector---2nd-Shift---Onsite-_01873005-1",
   "/job/US-CT-REMOTE/Digital-Technology---MES-Functional-Analyst--Remote-_01878977",
   "/job/US-CT-REMOTE/Digital-Technology-Vendor-Management-Co-op--REMOTE-_01878154",
+  "/job/US-CT-REMOTE/Manager--Business-and-Program-Management_01878909-1",
   "/job/US-CT-REMOTE/Mgr-Bus-Sys-and-Transformation---ERP-Procurement_01879385",
   "/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Manager--TINA-Coordination--Hybrid-_01857214",
   "/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Principal-Project-Engineer--Hybrid-_01874731",
@@ -14097,6 +14112,7 @@
   "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Developer-Engineer-II--Onsite-_01878953",
   "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-II--Onsite-_01879240",
   "/job/US-KY-LOUISVILLE-102--6201-Strawberry-Ln--STRAWBERRY/International-Program-Manager_01868840",
+  "/job/US-KY-LOUISVILLE-500--1001-Cheri-Wy--BLDG-500-Ste-300-400-500/Program-Integrator_01878378",
   "/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Principal-Specialist--Project-Management--Risk-and-Opportunity-Manager-_01868512",
   "/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Procurement-Analyst--Hybrid-_01877989",
   "/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Operations-Engineering-Intern--Summer-2027-_01879152",
@@ -14153,6 +14169,7 @@
   "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/F135-Supply-Chain-CONUS-Warehousing--Manager----On-site-_01874105",
   "/job/US-OR-WILSONVILLE-594--27300-SW-Parkway-Ave--BLDG-594/Shipping-Specialist-II---1st-Shift_01879156",
   "/job/US-PA-MIDDLETOWN-181--181-Fulling-Mill-Rd--FULLING-MILL/Digitial-Technology-Site-Lead---Middletown-PA--Onsite-_01878644",
+  "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Compression-Systems-Engineer-Co-Op---Structures-Engineering--January-2027---Hybrid-_01876176",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Data-Analyst-II--Hybrid---Aguadilla--PR-_01841221",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Project-Engineer-Co-Op---Hot-Section-Engineering-Project--Spring-2027---Hybrid-_01877168",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Senior-Engineer--Safety-Risk-Analyst--Hybrid-_01876408",
@@ -15086,6 +15103,7 @@
   "/job/New-York---New-York/Senior-Director--BVS--Customer-Financial-Officer_JR362043-1",
   "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Financial-Services-_JR362508-1",
   "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1",
+  "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant_JR362509-1",
   "/job/Ontario---Remote/Account-Executive---Data--Canadian-Federal-Government-_JR362215",
   "/job/Ontario---Remote/Named-Account-Executive---Public-Sector_JR357687-1",
   "/job/Ontario---Remote/Senior-Technical-Architect_JR362435-1",
@@ -16138,6 +16156,7 @@
   "e53e9cae-fe25-461a-8c75-fb752d01e746",
   "e5806abe-d416-4dae-b086-88a519a4bc62",
   "e596a7db-1eea-4fc9-afc8-e495add1a116",
+  "e65f2ee8-c5a8-48bc-aca7-513fa99d6aef",
   "e6e81afb-2b0f-48ad-8457-fb7ba213f289",
   "e72df92e-951f-4c64-8016-1def8cf7e05d",
   "e76a4cac-b516-45cb-8adc-769424194a0a",
@@ -16237,7 +16256,8 @@
   "8008778003",
   "8008814003",
   "8010590003",
-  "8010637003"
+  "8010637003",
+  "8011008003"
  ],
  "SpaceX": [
   "8377056002",
@@ -18895,7 +18915,8 @@
   "8859695002",
   "8860328002",
   "8860556002",
-  "8860711002"
+  "8860711002",
+  "8861751002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -20501,6 +20522,7 @@
   "/job/US---Austin-TX/Staff-SW-Engineer--Software-Engineering--Consultant---Manager_REF088719W",
   "/job/US---Austin-TX/Staff-SW-Engineer_REF088495W",
   "/job/US---Bellevue-WA/Senior-Software-Engineer_REF082667W-1",
+  "/job/US---Bellevue-WA/XMLNAME--Staff-SW-Engineer_REF084837W-1",
   "/job/US---Foster-City-CA/Analyst--Treasury_REF087913W",
   "/job/US---Foster-City-CA/Data-Engineer---Sr-Consultant-level_REF088760W",
   "/job/US---Foster-City-CA/Director-of-Engineering--Visa-Corporate-Facilities--Building-Systems---Controls_REF087573W",
@@ -20524,7 +20546,8 @@
   "/job/UZ---Tashkent-Uzbekistan/Sr-Acceptance-Manager_REF087023W"
  ],
  "Walmart": [
-  "3743990015832536"
+  "3743990015832536",
+  "3743990015846466"
  ],
  "Wayfair": [],
  "Waymo": [
@@ -20891,7 +20914,8 @@
   "8240198",
   "8240632",
   "8241745",
-  "8243556"
+  "8243556",
+  "8243889"
  ],
  "Workday": [
   "/job/Costa-Rica/Technical-Support-Delivery-Intern_JR-0110629-1",
