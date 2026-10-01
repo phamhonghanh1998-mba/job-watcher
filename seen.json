@@ -569,7 +569,8 @@
   "8243975",
   "8244229",
   "8245193",
-  "8247007"
+  "8247007",
+  "8247303"
  ],
  "Airtable": [
   "8403107002",
@@ -2693,6 +2694,7 @@
   "5238113007",
   "5238141007",
   "5238152007",
+  "5238154007",
   "5238203007",
   "5238221007",
   "5238245007",
@@ -3849,7 +3851,8 @@
   "5440122008",
   "5440427008",
   "5440799008",
-  "5440812008"
+  "5440812008",
+  "5441387008"
  ],
  "Applied Materials": [
   "00eaa332-f855-4963-886c-909ac78bce6d",
@@ -9498,6 +9501,7 @@
  "Home Depot": [
   "/job/CUMBERLAND-PKWY-OFFICE---1147/Corporate-Counsel--Supply-Chain-and-International_Req183305",
   "/job/CUMBERLAND-PKWY-OFFICE---1147/Legal-Specialist---International-Corporate_Req182142",
+  "/job/CUMBERLAND-PKWY-OFFICE---1147/MANAGER-RISK-MGMT_Req194641",
   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Director--Finance_Req194765",
   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Director-Finance---Global-FP-A_Req193309",
   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Finance-Manager---Credit-Services_Req186594",
@@ -10169,7 +10173,9 @@
  "Mastercard": [
   "/job/Abidjan-Cote-divoire/Senior-Managing-Consultant--Business-Development--Services--Francophone-Africa_R-289538",
   "/job/Almaty-Kazakhstan/Director--Business-Development---MC-Move-products-and-solutions_R-288711",
+  "/job/Arlington-Virginia/Senior-Software-Engineer_R-292388",
   "/job/Arlington-Virginia/Software-Engineer-II_R-291095",
+  "/job/Arlington-Virginia/Specialist--Product-Management_R-291788",
   "/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-2",
   "/job/Besiktas-Istanbul-Turkey/Associate-Consultant-Intern--Summer-Internship-Program---2027--Istanbul--Trkiye_R-287590-2",
   "/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Summer-Internship-Program---2027--Istanbul--Trkiye_R-292561-2",
@@ -13960,6 +13966,7 @@
   "/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Principal-Systems-Engineer---Airborne-Platforms--Onsite-_01878047",
   "/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Developer-Engineer-I--Onsite-_01878887",
   "/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Developer-Engineer-II---Onsite-_01878955",
+  "/job/US-AZ-PHOENIX-3414-B1--3414-S-5th-St--BLDG-1/Manager--Supply-Chain-Management--Onsite-_01854107",
   "/job/US-AZ-REMOTE/Program-Manager--Airports-Programs--Americas---Remote-_01877923",
   "/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Air-Dominance-Yield-Improvement-Lead_01878970",
   "/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Industrial-Engineer-Section-Manager-M5_01878072",
@@ -14177,6 +14184,7 @@
   "/job/US-OH-TROY-101--101-Waco-St--WACO/Associate-Director--SIOP---Materials-Management-Landing-Systems--Onsite-_01876895",
   "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Engineer-I--Associate-Production-Engineer_01866626",
   "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/F135-Supply-Chain-CONUS-Warehousing--Manager----On-site-_01874105",
+  "/job/US-OK-TINKER-AFB-CUST--3001-Staff-Dr--TINKER-AFB-External-Site/Engineer-I--Associate-Production-Engineer_01877310",
   "/job/US-OR-WILSONVILLE-594--27300-SW-Parkway-Ave--BLDG-594/Shipping-Specialist-II---1st-Shift_01879156",
   "/job/US-PA-MIDDLETOWN-181--181-Fulling-Mill-Rd--FULLING-MILL/Digitial-Technology-Site-Lead---Middletown-PA--Onsite-_01878644",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Aerothermal-Engineer-Co-Op--January-2027---Hybrid-_01874136",
@@ -14187,16 +14195,20 @@
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Compression-Systems-Engineer-Co-Op---Structures-Engineering--January-2027---Hybrid-_01876176",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Control-Diagnostic-System-Co-Op--January-2027---Hybrid-_01872887",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Data-Analyst-II--Hybrid---Aguadilla--PR-_01841221",
+  "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Electrical-Engineer-COOP--RF-and-Digital-Design---January-2027---Hybrid-_01874113",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Engine-Design---Systems-Integration-Co-Op--January-2027---Hybrid-_01873689",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Engineering-Support-to-Operations----Project-Engineer-Co-Op--January-2027---Hybrid-_01872839",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Engineering-Support-to-Operations---Project-Engineering-Co-Op--January-2027---Hybrid-_01873703",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Product-Safety--Certification--and-Validation-Engineering---Co-Op--January-2027---Hybrid-_01873772",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Project-Engineer-Co-Op---Hot-Section-Engineering-Project--Spring-2027---Hybrid-_01877168",
+  "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Project-Engineering-Co-Op--January-2027---Hybrid-_01873477",
+  "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Reliability-Engineering-Co-Op--January-2027---Hybrid-_01873496",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Senior-Engineer--Safety-Risk-Analyst--Hybrid-_01876408",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineer-I--Hybrid---Aguadilla--PR-_01870496",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Software-Engineering-Co-Op--January-2027---Hybrid-_01874122",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Structural-Engineering-Co-Op--January-2027---Hybrid-_01873425",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Structural-Engineering-Co-Op--January-2027---Hybrid-_01875839",
+  "/job/US-PR-REMOTE/Staff-Coordinator--Remote---Puerto-Rico-_01876270",
   "/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Digital-Operations-Software-Developer--Puerto-Rico---Hybrid-_01870997",
   "/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Manufacturing-Engineer-I--Onsite---Puerto-Rico-_01879304",
   "/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Manufacturing-Operations-Supervisor-Fourth-Shift--Onsite---Puerto-Rico-_01861776",
@@ -15738,7 +15750,8 @@
   "744000153020371",
   "744000153030369",
   "744000153033989",
-  "744000153034225"
+  "744000153034225",
+  "744000153036467"
  ],
  "Smartsheet": [
   "3426405",
@@ -18946,7 +18959,8 @@
   "8861751002",
   "8861764002",
   "8861767002",
-  "8861768002"
+  "8861768002",
+  "8861806002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
