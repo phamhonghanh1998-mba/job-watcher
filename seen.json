@@ -3201,7 +3201,8 @@
   "5254448007",
   "5254684007",
   "5254808007",
-  "5254831007"
+  "5254831007",
+  "5255041007"
  ],
  "Anthropic": [
   "4017331008",
@@ -4699,6 +4700,8 @@
   "/job/Greater-Seattle-Area/Principal-Supply-Chain-Project-Manager---Terawave_R64356",
   "/job/Greater-Seattle-Area/Project-Manger-III---Additive-Manufacturing_R72476-1",
   "/job/Greater-Seattle-Area/Senior-Manager--Corporate-Business-Development---Strategic-Partnerships_R71466",
+  "/job/Greater-Seattle-Area/Senior-Technical-Product-Manager---TeraWave_R73296-1",
+  "/job/Greater-Seattle-Area/Senior-Technical-Product-Manager---User-Terminal_R73294",
   "/job/Greater-Seattle-Area/Senior-Technical-Program-Manager---Factory-Automation_R71982-1",
   "/job/Greater-Seattle-Area/Structural-Design-Engineer-II---New-Glenn_R68724",
   "/job/Greater-Seattle-Area/Technical-Product-Manager-III_R72753",
@@ -5332,6 +5335,7 @@
   "/job/Field-Ohio/Case-Management-Coordinator-OhioRISE--Field---West-Region_R1037775-1",
   "/job/GA---Atlanta/Meritain-Client-Service-Director_R0896254",
   "/job/GA---Columbus/Medical-Scribe_R1018033",
+  "/job/GA---East-Point/Medical-Scribe_R1061805",
   "/job/GA---Work-from-home/Minute-Clinic-Virtual-Care-Nurse-Practitioner---PRN_R1058881",
   "/job/HI---Kapolei/Distribution-Center-Shipping-Supervisor----Kapolei--HI-_R0990837",
   "/job/IA---Des-Moines/Outreach-Executive_R1061320",
@@ -9393,6 +9397,7 @@
   "8203030",
   "8204399",
   "8204403",
+  "8205075",
   "8205624",
   "8205628",
   "8205633",
@@ -10184,6 +10189,7 @@
   "8856992002",
   "8857353002",
   "8860284002",
+  "8860555002",
   "8860613002",
   "8860779002",
   "8860904002"
@@ -14020,6 +14026,7 @@
   "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Thermal-Engineer-I--Onsite-_01873508",
   "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Thermal-Engineer-II--Onsite-_01874738",
   "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-II--Onsite-_01866754",
+  "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Test-Engineer-I_01879609",
   "/job/US-AZ-TUCSON-807--1151-E-Hermans-Rd--BLDG-807/Assoc-Dir--Perf--Field-and-Flight-Test---PFFT-_01879052",
   "/job/US-AZ-TUCSON-807--1151-E-Hermans-Rd--BLDG-807/Program-Supplier-Quality-Engineer_01869557",
   "/job/US-AZ-TUCSON-807--1151-E-Hermans-Rd--BLDG-807/RAM-GMRP-Production-Program-Manager_01878972",
@@ -14234,6 +14241,7 @@
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Engine-Design---Systems-Integration-Co-Op--January-2027---Hybrid-_01873689",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Engineering-Support-to-Operations----Project-Engineer-Co-Op--January-2027---Hybrid-_01872839",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Engineering-Support-to-Operations---Project-Engineering-Co-Op--January-2027---Hybrid-_01873703",
+  "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/MCAD-Drafting-Services---Product-Definition-Co-Op--January-2027---Hybrid-_01873510",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Product-Safety--Certification--and-Validation-Engineering---Co-Op--January-2027---Hybrid-_01873772",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Project-Engineer-Co-Op---Hot-Section-Engineering-Project--Spring-2027---Hybrid-_01877168",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Project-Engineer-Co-Op--January-2027---Hybrid-_01873114",
@@ -14249,6 +14257,7 @@
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Structural-Engineer-Co-Op--Summer-Fall-2027---Hybrid-_01873846",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Structural-Engineering-Co-Op--January-2027---Hybrid-_01873425",
   "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Structural-Engineering-Co-Op--January-2027---Hybrid-_01875839",
+  "/job/US-PR-AGUADILLA-110--Rd-110-N-Km-288--RD110/Systems-Engineering-Co-Op--January-2027---Hybrid-_01879457",
   "/job/US-PR-REMOTE/Staff-Coordinator--Remote---Puerto-Rico-_01876270",
   "/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Digital-Operations-Software-Developer--Puerto-Rico---Hybrid-_01870997",
   "/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Manufacturing-Engineer-I--Onsite---Puerto-Rico-_01879304",
@@ -19002,7 +19011,11 @@
   "8861764002",
   "8861767002",
   "8861768002",
-  "8861806002"
+  "8861806002",
+  "8861900002",
+  "8861901002",
+  "8861902002",
+  "8861903002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -20636,7 +20649,8 @@
  "Walmart": [
   "3743990015832536",
   "3743990015846466",
-  "3743990015848216"
+  "3743990015848216",
+  "3743990015848826"
  ],
  "Wayfair": [],
  "Waymo": [
