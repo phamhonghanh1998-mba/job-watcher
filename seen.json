@@ -3093,7 +3093,12 @@
   "5253546007",
   "5253563007",
   "5253602007",
-  "5253759007"
+  "5253759007",
+  "5253766007",
+  "5253771007",
+  "5253774007",
+  "5253779007",
+  "5253788007"
  ],
  "Anthropic": [
   "4017331008",
@@ -3684,6 +3689,7 @@
   "5429202008",
   "5430205008",
   "5430222008",
+  "5430263008",
   "5430422008",
   "5430592008",
   "5430695008",
@@ -5985,6 +5991,7 @@
   "8237382",
   "8237801",
   "8238015",
+  "8238758",
   "8239834",
   "8239900",
   "8241822"
@@ -9837,6 +9844,7 @@
   "/job/USA---Pennsylvania---West-Point/Dir---Technical-Product-Management_R394449-1",
   "/job/USA---Pennsylvania---West-Point/Director-Principal-Scientist--Biologics-Drug-Substance-Commercialization--BDSC-_R415281-1",
   "/job/USA---Pennsylvania---West-Point/Post-Doc-Fellow-Immunogenicity-Prediction_R419989-1",
+  "/job/USA---Pennsylvania---West-Point/Senior-Scientist--Biology-Discovery--Neuroscience-Biomarkers--Mass-Spectrometry_R419564-1",
   "/job/USA---Pennsylvania---West-Point/Specialist--Quality-Control-Execution-Support--2nd-Shift-_R420012-1",
   "/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Discovery-Neuroscience---Co-op_R418834"
  ],
@@ -9861,10 +9869,12 @@
   "/job/Boise-ID---Main-Site/Photo-MDE-Principal-Lead-Engineer_JR106082",
   "/job/Boise-ID---Main-Site/SAP-Security-Leader-Architect_JR110490",
   "/job/Boise-ID---Main-Site/Senior---Staff-Probe-Card-Engineer_JR95673",
+  "/job/Boise-ID---Main-Site/Senior-Collaboration-Platform-Engineer--Zoom---Microsoft-365-_JR113381",
   "/job/Boise-ID---Main-Site/Senior-Financial-Analyst_JR113387",
   "/job/Boise-ID---Main-Site/Senior-Global-Energy-Procurement-and-Strategy-Manager_JR111236",
   "/job/Boise-ID---Main-Site/Senior-Layout-Designer---Pathfinding_JR105318",
   "/job/Boise-ID---Main-Site/Senior-Manager--AI-Enablement_JR87239",
+  "/job/Boise-ID---Main-Site/Sr-AV-Development-Engineer_JR113326-1",
   "/job/Boise-ID---Main-Site/Sr-Engineer--Photo-DRAM_JR105477",
   "/job/Boise-ID---Main-Site/Sr-Manager--AI-Platforms-Service-Management_JR101257",
   "/job/Boise-ID---Main-Site/Sr-Principal-NAND-Product-Planning---Strategy_JR109831",
@@ -9937,12 +9947,14 @@
   "/job/Taichung---Fab-16-Taiwan/INDIRECT-CATEGORY-SUPPLIER-MANAGER_JR110965",
   "/job/Taichung---Fab-16-Taiwan/MGR--PHOTO-DUV-PE_JR113661-1",
   "/job/Taichung---Fab-16-Taiwan/PDE-NPI-PWF-Process-Engineer_JR105575-1",
+  "/job/Taichung---Fab-16-Taiwan/_JR113986",
   "/job/Taichung---MTB-Taiwan/Engineer--MTB-Site-Planner_JR112483",
   "/job/Taichung---MTB-Taiwan/HBM-Manufacturing-Production-Engineer_JR112482",
   "/job/Taichung---MTB-Taiwan/HBM-Talent-Pool---Engineering--Manufacturing---Facilities--HBM--_JR98992",
   "/job/Tainan-Taiwan/AMHS-ENGINEER--TAINAN-_JR112846",
   "/job/Taipei---MTT-office-Taiwan/Sr-Principal--Corporate-Business-Development_JR110048",
   "/job/Taoyuan---Fab-11-Taiwan/OCT-CMP-Mfg-Alignment--MA--Engineer-Sr-Engineer_JR106341",
+  "/job/Tokyo-Japan/Director-Sales--Japan_JR66331",
   "/job/Vimercate-MB-Italy/Engineer--EDG-Verification_JR112981-1"
  ],
  "Mondelez": [
@@ -14030,6 +14042,7 @@
   "/job/California---Remote/Specialist-Solution-Engineer_JR350915",
   "/job/California---San-Francisco-Metro---Remote/GTM-Builder--Distinguished-SE_JR362294",
   "/job/California---San-Francisco/Business-Planning---Operations-Lead--Agentforce-Operations_JR358867-1",
+  "/job/California---San-Francisco/Chief-Revenue-Officer--Process-Transformation_JR362322-1",
   "/job/California---San-Francisco/Director-of-Software-Engineering--Data-_JR359867",
   "/job/California---San-Francisco/Engineering-Onboarding-Program-Manager_JR361635",
   "/job/California---San-Francisco/Named-Account-Executive--Non-Profit--Enterprise--West-Mountain-_JR361761",
