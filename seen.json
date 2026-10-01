@@ -528,7 +528,8 @@
   "8241573",
   "8242793",
   "8243710",
-  "8243975"
+  "8243975",
+  "8245193"
  ],
  "Airtable": [
   "8403107002",
@@ -3753,7 +3754,8 @@
   "5439499008",
   "5439804008",
   "5439830008",
-  "5439844008"
+  "5439844008",
+  "5440799008"
  ],
  "Applied Materials": [
   "00eaa332-f855-4963-886c-909ac78bce6d",
@@ -9747,6 +9749,7 @@
   "/job/Johannesburg-South-Africa/Manager--Legal-AML-Compliance_R-290676",
   "/job/Kuala-Lumpur-Malaysia/Manager--Cross-Border-Destination-Marketing--Southeast-Asia_R-288506",
   "/job/Kuala-Lumpur-Malaysia/Managing-Consultant--Advisors---Marketing_R-286749",
+  "/job/Kuala-Lumpur-Malaysia/Senior-Specialist--Implementation_R-289642",
   "/job/Lima-Peru/Senior-Analyst--Market-Delivery_R-289265",
   "/job/Lisbon-Portugal/Manager--Product-Development_R-281242",
   "/job/Lisbon-Portugal/Manager--Quota---Analytics_R-290537",
@@ -9952,6 +9955,7 @@
   "/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Discovery-Neuroscience---Co-op_R418834"
  ],
  "Micron": [
+  "/job/Arzano-NA-Italy/INTERN-mNAND-System-Architecture_JR111816",
   "/job/Avezzano-AQ-Italy/ENGINEER--DESIGN_JR103685",
   "/job/Bengaluru-India/Senior-Engineer---SSD-Validation_JR110541",
   "/job/Bengaluru-India/Senior-Manager---SSD-FIRMWARE_JR111253",
@@ -13062,6 +13066,7 @@
   "/job/Bengaluru-Millenia/IN-Senior-Associate-SAP-EWM-SAP-Advisory-Mumbai_722320WD",
   "/job/Bengaluru-Millenia/IN-Senior-Associate-SAP-GR-Enterprise-Apps-SAP-Advisory--Bangalore_758555WD-1",
   "/job/Bengaluru-Millenia/IN-Senior-Associate-SRE-DevOps-GCC-Advisory-Bangalore_735459WD-1",
+  "/job/Bengaluru-Millenia/IN-Sr-Associate-IT-Business-Analyst---Healthcare---Pharma-or-tech-GCC-Advisory-Bangalore_751839WD-1",
   "/job/Bilbao/PwC---Secretaria-o---Bilbao_765180WD",
   "/job/Bratislava/Junior-daov-konzultant---Junior-daov-konzultantka_752002WD",
   "/job/Bratislava/Senior-tovnk-tovnka---na-oddelen-manamentu-dan-a-tovnch-sluieb_763259WD-1",
@@ -13110,6 +13115,7 @@
   "/job/Montreal---1250-Rene-Levesque-Boulevard-Ouest/Delivering-Deal-Value-Manager_752520WD-1",
   "/job/Montreal/Manager--Internal-Audit--Regulatory-Compliance-and-Risk-Management--Bilingual-FR-EN-_759995WD",
   "/job/Mumbai-Goregaon/IN-Senior-Associate--SAP-CPI--SAP-Advisory-Gurgaon_732444WD",
+  "/job/Mumbai-Goregaon/IN-Senior-Manager-SAP-FICO-SAP-Advisory-Mumbai_749562WD-1",
   "/job/Mumbai-Goregaon/IN-Sr-Associate-IA-Managed-Services-Advisory-Bangalore_752627WD-1",
   "/job/Mumbai-Shivaji-Park/IN-Manager-SAP-MM-Enterprise-Apps-SAP-Advisory-Mumbai_748184WD-1",
   "/job/Mumbai-Shivaji-Park/IN-Senior-Associate-Core-Banking-FS-Tech-Advisory-Mumbai_758156WD-1",
@@ -13121,6 +13127,7 @@
   "/job/Murcia/PwC---Secretaria-o---Murcia_765196WD",
   "/job/Neuilly-sur-Seine/Consultant-IT-Service-Management---Paris---Sophia-Antipolis---CDI---H-F_669607WD",
   "/job/Neuilly-sur-Seine/Consultant-Manager-Actuariat---CDI---H-F_683848WD",
+  "/job/Noida/IN-Sr-Associate-SAP-ABAP---SAP---Advisory--PAN-INDIA_755342WD-1",
   "/job/Noida/IN-Sr-Associate-SAP-Opentext-Enterprise-Apps-SAP-Advisory-Kolkata_755634WD-1",
   "/job/Odense/Erfaren-revisor-PwC-Odense---din-faglige-og-personlige-udvikling-er-vigtig-for-os_762611WD",
   "/job/Piracicaba/Delivery-Center-Manager--Manager--DTS_764235WD",
@@ -13256,6 +13263,8 @@
   "/job/DE-SH-LUBECK-BLDG-1--Revalstr-1--BLDG-1/Master-Scheduler_01829833",
   "/job/DE-SH-LUBECK-BLDG-1--Revalstr-1--BLDG-1/Materialplaner---Disponent--m-w-d-_01866203",
   "/job/FR-OCC-COLOMIERS-008--30-Ave-Georges-Guynemer--GREEN-PARK-2-Parcel-33/Responsable-Des-Oprations_01873638",
+  "/job/GB-SAY-AYRSHIRE-001--1-Dow-Ave--ROHR-AERO-SRVCS/EHS---Facilities-Business-Leader_01866848",
+  "/job/IE-CO-CORK-001--Penrose-Wharf--PENROSE/Team-Lead--Airspace-Operations-Research_01861097",
   "/job/IN-KA-BENGALURU-BLDG-1--Hitech-Defence--Aerospace-Park--HI-TECH-DEFENSE/Manager-Audit---Controls_01856854",
   "/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Finance-Manager---Facilities-Vendor-Management_01874862-1",
   "/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/GTS-Block-Dispositioner_01844968",
