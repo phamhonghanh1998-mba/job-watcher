@@ -6717,6 +6717,7 @@
   "/job/Deer-Park-Illinois-United-States/Scientific-Global-Product-Leader--Advanced-Staining-Reagents_R1320116",
   "/job/Deer-Park-Illinois-United-States/Senior-Director--HRBP_R1317522-1",
   "/job/Denver-Colorado-United-States/Application-Support-Scientist_R1318606",
+  "/job/Dortmund-Germany/Field-Service-Engineer--d-f-m----Region-Cologne-Ruhrgebiet-Germany_R1319404",
   "/job/Dusseldorf-Germany/Clinical-Specialist--d-f-m-_R1320174-1",
   "/job/FRA---Remote/Senior-LER-Manager--France--Italy--Iberia-_R1319231-1",
   "/job/Hanover-Lower-Saxony-Germany/Clinical-Specialist---6-month-FTC--d-f-m-_R1320150-1",
@@ -9205,6 +9206,7 @@
   "/job/Basel/Praktikum-GMP-Compliance---Critical-Utilities--Basel--12-Monate-_202609-123773",
   "/job/Basel/Robotics-Technology-Deployment-Steward--Device--Packaging-and-Distribution-_202608-121683-1",
   "/job/Basel/Senior-Scientist-in-Process-Chemistry---Catalysis_202609-124542",
+  "/job/Basel/Student-Internship-in-Lab-Automation--Pharma-Research---Early-Development-_202609-124621",
   "/job/Berlin/Senior-Regulatory-Affairs-Manager--m-w-d-_202608-122320-2",
   "/job/Budapest/Automation-Business-Analyst_202609-124536",
   "/job/Budapest/Automation-Business-Partner_202609-124703",
@@ -10382,7 +10384,8 @@
   "/job/Taipei-Taiwan/Consultant--Advisors---Consulting-Services--Deploy_R-281464",
   "/job/Tokyo-Japan/Manager--Small-Business-Segment--Sales-Specialist--North-East-Asia_R-289284",
   "/job/Tokyo-Japan/Senior-Specialist-Marketing-Services---Advisors---Consulting-Services_R-291043",
-  "/job/Warsaw-Poland/Lead-Software-Engineer---Java_R-273155"
+  "/job/Warsaw-Poland/Lead-Software-Engineer---Java_R-273155",
+  "/job/Waterloo-Belgium/Manager--Customer-Onboarding-and-Partnership--Franchise_R-289033"
  ],
  "Medtronic": [
   "/job/Alajuela-Coyol-Alajuela-Costa-Rica/Intern--Graduate--Tech-_R78409-1",
@@ -13879,6 +13882,7 @@
   "/job/Bilbao/PwC---Secretaria-o---Bilbao_765180WD",
   "/job/Bratislava/Junior-daov-konzultant---Junior-daov-konzultantka_752002WD",
   "/job/Bratislava/Senior-tovnk-tovnka---na-oddelen-manamentu-dan-a-tovnch-sluieb_763259WD-1",
+  "/job/Bratislava/ServiceNow-Solution-Architect--m-f-_765611WD-2",
   "/job/Brussels/Field-Engineer_763103WD",
   "/job/Bucharest/Junior-Internal-Audit_750636WD",
   "/job/Buenos-Aires/Deals-Delivering-Deals-Value--Manager_758302WD-1",
@@ -13985,6 +13989,7 @@
   "/job/Roma---Largo-Fochetti-29/Advisory--Strategy--Aerospace-and-Defence---Manager_743609WD-1",
   "/job/Rome/Capital-Projects---Economics-Associate---ambito-Transportation--Logistics-and-Infrastructure---Junior-Consultant---Roma--ADV-_765289WD",
   "/job/Rome/Senior-Associate----M-A-Tax---Roma-----TAX-_622946WD",
+  "/job/Saint-Helier/Manager--Financial-Control_754913WD-6",
   "/job/Saint-Peter-Port/Manager--Financial-Control_754915WD-7",
   "/job/San-Jos/Asistente-de-Auditora_740203WD-2",
   "/job/Singapore/Capital-Markets-and-Accounting-Advisory-Services---Manager-Senior-Manager_637036WD",
@@ -21987,6 +21992,7 @@
   },
   "Genentech": {
    "/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516": "2026-10-02",
+   "/job/Basel/Student-Internship-in-Lab-Automation--Pharma-Research---Early-Development-_202609-124621": "2026-10-02",
    "/job/Panama/Operations---Audit-Intern_202606-116367": "2026-10-02"
   },
   "General Mills": {},
@@ -22534,6 +22540,7 @@
   },
   "Genentech": {
    "/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516": false,
+   "/job/Basel/Student-Internship-in-Lab-Automation--Pharma-Research---Early-Development-_202609-124621": false,
    "/job/Panama/Operations---Audit-Intern_202606-116367": false
   },
   "Guidehouse": {
