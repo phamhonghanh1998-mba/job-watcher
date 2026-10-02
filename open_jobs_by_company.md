@@ -1,6 +1,6 @@
 # Open matching jobs (406)
 
-Updated 2026-10-02 09:37 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-02 09:53 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -130,9 +130,9 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-04 | Accenture | [Digital transformation intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Digital-transformation-intern_R00354466) |  |
 | 2026-09-15 | Accenture | [Finance Transformation Analyst - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Finance-Transformation-Analyst---Intern_R00356849) |  |
 | 2026-09-02 (30+ days) | Accenture | [Financial Services - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago/Banking-and-Financial-Regulation-Intern_R00279783) |  |
+| 2026-09-25 | Accenture | [Health Technology Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Health---Public-Services-Technology-Internship_R00358078) |  |
 | 2026-09-02 (30+ days) | Accenture | [Industrial Design Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Eindhoven/Internship---Industrial-Design-IX_R00343384) |  |
 | 2026-09-17 | Accenture | [Internship - Management Consulting Intern -Song Services - As of February 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Internship---Management-Consulting-Intern--Song-Services---As-of-February-2027_R00357681) |  |
-| 2026-09-02 (30+ days) | Accenture | [Internship – Risk](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Internship---Risk_R00337862) |  |
 | 2026-09-14 | Accenture | [Talent Transformation Analyst - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Talent-Transformation-Analyst---Intern_R00356463) |  |
 | 2026-09-02 (30+ days) | Accenture | [Tech Intern - Accenture Customer Innovation Network](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Accenture-Customer-Innovation-Network---Innovation-Intern_R00279814) |  |
 | 2026-09-02 (30+ days) | Accenture | [Technology Consulting Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/Technology-Consulting-Internship_R00350278-1) |  |

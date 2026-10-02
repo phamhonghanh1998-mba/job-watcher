@@ -93,6 +93,7 @@
  "Accenture": [
   "/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/Technology-Strategy-Consultant---Emiratization---UAE-Talent-Development---Strategy---Consulting_R00329168",
   "/job/Ahmedabad/Technology-Delivery-Lead_ATCI-4779334-S1846395-1",
+  "/job/Amsterdam/Health---Public-Services-Technology-Internship_R00358078",
   "/job/Amsterdam/Internship---Risk_R00337862",
   "/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505",
   "/job/Assago-Via-del-Mulino-11a/Finance-Transformation-Analyst---Intern_R00356849",
@@ -11677,6 +11678,7 @@
   "8001886",
   "8001982",
   "8002576",
+  "8003027",
   "8007071",
   "8007078",
   "8007085",
@@ -11956,7 +11958,9 @@
   "8243989",
   "8243997",
   "8247059",
-  "8247721"
+  "8247721",
+  "8248800",
+  "8248830"
  ],
  "Oliver Wyman": [
   "/job/Atlanta---Northside/Client-Executive---Single-Parent-Captives_R_356704",
@@ -13824,6 +13828,7 @@
   "/job/Amsterdam/Technical-Information-Security-Analyst_764013WD-2",
   "/job/Argentina-AC-Olivos/Technology-Polaris-Admin---Specialist_762582WD-1",
   "/job/Athens/Deals-Financial-Due-Diligence-Manager_765751WD-1",
+  "/job/Athens/Deals-Fraud---Forensics-Senior-Manager_765803WD",
   "/job/Bangkok/Cyber-Security-Manager_566182WD",
   "/job/Barueri/XMLNAME---Associate--tag01-_760546WD-1",
   "/job/Bengaluru-Millenia/IN-Associate-SAP-Opentext-SAP-Advisory-Kolkata_757736WD-1",
@@ -13931,6 +13936,7 @@
   "/job/Murcia/PwC---Secretaria-o---Murcia_765196WD",
   "/job/Neuilly-sur-Seine/Consultant-IT-Service-Management---Paris---Sophia-Antipolis---CDI---H-F_669607WD",
   "/job/Neuilly-sur-Seine/Consultant-Manager-Actuariat---CDI---H-F_683848WD",
+  "/job/Neuilly-sur-Seine/Manager---Senior-Manager-Transformation-mtier---SI---F-H_765170WD",
   "/job/Noida/IN-Sr-Associate-SAP-ABAP---SAP---Advisory--PAN-INDIA_755342WD-1",
   "/job/Noida/IN-Sr-Associate-SAP-Opentext-Enterprise-Apps-SAP-Advisory-Kolkata_755634WD-1",
   "/job/Odense/Erfaren-revisor-PwC-Odense---din-faglige-og-personlige-udvikling-er-vigtig-for-os_762611WD",
@@ -21199,6 +21205,7 @@
   "8243556",
   "8243889",
   "8244452",
+  "8245284",
   "8248060"
  ],
  "Workday": [
@@ -21690,6 +21697,7 @@
    "/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Sales-Cancer-Diagnostics-Intern_31161558": "2026-10-02"
   },
   "Accenture": {
+   "/job/Amsterdam/Health---Public-Services-Technology-Internship_R00358078": "2026-10-02",
    "/job/Amsterdam/Internship---Risk_R00337862": "2026-10-02",
    "/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505": "2026-10-02",
    "/job/Assago-Via-del-Mulino-11a/Finance-Transformation-Analyst---Intern_R00356849": "2026-10-02",
@@ -22291,6 +22299,7 @@
    "/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Sales-Cancer-Diagnostics-Intern_31161558": false
   },
   "Accenture": {
+   "/job/Amsterdam/Health---Public-Services-Technology-Internship_R00358078": false,
    "/job/Amsterdam/Internship---Risk_R00337862": false,
    "/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505": false,
    "/job/Assago-Via-del-Mulino-11a/Finance-Transformation-Analyst---Intern_R00356849": false,
