@@ -691,6 +691,7 @@
   "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349",
   "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Process-Development--Summer-2027-_R-254519",
   "/job/US---California---Thousand-Oaks/Operations-Graduate-Program---Summer-2027-Internship_R-254659",
+  "/job/US---California---Thousand-Oaks/Sr-Manager--Value-Strategy---Marketing_R-255402",
   "/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Engineering--Summer-2027-_R-255335",
   "/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Process-Development--Summer-2027-_R-254516",
   "/job/US---Massachusetts---Cambridge/Undergrad-Intern---Operations---Cambridge--MA--Summer-2027-_R-254515",
@@ -3239,7 +3240,8 @@
   "5255560007",
   "5255572007",
   "5255593007",
-  "5255657007"
+  "5255657007",
+  "5255827007"
  ],
  "Anthropic": [
   "4017331008",
@@ -4376,6 +4378,7 @@
   "/job/Charlotte/Senior-Credit-Underwriter-Global-Wealth-and-Investment-Management_26034306",
   "/job/Charlotte/Treasury-Sales-Officer-I---Healthcare-Not-For-Profit---Higher-Education_26034397-2",
   "/job/Charlotte/Treasury-Sales-Officer-II----Global-Payment-Solutions---Healthcare-Not-For-Profit---Higher-Education_26035035-1",
+  "/job/Chevy-Chase/Private-Client-Advisor-II_26017458",
   "/job/Chicago/Merrill-Market-Client-Relationship-Manager_26023734-2",
   "/job/Chicago/Senior-Investment-Manager_26011135-1",
   "/job/Chicago/Treasury-Sales-Officer-II---Global-Payment-Solutions---Healthcare-and-Technology--HTSRA-_26027652",
@@ -4392,6 +4395,7 @@
   "/job/Los-Angeles/Business-Solutions-Advisor---Washington-Centinela-Financial-Center_26032384",
   "/job/Los-Angeles/Business-Solutions-Advisor---Westchester-Financial-Center_26029275",
   "/job/Los-Angeles/Credit-Officer-II---Registered---Global-Wealth---Investment-Banking---Securities-Based-Lending-Specialist---Los-Angeles_26031767",
+  "/job/McLean/Private-Client-Advisor-II_26017459",
   "/job/Millbrae/Business-Solutions-Advisor---Greater-San-Francisco-Market_26031960",
   "/job/Milwaukee/Relationship-Management-Development-Program---Global-Commercial-Banking--Milwaukee--WI-_26036128",
   "/job/Minneapolis/Merrill-Market-Supervision-Manager_26025614-2",
@@ -4661,6 +4665,7 @@
   "5408896008",
   "5410003008",
   "5411025008",
+  "5411218008",
   "5411596008",
   "5411800008",
   "5411804008",
@@ -4729,7 +4734,9 @@
   "5440102008",
   "5440325008",
   "5441177008",
-  "5441183008"
+  "5441183008",
+  "5442638008",
+  "5442639008"
  ],
  "Blue Origin": [
   "/job/Central-Texas/Director---Manufacturing--Ops---Assembly-Electric-Propulsion_R73101",
@@ -5450,6 +5457,7 @@
   "/job/IL---Work-from-home/Network-Configuration-Specialist_R0986630",
   "/job/IL---Work-from-home/Referral-Coordinator-I_R1060680",
   "/job/IL---Work-from-home/Sr-Analyst-Analytics--Revenue-Cycle-EPIC-Reporting-_R1026094",
+  "/job/IL---Work-from-home/Sr-Manager--Pricing-Strategy_R1014138",
   "/job/IL---Work-from-home/Utilization-Management-Nurse-Consultant_R0949345",
   "/job/IN---Hammond/Medical-Scribe_R1063148",
   "/job/IN---Indianapolis/Medical-Scribe_R1057912",
@@ -5541,9 +5549,11 @@
   "/job/PA---Monroeville/Insurance-Collections-Coordinator--Revenue-Cycle--Hybrid-_R1056264",
   "/job/PA---Philadelphia/Pharmacy-Intern_R1061477",
   "/job/PA---Pittsburgh/Pharmacy-Intern_R1063050",
+  "/job/PA---Pittsburgh/Pharmacy-Intern_R1064231",
   "/job/PA---Work-from-home/Analyst-Corp-Compliance_R1025350",
   "/job/PA---Work-from-home/FP-A-Analyst_R1055036",
   "/job/PA---Work-from-home/Health-Advocate--Call-Coordinator--Healthy-Outcomes-Team---Remote_R1044824-1",
+  "/job/PA---Work-from-home/Mgr--Business-Consultant_R0949157",
   "/job/PA---Work-from-home/Senior-Business-Analyst-Consultant_R1046310",
   "/job/PA---Work-from-home/Utilization-Management-Nurse-Consultant_R1030646-1",
   "/job/PA---Work-from-home/Utilization-Management-Nurse-Consultant_R1051066",
@@ -5706,6 +5716,7 @@
   "/job/London-Eng/Senior-Relationship-Management-and-Business-Development_R246507",
   "/job/McLean-VA/Business-Manager---CR-A--Credit-Enablement-and-Operations_R1002757",
   "/job/McLean-VA/Business-Manager---Card-Loss-Forecast-and-Allowance_R1002479-1",
+  "/job/McLean-VA/Business-Manager---Insights---Analytics---Community-Finance_R1002900-2",
   "/job/McLean-VA/Business-Manager---Strategy---Transformation--Model-Risk-_R1002581-1",
   "/job/McLean-VA/Business-Manager---US-Card_R248340-1",
   "/job/McLean-VA/Card-Vertical-Risk-Manager_R1002539-1",
@@ -5759,6 +5770,7 @@
   "/job/McLean-VA/Manager--Financial-Planning---Analysis---Card-Fraud_R1002134",
   "/job/McLean-VA/Manager--Full-stack-Engineer_R1002520-1",
   "/job/McLean-VA/Manager--Product-Management---IVR-Platform_R1002641-1",
+  "/job/McLean-VA/Manager--Product-Management---Prometheus-Financial-Core--PFC-_R246393-1",
   "/job/McLean-VA/Manager--Product-Management---Treasury-Management_R1002680-1",
   "/job/McLean-VA/Manager--Product-Manager--Global-Payment-Network_R1002460-2",
   "/job/McLean-VA/Manager--Product-Manager--Tech-Risk_R1002634-1",
@@ -6005,6 +6017,7 @@
   "8864214002"
  ],
  "Cisco": [
+  "/job/Amsterdam-Netherlands/Test-Chip-Administrator_2024574",
   "/job/Atlanta-Georgia-US/Director--Sales_2025501-1",
   "/job/Atlanta-Georgia-US/Director--Solutions-Engineer_2025498-1",
   "/job/Bangalore-India/Account-Executive---Splunk_2022871-1",
@@ -6516,7 +6529,8 @@
   "8243207",
   "8244876",
   "8245501",
-  "8247433"
+  "8247433",
+  "8248907"
  ],
  "Coca-Cola": [
   "/job/Brazil---Manus/Apprentice_R-146209",
@@ -7807,7 +7821,8 @@
   "8863326002",
   "8863328002",
   "8864285002",
-  "8864290002"
+  "8864290002",
+  "8864368002"
  ],
  "Datadog": [
   "1497543",
@@ -10881,6 +10896,7 @@
   "/job/Boise-ID---ID1/VP--Boise-FE-Manufacturing-Operations_JR113204",
   "/job/Boise-ID---Main-Site/Change-Management-Engineer_JR83658",
   "/job/Boise-ID---Main-Site/Device-Characterization-Engineer--Advanced---Emerging-Memory_JR109169",
+  "/job/Boise-ID---Main-Site/Diffusion-Equipment-Engineer_JR110894",
   "/job/Boise-ID---Main-Site/EUV-Equipment-Engineer_JR111999",
   "/job/Boise-ID---Main-Site/Engineer---HIG-HBM-PSE---Design-Validation_JR112996",
   "/job/Boise-ID---Main-Site/Global-Front-End--FE--Materials-Category-Supplier-Manager_JR114106",
@@ -12297,6 +12313,7 @@
   "/job/Calgary---3rd-Avenue-SW/Compensation-Consulting-Associate_R_363837-1",
   "/job/Calgary---3rd-Avenue-SW/Executive-Rewards-Senior-Associate---Project-Manager_R_363843-1",
   "/job/Chicago---155-Wacker/Investment-Research---Specialist--Fixed-Income_R_353214",
+  "/job/Chicago---155-Wacker/Senior-International-Consulting-Analyst--College-Program-2027_R_368383",
   "/job/Chicago---155-Wacker/Senior-Pharmacy-Benefits-Consultant_R_360777-1",
   "/job/Chicago---155-Wacker/Workforce-and-Rewards-Summer-Associate--MBA-or-Master-s-Track----Chicago---MBA-Program-2027_R_367574-1",
   "/job/Fort-Lauderdale---Corporate/Summer-Sales-Intern_R_324193",
@@ -12631,6 +12648,7 @@
   "5a682b9f-ef1a-4e47-813a-72b23414d43e",
   "5a9e68f6-30b5-40c0-aa8c-c822c59140d0",
   "5acf4854-1d42-40ca-bff8-4f6f04cdce68",
+  "5b334d54-fc7f-4de7-a37f-5c759c79beb6",
   "5b75027a-a5eb-4d28-a608-aa6bebcb079f",
   "5b85c0cc-3f19-4b96-9bd3-3b7521e54f44",
   "5b9cb831-673b-479d-a88a-dddf476b736f",
@@ -19608,6 +19626,8 @@
   "8860328002",
   "8860556002",
   "8860711002",
+  "8861009002",
+  "8861202002",
   "8861751002",
   "8861764002",
   "8861767002",
@@ -19622,6 +19642,7 @@
   "8861910002",
   "8861932002",
   "8862213002",
+  "8862389002",
   "8864282002",
   "8864340002"
  ],
@@ -20614,6 +20635,7 @@
   "/job/4760-State-Highway-121-LewisvilleTX-75056-2913/Assets-Protection-Team-Leader_R0000475345",
   "/job/500-Groton-Rd-WindsorCT-06095-1580/Senior-Engineering-and-Facilities-Maintenance-Manager---Food-Distribution-Center---Windsor--CT_R0000475983",
   "/job/660-N-Edwards-Blvd-Lake-Geneva-WI-53147-4595/Assets-Protection-Team-Leader---Lake-Geneva--WI_R0000475140",
+  "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Engineer---AI-Security_R0000440740",
   "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Admin-Tech-Guest-Portfolio_R0000476119",
   "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-HR-Manager---Target-Tech_R0000475867-1",
   "/job/8400-89th-Ave-NSte-410---TCPS-410-Brooklyn-ParkMN-55445-1872/Project-Planner-Target-Printing-Services_R0000475819",
@@ -21693,6 +21715,7 @@
   "8244827",
   "8245284",
   "8248060",
+  "8248270",
   "8248394"
  ],
  "Workday": [
@@ -21779,6 +21802,7 @@
   "/job/Remote-IND/Zoom-Phone-Porting-Specialist_R19693-1",
   "/job/San-Jose-CA/Audio-Software-Engineer_R19591",
   "/job/San-Jose-CA/Business-Systems-Analyst_R19596",
+  "/job/Seattle-WA/Staff-AI-Engineer_R18761-1",
   "/job/Singapore-SGP/Solutions-Engineer--Workvivo--APJ-_R19647-1",
   "/job/Tokyo-23-wards/Technical-Consultant_R19688-1",
   "/job/Tokyo-23-wards/Workplace-Coordinator--Customer-Engagement_R19649-1",
@@ -22272,7 +22296,8 @@
    "5153187007": "2026-10-02",
    "5153218007": "2026-10-02",
    "5236893007": "2026-10-02",
-   "5255593007": "2026-10-02"
+   "5255593007": "2026-10-02",
+   "5255827007": "2026-10-02"
   },
   "Anthropic": {},
   "Applied Materials": {
@@ -22347,6 +22372,7 @@
    "/job/NE---Lincoln/Pharmacy-Intern_R1063723": "2026-10-02",
    "/job/NE---Lincoln/Pharmacy-Intern_R1063759-1": "2026-10-02",
    "/job/NE---Omaha/Pharmacy-Intern_R1063739-1": "2026-10-02",
+   "/job/PA---Pittsburgh/Pharmacy-Intern_R1064231": "2026-10-02",
    "/job/TX---El-Paso/Pharmacy-Intern_R1063731": "2026-10-02",
    "/job/WI---Waukesha/Pharmacy-Intern_R1063240": "2026-10-02"
   },
@@ -22890,7 +22916,8 @@
    "5153187007": false,
    "5153218007": false,
    "5236893007": false,
-   "5255593007": false
+   "5255593007": false,
+   "5255827007": false
   },
   "Applied Materials": {
    "91e0686e-272a-4780-b33d-d7860b94a7b4": false,
@@ -22942,6 +22969,7 @@
    "/job/NE---Lincoln/Pharmacy-Intern_R1063723": false,
    "/job/NE---Lincoln/Pharmacy-Intern_R1063759-1": false,
    "/job/NE---Omaha/Pharmacy-Intern_R1063739-1": false,
+   "/job/PA---Pittsburgh/Pharmacy-Intern_R1064231": false,
    "/job/TX---El-Paso/Pharmacy-Intern_R1063731": false,
    "/job/WI---Waukesha/Pharmacy-Intern_R1063240": false
   },
