@@ -35,7 +35,7 @@ def src_greenhouse(c):
     r.raise_for_status()
     return [{"id": str(j["id"]), "title": j["title"],
              "location": (j.get("location") or {}).get("name", ""),
-             "url": j["absolute_url"],
+             "url": j["absolute_url"], "posted": j.get("first_published") or j.get("updated_at"),
              "description": text_of(html.unescape(j.get("content", "")))}
             for j in r.json().get("jobs", [])]
 
@@ -46,7 +46,7 @@ def src_lever(c):
     r.raise_for_status()
     return [{"id": j["id"], "title": j["text"],
              "location": (j.get("categories") or {}).get("location", ""),
-             "url": j["hostedUrl"],
+             "url": j["hostedUrl"], "posted": j.get("createdAt"),
              "description": j.get("descriptionPlain", "") + " " +
              " ".join(text_of(l.get("content", "")) for l in j.get("lists", []))}
             for j in r.json()]
@@ -57,7 +57,8 @@ def src_ashby(c):
                      headers=HEADERS, timeout=TIMEOUT)
     r.raise_for_status()
     return [{"id": j["id"], "title": j["title"], "location": j.get("location", ""),
-             "url": j["jobUrl"], "description": j.get("descriptionPlain", "")}
+             "url": j["jobUrl"], "description": j.get("descriptionPlain", ""),
+             "posted": j.get("publishedAt") or j.get("publishedDate")}
             for j in r.json().get("jobs", [])]
 
 
@@ -77,6 +78,7 @@ def src_workday(c):
             jobs.append({"id": j["externalPath"], "title": j["title"],
                          "location": j.get("locationsText", ""),
                          "url": f"https://{host}/en-US/{site}{j['externalPath']}",
+                         "posted": j.get("postedOn"),
                          "description": "", "_detail": f"{api}{j['externalPath']}"})
     return list({j["id"]: j for j in jobs}.values())
 
@@ -107,7 +109,7 @@ def src_amazon(c):
             jid = str(j.get("id_icims") or j.get("id") or path)
             jobs[jid] = {"id": jid, "title": j.get("title", ""),
                          "location": j.get("normalized_location") or j.get("location", ""),
-                         "url": "https://www.amazon.jobs" + path,
+                         "url": "https://www.amazon.jobs" + path, "posted": j.get("posted_date"),
                          "description": text_of(" ".join(j.get(k) or "" for k in (
                              "description", "basic_qualifications", "preferred_qualifications")))}
     return list(jobs.values())
@@ -125,6 +127,7 @@ def src_smartrecruiters(c):
                              "location": ", ".join(x for x in (loc.get("city"), loc.get("region"),
                                                                loc.get("country")) if x),
                              "url": f"https://jobs.smartrecruiters.com/{c['slug']}/{j['id']}",
+                             "posted": j.get("releasedDate"),
                              "description": "", "_sr": f"{base}/{j['id']}"}
     return list(jobs.values())
 
@@ -145,6 +148,7 @@ def src_eightfold(c):
                 jobs[jid] = {"id": jid, "title": j.get("name", ""),
                              "location": j.get("location", "") or "; ".join(j.get("locations") or []),
                              "url": j.get("canonicalPositionUrl") or f"https://{c['host']}/careers/job/{jid}",
+                             "posted": j.get("t_create"),
                              "description": text_of(j.get("job_description", "")),
                              "_ef": f"{api}/{jid}?domain={c['domain']}"}
             if len(positions) < 10:
@@ -184,6 +188,32 @@ def location_ok(loc):
     if not loc or has_any(loc, k.get("locations", [])) or US_STATE.search(loc):
         return True
     return not has_any(loc, k.get("exclude_locations", []))
+
+
+def parse_posted(v):
+    """Turn the many date formats job boards use into a date (or None)."""
+    from datetime import date, datetime, timedelta, timezone
+    today = datetime.now(timezone.utc).date()
+    if v is None or v == "":
+        return None
+    try:
+        if isinstance(v, (int, float)):  # epoch seconds or milliseconds
+            return datetime.fromtimestamp(v / 1000 if v > 1e11 else v, timezone.utc).date()
+        v = str(v).strip()
+        m = re.match(r"\d{4}-\d{2}-\d{2}", v)
+        if m:
+            return date.fromisoformat(m.group(0))
+        low = v.lower()  # Workday: "Posted Today", "Posted 3 Days Ago", "Posted 30+ Days Ago"
+        if "today" in low:
+            return today
+        if "yesterday" in low:
+            return today - timedelta(days=1)
+        m = re.search(r"(\d+)\+?\s*days?\s*ago", low)
+        if m:
+            return today - timedelta(days=int(m.group(1)))
+        return datetime.strptime(v, "%B %d, %Y").date()  # Amazon: "September 30, 2026"
+    except Exception:
+        return None
 
 
 def mba_in_title(title):
@@ -296,6 +326,7 @@ def main():
     min_score = CONFIG.get("min_fit_score", 0)
 
     all_matches = []
+    first_seen = seen.setdefault("_first_seen", {})
     with ThreadPoolExecutor(10) as ex:
         results = list(ex.map(fetch, all_companies()))
 
@@ -309,6 +340,12 @@ def main():
         first_run = name not in seen
         known = set(seen.get(name, []))
         matches = [j for j in jobs if title_matches(j["title"]) and location_ok(j["location"])]
+        today = time.strftime("%Y-%m-%d", time.gmtime())
+        fs = first_seen.setdefault(name, {})
+        for j in matches:
+            fs.setdefault(j["id"], today)
+            j["date"] = parse_posted(j.get("posted"))
+            j["first_seen"] = fs[j["id"]]
         all_matches += [(name, j) for j in matches]
         new = [j for j in matches if j["id"] not in known]
         print(f"  {len(jobs)} jobs, {len(matches)} match keywords, {len(new)} new")
@@ -331,22 +368,45 @@ def main():
     SEEN_FILE.write_text(json.dumps(seen, indent=1, sort_keys=True))
 
     # Always-current list of every open matching job, viewable in the repo
-    rows = sorted(all_matches, key=lambda x: (x[0].lower(), x[1]["title"].lower()))
-    mba = [r for r in rows if mba_in_title(r[1]["title"])]
-    other = [r for r in rows if not mba_in_title(r[1]["title"])]
+    rows = all_matches
+
+    def posted_label(j):
+        if j["date"]:
+            d = j["date"].isoformat()
+            return d + (" (30+ days)" if "30+" in str(j.get("posted", "")) else "")
+        return f"~{j['first_seen']} (first seen)"
+
+    def sort_key_date(r):
+        j = r[1]
+        # jobs with a real posted date first (newest on top); undated ones go to the bottom
+        d = j["date"].isoformat() if j["date"] else j["first_seen"]
+        return (1 if j["date"] else 0, d, r[0].lower())
+
+    by_company = lambda r: (r[0].lower(), r[1]["title"].lower())
+    by_date = lambda items: sorted(items, key=sort_key_date, reverse=True)
 
     def table(items):
-        return ["| Company | Role | Location |", "|---|---|---|"] + [
-            f"| {c} | [{j['title'].replace('|', '/')}]({j['url']}) | {j['location'].replace('|', '/')} |"
-            for c, j in items]
+        return ["| Posted | Company | Role | Location |", "|---|---|---|---|"] + [
+            f"| {posted_label(j)} | {c} | [{j['title'].replace('|', '/')}]({j['url']}) "
+            f"| {j['location'].replace('|', '/')} |" for c, j in items]
 
-    md = [f"# Open matching jobs ({len(rows)})", "",
-          f"Updated {time.strftime('%Y-%m-%d %H:%M UTC', time.gmtime())}.", "",
-          f"## MBA-level in the title ({len(mba)})", "", *table(mba), "",
-          f"## Other internships ({len(other)})", "",
-          "Title doesn't say MBA. Many are for undergrads; phone alerts for these are sent only "
-          "if the job description mentions an MBA.", "", *table(other)]
-    (ROOT / "open_jobs.md").write_text("\n".join(md) + "\n", encoding="utf-8")
+    def page(order_name, other_file, other_name, sorter):
+        mba = sorter([r for r in rows if mba_in_title(r[1]["title"])])
+        other = sorter([r for r in rows if not mba_in_title(r[1]["title"])])
+        return mba, ["# Open matching jobs (%d)" % len(rows), "",
+                f"Updated {time.strftime('%Y-%m-%d %H:%M UTC', time.gmtime())}. "
+                f"Sorted by **{order_name}**. Switch to [{other_name}]({other_file}).", "",
+                "*Posted* comes from the company's job board. \"~ (first seen)\" means the board gives no "
+                "date, so it shows when the tracker first saw the job.", "",
+                f"## MBA-level in the title ({len(mba)})", "", *table(mba), "",
+                f"## Other internships ({len(other)})", "",
+                "Title doesn't say MBA. Many are for undergrads; phone alerts for these are sent only "
+                "if the job description mentions an MBA.", "", *table(other)]
+
+    mba, md_date = page("date posted (newest first)", "open_jobs_by_company.md", "sort by company", by_date)
+    _, md_co = page("company name", "open_jobs.md", "sort by date posted", lambda x: sorted(x, key=by_company))
+    (ROOT / "open_jobs.md").write_text("\n".join(md_date) + "\n", encoding="utf-8")
+    (ROOT / "open_jobs_by_company.md").write_text("\n".join(md_co) + "\n", encoding="utf-8")
     print(f"\nTOTAL: {len(rows)} open matching jobs ({len(mba)} say MBA in the title) "
           f"across {len({c for c, _ in rows})} companies")
 
