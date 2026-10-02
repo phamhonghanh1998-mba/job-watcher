@@ -5276,7 +5276,12 @@
   "8859394002",
   "8860097002",
   "8860822002",
-  "8861245002"
+  "8861245002",
+  "8864170002",
+  "8864174002",
+  "8864176002",
+  "8864643002",
+  "8864648002"
  ],
  "Broadcom": [
   "/job/BGR-Sofia-Garitage-Park---Bldg-2/PD-engineer_R027051",
@@ -5378,6 +5383,7 @@
   "/job/CT---Hartford/Senior-Analyst--Business-Analytics_R1031446-1",
   "/job/CT---Hartford/Senior-Analyst--FP-A_R1053322-1",
   "/job/CT---Hartford/Senior-IT-Category-Manager_R1034593",
+  "/job/CT---Hartford/Senior-Manager--Workforce-Optimization--IC-_R1013700",
   "/job/CT---Hartford/Senior-Program-Manager---Healthcare-Business_R0998998",
   "/job/CT---Work-from-home/Medical-Director---Commercial_R0971392",
   "/job/CT---Work-from-home/Medical-Director---Medicaid-Appeals_R0969513-1",
@@ -5533,6 +5539,7 @@
   "/job/NY---New-York/Senior-Manager--Enterprise-Strategy_R0946307-1",
   "/job/NY---New-York/Senior-Product-Manager_R0983081",
   "/job/NY---New-York/Staff-Security-Engineer--Strategy---Operations_R1032401",
+  "/job/NY---Work-from-hom/Lead-Director-Digital-Product--Specialty-Care-and-Partnerships---Medical-Cost-Initiatives_R1063580",
   "/job/NY---Work-from-hom/Representative-II--Operations_R1061601",
   "/job/NY---Work-from-hom/Senior-Data-Scientist---Clinical-Informatics--Analytics-Enablement-_R1058602-1",
   "/job/OH---Cincinnati/Medical-Scribe_R1061166",
@@ -5851,6 +5858,7 @@
   "/job/New-York-NY/Full-stack-Engineer-4_R1002664",
   "/job/New-York-NY/Full-stack-Engineer-4_R1002785-1",
   "/job/New-York-NY/Full-stack-Engineer-5_R1002661-1",
+  "/job/New-York-NY/Principal-Associate--Project-Manager---Entertainment-Experiences_R1002780-1",
   "/job/New-York-NY/Principal-Auditor---Risk-Management_R1002347-1",
   "/job/New-York-NY/Senior-Associate--Product-Management---US-Card-Authentication-CX_R1002767-1",
   "/job/New-York-NY/Senior-Manager--Product-Management---Back-Office-Servicing-Experiences_R999224-1",
@@ -5971,6 +5979,7 @@
   "8564916002",
   "8569267002",
   "8569366002",
+  "8575541002",
   "8578967002",
   "8584950002",
   "8584952002",
@@ -6541,6 +6550,8 @@
   "8245501",
   "8245503",
   "8247433",
+  "8248635",
+  "8248873",
   "8248907"
  ],
  "Coca-Cola": [
@@ -6803,6 +6814,7 @@
   "8238576",
   "8238602",
   "8238630",
+  "8238716",
   "8239099",
   "8240375",
   "8241522",
@@ -9223,6 +9235,7 @@
  "GE Aerospace": [
   "/job/Bari/Fluidic-Components-Design-Engineer---Controls-Accessories_R5041049-2",
   "/job/Bari/Services-Technologies---ARDC---CAD-CAM-Specialist_R5041062-1",
+  "/job/Beavercreek/Senior-Customer-Support-Representative_R5039901-1",
   "/job/Bohemia/Staff-Engineer---Fluid-Systems_R5040811-1",
   "/job/Bristol/Mechanical-Design-Engineer---Mechatronics_R5040854-1",
   "/job/Clearwater/Lead-Manufacturing-Quality-Engineer_R5039639-1",
@@ -9362,6 +9375,7 @@
   "/job/Remote/Biomedical-Equipment-Technician-3_R4046912-1",
   "/job/Remote/Biomedical-Equipment-Technician-I_R4044975-1",
   "/job/Remote/Cardiac-PET-Senior-Account-Manager_R4046268-2",
+  "/job/Remote/Care-Area-Lead-Neurology_R4045838-1",
   "/job/Remote/Clinical-Application--Specialist---Digital-Implementation-Services_R4046959-1",
   "/job/Remote/Clinical-Applications-Specialist--Cardiovascular-Ultrasound_R4045617-1",
   "/job/Remote/Clinical-Applications-Specialist-Women-s-Health_R4045779-2",
@@ -10508,6 +10522,8 @@
   "8860861002",
   "8860904002",
   "8861939002",
+  "8862007002",
+  "8862215002",
   "8863276002"
  ],
  "Mastercard": [
@@ -11864,6 +11880,7 @@
   "8c7e45c0-85ad-485e-aa6d-4b440d2e0723",
   "8cb74a17-1685-4f92-8314-6ef6264b5085",
   "8ee34d10-ba59-44bb-b12c-0130e908810d",
+  "92de7ece-b7d9-4b2a-b9cb-b978cc690a46",
   "951a7b72-4cb3-4726-be5e-5359269d4929",
   "95800771-37a4-4226-b03f-d4fc6ea88f65",
   "98bb09a8-2fdf-4c12-84dd-8568553159d8",
@@ -12570,6 +12587,7 @@
   "3a64da1c-bf29-4e52-baa3-a8f35f16ff74",
   "3ab0541b-160b-49c0-8609-574db6358332",
   "3ac187b2-dd75-4acd-b285-51ae6e603dbd",
+  "3ae71c21-60dd-42b2-a913-58df05988976",
   "3b08148d-085e-4835-9934-1b7f60e0fdce",
   "3b2d32bd-2549-43d0-8dc2-8469bece5336",
   "3c07323e-04da-4fff-b925-a60294941040",
@@ -13078,6 +13096,7 @@
   "cf1e5c80-f42e-45ab-a937-2a4024b961e1",
   "cffa3a8d-918a-4e91-a1c6-3fa84a454408",
   "d085d2ec-0256-4ecf-b493-81ea34942e51",
+  "d089cc3e-e81e-42b7-be77-23bbc9d02431",
   "d1121575-a1a7-47c9-97e6-56c70f441143",
   "d1a10222-51ae-4fa4-9581-e4586917c024",
   "d1a1ab49-399f-42a4-b12c-bb7047b7cdd9",
@@ -14300,6 +14319,7 @@
   "/job/Milan/Strategy---Insurance-Strategy-Consultant---Associate---Milano_648558WD",
   "/job/Monterrey/Tax-Services---International-Tax---Senior-Associate_765344WD-1",
   "/job/Montreal---1250-Rene-Levesque-Boulevard-Ouest/Delivering-Deal-Value-Manager_752520WD-1",
+  "/job/Montreal/Information-Technology-Audit-Senior-Associate--Bilingual-FR-EN-_721982WD-4",
   "/job/Montreal/Manager--Internal-Audit--Regulatory-Compliance-and-Risk-Management--Bilingual-FR-EN-_759995WD",
   "/job/Mumbai-Goregaon/IN-Associate-SAP-BPC---SAC-SAP-Advisory-Mumbai_749306WD-1",
   "/job/Mumbai-Goregaon/IN-Manager-SAP-BPC-Enterprise-APP-SAP-Advisory-Mumbai_749586WD-2",
@@ -14505,6 +14525,7 @@
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Spcialiste-Qualit-de-la-Chane-d-Approvisionnement---Supply-Chain-Quality-Specialist_01878524",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Specialiste-ingnieurie---Contrats-de-financement-public---acadmique---Engineering-Specialist---Public-Funding---academic-Contracts_01877870",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage----Hiver-2027---Gestion-de-la-chane-d-approvisionnement---Internship---Winter-2027---Supply-Chain-Management_01878942",
+  "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Coordination-des-projets-de-recherche-collaboratifs-et-amelioration-du-processus-de-gestion-des-technologies---Internship---Winter-2027---Collaborative-Research-Projects-Coordination---Technology-Management-Process-Improvement_01868255",
   "/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage---Hiver-2027---Automatisation--Internship---Winter-2027---Automation_01864888",
   "/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Superviseur-des-oprations--quart-de-soir----Operations-Supervisor--Evening-Shift-_01868523",
   "/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Pilote-d-entreprise--commandant-e--de-bord---Corporate-Pilot--Captain_01849415-1",
@@ -14738,6 +14759,7 @@
   "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Developer-Engineer-I--Onsite-_01878881",
   "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Developer-Engineer-II--Onsite-_01878953",
   "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-II--Onsite-_01879240",
+  "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-I--2nd-Shift-_01878750",
   "/job/US-KY-LOUISVILLE-102--6201-Strawberry-Ln--STRAWBERRY/International-Program-Manager_01868840",
   "/job/US-KY-LOUISVILLE-500--1001-Cheri-Wy--BLDG-500-Ste-300-400-500/Program-Integrator_01878378",
   "/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Principal-Specialist--Project-Management--Risk-and-Opportunity-Manager-_01868512",
@@ -15196,7 +15218,8 @@
   "8244082",
   "8244090",
   "8247280",
-  "8249259"
+  "8249259",
+  "8249469"
  ],
  "Remitly": [
   "/job/Abu-Dhabi-United-Arab-Emirates/Lead-Auditor--UAE_R_106785",
@@ -15740,6 +15763,7 @@
   "/job/California---San-Francisco/Sr-Director-of-Product-Management--Data-360_JR361847",
   "/job/California---San-Francisco/Sr-Manager--Enterprise-Technical-Resilience_JR360074",
   "/job/California---San-Francisco/Sr-Product-Manager--Customer-Health-Platform_JR342997",
+  "/job/California---San-Francisco/Summer-2027-Intern---Product-GTM-Strategy_JR362217-1",
   "/job/California---San-Francisco/Technical-Architect--Pre-Sales----All-Levels_JR321042",
   "/job/Canada---Toronto/Technical-Architect-Director---PubSec---Mulesoft-Canada_JR362275",
   "/job/Canada---Vancouver/Small--Medium--and-Growth-Business---Account-Executive---Vancouver--Office-Based-_JR274505",
@@ -17426,12 +17450,14 @@
   "8555812002",
   "8556909002",
   "8557015002",
+  "8557038002",
   "8557060002",
   "8557073002",
   "8557093002",
   "8557110002",
   "8557126002",
   "8557138002",
+  "8557208002",
   "8557219002",
   "8557252002",
   "8557262002",
@@ -22724,6 +22750,7 @@
    "8193457": "2026-10-02"
   },
   "RTX": {
+   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Coordination-des-projets-de-recherche-collaboratifs-et-amelioration-du-processus-de-gestion-des-technologies---Internship---Winter-2027---Collaborative-Research-Projects-Coordination---Technology-Management-Process-Improvement_01868255": "2026-10-02",
    "/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage---Hiver-2027---Automatisation--Internship---Winter-2027---Automation_01864888": "2026-10-02",
    "/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Systems-Security-Engineering-Intern--Summer-2027-_01874755": "2026-10-02",
    "/job/US-CT-EAST-GRANBY-200--200-Signature-Way--OFFICE/Aircraft-Operations-Aviation-Intern--Summer-2027-_01877881": "2026-10-02",
@@ -22771,6 +22798,7 @@
    "/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2": "2026-10-02"
   },
   "Salesforce": {
+   "/job/California---San-Francisco/Summer-2027-Intern---Product-GTM-Strategy_JR362217-1": "2026-10-02",
    "/job/Indiana---Indianapolis/Summer-2027-Intern---Finance-Operations-Associate_JR359638-2": "2026-10-02",
    "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Financial-Services-_JR362508-1": "2026-10-02",
    "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1": "2026-10-02",
@@ -23243,6 +23271,7 @@
    "8193457": false
   },
   "RTX": {
+   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Coordination-des-projets-de-recherche-collaboratifs-et-amelioration-du-processus-de-gestion-des-technologies---Internship---Winter-2027---Collaborative-Research-Projects-Coordination---Technology-Management-Process-Improvement_01868255": false,
    "/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage---Hiver-2027---Automatisation--Internship---Winter-2027---Automation_01864888": false,
    "/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Systems-Security-Engineering-Intern--Summer-2027-_01874755": false,
    "/job/US-CT-EAST-GRANBY-200--200-Signature-Way--OFFICE/Aircraft-Operations-Aviation-Intern--Summer-2027-_01877881": false,
@@ -23288,6 +23317,7 @@
    "/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2": false
   },
   "Salesforce": {
+   "/job/California---San-Francisco/Summer-2027-Intern---Product-GTM-Strategy_JR362217-1": false,
    "/job/Indiana---Indianapolis/Summer-2027-Intern---Finance-Operations-Associate_JR359638-2": false
   },
   "Samsara": {
