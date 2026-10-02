@@ -1,0 +1,11 @@
+name: test-alert
+on:
+  workflow_dispatch:
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send a test notification to your phone
+        run: |
+          if [ -z "${{ secrets.NTFY_TOPIC }}" ]; then echo "NTFY_TOPIC secret is EMPTY or missing"; exit 1; fi
+          curl -sf -H "Title: job-watcher test" -d "If you see this, alerts from GitHub work." "https://ntfy.sh/${{ secrets.NTFY_TOPIC }}" && echo "Sent OK"
