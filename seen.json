@@ -465,6 +465,7 @@
   "8074897",
   "8075714",
   "8077683",
+  "8079378",
   "8080625",
   "8080626",
   "8080766",
@@ -3529,6 +3530,7 @@
   "5375371008",
   "5375376008",
   "5378092008",
+  "5379140008",
   "5379593008",
   "5379806008",
   "5380327008",
@@ -3863,7 +3865,9 @@
   "5440427008",
   "5440799008",
   "5440812008",
-  "5441387008"
+  "5440817008",
+  "5441387008",
+  "5442051008"
  ],
  "Applied Materials": [
   "00eaa332-f855-4963-886c-909ac78bce6d",
@@ -5416,6 +5420,7 @@
   "/job/Medical-Director--Medical-Affairs_R1044033",
   "/job/NC---Chapel-Hill/Pharmacy-Intern_R1061478",
   "/job/NC---Work-from-home/A1A-Case-Manager-RN---Registered-Nurse---NC_R1036948",
+  "/job/NC---Work-from-home/Senior-Manager--Application-Development--Java--APIs--Microservices--AWS--AI-_R1048237",
   "/job/NJ---Work-from-home/Senior-Software-Development-Engineer_R1055430",
   "/job/NM---Roswell/Store-Associate-Rx_R1060413",
   "/job/NV---Las-Vegas/Fulfillment-Packaging-Assistant--Part-Time-_R1029991",
@@ -5437,6 +5442,7 @@
   "/job/OH---Cincinnati/Medical-Scribe_R1061166",
   "/job/OH---Dayton/Medical-Scribe_R1059595",
   "/job/OH---Dayton/Nurse-Practitioner_R0876061",
+  "/job/OH---Kent/Licensed-Practical-Nurse--LPN-_R0962664",
   "/job/OH---Work-from-hom/Accounts-Payable-Manager---Omnicare_R1061148-1",
   "/job/OH---Work-from-hom/Care-Management-Associate---OhioRISE---Must-reside-in-Ohio_R1046726-1",
   "/job/OH---Work-from-hom/Care-Management-Associate---OhioRISE---Must-reside-in-Ohio_R1046788-1",
@@ -5608,6 +5614,7 @@
   "/job/Chicago-IL/Senior-Manager--Full-stack-Engineer_R1002408-1",
   "/job/Glen-Allen-VA/Abandoned-Property-Warehouse--Senior-Coordinator--Essential-Onsite_R1001887-1",
   "/job/Houston-TX/Product-Manager--PULSE_R1002654",
+  "/job/London-Eng/Manager--Business-Analysis_R1000785",
   "/job/London-Eng/Senior-Relationship-Management-and-Business-Development_R246507",
   "/job/McLean-VA/Business-Manager---CR-A--Credit-Enablement-and-Operations_R1002757",
   "/job/McLean-VA/Business-Manager---Card-Loss-Forecast-and-Allowance_R1002479-1",
@@ -5930,6 +5937,7 @@
   "/job/San-Jose-California-US/ASIC-Cost-Planning-Manager--hybrid----2020747_2020747-1",
   "/job/San-Jose-California-US/ASIC-Engineer_2020819-1",
   "/job/San-Jose-California-US/Business-Development-Director_2022838",
+  "/job/San-Jose-California-US/CX-Machine-Learning-Engineer_2024550",
   "/job/San-Jose-California-US/Director--Pricing-Strategy-and-Monetization--Remote-_2023298",
   "/job/San-Jose-California-US/Director--Pricing-Strategy-and-Monetization--Remote-_2024887",
   "/job/San-Jose-California-US/Director-Strategic-Alliances-Bay-Area--Seattle-or-San-Diego_2020595",
@@ -6390,6 +6398,7 @@
   "8238758",
   "8239175",
   "8239323",
+  "8239352",
   "8239834",
   "8239900",
   "8241822",
@@ -8126,6 +8135,7 @@
   "8240769",
   "8242722",
   "8242859",
+  "8243782",
   "8246307",
   "8247566",
   "8248968"
@@ -9251,6 +9261,7 @@
   "/job/Kaiseraugst/Contract-Manufacturing-Specialist_202609-123925-2",
   "/job/Kaiseraugst/Hochschulpraktikum-im-Bereich-Local-Packaging-Development--12-Monate-_202609-124474",
   "/job/Kaiseraugst/Network-and-Capabilities-Manager_202609-123467",
+  "/job/Kaiseraugst/Unit-Lead-Operational-Engineering-Steriles_202609-122857-2",
   "/job/Kaiseraugst/Unit-Lead-mikrobiologisches-Umgebungsmonitoring--mEMT-_202609-124774-1",
   "/job/Karachi/Finance-Director_202609-123937",
   "/job/Kyiv/Bussines-Experience-Lead_202609-124724",
@@ -9299,6 +9310,7 @@
   "/job/San-Jose-Costa-Rica/Content-Review-Operations-Coordinator_202609-123348",
   "/job/Sant-Cugat-del-Valls/Regulatory-Affairs-Specialist_202609-124635-1",
   "/job/Sant-Cugat-del-Valls/Risk---Governance-Intern_202609-124784",
+  "/job/Sant-Cugat-del-Valls/Senior-Machine-Learning-Engineer_202605-112823-1",
   "/job/Sant-Cugat-del-Valls/Strategy---Insights-Intern_202609-124786",
   "/job/Sao-Paulo/Estgio-de-Inteligncia-de-Mercado--DIS-_202608-122378-1",
   "/job/Sao-Paulo/Gerente-de-Produto-Desenvolvimento-de-Negcios_202609-124335-1",
@@ -10268,7 +10280,8 @@
   "8860779002",
   "8860861002",
   "8860904002",
-  "8861939002"
+  "8861939002",
+  "8863276002"
  ],
  "Mastercard": [
   "/job/Abidjan-Cote-divoire/Senior-Managing-Consultant--Business-Development--Services--Francophone-Africa_R-289538",
@@ -14170,6 +14183,7 @@
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Spcialiste-Qualit-de-la-Chane-d-Approvisionnement---Supply-Chain-Quality-Specialist_01878524",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Specialiste-ingnieurie---Contrats-de-financement-public---acadmique---Engineering-Specialist---Public-Funding---academic-Contracts_01877870",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage----Hiver-2027---Gestion-de-la-chane-d-approvisionnement---Internship---Winter-2027---Supply-Chain-Management_01878942",
+  "/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage---Hiver-2027---Automatisation--Internship---Winter-2027---Automation_01864888",
   "/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Superviseur-des-oprations--quart-de-soir----Operations-Supervisor--Evening-Shift-_01868523",
   "/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Pilote-d-entreprise--commandant-e--de-bord---Corporate-Pilot--Captain_01849415-1",
   "/job/DE-HE-FRANKFURT-020--Victor-Slotosch-St-20--BLDG-20/Strategischer-Einkufer--m-w-d-_01879526",
@@ -14244,6 +14258,7 @@
   "/job/US-AZ-TUCSON-842--1151-E-Hermans-Rd--BLDG-842/Principal-Analyst--Security---CSS0----Tucson--AZ_01879160-1",
   "/job/US-AZ-TUCSON-842--1151-E-Hermans-Rd--BLDG-842/Principal-Specialist--Contracts--Onsite-_01868492",
   "/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Production-Test-Engineer-I--Onsite-_01878941",
+  "/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Production-Test-Engineer-II--Onsite-_01872264",
   "/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/EO-Optical-Engineer-I--Onsite-_01877353",
   "/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/Electro-Optic-Intern--Summer-2027--Onsite-_01877708",
   "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Associate-Director--Contracts---Advanced-Technology--Alternate-Missions---Space_01865311",
@@ -14392,12 +14407,15 @@
   "/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Contracts-Manager_01874089",
   "/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338",
   "/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Mechanical-Engineer-I--Onsite-_01879796",
+  "/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Mechanical-Engineer-II--Onsite-_01879790",
   "/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Principal-Embedded-Systems-Security-Engineer--Onsite---Marlborough--MA--Secret-clearance-required_01878847-1",
   "/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Architect_01879478",
   "/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-I---Onsite-_01879030",
   "/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-II--Onsite-_01879035",
   "/job/US-MA-REMOTE/Manager--Financial-Planning---Analysis_01878654-1",
   "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineer-I--Onsite-_01871382",
+  "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineer-I--Onsite-_01879773",
+  "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineer-II--Onsite-_01879772",
   "/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Principal-Program-Execution-Lead_01878810",
   "/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Senior-Finance-Analyst--Program-Cost-Controls_01879309",
   "/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Senior-Program-Execution-Lead_01878809",
@@ -14435,6 +14453,7 @@
   "/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Product---Program-Manager--Onsite-_01879051",
   "/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Material-Handling-2---1st-Shift--Onsite-_01879047",
   "/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Process-Tech-II---1st-Shift--Onsite-_01879233",
+  "/job/US-ND-JAMESTOWN-P1--2604-Highway-20-N--PLANT-1/Process-Technician-II---Weekend-Shift--Onsite-_01878420",
   "/job/US-NM-FARMINGTON-426N--10059-Hwy-371-S--NORTH-BLDG/XMLNAME-2026-Full-time---Industrial-Engineer-II---Onsite--NM-_01848751",
   "/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Production-Test-Engineer-Intern--Summer-2027-_01872985",
   "/job/US-NM-WHITE-SANDS-LC38--Bldg-23626-LC-38-Nike-Ave--BLDG-LC38-External-Site/Principal-Systems-Administrator--Onsite-_01879000",
@@ -14501,6 +14520,8 @@
   "/job/US-TX-RICHARDSON-C07--1707-Cityline-Dr--CITYLINE-C07/Financial-System-Analyst--Hybrid-_01878253",
   "/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411",
   "/job/US-TX-WICHITA-FALLS-3101--3101-Hammon-Rd--HAMMON/Finance-Controller--Onsite-_01876417",
+  "/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Internship--June-2027-_01879348",
+  "/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Rotational-Leadership-Development-Program_01879338",
   "/job/US-VA-CHESAPEAKE-305--1100-International-Plz--BLDG-305/Facilities-Maintenance-Technician---Infrastructure-Systems--ONSITE----Chesapeake-VA-_01867533",
   "/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Senior-Software-Engineer---Training-System-Software--Onsite-_01879561",
   "/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Finishing-Operator-I_01879078-1",
@@ -20475,6 +20496,7 @@
   "8180264",
   "8180701",
   "8184675",
+  "8185438",
   "8185551",
   "8185640",
   "8185746",
@@ -22222,7 +22244,9 @@
    "8193457": "2026-10-02"
   },
   "RTX": {
-   "/job/US-CT-EAST-GRANBY-200--200-Signature-Way--OFFICE/Aircraft-Operations-Aviation-Intern--Summer-2027-_01877881": "2026-10-02"
+   "/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage---Hiver-2027---Automatisation--Internship---Winter-2027---Automation_01864888": "2026-10-02",
+   "/job/US-CT-EAST-GRANBY-200--200-Signature-Way--OFFICE/Aircraft-Operations-Aviation-Intern--Summer-2027-_01877881": "2026-10-02",
+   "/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Internship--June-2027-_01879348": "2026-10-02"
   },
   "Ramp": {
    "acf6b28d-767f-483f-8ff2-114620cd7e04": "2026-10-02",
@@ -22707,7 +22731,9 @@
    "8193457": false
   },
   "RTX": {
-   "/job/US-CT-EAST-GRANBY-200--200-Signature-Way--OFFICE/Aircraft-Operations-Aviation-Intern--Summer-2027-_01877881": false
+   "/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage---Hiver-2027---Automatisation--Internship---Winter-2027---Automation_01864888": false,
+   "/job/US-CT-EAST-GRANBY-200--200-Signature-Way--OFFICE/Aircraft-Operations-Aviation-Intern--Summer-2027-_01877881": false,
+   "/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Internship--June-2027-_01879348": false
   },
   "Ramp": {
    "acf6b28d-767f-483f-8ff2-114620cd7e04": false,
