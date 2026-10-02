@@ -389,6 +389,8 @@
   "8003801003",
   "8004096003",
   "8004995003",
+  "8005075003",
+  "8005077003",
   "8005406003",
   "8005408003",
   "8006357003",
@@ -2997,6 +2999,7 @@
   "5248396007",
   "5248446007",
   "5248464007",
+  "5248603007",
   "5248617007",
   "5248655007",
   "5248658007",
@@ -4742,6 +4745,7 @@
   "/job/Space-Coast-FL/Program-Manager-III_R70818",
   "/job/Space-Coast-FL/Program-Planning-and-Control-Specialist-Sr_R71093",
   "/job/Space-Coast-FL/Project-Engineer-III_R61918",
+  "/job/Space-Coast-FL/Quality-Specialist-II--Venture-Park-MRA_R73251",
   "/job/Space-Coast-FL/Quality-Specialist-III---Lunar_R72027",
   "/job/Space-Coast-FL/Quality-Specialist-III---Lunar_R72438-1",
   "/job/Space-Coast-FL/Specialist---Quality-III_R72273",
@@ -5366,6 +5370,7 @@
   "/job/GA---Atlanta/Meritain-Client-Service-Director_R0896254",
   "/job/GA---Columbus/Medical-Scribe_R1018033",
   "/job/GA---East-Point/Medical-Scribe_R1061805",
+  "/job/GA---Riverdale/Float-Medical-Scribe_R1004000",
   "/job/GA---Work-from-home/Minute-Clinic-Virtual-Care-Nurse-Practitioner---PRN_R1058881",
   "/job/HI---Hilo/Pharmacy-Intern_R0913597",
   "/job/HI---Kapolei/Distribution-Center-Shipping-Supervisor----Kapolei--HI-_R0990837",
@@ -5412,6 +5417,7 @@
   "/job/KY---Work-from-home/Inbound-Outbound-Queue-Associate_R1048823",
   "/job/LA---Baton-Rouge/Clinical-Informatics-Specialist_R1009929",
   "/job/LA---Lafayette/Nurse-Practitioner_R1058923",
+  "/job/LA---Lake-Charles/Pharmacy-Intern_R0998353",
   "/job/LA---Work-from-home/Analyst--Case-Management-Field---Region-1---must-live-in-Louisiana_R1026705-1",
   "/job/LA---Work-from-home/Analyst--Case-Management-Field---Region-1---must-live-in-Louisiana_R1046831",
   "/job/LA---Work-from-home/Analyst--Case-Management-Field---Region-2---must-live-in-Louisiana_R1026726",
@@ -5430,6 +5436,7 @@
   "/job/MO---Florissant/Delivery-Driver_R1008691",
   "/job/MO---Florissant/Population-Health-Director--Field_R1057018",
   "/job/MO---Jennings/Outreach-Executive_R1061422",
+  "/job/MS---Jackson/Pharmacy-Intern_R1063815",
   "/job/MT---Missoula/Pharmacy-Intern_R1061484",
   "/job/Manager--Technology-Enablement---Portfolio-Management_R1016413",
   "/job/Medical-Director--Medical-Affairs_R1044033",
@@ -5449,6 +5456,7 @@
   "/job/NY---Bronx/Registered-Nurse---Case-Manager---Bronx-New-York_R1039306",
   "/job/NY---Elmhurst/Pharmacy-Intern_R1061481",
   "/job/NY---Far-Rockaway/Medical-Scribe_R1059921",
+  "/job/NY---Far-Rockaway/Medical-Scribe_R1061354",
   "/job/NY---Far-Rockaway/Outreach-Executive-I_R0965102",
   "/job/NY---New-York/Executive-Director--Business-Operations---Strategy---CVS-Media-Exchange_R1054418",
   "/job/NY---New-York/Lead-Director--Marketing-Strategy---Operations_R1055667-1",
@@ -5814,6 +5822,7 @@
   "/job/Riverwoods-IL/Senior-Director--Data-Scientist---Global-Payment-Network_R1002448",
   "/job/San-Francisco--CA/Director--Technical-Program-Management_R1002718-1",
   "/job/San-Francisco--CA/Staff-AI-Engineer--Remote-Eligible-_R1002807-1",
+  "/job/Toronto-ON/Senior-Manager--Software-Engineering_R1002455-1",
   "/job/Wilmington-DE/Manager--Project-Manager--Well-Managed-Advisor-_R1002697-2"
  ],
  "Caterpillar": [
@@ -9088,7 +9097,8 @@
   "6207950004",
   "6208862004",
   "6208999004",
-  "6211119004"
+  "6211119004",
+  "6211910004"
  ],
  "GE Aerospace": [
   "/job/Bari/Fluidic-Components-Design-Engineer---Controls-Accessories_R5041049-2",
@@ -9239,6 +9249,7 @@
   "/job/Remote/Implementation-Specialist_R4043628-1",
   "/job/Remote/Implementation-Specialist_R4043630-1",
   "/job/Remote/Implementation-Specialist_R4043636",
+  "/job/Remote/Instructional-Design-Intern_R4047208-1",
   "/job/Remote/MR-Product-Manager--Canada_R4046310-1",
   "/job/Remote/Medical-Technology-Advanced-Services--Sales-Director_R4044701-2",
   "/job/Remote/National-Clinical-Applications-Specialist--Cardiac---Vascular-Ultrasound_R4046480",
@@ -9286,6 +9297,7 @@
   "/job/Budapest/Project-Manager_202607-117105",
   "/job/Budapest/Reward-Partner_202609-124420-1",
   "/job/Budapest/Talent-Acquisition-Team-Leader---German-speaking_202609-124423-2",
+  "/job/Cali/Asesor-cientfico-a-Soluciones-Diagnsticas_202609-124086",
   "/job/Cali/Patient-Journey-Partner_202609-123574",
   "/job/Central-Singapore/Patient-Journey-Partner_202607-117354",
   "/job/Chennai/Senior-Market-Analyst--Patient-Insights---Primary-Market-Research-_202609-124693",
@@ -10061,6 +10073,7 @@
  "Kimberly-Clark": [
   "/job/AL-USA-Remote/Manufacturing-Leader---PC_887029-2",
   "/job/Argentina--San-Luis/Pasante-de-Mantenimiento_887485",
+  "/job/Brazil--Sao-Paulo/Jovem-Aprendiz---Recursos-Humanos_887727",
   "/job/Buenos-Aires---Olivos-Office/Ejecutivo-de-Cuentas_886552-1",
   "/job/Chicago-Commercial-Center/Brand-Growth-and-Innovation-Leader_887540-2",
   "/job/Chicago-Commercial-Center/Brand-Growth-and-Innovation-Leader_887541",
@@ -10839,6 +10852,7 @@
   "/job/Richardson-TX/HBM-SIPI--Principal-Engineer_JR111361",
   "/job/Richardson-TX/Interface-Design-Architect--HBM---DMTS_JR113802",
   "/job/Richardson-TX/MTS-SoC-DFT-Engineer--HBM_JR113619",
+  "/job/Richardson-TX/SoC-Static-Timing-Analysis--STA--Engineer--HBM_JR113632",
   "/job/Richardson-TX/Sr-Design-Enablement--CAD_JR113311",
   "/job/San-Jose-CA/ASIC-Gen-AI-Data-Scientist_JR110473-1",
   "/job/San-Jose-CA/DMTS--SrPrincipal-Product-Manager--HBM_JR108530-1",
@@ -10849,6 +10863,7 @@
   "/job/San-Jose-CA/Intern---DRAM-ARCTITECHTURE_JR113298",
   "/job/San-Jose-CA/Principal-Global-Sales-Account-Manager--AI-GPU_JR111462",
   "/job/San-Jose-CA/Senior-Sales-Development-Representative_JR106810",
+  "/job/San-Jose-CA/Sr-Principal-Venture-Capital_JR104636",
   "/job/San-Jose-CA/Staff-GenAI-Engineer---AMS-Design-and-Optimization_JR106530",
   "/job/Sanand---303A---ATSSDMOD-India/Assembly-Test-Tactical-Planner--ATTP_JR108861",
   "/job/Sanand---303A---ATSSDMOD-India/Manager--Mod-SSD-Assembly-Equipment_JR113244",
@@ -11332,6 +11347,7 @@
   "8221290",
   "8221293",
   "8221350",
+  "8221355",
   "8222977",
   "8223199",
   "8224590",
@@ -13415,6 +13431,7 @@
   "8201654",
   "8204368",
   "8223422",
+  "8223424",
   "8223430",
   "8223438",
   "8223448",
@@ -14192,6 +14209,7 @@
   "/job/OH-Cleveland/Cleveland---Tax---Associate---Summer-Fall-2027_5292638EIB",
   "/job/OR-Portland/Portland---Audit---Intern---Summer-2028_757449WD",
   "/job/OR-Portland/Portland---Audit---Intern---Winter-2028_758899WD",
+  "/job/TX-Dallas/Dallas---Audit---Associate---Winter-2027_52926142EIB-1",
   "/job/UT-Salt-Lake-City/Salt-Lake-City---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_764775WD",
   "/job/WA-Seattle/Seattle---Audit---Associate---Winter-2027_764785WD"
  ],
@@ -14333,6 +14351,7 @@
   "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Test-Engineer-I_01879612",
   "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Structural-Engineer-I--Onsite-_01874735",
   "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Structural-Engineer-II--Onsite-_01874737",
+  "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Test-Engineer-I_01879801",
   "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Thermal-Engineer-I--Onsite-_01873508",
   "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Thermal-Engineer-II--Onsite-_01874738",
   "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-II--Onsite-_01866754",
@@ -14407,6 +14426,7 @@
   "/job/US-CT-MIDDLETOWN-110--Aircraft-Rd--BLDG-110/HR-Employee-Partner--Hybrid-_01877183",
   "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Compressor-Aerodynamics-Intern--Summer-2027--Onsite-_01876152",
   "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/NDT-Inspector---2nd-Shift---Onsite-_01873005-1",
+  "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Special-Processes---Operator--2nd-Shift-_01873003-1",
   "/job/US-CT-REMOTE/Digital-Technology---MES-Functional-Analyst--Remote-_01878977",
   "/job/US-CT-REMOTE/Digital-Technology-Vendor-Management-Co-op--REMOTE-_01878154",
   "/job/US-CT-REMOTE/Manager--Business-and-Program-Management_01878909-1",
@@ -14528,6 +14548,7 @@
   "/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Quality-Engineer-onsite-Woburn--MA_01879419",
   "/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Sr-Principal-Systems-Engineer--Sustainment-Tech-Lead-Onsite_01879318",
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Depot-Execution-Lead_01879476",
+  "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Senior-Program-Quality-Engineer_01879776",
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Technical-Documentation-and-Training-Specialist_01879560",
   "/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Network-Systems-Engineering-Intern--Onsite_01873238",
   "/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineer-I--Onsite-_01873236",
@@ -14536,6 +14557,7 @@
   "/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Principal-Software-Engineer--ONSITE-_01818181-1",
   "/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Systems-Engineer-I--Onsite-_01876828",
   "/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Electrical-Engineering-Intern--Summer-2027-_01876591",
+  "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Quality-Inspection-Technician-II---2nd-Shift_01879646-1",
   "/job/US-NC-CHARLOTTE-2730--2730-W-Tyvola-Rd--TYVOLA/PLM-Program-Manager--Hybrid-_01868730-1",
   "/job/US-NC-CHARLOTTE-2730--2730-W-Tyvola-Rd--TYVOLA/Prime-Transformation-Project-Financial-Analyst--PFA-_01878216-1",
   "/job/US-NC-CHARLOTTE-2730--2730-W-Tyvola-Rd--TYVOLA/SAP-Finance-Analyst--Hybrid-_01878011",
@@ -14591,8 +14613,10 @@
   "/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Senior-Manufacturing-Operations-Supervisor-Fourth-Shift--Onsite---Puerto-Rico-_01879659",
   "/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Senior-Quality-Engineer--Onsite---Puerto-Rico-_01878973-1",
   "/job/US-PR-SANTA-ISABEL-B4--Felicia-Industrial-Park---St-B4--BLDG-4/Quality-Engineer-II--Onsite---Puerto-Rico-_01879057-1",
+  "/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Mechanical-Engineer-II--Onsite-_01879663",
   "/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineer-Developer-I--Onsite-_01879018",
   "/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineer-Developer-II--Onsite-_01879040",
+  "/job/US-RI-PORTSMOUTH-PS2--1847-W-Main-Rd--NIMITZ-SOUTH-BLDG/Mechanical-Engineer-I--Onsite-_01879661",
   "/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Obsolescence-Program-Manager_01878991",
   "/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Sr-Systems-Administrator--Linux---Onsite-_01875574",
   "/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Program-Operations---Control-Manager---McKinney--TX_01879380-1",
@@ -14607,6 +14631,7 @@
   "/job/US-TX-REMOTE/Procurement-Intern--Summer-2027-_01879137",
   "/job/US-TX-REMOTE/Property-Management-Transformation-Specialist_01879549",
   "/job/US-TX-REMOTE/Special-Projects-Analyst_01871401-1",
+  "/job/US-TX-RICHARDSON-461--3200-E-Renner-Rd--RENNER-BLDG-461/DT-Sr-Project-Manager--Hybrid-_01873949",
   "/job/US-TX-RICHARDSON-C07--1707-Cityline-Dr--CITYLINE-C07/Analyst--Accounts-Receivable_01878735-1",
   "/job/US-TX-RICHARDSON-C07--1707-Cityline-Dr--CITYLINE-C07/Financial-System-Analyst--Hybrid-_01878253",
   "/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411",
@@ -15512,6 +15537,8 @@
   "/job/Indiana---Remote/Engagement-Delivery-Manager---Senior-Manager---Slack_JR362180",
   "/job/Ireland---Dublin/Employee-Success-People---Payroll-Specialist_JR362423",
   "/job/Ireland---Dublin/Employee-Success-People-and-Payroll-Advisor_JR362424",
+  "/job/Ireland---Dublin/Recruiting-Coordination-Apprentice_JR358086",
+  "/job/Ireland---Dublin/Recruiting-Coordinator-Apprentice_JR358093",
   "/job/Ireland---Dublin/Senior-Programs-and-Events-Manager--Futureforce--EMEA_JR360433",
   "/job/Israel---Tel-Aviv/Forward-Deployed-Engineer_JR350080",
   "/job/Mexico---Mexico-City/Customer-Success-Manager---Marketing-Cloud_JR276805",
@@ -15525,6 +15552,7 @@
   "/job/Netherlands---Amsterdam/Cloud-Account-Executive_JR362261-1",
   "/job/Netherlands---Amsterdam/Enterprise-Account-Executive---Informatica---Amsterdam_JR362087-1",
   "/job/New-York---New-York/Principal--Strategic-Solution-Engineer---Nonprofits_JR361452",
+  "/job/New-York---New-York/Senior--SMTS--Endpoint-Security-Software--Engineer_JR359790",
   "/job/New-York---New-York/Senior--Specialist-SE_JR359784",
   "/job/New-York---New-York/Senior-Director--BVS--Customer-Financial-Officer_JR362043-1",
   "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Financial-Services-_JR362508-1",
@@ -16150,7 +16178,8 @@
   "744000153034225",
   "744000153036467",
   "744000153081494",
-  "744000153187289"
+  "744000153187289",
+  "744000153211799"
  ],
  "Smartsheet": [
   "3426405",
@@ -20500,6 +20529,7 @@
   "8080108",
   "8081585",
   "8081588",
+  "8081766",
   "8088329",
   "8094646",
   "8094648",
@@ -20732,7 +20762,9 @@
   "8242799",
   "8242801",
   "8242950",
-  "8243971"
+  "8243136",
+  "8243971",
+  "8244028"
  ],
  "Twilio": [
   "6372770",
@@ -20940,6 +20972,7 @@
   "/job/BR---So-Paulo-Brazil/Digital-Sales-Representative-1_REF079416W",
   "/job/BR---So-Paulo-Brazil/Risk-Management-Analyst_REF088828W",
   "/job/BR---So-Paulo-Brazil/Senior-Manager--Visa-Consulting-and-Analytics--VCA--Senior-Learning-Consultant--Visa-University_REF088793W",
+  "/job/CA---Toronto-Canada/Senior-Data-Scientist_REF088874W",
   "/job/CI---Abidjan-Cote-DIvoire/Sr-Manager-Client-Success_REF088707W",
   "/job/CO---Bogota-Colombia/Quality-Analyst_REF082702W",
   "/job/CR---San-Jose-Costa-Rica/Analyst--Visa-Consulting-and-Analytics--VCA---Core-Consulting_REF088227W",
@@ -21035,7 +21068,8 @@
   "3743990015832536",
   "3743990015846466",
   "3743990015848216",
-  "3743990015848826"
+  "3743990015848826",
+  "3743990015859506"
  ],
  "Wayfair": [],
  "Waymo": [
@@ -22049,6 +22083,8 @@
    "/job/HI---Hilo/Pharmacy-Intern_R0913597": "2026-10-02",
    "/job/IA---Iowa-City/Pharmacy-Intern_R1063743": "2026-10-02",
    "/job/IN---Lafayette/Pharmacy-Intern_R1063124": "2026-10-02",
+   "/job/LA---Lake-Charles/Pharmacy-Intern_R0998353": "2026-10-02",
+   "/job/MS---Jackson/Pharmacy-Intern_R1063815": "2026-10-02",
    "/job/NE---Lincoln/Pharmacy-Intern_R1063723": "2026-10-02",
    "/job/NE---Lincoln/Pharmacy-Intern_R1063759-1": "2026-10-02",
    "/job/NE---Omaha/Pharmacy-Intern_R1063739-1": "2026-10-02",
@@ -22158,7 +22194,8 @@
    "/job/Subang/IT-Support-Intern_R5038715-1": "2026-10-02"
   },
   "GE HealthCare": {
-   "/job/IL03-01-Chicago-500-W-Monroe-St/GEHC-Ventures-Intern_R4045971-1": "2026-10-02"
+   "/job/IL03-01-Chicago-500-W-Monroe-St/GEHC-Ventures-Intern_R4045971-1": "2026-10-02",
+   "/job/Remote/Instructional-Design-Intern_R4047208-1": "2026-10-02"
   },
   "Genentech": {
    "/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516": "2026-10-02",
@@ -22632,6 +22669,8 @@
    "/job/HI---Hilo/Pharmacy-Intern_R0913597": false,
    "/job/IA---Iowa-City/Pharmacy-Intern_R1063743": false,
    "/job/IN---Lafayette/Pharmacy-Intern_R1063124": false,
+   "/job/LA---Lake-Charles/Pharmacy-Intern_R0998353": false,
+   "/job/MS---Jackson/Pharmacy-Intern_R1063815": false,
    "/job/NE---Lincoln/Pharmacy-Intern_R1063723": false,
    "/job/NE---Lincoln/Pharmacy-Intern_R1063759-1": false,
    "/job/NE---Omaha/Pharmacy-Intern_R1063739-1": false,
@@ -22723,7 +22762,8 @@
    "/job/Subang/IT-Support-Intern_R5038715-1": false
   },
   "GE HealthCare": {
-   "/job/IL03-01-Chicago-500-W-Monroe-St/GEHC-Ventures-Intern_R4045971-1": true
+   "/job/IL03-01-Chicago-500-W-Monroe-St/GEHC-Ventures-Intern_R4045971-1": true,
+   "/job/Remote/Instructional-Design-Intern_R4047208-1": false
   },
   "Genentech": {
    "/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516": false,
