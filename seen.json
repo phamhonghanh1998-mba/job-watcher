@@ -8121,7 +8121,8 @@
   "8242722",
   "8242859",
   "8246307",
-  "8247566"
+  "8247566",
+  "8248968"
  ],
  "Discord": [
   "8214127002",
@@ -9042,6 +9043,7 @@
   "/job/Dubai/Advanced-Lead-Engineer---Fleet-Management_R5039737-2",
   "/job/Dubai/Materials-Production-Control-Leader_R5040117-2",
   "/job/Evendale/Composites-Lead-Mechanical-Design-Engineer_R5040675-1",
+  "/job/Evendale/Lead-Manufacturing-Engineer---Coatings-Manufacturing-Readiness_R5041057-2",
   "/job/Evendale/Lead-Manufacturing-Readiness-Engineer---Next-Gen-Products_R5040925-1",
   "/job/Evendale/Lead-Mechanical-Design-Engineer---Next-Generation-Products_R5036806-1",
   "/job/Evendale/Logistics-Operations-leader_R5032198-1",
@@ -9203,6 +9205,7 @@
   "/job/Bangkok/Enterprise-Insight-Lead_202608-120093",
   "/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516",
   "/job/Basel/Head-of-Digital-Strategy--Excellence---Standards--Global-Digital---Data-Analytics_202605-111389-1",
+  "/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819",
   "/job/Basel/Praktikum-GMP-Compliance---Critical-Utilities--Basel--12-Monate-_202609-123773",
   "/job/Basel/Robotics-Technology-Deployment-Steward--Device--Packaging-and-Distribution-_202608-121683-1",
   "/job/Basel/Senior-Scientist-in-Process-Chemistry---Catalysis_202609-124542",
@@ -9239,6 +9242,7 @@
   "/job/Jakarta/Patient-Journey-Partner_202608-120298",
   "/job/Jeddah/Office-Administrative-Support-Associate_202609-124812-1",
   "/job/Kaiseraugst/Contract-Manufacturing-Specialist_202609-123925-2",
+  "/job/Kaiseraugst/Hochschulpraktikum-im-Bereich-Local-Packaging-Development--12-Monate-_202609-124474",
   "/job/Kaiseraugst/Network-and-Capabilities-Manager_202609-123467",
   "/job/Kaiseraugst/Unit-Lead-mikrobiologisches-Umgebungsmonitoring--mEMT-_202609-124774-1",
   "/job/Karachi/Finance-Director_202609-123937",
@@ -10267,6 +10271,7 @@
   "/job/Besiktas-Istanbul-Turkey/Associate-Consultant--Launch-Graduate-Program---2027--Istanbul--Trkiye_R-287583-2",
   "/job/Besiktas-Istanbul-Turkey/Associate-Consultant-Intern--Summer-Internship-Program---2027--Istanbul--Trkiye_R-287590-2",
   "/job/Besiktas-Istanbul-Turkey/Global-Markets--Account-Management---Product-Management--Summer-Internship-Program---2027--Istanbul--Trkiye_R-292561-2",
+  "/job/Besiktas-Istanbul-Turkey/Manager--Customer-Success_R-286747",
   "/job/Besiktas-Istanbul-Turkey/Senior-Managing-Consultant--Acquiring-Subject-Matter-Expert--SME---Advisors---Consulting-Services_R-290304",
   "/job/Bogota-Colombia/Consultant--Advisors---Strategy---Transformation_R-291648",
   "/job/Bogota-Colombia/Manager--Financial-Planning---Analysis_R-290750",
@@ -10282,6 +10287,7 @@
   "/job/Dubai-United-Arab-Emirates/Manager---Total-Rewards--Benefits---Wellbeing_R-290993-1",
   "/job/Dubai-United-Arab-Emirates/Manager--Business-Development---Digital-Giant-Segment_R-291480-1",
   "/job/Dubai-United-Arab-Emirates/Research-Director--New-Solutions--ARC_R-292319",
+  "/job/Dubai-United-Arab-Emirates/Senior-Managing-Consultant--Services-Business-Development_R-292443",
   "/job/Dublin-Ireland-One-South-County/Senior-UI-Developer_R-292276",
   "/job/Dublin-Ireland/Platform-Engineer-II_R-287940",
   "/job/Dublin-Ireland/Senior-Software-Engineer---Java_R-288444",
@@ -10470,6 +10476,7 @@
   "/job/IRL---Carlow---Carlow/Associate-Director-Capability---Learning_R417220",
   "/job/IRL---Cork---Brinny/Finance-Internship---Brinny_R413002",
   "/job/IRL---Meath---Dunboyne/Finance-Internship---Dunboyne_R412502",
+  "/job/IRL---Meath---Dunboyne/Lead-Tech--Operations_R419337-1",
   "/job/IRL---Tipperary---Ballydine/Engineering-Department-Intern_R411420",
   "/job/ITA---Lazio---Roma/Franchise-Head---Immuno-Oncology-Marketing-Director_R419809-1",
   "/job/ITA---Lazio---Roma/Informatore-Scientifico-del-Farmaco--ISF----Puglia---Basilicata---Molise_R418781-1",
@@ -10489,6 +10496,8 @@
   "/job/MYS---Selangor---Petaling-Jaya-Ascent-Paradigm/Sr-Specialist--Meeting-Services-Support_R416693-1",
   "/job/MYS---Selangor---Petaling-Jaya-Ascent-Paradigm/Technical-and-Marketing-Manager_R400333-1",
   "/job/NLD---North-Brabant---Boxmeer/Senior-Specialist---SAP-Authorizations-and-Security-Architect_R390393-1",
+  "/job/NLD---North-Brabant---Boxmeer/Stagiair----MBO-Microbiologie-Biochemie-Procestechnologie---Tissue-Culture-Boxmeer_R401584-1",
+  "/job/NLD---North-Brabant---Boxmeer/Stagiair---HBO-WO---Asset-Management---Improvement_R399307-1",
   "/job/NLD---North-Brabant---Boxmeer/Stagiair---Laboratorium-of-Productietechniek---Visuele-Inspectie_R398614-1",
   "/job/NLD---North-Brabant---Boxmeer/Tech--Operations_R416483-1",
   "/job/NLD---North-Brabant---Oss-Molenstraat/Specialist-External-Analytical-Sciences_R418555-1",
@@ -11984,6 +11993,7 @@
   "8243981",
   "8243989",
   "8243997",
+  "8245298",
   "8247059",
   "8247721",
   "8248800",
@@ -13883,6 +13893,7 @@
   "/job/Bratislava/Junior-daov-konzultant---Junior-daov-konzultantka_752002WD",
   "/job/Bratislava/Senior-tovnk-tovnka---na-oddelen-manamentu-dan-a-tovnch-sluieb_763259WD-1",
   "/job/Bratislava/ServiceNow-Solution-Architect--m-f-_765611WD-2",
+  "/job/Bratislava/Software-Engineer---Microsoft-Fabric-Platform--m-f-_765613WD",
   "/job/Brussels/Field-Engineer_763103WD",
   "/job/Bucharest/Junior-Internal-Audit_750636WD",
   "/job/Buenos-Aires/Deals-Delivering-Deals-Value--Manager_758302WD-1",
@@ -13928,6 +13939,7 @@
   "/job/Lima/Top-Associate-de-Auditora-Financiera_759744WD",
   "/job/Lyon/Manager-en-Transformation-de-la-fonction-Finance---Lyon---F-H_765004WD-1",
   "/job/MI-Detroit/IT-Services--Cyber-Threat-Response-Analyst--Senior-Associate_765017WD",
+  "/job/Madrid/Abogado-Senior-servicios-internos_765837WD",
   "/job/Madrid/Assurance---Senior-Associate-TMT-Madrid-FY27_745921WD",
   "/job/Madrid/Assurance---Senior-Auditora-Banca-FY27_765501WD",
   "/job/Mbabane/Administrative-Assistant_761803WD",
@@ -14014,6 +14026,7 @@
   "/job/Toronto/Full-Stack-Developer_761839WD",
   "/job/Toronto/Transaction-Services--Manager_760661WD",
   "/job/Warszawa/GRC-Manager-with-German---Managed-Services-Operations_705161WD",
+  "/job/Warszawa/Junior-SharePoint-Developer--freelance-_765813WD",
   "/job/Warszawa/Senior-Business-Analyst--freelance-_751876WD",
   "/job/Warszawa/Senior-SAP-Security-Consultant_752280WD",
   "/job/Zrich/Associate-Senior-Associate-M-A-Tax-Financial-Services_764684WD-1",
@@ -15396,6 +15409,7 @@
   "/job/Singapore---Singapore/Principal-Executive-Assistant-to-President---CEO--JAPAC_JR362353",
   "/job/Singapore---Singapore/Research-Scientist-Senior-Research-Scientist---Salesforce-AI-Research-Singapore_JR274065",
   "/job/Spain---Madrid/Senior-Technical-Consultant_JR361391",
+  "/job/Sweden---Stockholm/Named-Account-Executive_JR362415",
   "/job/Switzerland---Zurich/Services-Sales-Solutions-Director_JR360726",
   "/job/United-Arab-Emirates---Dubai/Senior-Technical-Architect_JR359404-1",
   "/job/United-Kingdom---London/Forward-Deployed-Consultant---Senior-Consultant--Value-Acceleration-_JR362407",
@@ -16105,7 +16119,8 @@
   "8242234",
   "8245662",
   "8247017",
-  "8247675"
+  "8247675",
+  "8248966"
  ],
  "Snap": [
   "/job/Beijing-China/Senior-Account-Manager--Gaming---Apps_R0046581-2",
@@ -21992,6 +22007,7 @@
   },
   "Genentech": {
    "/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516": "2026-10-02",
+   "/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819": "2026-10-02",
    "/job/Basel/Student-Internship-in-Lab-Automation--Pharma-Research---Early-Development-_202609-124621": "2026-10-02",
    "/job/Panama/Operations---Audit-Intern_202606-116367": "2026-10-02"
   },
@@ -22540,6 +22556,7 @@
   },
   "Genentech": {
    "/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516": false,
+   "/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819": false,
    "/job/Basel/Student-Internship-in-Lab-Automation--Pharma-Research---Early-Development-_202609-124621": false,
    "/job/Panama/Operations---Audit-Intern_202606-116367": false
   },
