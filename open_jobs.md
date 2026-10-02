@@ -1,6 +1,6 @@
 # Open matching jobs (404)
 
-Updated 2026-10-02 07:52 UTC.
+Updated 2026-10-02 08:14 UTC.
 
 ## MBA-level in the title (68)
 
