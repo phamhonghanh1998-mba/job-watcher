@@ -455,6 +455,7 @@
   "8024316",
   "8028783",
   "8029984",
+  "8031901",
   "8038161",
   "8039723",
   "8042783",
@@ -3245,7 +3246,15 @@
   "5255593007",
   "5255657007",
   "5255827007",
-  "5256011007"
+  "5255981007",
+  "5256011007",
+  "5256023007",
+  "5256033007",
+  "5256046007",
+  "5256059007",
+  "5256064007",
+  "5256069007",
+  "5256072007"
  ],
  "Anthropic": [
   "4017331008",
@@ -4332,7 +4341,8 @@
   "8227428",
   "8232028",
   "8237559",
-  "8237744"
+  "8237744",
+  "8241249"
  ],
  "Autodesk": [
   "/job/AMER---United-States---California---San-Francisco---One-Market/Director--Chief-of-Staff_26WD101007-2",
@@ -5604,6 +5614,7 @@
   "/job/RI---Work-from-home/Lead-Director--Internal-Audit---Technology-Controls-Assurance_R1036376-1",
   "/job/RI---Work-from-home/Legal-Counsel---Healthcare-Contracting_R1030405",
   "/job/RI---Work-from-home/Senior-Analyst--Digital-Messaging-Operations_R1038260",
+  "/job/RI---Work-from-home/Senior-Manager--Executive-Communications_R1046323",
   "/job/Registered-Nurse-Case-Manager---Field-in-Essex-and-Surrounding-Counties--NJ_R0988614",
   "/job/TN---Franklin/Medical-Claims-Reviewer--Franklin--TN_R1049155",
   "/job/TX---El-Paso/Pharmacy-Intern_R1063731",
@@ -5740,6 +5751,7 @@
   "/job/Chicago-IL/Senior-Manager--Full-Stack-Engineer_R1001704-2",
   "/job/Chicago-IL/Senior-Manager--Full-stack-Engineer_R1002408-1",
   "/job/Glen-Allen-VA/Abandoned-Property-Warehouse--Senior-Coordinator--Essential-Onsite_R1001887-1",
+  "/job/Houston-TX/Principal-Associate---Client-Services---PULSE-Network_R1001753",
   "/job/Houston-TX/Product-Manager--PULSE_R1002654",
   "/job/London-Eng/Manager--Business-Analysis_R1000785",
   "/job/London-Eng/Senior-Relationship-Management-and-Business-Development_R246507",
@@ -5904,6 +5916,7 @@
   "/job/Plano-TX/Full-stack-Engineer-4_R1002665-1",
   "/job/Plano-TX/Principal-Associate--Financial-Planning---Analysis---Financial-Services_R999408-2",
   "/job/Plano-TX/Relationship-Manager_R999638-1",
+  "/job/Plano-TX/Senior-Associate--Data-Scientist---Applied-AI--Financial-Services-_R1002940-1",
   "/job/Plano-TX/Senior-Manager--Full-stack-Engineer_R1002512-1",
   "/job/Plano-TX/Senior-Manager--Full-stack-Engineer_R1002595-1",
   "/job/Plano-TX/Senior-Manager--Project-Management_R1002093-1",
@@ -6047,6 +6060,7 @@
   "8817972002",
   "8831472002",
   "8838389002",
+  "8840193002",
   "8840795002",
   "8842932002",
   "8859182002",
@@ -10627,6 +10641,7 @@
   "/job/London-England-Angel-Lane/Senior-Specialist--Product-Management_R-292626",
   "/job/Madrid-Spain-Cuatro-Torres/Senior-Analyst--Account-Management-for-Financial-Institutions_R-291342-1",
   "/job/Madrid-Spain/Account-Manager--Banks-and-Financial-Institutions_R-291344",
+  "/job/Mexico-City-Mexico/Associate-Specialist--Cross-Border-Payment-Operations_R-291491-1",
   "/job/Mexico-City-Mexico/Infrastructure-Platform-Architect_R-291785",
   "/job/Mexico-City-Mexico/Lead-Site-Reliability-Engineer_R-291891",
   "/job/Milan-Italy/Creative-Strategist-Art_R-292298",
@@ -13697,6 +13712,7 @@
   "8189708",
   "8201654",
   "8204368",
+  "8223408",
   "8223422",
   "8223424",
   "8223430",
@@ -14552,6 +14568,7 @@
   "/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/Principal-Systems---Cyber-Security-Specialist_01879094",
   "/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/WTRSS-Operations-Lead_01877068",
   "/job/CA-AB-CALGARY-111--919-72nd-Ave-NE--72ND-AVE-Ste-A/Principal-Engineer_01879396",
+  "/job/CA-AB-CALGARY-111--919-72nd-Ave-NE--72ND-AVE-Ste-A/Procurement-Manager--Contract-_01879936",
   "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Manufacturing-Line-Manager---Assembly-Lines_01877946",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Adjoint-e--excutif-ve----Executive-Assistant_01878004-1",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Coordonnateur-interventions---Traabilit---Certificat-de-conformit-lectronique-et-analyste-de-donnes-SQA---eCofC---Traceability-Coordinator---Data-Analyst--SQA-_01869954",
@@ -15780,6 +15797,7 @@
   "/job/Australia---Sydney/Director--Policy_JR361951",
   "/job/Australia---Sydney/Specialist-Account-Executive_JR351557-1",
   "/job/Brazil---Remote/Technical-Architect_JR362256",
+  "/job/Brazil---Sao-Paulo/Customer-Success-Manager--Senior-Manager_JR362578",
   "/job/Brazil---Sao-Paulo/Customer-Success-Manager_JR360915",
   "/job/Brazil---Sao-Paulo/LATAM-Internship-Program---Alliances---Channels--Brazil-_JR360861-1",
   "/job/Brazil---Sao-Paulo/Named-Account-Executive_JR362158",
@@ -19762,7 +19780,8 @@
   "8864869002",
   "8864873002",
   "8864877002",
-  "8864879002"
+  "8864879002",
+  "8864945002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -21852,6 +21871,7 @@
   "8248060",
   "8248270",
   "8248314",
+  "8248327",
   "8248394"
  ],
  "Workday": [
@@ -22973,7 +22993,8 @@
    "8201252": "2026-10-02",
    "8210170": "2026-10-02",
    "8234553": "2026-10-02",
-   "8238525": "2026-10-02"
+   "8238525": "2026-10-02",
+   "8248327": "2026-10-02"
   },
   "Workday": {},
   "Zillow": {},
@@ -23474,7 +23495,8 @@
    "8201252": false,
    "8210170": false,
    "8234553": false,
-   "8238525": false
+   "8238525": false,
+   "8248327": false
   }
  },
  "eBay": [
