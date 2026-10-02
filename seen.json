@@ -396,9 +396,11 @@
   "8006357003",
   "8006359003",
   "8008483003",
+  "8008645003",
   "8009366003",
   "8009368003",
-  "8010489003"
+  "8010489003",
+  "8011590003"
  ],
  "Airbnb": [
   "6757302",
@@ -2371,6 +2373,7 @@
   "5225899007",
   "5225946007",
   "5225948007",
+  "5225979007",
   "5225988007",
   "5226248007",
   "5226324007",
@@ -3914,6 +3917,7 @@
   "5440799008",
   "5440812008",
   "5440817008",
+  "5440891008",
   "5441387008",
   "5441832008",
   "5442051008",
@@ -6888,6 +6892,7 @@
   "/job/USA---Arlington-VA/Professional-Services-Explorer-Intern---Summer-2027--Arlington--VA-_R30155",
   "/job/USA---Austin-TX/Global-Sales-Programs-Intern--Summer-2027-_R30217",
   "/job/USA---Austin-TX/Sr-Manager--Engineering---Data-Analytics-Infrastructure--Hybrid-_R29506",
+  "/job/USA---Austin-TX/Sr-Software-Engineer--LogScale-Search--Hybrid-_R29418",
   "/job/USA---New-York-NY/Sr-Manager--Engineering---Semantic-Data-Modeling-Framework--Hybrid-_R29507",
   "/job/USA---New-York-NY/Sr-Software-Engineer--Cloud---Analytics-Platform_R29257",
   "/job/USA---Remote-MA/Regional-Services-Sales-Manager---Services---Complete--Remote-_R30156",
@@ -7826,6 +7831,7 @@
   "8798217002",
   "8798964002",
   "8801077002",
+  "8801844002",
   "8802705002",
   "8802708002",
   "8805655002",
@@ -9102,6 +9108,7 @@
   "/job/Washington---Seattle-Campus/Senior-Software-Development-Engineer_R-107198-1",
   "/job/Washington---Seattle-Campus/Senior-Software-Engineer---Distribution-and-Supply_R-110161",
   "/job/Washington---Seattle-Campus/Software-Development-Engineer-III_R-102690-1",
+  "/job/Washington---Seattle-Campus/Sr-Director-Engineering---Experience-Platform_R-109663-1",
   "/job/Washington---Seattle-Campus/Sr-Mgr--Workday-Platform-Engineering_R-109075",
   "/job/Washington---Seattle-Campus/Tax-Manager---International_R-110086-1",
   "/job/Washington---Seattle-Campus/Treasury-Manager--Foreign-Currency_R-109482-1"
@@ -10872,6 +10879,7 @@
   "/job/USA---Massachusetts---Cambridge-320-Bent-Street/Associate-Director--AI-ML-Engineering_R406566-1",
   "/job/USA---Massachusetts---Cambridge-320-Bent-Street/Postdoctoral-Researcher---Integrative-Genetics-and-Multi-Omics-Data-Science_R416259-2",
   "/job/USA---Massachusetts---Cambridge-320-Bent-Street/Senior-Specialist--Data-Analysis_R419565-1",
+  "/job/USA---Nebraska---Elkhorn/Senior-Technician--Quality-Control_R416577-1",
   "/job/USA---Nebraska---Omaha/Territory-Senior-Sales-Representative--Beef-Monitoring---Upper-Midwest---NE---IA_R419130-1",
   "/job/USA---New-Jersey---Rahway/Assoc-Dir---Patient-and-Channel-Data-mgmt_R407184-1",
   "/job/USA---New-Jersey---Rahway/Assoc-Dir--Agentic-Standards---Context-Intelligence_R419112-2",
@@ -10883,6 +10891,7 @@
   "/job/USA---New-Jersey---Rahway/Associate-Director--Global-Marketing_R419327",
   "/job/USA---New-Jersey---Rahway/Associate-Director--Global-Rewards-Partner_R419853-1",
   "/job/USA---New-Jersey---Rahway/Associate-Director--Global-Security_R420699-1",
+  "/job/USA---New-Jersey---Rahway/Associate-Director--International-Tax_R419992-1",
   "/job/USA---New-Jersey---Rahway/Associate-Principal-Engineer--Drug-Device-Combination-Products_R418201-1",
   "/job/USA---New-Jersey---Rahway/Associate-Principal-Scientist--Combination-Product-Design-Verification--Associate-Director-Equivalent-_R408489",
   "/job/USA---New-Jersey---Rahway/Associate-Scientist--Post-Doc-Fellow--Quantitative-Biosciences-Early-Discovery_R419894-1",
@@ -13823,6 +13832,7 @@
   "a14c4626-ed07-4151-a923-3a710fb66de2",
   "a172ada5-1a6e-4646-8e0d-26747422af24",
   "a5b97109-222d-49e1-b2ac-e101487a5ddd",
+  "a8c79425-eb48-40e0-8557-93460fa67097",
   "ab076e26-adf1-414f-a006-7b1bdc9247c8",
   "acd466ba-536f-49da-968a-15b8c53298f8",
   "affd3040-91e4-4e0c-bd2f-4b022c613f91",
@@ -14133,6 +14143,7 @@
   "8226802",
   "8230592",
   "8230778",
+  "8233536",
   "8234002",
   "8234555",
   "8238679",
@@ -15815,6 +15826,7 @@
   "/job/California---Remote/Senior-Customer-Marketing-Manager_JR361332",
   "/job/California---Remote/Specialist-Solution-Engineer_JR350915",
   "/job/California---San-Francisco-Metro---Remote/GTM-Builder--Distinguished-SE_JR362294",
+  "/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1",
   "/job/California---San-Francisco/Business-Planning---Operations-Lead--Agentforce-Operations_JR358867-1",
   "/job/California---San-Francisco/Chief-Revenue-Officer--Process-Transformation_JR362322-1",
   "/job/California---San-Francisco/Customer-Success-Manager--Director---Core--Sales---Service--Clouds---TMT_JR353112",
@@ -15844,6 +15856,7 @@
   "/job/Canada---Toronto/Technical-Architect-Director---PubSec---Mulesoft-Canada_JR362275",
   "/job/Canada---Vancouver/Small--Medium--and-Growth-Business---Account-Executive---Vancouver--Office-Based-_JR274505",
   "/job/Colombia---Bogota/LATAM-Internship-Program---Scale-Program-LATAM-Intern--Colombia-_JR361231-1",
+  "/job/Colorado---Denver/Site-Reliability-Engineer--GovCloud-24x7_JR357830-1",
   "/job/Colorado---Remote/Chief-of-Staff_JR362577",
   "/job/Denmark---Copenhagen/Senior-Solution-Engineer---Denmark_JR362402",
   "/job/District-of-Columbia---Washington/Customer-Success-Manager---Global-Public-Sector---FedCiv---Core-Clouds--Sales-Services-_JR337930",
@@ -15975,6 +15988,7 @@
   "7580157",
   "7589195",
   "7589197",
+  "7603023",
   "7608969",
   "7609057",
   "7609126",
@@ -16644,7 +16658,8 @@
   "8247017",
   "8247675",
   "8248966",
-  "8250247"
+  "8250247",
+  "8250268"
  ],
  "Snap": [
   "/job/Beijing-China/Senior-Account-Manager--Gaming---Apps_R0046581-2",
@@ -19791,7 +19806,10 @@
   "8864873002",
   "8864877002",
   "8864879002",
-  "8864945002"
+  "8864929002",
+  "8864945002",
+  "8864946002",
+  "8864948002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -20778,6 +20796,7 @@
   "/job/1800-Tiffin-Ave-FindlayOH-45840-6789/Assets-Protection-Team-Leader_R0000475543",
   "/job/200-S-Main-St-Unit-24-West-LebanonNH-03784-2014/Assets-Protection-Team-Leader_R0000476089-1",
   "/job/249-NW-6th-St-Ste-120-MiamiFL-33136-4248/Store-Executive-Intern--Store-Leadership-Intern----South-FL--Miami-to-West-Palm---Starting-Summer-2027--_R0000448573",
+  "/job/2650-Winter-St-NE-MinneapolisMN-55413-3195/Workshop-Creative-Production-Manager_R0000475229",
   "/job/3040-S-Evans-St-GreenvilleNC-27834-3176/Assets-Protection-Team-Leader_R0000453446",
   "/job/4155-Yellowstone-Ave-ChubbuckID-83202-2385/Property-Management-Lead---Pocatello--ID_R0000475646-1",
   "/job/456-N-Main-St-DoylestownPA-18901-3404/Property-Management-Lead_R0000475731",
@@ -22911,6 +22930,7 @@
    "/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2": "2026-10-02"
   },
   "Salesforce": {
+   "/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1": "2026-10-02",
    "/job/California---San-Francisco/Summer-2027-Intern---Product-GTM-Strategy_JR362217-1": "2026-10-02",
    "/job/Indiana---Indianapolis/Summer-2027-Intern---Finance-Operations-Associate_JR359638-2": "2026-10-02",
    "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Financial-Services-_JR362508-1": "2026-10-02",
@@ -23435,6 +23455,7 @@
    "/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2": false
   },
   "Salesforce": {
+   "/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1": false,
    "/job/California---San-Francisco/Summer-2027-Intern---Product-GTM-Strategy_JR362217-1": false,
    "/job/Indiana---Indianapolis/Summer-2027-Intern---Finance-Operations-Associate_JR359638-2": false
   },
