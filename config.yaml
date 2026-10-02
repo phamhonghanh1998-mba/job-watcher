@@ -28,7 +28,11 @@ keywords:
     "Morocco", "Casablanca", "Egypt", "Nigeria", "Kenya", "Turkey", "Istanbul", "Pakistan", "Indonesia",
     "Jakarta", "Thailand", "Bangkok", "Peru", "Lima", "Austria", "Vienna", "Norway", "Oslo", "Finland",
     "Greece", "Bulgaria", "Serbia", "Croatia", "Slovakia", "Lithuania", "Estonia", "Ukraine",
-    "Scotland", "Edinburgh", "Wales", "Luxembourg", "Qatar", "Puerto Rico"]
+    "Scotland", "Edinburgh", "Wales", "Luxembourg", "Qatar", "Puerto Rico", "Latium",
+    # 3-letter country codes (Amazon uses these, e.g. "Fiano Romano, Latium, ITA")
+    "IND", "GBR", "DEU", "CAN", "IRL", "FRA", "ITA", "ESP", "NLD", "POL", "ROU", "CZE", "LUX", "SWE",
+    "CHN", "JPN", "KOR", "TWN", "SGP", "AUS", "PHL", "MYS", "VNM", "IDN", "THA", "BRA", "MEX", "ARG",
+    "COL", "CRI", "CHL", "ZAF", "ARE", "SAU", "EGY", "ISR", "TUR"]
 
 # ===== CHẤM ĐIỂM RESUME (cần ANTHROPIC_API_KEY) =====
 model: claude-haiku-4-5-20251001
