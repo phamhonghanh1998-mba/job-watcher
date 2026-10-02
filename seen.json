@@ -1329,6 +1329,7 @@
   "5131034007",
   "5131066007",
   "5131107007",
+  "5131244007",
   "5131438007",
   "5131822007",
   "5131841007",
@@ -2887,6 +2888,7 @@
   "5243068007",
   "5243249007",
   "5243252007",
+  "5243263007",
   "5243380007",
   "5243562007",
   "5243587007",
@@ -3900,7 +3902,8 @@
   "5440817008",
   "5441387008",
   "5441832008",
-  "5442051008"
+  "5442051008",
+  "5442680008"
  ],
  "Applied Materials": [
   "00eaa332-f855-4963-886c-909ac78bce6d",
@@ -4369,6 +4372,7 @@
  "Bank of America": [
   "/job/Atlanta/Private-Client-Advisor-II_26035157-2",
   "/job/Atlanta/Treasury-Sales-Officer-I---Global-Payment-Solutions-Middle-Market_26035236",
+  "/job/Austin/Treasury-Sales-Officer-I_26036451",
   "/job/Boston/Portfolio-Manager-II_26027888-2",
   "/job/Carlsbad/Business-Solutions-Advisor--San-Diego-Inland-Empire-Market_26033442",
   "/job/Chandler/Centralized-Lending-Specialist--Mortgage-Loan-Officer----Chandler--AZ_26032069",
@@ -4584,6 +4588,7 @@
   "5267747008",
   "5267748008",
   "5281304008",
+  "5281312008",
   "5282545008",
   "5282973008",
   "5285765008",
@@ -5764,6 +5769,7 @@
   "/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1",
   "/job/McLean-VA/Manager---Joining-Product-Operations_R1002535-1",
   "/job/McLean-VA/Manager--Counsel---Corporate-and-Strategic-Transactions_R1002669-1",
+  "/job/McLean-VA/Manager--Cyber-Security--Product-Network-Security-_R1001837",
   "/job/McLean-VA/Manager--Data-Science_R1002574-2",
   "/job/McLean-VA/Manager--Data-Scientist---Recommendation---Personalization-Systems_R1002564-1",
   "/job/McLean-VA/Manager--Data-Scientist---Recommendation---Personalization-Systems_R1002604-1",
@@ -5866,6 +5872,7 @@
   "/job/Plano-TX/Full-Stack-Engineer-4_R1001711-2",
   "/job/Plano-TX/Full-Stack-Engineer-5_R1001713-1",
   "/job/Plano-TX/Full-stack-Engineer-4--Manager--IC-_R1001942-1",
+  "/job/Plano-TX/Full-stack-Engineer-4--Tech-College-Engineering_R1001831",
   "/job/Plano-TX/Full-stack-Engineer-4_R1002594-1",
   "/job/Plano-TX/Full-stack-Engineer-4_R1002665-1",
   "/job/Plano-TX/Principal-Associate--Financial-Planning---Analysis---Financial-Services_R999408-2",
@@ -7817,6 +7824,7 @@
   "8855874002",
   "8856501002",
   "8856932002",
+  "8859577002",
   "8862144002",
   "8863326002",
   "8863328002",
@@ -10022,6 +10030,7 @@
   "/job/New-York---1166-Ave-of-Americas/Commercial-Disputes-and-Investigations-Advisory-Senior-Director_JR-0016485",
   "/job/Paris-France/HCM-Senior-Associate-Consultant_JR-0016012",
   "/job/Paris-France/Sales-Enablement-Associate--Charg-e--d-efficacit-commerciale----France_JR-0016391-2",
+  "/job/Pensacola---125-W-Romana/IT-Contact-Support-Intern--Pensacola--Florida---Onsite-Opportunity_JR-0016746",
   "/job/Toronto---55-University-Ave/Digital-Consulting-Intern-Summer-2027--Toronto--Spring-2028-Graduates-_JR-0016127-1"
  ],
  "Instacart": [
@@ -10161,7 +10170,9 @@
   "8246075",
   "8246076",
   "8249751",
-  "8249753"
+  "8249753",
+  "8249894",
+  "8249896"
  ],
  "Intel": [
   "/job/Malaysia-Kulim/Finance-Intern_JR0287472",
@@ -11746,6 +11757,7 @@
   "/job/Shanghai-China-Mainland/Senior-Director--ED-AI--GC_R-90410-1"
  ],
  "Nordstrom": [
+  "/job/Bloomington-MN/Asset-Protection---Agent---America-of-America_R-870954",
   "/job/Chicago-IL/Asset-Protection---Agent---Michigan-Avenue_R-863201",
   "/job/Columbia-SC/Manager---Asset-Protection---Harbison-Court-Rack_R-881259",
   "/job/Columbus-OH/Asset-Protection---Agent---Easton-Town-Center_R-863778",
@@ -14629,6 +14641,7 @@
   "/job/US-CT-MIDDLETOWN-110--Aircraft-Rd--BLDG-110/HR-Employee-Partner--Hybrid-_01877183",
   "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Compressor-Aerodynamics-Intern--Summer-2027--Onsite-_01876152",
   "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/NDT-Inspector---2nd-Shift---Onsite-_01873005-1",
+  "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Production-Machinist---3rd-Shift---Onsite-_01872140-1",
   "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Special-Processes---Operator--2nd-Shift-_01873003-1",
   "/job/US-CT-REMOTE/Digital-Technology---MES-Functional-Analyst--Remote-_01878977",
   "/job/US-CT-REMOTE/Digital-Technology-Vendor-Management-Co-op--REMOTE-_01878154",
@@ -15734,6 +15747,7 @@
   "/job/Germany---Munich/Account-Executive---Agentforce-Service-Platform_JR361182",
   "/job/Germany---Munich/Enterprise-Account-Executive---HLS_JR359655",
   "/job/Germany---Munich/Sales-Intern--North-_JR335815",
+  "/job/Illinois---Chicago/Agentforce-Success-Architect_JR336652",
   "/job/Illinois---Chicago/CSG-Product-Senior-Manager_JR356257-1",
   "/job/Illinois---Chicago/Cloud-Account-Executive_JR358759",
   "/job/Illinois---Chicago/Manager--Revenue-Operational-Transformation_JR361095-1",
@@ -16076,7 +16090,8 @@
   "8247290",
   "8247424",
   "8247429",
-  "8247432"
+  "8247432",
+  "8250008"
  ],
  "Scale AI": [
   "4282118005",
@@ -19643,6 +19658,7 @@
   "8861932002",
   "8862213002",
   "8862389002",
+  "8864165002",
   "8864282002",
   "8864340002"
  ],
@@ -21710,6 +21726,7 @@
   "8240632",
   "8241745",
   "8243556",
+  "8243732",
   "8243889",
   "8244452",
   "8244827",
@@ -22528,7 +22545,9 @@
    "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---User-Experience_Req192109": "2026-10-02"
   },
   "HubSpot": {},
-  "Huron": {},
+  "Huron": {
+   "/job/Pensacola---125-W-Romana/IT-Contact-Support-Intern--Pensacola--Florida---Onsite-Opportunity_JR-0016746": "2026-10-02"
+  },
   "Instacart": {},
   "Intel": {
    "/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544": "2026-10-02",
@@ -23098,6 +23117,9 @@
    "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937": false,
    "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Supply-Chain-and-Logistics_Req191966": false,
    "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---User-Experience_Req192109": false
+  },
+  "Huron": {
+   "/job/Pensacola---125-W-Romana/IT-Contact-Support-Intern--Pensacola--Florida---Onsite-Opportunity_JR-0016746": false
   },
   "Intel": {
    "/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544": false,

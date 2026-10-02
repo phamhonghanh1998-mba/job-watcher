@@ -1,10 +1,10 @@
-# Open matching jobs (399)
+# Open matching jobs (392)
 
-Updated 2026-10-02 19:16 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-02 19:35 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (98)
+## MBA-level (95)
 
 Title or job description mentions an MBA.
 
@@ -33,7 +33,6 @@ Title or job description mentions an MBA.
 | 2026-10-01 | Salesforce | [Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1) | New York - New York |
 | 2026-10-01 | Pinterest | [Master's Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US |
 | 2026-10-01 | Pinterest | [Master's Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US |
-| 2026-10-01 | Oliver Wyman | [Workforce and Rewards Summer Associate (MBA or Master's Track) - Chicago - MBA Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Chicago---155-Wacker/Workforce-and-Rewards-Summer-Associate--MBA-or-Master-s-Track----Chicago---MBA-Program-2027_R_367574-1) | Chicago - 155 Wacker |
 | 2026-10-01 | CVS Health | [Internal Audit Corporate Internship - Summer 2027 (Undergrad)](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Internal-Audit-Corporate-Internship---Summer-2027--Undergrad-_R1058891) | 4 Locations |
 | 2026-10-01 | CVS Health | [Finance Corporate Internship - Summer 2027](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Finance-Corporate-Internship---Summer-2027_R1037710-1) | 3 Locations |
 | 2026-10-01 | Capital One | [MBA Product Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1) | 4 Locations |
@@ -77,7 +76,6 @@ Title or job description mentions an MBA.
 | 2026-09-14 | Amgen | [Grad Intern – Digital Product – Technology, AI & Data (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744) | United States - Remote |
 | 2026-09-10 | Medtronic | [MBA Leadership Development Rotation Program (LDRP) Associate](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/MBA-Leadership-Development-Rotation-Program--LDRP--Associate_R77254-1) | Minneapolis, Minnesota, United States of America |
 | 2026-09-08 | Philips | [MBA Full Time – Operations Leadership Development Program – Nashville, TN; Murrysville, PA; Cambridge, MA - Summer 2027](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/MBA-Full-Time---Operations-Leadership-Development-Program---Nashville--TN--Murrysville--PA--Cambridge--MA---Summer-2027_588665) | 3 Locations |
-| 2026-09-08 | Oliver Wyman | [Workforce and Rewards Summer Associate (MBA or Master's Track) - Los Angeles - MBA Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Los-Angeles---West-5th/Career-Consulting-Summer-Associate--MBA-or-Master-s-Track----Los-Angeles---MBA-Program-2027_R_365103-1) | Los Angeles - West 5th |
 | 2026-09-08 | Nike | [NIKE, Inc. Product Supply Chain (PSC) Footwear & Apparel Graduate Internship](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Product-Supply-Chain--PSC--Footwear---Apparel-Graduate-Internship_R-91695-1) | Beaverton, Oregon |
 | 2026-09-08 | Amgen | [Grad Intern - Operations - Engineering (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349) | US - California - Thousand Oaks |
 | 2026-09-04 | Pfizer | [MBA Marketing Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Marketing-Summer-Associate_4960967) | United States - New York - New York City |
@@ -89,7 +87,6 @@ Title or job description mentions an MBA.
 | 2026-09-02 (30+ days) | Vanguard | [MBA Internship - Investment Management](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/MBA-Internship---Investment-Management_182042) | Malvern, PA |
 | 2026-09-02 (30+ days) | Vanguard | [MBA Development Program - General Management](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/MBA-Development-Program---General-Management_180221) | Malvern, PA |
 | 2026-09-02 (30+ days) | Target | [MBA Intern, Finance Leadership Development Program (FLDP) Internship - (Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/MBA-Intern--Finance-Leadership-Development-Program--FLDP--Internship----Summer-2027-_R0000451066) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |
-| 2026-09-02 (30+ days) | Oliver Wyman | [Oliver Wyman - 2027 MBA Summer Associate - Health & Life Sciences](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Oliver-Wyman---2027-MBA-Summer-Associate---Health---Life-Sciences_R_363378) | 4 Locations |
 | 2026-09-02 (30+ days) | Nike | [NIKE, Inc. Finance Graduate Internship](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Finance-Graduate-Internship_R-91119) | Beaverton, Oregon |
 | 2026-09-02 (30+ days) | Nike | [NIKE, Inc. Marketing Vanguard Program (MVP) Graduate Internship](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Marketing-Vanguard-Program--MVP--Graduate-Internship_R-91139) | Beaverton, Oregon |
 | 2026-09-02 (30+ days) | Mondelez | [Sr. Associate Brand Manager Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Sr-Associate-Brand-Manager-Intern_R-175406) | East Hanover, New Jersey, United States |
@@ -110,7 +107,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (301)
+## Other internships (297)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -125,6 +122,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-02 | PwC (2) | [Portland - Audit - Intern - Winter 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/OR-Portland/Portland---Audit---Intern---Winter-2028_758899WD) | OR-Portland |
 | 2026-10-02 | Philips | [Sales Operations Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Varginha/Sales-Operations-Intern_589725) | Varginha |
 | 2026-10-02 | Medtronic | [Sales Intern](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Cape-Town-Western-Cape-South-Africa/Sales-Intern_R78059-1) | 4 Locations |
+| 2026-10-02 | Huron | [IT Contact Support Intern, Pensacola, Florida - Onsite Opportunity](https://huron.wd1.myworkdayjobs.com/en-US/HuronCareers/job/Pensacola---125-W-Romana/IT-Contact-Support-Intern--Pensacola--Florida---Onsite-Opportunity_JR-0016746) | Pensacola - 125 W Romana |
 | 2026-10-02 | Genentech | [Internship – Agentic AI for Environmental Regulatory Compliance](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819) | Basel |
 | 2026-10-02 | Genentech | [Student Internship in Lab Automation (Pharma Research & Early Development)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Student-Internship-in-Lab-Automation--Pharma-Research---Early-Development-_202609-124621) | Basel |
 | 2026-10-02 | Genentech | [Data Science Intern / Master Thesis Student (Basel, 6 Monate)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516) | Basel |
@@ -247,13 +245,12 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-13 | Clorox | [Supply Chain Intern - Business Track (June 2027)](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Alpharetta-GA---USA/Supply-Chain-Intern---Business-Track--June-2027-_JR23439) | Alpharetta, GA - USA |
 | 2026-09-11 | Qualtrics | [Professional Sales Skillbridge Intern](https://www.qualtrics.com/careers/us/en/job/8193457?gh_jid=8193457) | Dallas, Texas, United States |
 | 2026-09-11 | Lyft | [Data Analyst Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | New York, NY |
-| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
 | 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
+| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
 | 2026-09-11 | Booz Allen Hamilton | [University - Summer 27, Contracts Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249252) | McLean, VA |
 | 2026-09-11 | Booz Allen Hamilton | [University - Summer 27, Contracts Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249253) | McLean, VA |
 | 2026-09-10 | Philips | [Intern of equipment](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/Intern-of-equipment_588627) | Suzhou |
 | 2026-09-10 | Philips | [Manufacturing Engineering Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/Manufacturing-Engineering-Intern_590507) | Suzhou |
-| 2026-09-10 | Oliver Wyman | [Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Honolulu---201-Merchant/Intern_R_365485) | Honolulu - 201 Merchant |
 | 2026-09-10 | Intel | [Parametric Test Module Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Parametric-Test-Module-Intern_JR0286719) | US, Oregon, Hillsboro |
 | 2026-09-10 | Accenture | [Digital Engineering Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) |  |
 | 2026-09-09 | S&P Global | [Machine Learning Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1) | 2 Locations |
@@ -302,8 +299,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-03 | Stryker | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936) | Arlington, Tennessee |
 | 2026-09-03 | Stryker | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937) | Arlington, Tennessee |
 | 2026-09-03 | Stryker | [Engineering Intern, Product Quality](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940) | Tempe, Arizona |
-| 2026-09-03 | Oliver Wyman | [Insurance Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Lincoln---Pine/Insurance-Intern_R_364734) | Lincoln - Pine |
-| 2026-09-03 | Oliver Wyman | [Insurance Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Omaha---Southport/Insurance-Intern_R_364740) | Omaha - Southport |
 | 2026-09-03 | DoorDash | [Product Design, Intern (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8176863) | San Francisco, CA; New York, NY |
 | 2026-09-03 | Abbott | [CRM Clinical Field Intern - Summer 2027](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Abbott-Park/CRM-Clinical-Field-Intern---Summer-2027_31160750) | United States - Illinois - Abbott Park |
 | 2026-09-02 (30+ days) | Vanguard | [Intern- C2C Sales](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/Intern--C2C-Sales_182018) | 3 Locations |
@@ -327,8 +322,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-02 | Roblox | [[Summer 2027] Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA, United States |
 | 2026-09-02 | Philips | [CMM intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Milano/CMM-intern_591022) | Milano |
 | 2026-09-02 (30+ days) | Philips | [KPI Administration Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Huixquilucan-de-Degollado/KPI-Administration-Intern_588004) | Huixquilucan de Degollado |
-| 2026-09-02 (30+ days) | Oliver Wyman | [Summer Sales Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Fort-Lauderdale---Corporate/Summer-Sales-Intern_R_324193) | 2 Locations |
-| 2026-09-02 (30+ days) | Oliver Wyman | [EH&B Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Walnut-Creek---1255-Treat/EH-B-Intern_R_337618) | Walnut Creek - 1255 Treat |
 | 2026-09-02 (30+ days) | NVIDIA | [Applied Research Intern, NLP - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | US, CA, Santa Clara |
 | 2026-09-02 (30+ days) | NVIDIA | [Software Engineering Intern, NCCL - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645) | 2 Locations |
 | 2026-09-02 (30+ days) | Mondelez | [Corporate Finance Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1) | East Hanover, New Jersey, United States |
