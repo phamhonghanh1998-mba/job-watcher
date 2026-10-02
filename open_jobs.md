@@ -1,8 +1,8 @@
-# Open matching jobs (408)
+# Open matching jobs (403)
 
-Updated 2026-10-02 07:23 UTC.
+Updated 2026-10-02 07:27 UTC.
 
-## MBA-level in the title (70)
+## MBA-level in the title (68)
 
 | Company | Role | Location |
 |---|---|---|
@@ -15,8 +15,6 @@ Updated 2026-10-02 07:23 UTC.
 | Adobe | [2027 MBA University Graduate - Product Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-MBA-University-Graduate---Product-Manager_R171900) | 2 Locations |
 | Amazon | [2027 MBA Leadership Development Program (MLDP) Intern](https://www.amazon.jobs/en/jobs/10491603/2027-mba-leadership-development-program-mldp-intern) | Seattle, Washington, USA |
 | Amazon | [2027 MBA Marketing Manager (MM) Internship](https://www.amazon.jobs/en/jobs/10493144/2027-mba-marketing-manager-mm-internship) | Seattle, Washington, USA |
-| Amazon | [2027 Pathways Internship – MBA & Master of Engineering / Operations Leadership / Italy](https://www.amazon.jobs/en/jobs/10544548/2027-pathways-internship-mba-master-of-engineering-operations-leadership-italy) | Fiano Romano, Latium, ITA |
-| Amazon | [MBA/MSc / MEng Leadership Internship 2027 Germany](https://www.amazon.jobs/en/jobs/10554336/mba-msc-meng-leadership-internship-2027-germany) | Leipzig, Saxony, DEU |
 | Amgen | [MBA Intern – Commercial Leadership Program (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/MBA-Intern---Commercial-Leadership-Program--Summer-2027-_R-254479) | United States - Remote |
 | Amgen | [MBA Intern – Finance & Strategy Leadership Development Program (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/MBA-Intern---Finance---Strategy-Leadership-Development-Program--Summer-2027-_R-254491) | United States - Remote |
 | Amgen | [Operations Graduate Program – Summer 2027 Internship](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Operations-Graduate-Program---Summer-2027-Internship_R-254659) | 6 Locations |
@@ -77,7 +75,7 @@ Updated 2026-10-02 07:23 UTC.
 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (338)
+## Other internships (335)
 
 Title doesn't say MBA. Many are for undergrads; phone alerts for these are sent only if the job description mentions an MBA.
 
@@ -116,7 +114,6 @@ Title doesn't say MBA. Many are for undergrads; phone alerts for these are sent 
 | Amazon | [Area Manager Intern - Summer 2027 (California), University Recruiting ](https://www.amazon.jobs/en/jobs/10494789/area-manager-intern-summer-2027-california-university-recruiting) | Rialto, California, USA |
 | Amazon | [Area Manager Intern - Summer 2027 (NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME)](https://www.amazon.jobs/en/jobs/10493373/area-manager-intern-summer-2027-ny-nj-pa-de-md-ct-ma-nh-ri-vt-me) | Somerset, New Jersey, USA |
 | Amazon | [Area Manager Intern - Summer 2027 (WA, OR, ID, MT, WY, NV, UT, CO, AZ, NM), University Recruiting ](https://www.amazon.jobs/en/jobs/10493126/area-manager-intern-summer-2027-wa-or-id-mt-wy-nv-ut-co-az-nm-university-recruiting) | Phoenix, Arizona, USA |
-| Amazon | [Area Manager Intern – Summer 2027 (Canada)](https://www.amazon.jobs/en/jobs/10493062/area-manager-intern-summer-2027-canada) | Whitby, Ontario, CAN |
 | Amazon | [Area Manager Intern – Summer 2027 (MO, OH, KY)](https://www.amazon.jobs/en/jobs/10493329/area-manager-intern-summer-2027-mo-oh-ky) | Akron, Ohio, USA |
 | Amazon | [Area Manager Intern – Summer 2027 (ND, SD, NE, KS, MN, IA, WI, IL, MI, IN)](https://www.amazon.jobs/en/jobs/10493586/area-manager-intern-summer-2027-nd-sd-ne-ks-mn-ia-wi-il-mi-in) | Matteson, Illinois, USA |
 | Amazon | [Area Manager Intern – Summer 2027 (PA, WV, VA)](https://www.amazon.jobs/en/jobs/10493325/area-manager-intern-summer-2027-pa-wv-va) | Fredericksburg, Virginia, USA |
@@ -126,7 +123,6 @@ Title doesn't say MBA. Many are for undergrads; phone alerts for these are sent 
 | Amazon | [Business Strategy & Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA )](https://www.amazon.jobs/en/jobs/10532290/business-strategy-execution-operations-engineering-intern-spring-and-summer-2027-bellevue-wa) | Bellevue, Washington, USA |
 | Amazon | [Construction Manager Internship Spring and Summer 2027 (Bellevue, WA)](https://www.amazon.jobs/en/jobs/10532293/construction-manager-internship-spring-and-summer-2027-bellevue-wa) | Bellevue, Washington, USA |
 | Amazon | [Loss Prevention Specialist Intern 2027](https://www.amazon.jobs/en/jobs/10502807/loss-prevention-specialist-intern-2027) | Fort Worth, Texas, USA |
-| Amazon | [Manufacturing Test Engr Intern, Advanced Manufacturing Engineering](https://www.amazon.jobs/en/jobs/10555788/manufacturing-test-engr-intern-advanced-manufacturing-engineering) | Hanoi, VNM |
 | Amazon | [Operations Engineering Field (Execution) Intern Spring and Summer 2027 (CA, CT, FL, TX)](https://www.amazon.jobs/en/jobs/10532282/operations-engineering-field-execution-intern-spring-and-summer-2027-ca-ct-fl-tx) | Cleburne, Texas, USA |
 | Amazon | [Operations Engineering MHE Lifecycle Spring and Summer 2027 (Bellevue, WA )](https://www.amazon.jobs/en/jobs/10532296/operations-engineering-mhe-lifecycle-spring-and-summer-2027-bellevue-wa) | Bellevue, Washington, USA |
 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
@@ -239,7 +235,6 @@ Title doesn't say MBA. Many are for undergrads; phone alerts for these are sent 
 | GE Aerospace | [Security Intern](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Queretaro/Security-Intern_R5040750) | Queretaro |
 | GE Aerospace | [SW Tool Integration and Development Intern](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Queretaro/SW-Tool-Integration-and-Development-Intern_R5037909-1) | Queretaro |
 | GE HealthCare | [Ventures Intern](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IL03-01-Chicago-500-W-Monroe-St/GEHC-Ventures-Intern_R4045971-1) | IL03-01-Chicago-500 W Monroe St |
-| Genentech | [Operations & Audit Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Panama/Operations---Audit-Intern_202606-116367) | Panama |
 | Guidehouse | [Intern - Energy Providers - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---GA-Atlanta/Intern---Energy-Providers---Campus-2027_44256) | 9 Locations |
 | Guidehouse | [Intern - Federal Civilian Agencies - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Intern---Federal-Civilian-Agencies---Campus-2027_44923) | 2 Locations |
 | Guidehouse | [Intern - Health and Human Services, Federal Health Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Intern---Health-and-Human-Services--Federal-Health-Advisory---Campus-2027_45153) | US - VA, McLean |
