@@ -220,9 +220,12 @@ def mba_in_title(title):
     return has_any(title, CONFIG["keywords"].get("mba_signals", ["MBA"]))
 
 
-def mba_level(job):
-    """Alert only if the title says MBA-level, or the description mentions an MBA."""
-    return mba_in_title(job["title"]) or bool(re.search(r"\bMBA\b", job.get("description", "")))
+MBA_TEXT = re.compile(r"\bMBAs?\b|\bM\.B\.A\b|master[’'`]?s?\s+(?:degree\s+)?(?:of|in)\s+business\s+administration"
+                      r"|business\s+school|graduate\s+business\s+degree", re.I)
+
+
+def mba_in_description(job):
+    return bool(MBA_TEXT.search(job.get("description", "")))
 
 
 def fill_description(job):
@@ -327,6 +330,8 @@ def main():
 
     all_matches = []
     first_seen = seen.setdefault("_first_seen", {})
+    mba_cache = seen.setdefault("_mba", {})
+    pending = []
     with ThreadPoolExecutor(10) as ex:
         results = list(ex.map(fetch, all_companies()))
 
@@ -350,20 +355,42 @@ def main():
         new = [j for j in matches if j["id"] not in known]
         print(f"  {len(jobs)} jobs, {len(matches)} match keywords, {len(new)} new")
 
+        for j in matches:
+            j["company"] = name
         if not first_run:  # first run only records what exists, so you aren't flooded
-            for j in new:
-                j["company"] = name
-                fill_description(j)
-                if not mba_level(j):
-                    print(f"  skipped (no MBA signal): {j['title']}")
-                    continue
-                fit = score_fit(j, resume)
-                if fit is None or fit.get("score", 0) >= min_score:
-                    notify(j, fit)
-                else:
-                    print(f"  skipped (fit {fit.get('score')}): {j['title']}")
+            pending += new
 
         seen[name] = sorted(known | {j["id"] for j in jobs})
+
+    # Classify every match as MBA-level: title first; otherwise read the description ONCE and cache it
+    to_check = []
+    for name, j in all_matches:
+        cache = mba_cache.setdefault(name, {})
+        if mba_in_title(j["title"]):
+            j["mba"] = True
+        elif j["id"] in cache:
+            j["mba"] = cache[j["id"]]
+        else:
+            to_check.append(j)
+    if to_check:
+        print(f"\nReading {len(to_check)} new job descriptions to check for MBA mentions...")
+        with ThreadPoolExecutor(10) as ex:
+            list(ex.map(fill_description, to_check))
+        for j in to_check:
+            j["mba"] = mba_in_description(j)
+            if j["description"]:  # only cache if we actually got the text
+                mba_cache[j["company"]][j["id"]] = j["mba"]
+
+    for j in pending:
+        if not j.get("mba"):
+            print(f"  skipped (no MBA signal): {j['company']}: {j['title']}")
+            continue
+        fill_description(j)
+        fit = score_fit(j, resume)
+        if fit is None or fit.get("score", 0) >= min_score:
+            notify(j, fit)
+        else:
+            print(f"  skipped (fit {fit.get('score')}): {j['company']}: {j['title']}")
 
     SEEN_FILE.write_text(json.dumps(seen, indent=1, sort_keys=True))
 
@@ -391,23 +418,23 @@ def main():
             f"| {j['location'].replace('|', '/')} |" for c, j in items]
 
     def page(order_name, other_file, other_name, sorter):
-        mba = sorter([r for r in rows if mba_in_title(r[1]["title"])])
-        other = sorter([r for r in rows if not mba_in_title(r[1]["title"])])
+        mba = sorter([r for r in rows if r[1].get("mba")])
+        other = sorter([r for r in rows if not r[1].get("mba")])
         return mba, ["# Open matching jobs (%d)" % len(rows), "",
                 f"Updated {time.strftime('%Y-%m-%d %H:%M UTC', time.gmtime())}. "
                 f"Sorted by **{order_name}**. Switch to [{other_name}]({other_file}).", "",
                 "*Posted* comes from the company's job board. \"~ (first seen)\" means the board gives no "
                 "date, so it shows when the tracker first saw the job.", "",
-                f"## MBA-level in the title ({len(mba)})", "", *table(mba), "",
+                f"## MBA-level ({len(mba)})", "", "Title or job description mentions an MBA.", "", "", *table(mba), "",
                 f"## Other internships ({len(other)})", "",
-                "Title doesn't say MBA. Many are for undergrads; phone alerts for these are sent only "
-                "if the job description mentions an MBA.", "", *table(other)]
+                "Neither the title nor the description mentions an MBA. Mostly undergrad roles; "
+                "no phone alerts for these.", "", *table(other)]
 
     mba, md_date = page("date posted (newest first)", "open_jobs_by_company.md", "sort by company", by_date)
     _, md_co = page("company name", "open_jobs.md", "sort by date posted", lambda x: sorted(x, key=by_company))
     (ROOT / "open_jobs.md").write_text("\n".join(md_date) + "\n", encoding="utf-8")
     (ROOT / "open_jobs_by_company.md").write_text("\n".join(md_co) + "\n", encoding="utf-8")
-    print(f"\nTOTAL: {len(rows)} open matching jobs ({len(mba)} say MBA in the title) "
+    print(f"\nTOTAL: {len(rows)} open matching jobs ({len(mba)} MBA-level) "
           f"across {len({c for c, _ in rows})} companies")
 
 

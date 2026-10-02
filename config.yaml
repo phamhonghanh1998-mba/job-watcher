@@ -7,7 +7,7 @@ keywords:
   exclude: ["Co-op", "Coop", "Apprentice", "PhD", "Undergraduate", "Bachelor", "Software Engineer", "Software Development",
             "Hardware", "Research Scientist", "Data Scientist", "High School"]
   # Title words that mean "MBA-level". Jobs without these only alert if the description mentions an MBA.
-  mba_signals: ["MBA", "Summer Associate", "Graduate", "Masters", "Master's", "Post-Graduate"]
+  mba_signals: ["MBA", "Summer Associate", "Senior Associate", "Graduate", "Masters", "Master's", "Post-Graduate"]
   # MẢNG VIỆC: để [] = không giới hạn mảng (đang dùng).
   # Muốn thu hẹp sau này thì điền, VD: ["Product Manager", "Strategy", "Finance", "Marketing"]
   roles: []
