@@ -10,9 +10,19 @@ keywords:
   # Muốn thu hẹp sau này thì điền, VD: ["Product Manager", "Strategy", "Finance", "Marketing"]
   roles: []
   # Để trống [] nếu nhận mọi địa điểm
-  locations: ["Seattle", "Bellevue", "Redmond", "WA", "Remote", "United States", "USA", "US",
-              "New York", "San Francisco", "Bay Area", "Mountain View", "Sunnyvale", "San Jose",
-              "Palo Alto", "Menlo Park", "Cupertino", "Santa Clara", "Austin", "Los Angeles"]
+  # A job is KEPT if its location mentions any of these...
+  locations: ["United States", "USA", "US", "Remote"]
+  # ...and otherwise DROPPED only if it names one of these non-US places.
+  # Anything else (Chicago, Minneapolis, "2 Locations"...) is kept.
+  exclude_locations: ["India", "Bangalore", "Bengaluru", "Hyderabad", "Pune", "Mumbai", "Gurgaon",
+    "Canada", "Toronto", "Vancouver", "Montreal", "United Kingdom", "UK", "London", "Ireland", "Dublin",
+    "Germany", "Berlin", "Munich", "France", "Paris", "Netherlands", "Amsterdam", "Spain", "Madrid",
+    "Italy", "Switzerland", "Zurich", "Poland", "Warsaw", "Krakow", "Romania", "Czech", "Prague",
+    "Hungary", "Budapest", "Sweden", "Denmark", "Belgium", "Portugal", "Lisbon", "Israel", "Tel Aviv",
+    "China", "Shanghai", "Beijing", "Hong Kong", "Japan", "Tokyo", "Korea", "Seoul", "Taiwan",
+    "Singapore", "Malaysia", "Philippines", "Manila", "Vietnam", "Australia", "Sydney", "Melbourne",
+    "New Zealand", "Mexico", "Brazil", "Sao Paulo", "Argentina", "Colombia", "Costa Rica", "Chile",
+    "South Africa", "UAE", "Dubai", "Saudi Arabia", "EMEA", "APAC", "LATAM"]
 
 # ===== CHẤM ĐIỂM RESUME (cần ANTHROPIC_API_KEY) =====
 model: claude-haiku-4-5-20251001

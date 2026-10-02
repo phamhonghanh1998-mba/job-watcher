@@ -6,6 +6,7 @@ import html
 import json
 import os
 import re
+import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
@@ -172,9 +173,17 @@ def title_matches(title):
     return has_any(title, k.get("generic_ok", [])) and not has_any(title, k.get("other_functions", []))
 
 
+US_STATE = re.compile(r",\s*(A[KLRZ]|C[AOT]|D[CE]|FL|GA|HI|I[ADLN]|K[SY]|LA|M[ADEINOST]|N[CDEHJMVY]|O[HKR]|"
+                      r"PA|RI|S[CD]|T[NX]|UT|V[AT]|W[AIVY])\b")
+
+
 def location_ok(loc):
-    wanted = CONFIG["keywords"].get("locations", [])
-    return not wanted or not loc or has_any(loc, wanted)
+    """Keep anything in the US: drop a job only if its location names a non-US place
+    and nothing US-related. Vague labels like "2 Locations" are kept."""
+    k = CONFIG["keywords"]
+    if not loc or has_any(loc, k.get("locations", [])) or US_STATE.search(loc):
+        return True
+    return not has_any(loc, k.get("exclude_locations", []))
 
 
 def fill_description(job):
@@ -237,7 +246,8 @@ def score_fit(job, resume):
 # ---------------------------------------------------------------- alerts
 
 def notify(job, fit):
-    topic = os.environ.get("NTFY_TOPIC") or CONFIG.get("ntfy_topic")
+    topic = (os.environ.get("NTFY_TOPIC") or CONFIG.get("ntfy_topic") or "").strip().rstrip("/")
+    topic = topic.rsplit("/", 1)[-1]  # accept "https://ntfy.sh/name" as well as "name"
     header = f"{job['company']}: {job['title']}"
     body = job["location"] or ""
     priority = 3
@@ -246,9 +256,10 @@ def notify(job, fit):
         priority = 5 if fit.get("score", 0) >= CONFIG.get("high_fit_score", 75) else 3
     print(f"  NEW -> {header}\n     {body}\n     {job['url']}")
     if topic:
-        requests.post("https://ntfy.sh/", timeout=TIMEOUT,
+        resp = requests.post("https://ntfy.sh/", timeout=TIMEOUT,
                       json={"topic": topic, "title": header[:250], "message": body,
                             "click": job["url"], "priority": priority, "tags": ["briefcase"]})
+        print(f"     ntfy -> topic '{topic}': HTTP {resp.status_code}")
 
 
 # ---------------------------------------------------------------- main
@@ -275,6 +286,7 @@ def main():
     resume = load_resume()
     min_score = CONFIG.get("min_fit_score", 0)
 
+    all_matches = []
     with ThreadPoolExecutor(10) as ex:
         results = list(ex.map(fetch, all_companies()))
 
@@ -288,6 +300,7 @@ def main():
         first_run = name not in seen
         known = set(seen.get(name, []))
         matches = [j for j in jobs if title_matches(j["title"]) and location_ok(j["location"])]
+        all_matches += [(name, j) for j in matches]
         new = [j for j in matches if j["id"] not in known]
         print(f"  {len(jobs)} jobs, {len(matches)} match keywords, {len(new)} new")
 
@@ -304,6 +317,17 @@ def main():
         seen[name] = sorted(known | {j["id"] for j in jobs})
 
     SEEN_FILE.write_text(json.dumps(seen, indent=1, sort_keys=True))
+
+    # Always-current list of every open matching job, viewable in the repo
+    rows = sorted(all_matches, key=lambda x: (x[0].lower(), x[1]["title"].lower()))
+    md = [f"# Open matching jobs ({len(rows)})", "",
+          f"Updated {time.strftime('%Y-%m-%d %H:%M UTC', time.gmtime())}. "
+          "Every MBA-level internship currently open at tracked companies.", "",
+          "| Company | Role | Location |", "|---|---|---|"]
+    md += [f"| {c} | [{j['title'].replace('|', '/')}]({j['url']}) | {j['location'].replace('|', '/')} |"
+           for c, j in rows]
+    (ROOT / "open_jobs.md").write_text("\n".join(md) + "\n", encoding="utf-8")
+    print(f"\nTOTAL: {len(rows)} open matching jobs across {len({c for c, _ in rows})} companies")
 
 
 if __name__ == "__main__":
