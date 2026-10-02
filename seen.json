@@ -2951,6 +2951,7 @@
   "5246712007",
   "5246717007",
   "5246746007",
+  "5246753007",
   "5246780007",
   "5246822007",
   "5246823007",
@@ -3214,6 +3215,7 @@
   "5254411007",
   "5254434007",
   "5254448007",
+  "5254633007",
   "5254684007",
   "5254808007",
   "5254831007",
@@ -3224,7 +3226,9 @@
   "5255549007",
   "5255550007",
   "5255555007",
-  "5255560007"
+  "5255560007",
+  "5255572007",
+  "5255593007"
  ],
  "Anthropic": [
   "4017331008",
@@ -3882,6 +3886,7 @@
   "5440812008",
   "5440817008",
   "5441387008",
+  "5441832008",
   "5442051008"
  ],
  "Applied Materials": [
@@ -5448,6 +5453,7 @@
   "/job/MA---Work-from-home/Lead-Director-Digital-Product---Clinic-Operations-and-Ambulatory-Workflows_R1050461",
   "/job/MD---Bethesda/Pharmacy-Intern_R1061479",
   "/job/MI---Detroit/Medical-Scribe_R1061773",
+  "/job/MI---Work-from-home/Medical-Director_R1041199-1",
   "/job/MN---Work-from-home/Adjudication-Associate--Omnicare----Overnight_R1046531-1",
   "/job/MN---Work-from-home/Distinguished-Engineer--Developer-Experience_R1045243",
   "/job/MN---Work-from-home/Senior-Development-Engineer-I---CAP-UI_R1056846",
@@ -5655,6 +5661,8 @@
   "/job/Bangalore-In/Principal-Associate--L-D_R999830",
   "/job/Bangalore-In/Principal-Associate--Risk-Management_R1001986",
   "/job/Cambridge-MA/Full-stack-Engineer-4--Python--Typescript--React--AWS-_R1002586-2",
+  "/job/Chicago-IL/Analyst--Speciality-Underwriter---Portfolio-Manager---Healthcare-Real-Estate_R1002852-1",
+  "/job/Chicago-IL/Associate--Speciality-Underwriter---Portfolio-Manager---Healthcare-Real-Estate_R1002853-2",
   "/job/Chicago-IL/Full-Stack-Engineer-4_R1002519-1",
   "/job/Chicago-IL/Full-Stack-Engineer-4_R1002591-1",
   "/job/Chicago-IL/Full-stack-Engineer-4_R1001741-2",
@@ -9295,9 +9303,11 @@
   "/job/Remote/Radiopharma-Strategic-Accounts-Sales-Leader_R4046768-1",
   "/job/Remote/Regional-Modality-Leader---Mammography--Houston-_R4047188-1",
   "/job/Remote/Senior-Program-Manager---Ultrasound-Probes_R4043072-1",
+  "/job/Remote/Service-Operations-General-Manager--EAGM-Zone_R4046214-2",
   "/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
   "/job/Remote/Ultrasound-Field-Service-Engineer_R4046809-1",
   "/job/Riyadh/Logistic-Specialist_R4047002-1",
+  "/job/Salt-Lake-City/Electronics-Technician--2nd-Shift---M-F-3-30-PM---12-00-AM-_R4042918-1",
   "/job/Sao-Paulo/Global-Compliance-Manager_R4047067-1",
   "/job/Sao-Paulo/National-Sales-Director---Brazil_R4046910-1",
   "/job/Sao-Paulo/S-OP-Leader---LATAM_R4046746-1",
@@ -9474,6 +9484,7 @@
   "/job/US---LA-Baton-Rouge/Associate-Director--Management-Consulting---State-and-Local-Government---Louisiana_37930",
   "/job/US---MA-Boston/Intern---State-and-Local-Government---Campus-2027_44623",
   "/job/US---NY-New-York/Financial-Services-Senior-Consultant_39458",
+  "/job/US---OH-Columbus/Senior-Consultant--Guidehouse-State-and-Local-Government_41717",
   "/job/US---OK-Oklahoma-City/Senior-Consultant---State-and-Local-Government---Oklahoma-City--OK_38276",
   "/job/US---Remote-Any-location/Management-Consultant---Defense---Security--Internal-Controls---Fraud_44927",
   "/job/US---TX-San-Antonio/Business-Process-Improvement-and-Internal-Control-Senior-Specialist_44550",
@@ -9597,6 +9608,7 @@
   "8226992",
   "8227773",
   "8230894",
+  "8231833",
   "8232302",
   "8233276",
   "8241804"
@@ -10417,6 +10429,7 @@
   "/job/Bogota-Colombia/Senior-Analyst--Financial-Planning---Analysis---Services--SERV-_R-288753-1",
   "/job/Bogota-Colombia/Senior-Analyst--Financial-Planning---Analysis_R-291495",
   "/job/Bogota-Colombia/Senior-Information-Security-Operations-Analyst_R-276438-1",
+  "/job/Bogota-Colombia/Sr-Analyst--Learning---Development--Learning-Infrastructure_R-292464",
   "/job/Buenos-Aires-Argentina/Junior-Technical-Project-Manager_R-292530",
   "/job/Cairo-Egypt/Associate-Consultant-Intern--Summer-2027---Egypt_R-287591-2",
   "/job/Casablanca-Morocco/Associate-Consultant-Intern--Winter-2027---Morocco_R-287592-2",
@@ -10819,6 +10832,7 @@
   "/job/Boise-ID---Main-Site/Senior-Global-Energy-Procurement-and-Strategy-Manager_JR111236",
   "/job/Boise-ID---Main-Site/Senior-Layout-Designer---Pathfinding_JR105318",
   "/job/Boise-ID---Main-Site/Senior-Manager--AI-Enablement_JR87239",
+  "/job/Boise-ID---Main-Site/Senior-Member-of-Technical-Staff--Advanced-DRAM-Overlay-Engineer_JR109327",
   "/job/Boise-ID---Main-Site/Senior-Sales-Development-Representative_JR106810",
   "/job/Boise-ID---Main-Site/Sr-AV-Development-Engineer_JR113326-1",
   "/job/Boise-ID---Main-Site/Sr-Engineer--Photo-DRAM_JR105477",
@@ -11742,6 +11756,7 @@
   "adb34b7e-89f3-4365-9f8f-4c98d50cc0fd",
   "b06005d2-e24b-467b-b7ea-783bac7366da",
   "b21fef72-4864-4a3e-a627-91557a0f8a36",
+  "b49d4c15-d716-4a52-8858-1a89319f3191",
   "b58ad3ae-5fdd-4a9f-9ef5-0c0f3ebce147",
   "b7518817-864a-41d2-bc51-962691bc0265",
   "b8af287c-c2b2-4213-859d-87fffbc82546",
@@ -13501,7 +13516,8 @@
   "8227311",
   "8227324",
   "8231489",
-  "8233189"
+  "8233189",
+  "8245795"
  ],
  "Perplexity": [
   "0190699f-010b-44f2-8399-278899fef018",
@@ -16733,6 +16749,7 @@
   "f607346e-1368-40d1-86bb-994ae0c195f3",
   "f626547b-0f72-48f3-bbfd-97e6586f472a",
   "f6a295e5-4651-4d60-81be-0b98adae30f0",
+  "f8fda7c9-e3b0-43f4-9e56-bf6e35447d87",
   "f991db58-6bc1-40b2-a1b9-97d4d2b20a83",
   "fbe83368-7436-4ef1-b7b3-ee7941961709",
   "fc1923c1-b151-4458-a792-40d58331a5be",
@@ -20384,6 +20401,7 @@
   "/job/Muntinlupa-Filinvest-3-PH/Manager--Controllership_2602561",
   "/job/Muntinlupa-Filinvest-3-PH/Vice-President--Finance_2602546-2",
   "/job/NYC-Bryant-Park-Hub/VP--Health---Wellness---Dental-Growth-Analytics_2601345-1",
+  "/job/Phoenix-Engagement-Hub-AZ/VP--Hub-Leader_2600637-3",
   "/job/Stamford-Hub/BLP-Intern---Sales_2601694",
   "/job/Stamford-Hub/Project-Coordinator_2602416",
   "/job/Stamford-Hub/SVP--AI-Governance_2602600",
@@ -20846,7 +20864,9 @@
   "8242950",
   "8243136",
   "8243971",
-  "8244028"
+  "8244028",
+  "8249586",
+  "8249589"
  ],
  "Twilio": [
   "6372770",
@@ -20993,6 +21013,7 @@
   "8241250",
   "8244723",
   "8245812",
+  "8249194",
   "8249285"
  ],
  "US Bank": [
@@ -22106,7 +22127,8 @@
    "5148101007": "2026-10-02",
    "5153187007": "2026-10-02",
    "5153218007": "2026-10-02",
-   "5236893007": "2026-10-02"
+   "5236893007": "2026-10-02",
+   "5255593007": "2026-10-02"
   },
   "Anthropic": {},
   "Applied Materials": {
@@ -22718,7 +22740,8 @@
    "5148101007": false,
    "5153187007": false,
    "5153218007": false,
-   "5236893007": false
+   "5236893007": false,
+   "5255593007": false
   },
   "Applied Materials": {
    "91e0686e-272a-4780-b33d-d7860b94a7b4": false,
