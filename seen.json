@@ -3884,6 +3884,7 @@
   "5436684008",
   "5436697008",
   "5436703008",
+  "5436826008",
   "5437172008",
   "5437262008",
   "5437933008",
@@ -5337,6 +5338,7 @@
   "/job/AZ---Phoenix/Pharmacy-Intern_R1063715",
   "/job/AZ---Phoenix/Pharmacy-Intern_R1063751",
   "/job/AZ---Phoenix/Pharmacy-Intern_R1063787",
+  "/job/AZ---Scottsdale/Manager-Informatics_R1024797",
   "/job/AZ---Scottsdale/Pharmacy-Benefits-Management--PBM--Underwriting--Senior-Analyst_R0969670",
   "/job/AZ---Scottsdale/Senior-Analyst---Healthcare-Regulatory-Reporting_R1054045",
   "/job/AZ---Work-from-home/Analyst--Financial-Operations_R1058500",
@@ -5440,6 +5442,7 @@
   "/job/HI---Kapolei/Distribution-Center-Shipping-Supervisor----Kapolei--HI-_R0990837",
   "/job/IA---Des-Moines/Outreach-Executive_R1061320",
   "/job/IA---Iowa-City/Pharmacy-Intern_R1063743",
+  "/job/IA---Urbandale/Pharmacy-Intern_R1064396",
   "/job/IL---Aurora/Care-Manager-Registered-Nurse---Field--DuPage--Kane--DeKalb--Kendall-Counties--IL-_R1039614",
   "/job/IL---Aurora/Case-Management-Coordinator---Field--DuPage--Kane--DeKalb--Kendall-_R1039543",
   "/job/IL---Aurora/Case-Manager-Registered-Nurse---Field--Kane-and-LaSalle-Counties-_R1054948",
@@ -5477,6 +5480,7 @@
   "/job/IN---Indianapolis/Medical-Scribe_R1057912",
   "/job/IN---Lafayette/Pharmacy-Intern_R1062787",
   "/job/IN---Lafayette/Pharmacy-Intern_R1063124",
+  "/job/IN---West-Lafayette/Pharmacy-Intern_R1064402",
   "/job/IRL---Galway/Senior-DevSecOps-Engineer_R1012405",
   "/job/IRL---Galway/Tech-College-Intern_R1038031",
   "/job/IRL---Galway/Workday-Integration-Developer_R1053067",
@@ -6832,6 +6836,7 @@
   "8247397",
   "8247401",
   "8247881",
+  "8248766",
   "8248775",
   "8249920"
  ],
@@ -6853,6 +6858,7 @@
   "/job/Spain---Barcelona/EMEA-HR-Compliance-Manager_R30021-1",
   "/job/Spain---Remote/Sr-Manager--Environmental-Health---Safety--Remote--ESP-_R30120",
   "/job/USA---Arlington-VA/Professional-Services-Explorer-Intern---Summer-2027--Arlington--VA-_R30155",
+  "/job/USA---Austin-TX/Global-Sales-Programs-Intern--Summer-2027-_R30217",
   "/job/USA---Austin-TX/Sr-Manager--Engineering---Data-Analytics-Infrastructure--Hybrid-_R29506",
   "/job/USA---New-York-NY/Sr-Manager--Engineering---Semantic-Data-Modeling-Framework--Hybrid-_R29507",
   "/job/USA---New-York-NY/Sr-Software-Engineer--Cloud---Analytics-Platform_R29257",
@@ -9429,6 +9435,7 @@
   "/job/Waukesha/Commercial-Sales-Leadership-Program-Internship_R4043921-1",
   "/job/Waukesha/Executive-Administrator_R4046652-2",
   "/job/Waukesha/Lead-Supplier-Quality-Engineer---MR_R4046908-1",
+  "/job/Waukesha/Operations-Management-Leadership-Program---Internship_R4046211-1",
   "/job/Waukesha/Principal-Program-Manager---Anesthesia_R4044328"
  ],
  "Genentech": [
@@ -11047,6 +11054,7 @@
   "/job/Manassas-VA----Fab-6/Facilities--Electrical-Technician--Manassas--VA_JR112357",
   "/job/Manassas-VA----Fab-6/Industrial-Engineer_JR110610",
   "/job/Manassas-VA----Fab-6/Logistics-Security-Intelligence-Analyst_JR112558",
+  "/job/Manassas-VA----Fab-6/Logistics-Security-Program-Manager--Americas---Europe-Region_JR109127",
   "/job/Manassas-VA----Fab-6/New-College-Grad---DIR-Process-Engineer_JR113799",
   "/job/Manassas-VA----Fab-6/R2R-FAB-Engineer_JR113499",
   "/job/Manassas-VA----Fab-6/Superintendent_JR111590",
@@ -13607,6 +13615,7 @@
   "/job/San-Jose-California-United-States-of-America/Legal-Counsel--XO---PayPal_R0138005",
   "/job/San-Jose-California-United-States-of-America/Manager--Corporate-Strategy_R0137882",
   "/job/San-Jose-California-United-States-of-America/Sr-Legal-Counsel---Checkout-and-PayPal_R0138251",
+  "/job/San-Jose-California-United-States-of-America/Sr-Manager--Corporate-Strategy_R0137898",
   "/job/San-Jose-California-United-States-of-America/Sr-Manager--Network-Compliance---Payment-Partner-Oversight_R0135018-1",
   "/job/San-Jose-California-United-States-of-America/Sr-Manager--Product-Sales_R0137481",
   "/job/San-Jose-California-United-States-of-America/Sr-Manager--Product-Sales_R0137482",
@@ -14518,6 +14527,7 @@
   "/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/Principal-Systems---Cyber-Security-Specialist_01879094",
   "/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/WTRSS-Operations-Lead_01877068",
   "/job/CA-AB-CALGARY-111--919-72nd-Ave-NE--72ND-AVE-Ste-A/Principal-Engineer_01879396",
+  "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Manufacturing-Line-Manager---Assembly-Lines_01877946",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Adjoint-e--excutif-ve----Executive-Assistant_01878004-1",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Coordonnateur-interventions---Traabilit---Certificat-de-conformit-lectronique-et-analyste-de-donnes-SQA---eCofC---Traceability-Coordinator---Data-Analyst--SQA-_01869954",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Directeur-associ---Performance-stratgique-des-fournisseurs---Value-Stream-Manager_01877987",
@@ -16639,6 +16649,7 @@
   "1cc80dac-67af-4e27-9e17-2fb9ecf683f3",
   "1d940622-e9ae-4b70-80ac-81a55d350fa7",
   "1dc688b3-90b1-4c83-89b8-fee512638de1",
+  "1ebb1380-17b4-472b-86c1-2bbfa6f53b8a",
   "1f8252af-5383-44ad-ae97-4c555bc48adc",
   "21521ab5-27e7-47ae-b425-48b5e6cc96da",
   "21bfc3fe-827c-46e9-bc56-d0a676a6d9d0",
@@ -19713,7 +19724,15 @@
   "8864165002",
   "8864282002",
   "8864340002",
-  "8864349002"
+  "8864349002",
+  "8864549002",
+  "8864552002",
+  "8864582002",
+  "8864583002",
+  "8864869002",
+  "8864873002",
+  "8864877002",
+  "8864879002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -20573,6 +20592,7 @@
   "/job/Gurugram-India/Sales-Coordinator_R571044",
   "/job/Haryana-Gurugram-International-Techpark-Block-I-Phase-1-Floors-G-3-4-5/Senior-Medical-Writer_R571020",
   "/job/Hyderabad-India/Associate-MPS_R565546",
+  "/job/Irvine-California/Staff-International-Regulatory-Affairs-Specialist_R568867",
   "/job/Kolkata-India/Key-account-manager_R570678",
   "/job/Mahwah-New-Jersey/Associate-Manager--Communications_R571833",
   "/job/Massachusetts-Virtual-Address/Mechanical-Engineering-Intern_R572943-1",
@@ -21098,7 +21118,13 @@
   "8243971",
   "8244028",
   "8249586",
-  "8249589"
+  "8249589",
+  "8250150",
+  "8250153",
+  "8250158",
+  "8250159",
+  "8250164",
+  "8250173"
  ],
  "Twilio": [
   "6372770",
@@ -21371,11 +21397,13 @@
   "/job/US---Ashburn-VA/Director--Risk-Practice---Visa-Consulting---Analytics_REF088047W",
   "/job/US---Ashburn-VA/Sr-Manager--Cybersecurity-Advisory_REF088839W",
   "/job/US---Atlanta-GA/Counsel--Global-Regulatory-Affairs_REF088308W",
+  "/job/US---Atlanta-GA/Director--B2B-Acquirer-Engagement_REF088438W",
   "/job/US---Atlanta-GA/Director--Cross-Border-Risk-Business-Partner_REF088870W",
   "/job/US---Atlanta-GA/Program-Manager--Compliance_REF088442W",
   "/job/US---Atlanta-GA/Sr-Associate-Counsel_REF082632W",
   "/job/US---Austin-TX/Data---Insights-Analyst_REF089001W",
   "/job/US---Austin-TX/ML-Engineer--Sr-Consultant_REF088834W",
+  "/job/US---Austin-TX/Senior-Data-Scientist--AI-Solutions-Engineering---Client-Services_REF088746W",
   "/job/US---Austin-TX/Sr-ML-Engineer_REF088545W",
   "/job/US---Austin-TX/Sr-Manager--Software-Engineering_REF088807W",
   "/job/US---Austin-TX/Sr-SW-AI-Engineer_REF085174W-2",
@@ -21791,6 +21819,7 @@
   "8245284",
   "8248060",
   "8248270",
+  "8248314",
   "8248394"
  ],
  "Workday": [
@@ -22441,7 +22470,9 @@
    "/job/CT---Hartford/Internal-Audit-Corporate-Internship---Summer-2027--Undergrad-_R1058891": "2026-10-02",
    "/job/HI---Hilo/Pharmacy-Intern_R0913597": "2026-10-02",
    "/job/IA---Iowa-City/Pharmacy-Intern_R1063743": "2026-10-02",
+   "/job/IA---Urbandale/Pharmacy-Intern_R1064396": "2026-10-02",
    "/job/IN---Lafayette/Pharmacy-Intern_R1063124": "2026-10-02",
+   "/job/IN---West-Lafayette/Pharmacy-Intern_R1064402": "2026-10-02",
    "/job/LA---Lake-Charles/Pharmacy-Intern_R0998353": "2026-10-02",
    "/job/MS---Jackson/Pharmacy-Intern_R1063815": "2026-10-02",
    "/job/NC---Morrisville/Pharmacy-Intern_R1063939": "2026-10-02",
@@ -22516,7 +22547,8 @@
    "8221241": "2026-10-02"
   },
   "CrowdStrike": {
-   "/job/USA---Arlington-VA/Professional-Services-Explorer-Intern---Summer-2027--Arlington--VA-_R30155": "2026-10-02"
+   "/job/USA---Arlington-VA/Professional-Services-Explorer-Intern---Summer-2027--Arlington--VA-_R30155": "2026-10-02",
+   "/job/USA---Austin-TX/Global-Sales-Programs-Intern--Summer-2027-_R30217": "2026-10-02"
   },
   "Danaher": {},
   "Databricks": {
@@ -22556,7 +22588,8 @@
   },
   "GE HealthCare": {
    "/job/IL03-01-Chicago-500-W-Monroe-St/GEHC-Ventures-Intern_R4045971-1": "2026-10-02",
-   "/job/Remote/Instructional-Design-Intern_R4047208-1": "2026-10-02"
+   "/job/Remote/Instructional-Design-Intern_R4047208-1": "2026-10-02",
+   "/job/Waukesha/Operations-Management-Leadership-Program---Internship_R4046211-1": "2026-10-02"
   },
   "Genentech": {
    "/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516": "2026-10-02",
@@ -23042,7 +23075,9 @@
    "/job/CT---Hartford/Internal-Audit-Corporate-Internship---Summer-2027--Undergrad-_R1058891": true,
    "/job/HI---Hilo/Pharmacy-Intern_R0913597": false,
    "/job/IA---Iowa-City/Pharmacy-Intern_R1063743": false,
+   "/job/IA---Urbandale/Pharmacy-Intern_R1064396": false,
    "/job/IN---Lafayette/Pharmacy-Intern_R1063124": false,
+   "/job/IN---West-Lafayette/Pharmacy-Intern_R1064402": false,
    "/job/LA---Lake-Charles/Pharmacy-Intern_R0998353": false,
    "/job/MS---Jackson/Pharmacy-Intern_R1063815": false,
    "/job/NC---Morrisville/Pharmacy-Intern_R1063939": false,
@@ -23105,7 +23140,8 @@
    "8221241": false
   },
   "CrowdStrike": {
-   "/job/USA---Arlington-VA/Professional-Services-Explorer-Intern---Summer-2027--Arlington--VA-_R30155": false
+   "/job/USA---Arlington-VA/Professional-Services-Explorer-Intern---Summer-2027--Arlington--VA-_R30155": false,
+   "/job/USA---Austin-TX/Global-Sales-Programs-Intern--Summer-2027-_R30217": false
   },
   "Databricks": {
    "6883068002": false,
@@ -23139,7 +23175,8 @@
   },
   "GE HealthCare": {
    "/job/IL03-01-Chicago-500-W-Monroe-St/GEHC-Ventures-Intern_R4045971-1": true,
-   "/job/Remote/Instructional-Design-Intern_R4047208-1": false
+   "/job/Remote/Instructional-Design-Intern_R4047208-1": false,
+   "/job/Waukesha/Operations-Management-Leadership-Program---Internship_R4046211-1": false
   },
   "Genentech": {
    "/job/Basel/Data-Science-Intern---Master-Thesis-Student--Basel--6-Monate-_202609-124516": false,
