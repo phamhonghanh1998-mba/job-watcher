@@ -10730,6 +10730,7 @@
   "/job/Taichung---Fab-16-Taiwan/MGR--PHOTO-DUV-PE_JR113661-1",
   "/job/Taichung---Fab-16-Taiwan/PDE-NPI-PWF-Process-Engineer_JR105575-1",
   "/job/Taichung---Fab-16-Taiwan/Principle-Ramp-Expansion-Supplier-Manager_JR113547",
+  "/job/Taichung---Fab-16-Taiwan/Shift-Nurse_JR113170",
   "/job/Taichung---Fab-16-Taiwan/_JR113986",
   "/job/Taichung---Fab-16-Taiwan/_JR113987",
   "/job/Taichung---MTB-Taiwan/Engineer--MTB-Site-Planner_JR112483",
@@ -21652,6 +21653,606 @@
   "5253418007",
   "5253726007"
  ],
+ "_first_seen": {
+  "3M": {
+   "/job/US-Minnesota-Maplewood/Internship---2027-MBA-IT-Enterprise-Application-Intern_R01171129": "2026-10-02"
+  },
+  "Abbott": {
+   "/job/United-States---Illinois---Abbott-Park/CRM-Clinical-Field-Intern---Summer-2027_31160750": "2026-10-02",
+   "/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432": "2026-10-02",
+   "/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Finance-Cancer-Diagnostics-Intern_31161561": "2026-10-02",
+   "/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-IT-Cancer-Diagnostics-Intern_31162235": "2026-10-02",
+   "/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Operations-Cancer-Diagnostics-Intern_31162236": "2026-10-02",
+   "/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Sales-Cancer-Diagnostics-Intern_31161558": "2026-10-02"
+  },
+  "Accenture": {
+   "/job/Amsterdam/Internship---Risk_R00337862": "2026-10-02",
+   "/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505": "2026-10-02",
+   "/job/Assago-Via-del-Mulino-11a/Finance-Transformation-Analyst---Intern_R00356849": "2026-10-02",
+   "/job/Assago-Via-del-Mulino-11a/Talent-Transformation-Analyst---Intern_R00356463": "2026-10-02",
+   "/job/Assago/Banking-and-Financial-Regulation-Intern_R00279783": "2026-10-02",
+   "/job/Athens-Arcadias/Global-S-C-Networks-Internship-Program---Athens_R00284676": "2026-10-02",
+   "/job/Brussels/Internship---Management-Consulting-Intern--Song-Services---As-of-February-2027_R00357681": "2026-10-02",
+   "/job/Eindhoven/Internship---Industrial-Design-IX_R00343384": "2026-10-02",
+   "/job/Kuala-Lumpur/Postgraduate-Internship-Program--Master-s---MBA-_R00238420": "2026-10-02",
+   "/job/Milano/Accenture-Customer-Innovation-Network---Innovation-Intern_R00279814": "2026-10-02",
+   "/job/Milano/Digital-transformation-intern_R00354466": "2026-10-02",
+   "/job/Milano/Stage-in-area-Consulting_R00279776": "2026-10-02",
+   "/job/NY---New-York/Strategy-Summer-Consultant---MBA-Internship---NAELFY27_R00361148": "2026-10-02",
+   "/job/Prague/Technology-Consulting-Internship_R00350278-1": "2026-10-02",
+   "/job/Warsaw/Functional-Analyst---MarTech-Trainee--Adobe-Experience-Cloud----Internship-Program--She-He-They-_R00335218": "2026-10-02"
+  },
+  "Adobe": {
+   "/job/New-York/XMLNAME-2027-Intern---Digital-Strategy-Analyst_R171828": "2026-10-02",
+   "/job/New-York/XMLNAME-2027-Intern---Enterprise-Architecture-Analyst_R171856": "2026-10-02",
+   "/job/New-York/XMLNAME-2027-Intern---Sales-Velocity-Analyst_R171869": "2026-10-02",
+   "/job/New-York/XMLNAME-2027-Intern---Solutions-Consulting-Analyst_R171696": "2026-10-02",
+   "/job/San-Francisco/XMLNAME-2027-MBA-University-Graduate---Manager--Corporate-Strategy_R171682": "2026-10-02",
+   "/job/San-Jose/XMLNAME-2027-Intern---Adobe-Sales-Academy-BDR_R170977": "2026-10-02",
+   "/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519": "2026-10-02",
+   "/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261": "2026-10-02",
+   "/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Marketing-Manager_R172262": "2026-10-02",
+   "/job/San-Jose/XMLNAME-2027-MBA-University-Graduate---Product-Manager_R171900": "2026-10-02"
+  },
+  "Affirm": {},
+  "Airbnb": {},
+  "Airtable": {},
+  "Allstate": {
+   "/job/USA---IL-Remote/Quantum-Algorithm-Development-Intern_R34881": "2026-10-02"
+  },
+  "Amazon": {
+   "10435122": "2026-10-02",
+   "10435671": "2026-10-02",
+   "10491075": "2026-10-02",
+   "10491574": "2026-10-02",
+   "10491603": "2026-10-02",
+   "10493095": "2026-10-02",
+   "10493126": "2026-10-02",
+   "10493144": "2026-10-02",
+   "10493325": "2026-10-02",
+   "10493329": "2026-10-02",
+   "10493330": "2026-10-02",
+   "10493331": "2026-10-02",
+   "10493373": "2026-10-02",
+   "10493586": "2026-10-02",
+   "10494789": "2026-10-02",
+   "10495055": "2026-10-02",
+   "10501526": "2026-10-02",
+   "10502807": "2026-10-02",
+   "10509639": "2026-10-02",
+   "10510811": "2026-10-02",
+   "10532282": "2026-10-02",
+   "10532290": "2026-10-02",
+   "10532293": "2026-10-02",
+   "10532296": "2026-10-02",
+   "10532299": "2026-10-02",
+   "10534582": "2026-10-02",
+   "10534584": "2026-10-02"
+  },
+  "Amgen": {
+   "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349": "2026-10-02",
+   "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Process-Development--Summer-2027-_R-254519": "2026-10-02",
+   "/job/US---California---Thousand-Oaks/Operations-Graduate-Program---Summer-2027-Internship_R-254659": "2026-10-02",
+   "/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Engineering--Summer-2027-_R-255335": "2026-10-02",
+   "/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Process-Development--Summer-2027-_R-254516": "2026-10-02",
+   "/job/US---Massachusetts---Cambridge/Undergrad-Intern---Operations---Cambridge--MA--Summer-2027-_R-254515": "2026-10-02",
+   "/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744": "2026-10-02",
+   "/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743": "2026-10-02",
+   "/job/United-States---Remote/MBA-Intern---Commercial-Leadership-Program--Summer-2027-_R-254479": "2026-10-02",
+   "/job/United-States---Remote/MBA-Intern---Finance---Strategy-Leadership-Development-Program--Summer-2027-_R-254491": "2026-10-02",
+   "/job/United-States---Remote/Undergrad-Intern---Finance--Summer-2027-_R-254668": "2026-10-02",
+   "/job/United-States---Remote/Undergrad-intern---US-Value---Access--Summer-2027-_R-253424": "2026-10-02"
+  },
+  "Anduril": {
+   "5148101007": "2026-10-02",
+   "5153187007": "2026-10-02",
+   "5153218007": "2026-10-02",
+   "5236893007": "2026-10-02"
+  },
+  "Anthropic": {},
+  "Applied Materials": {
+   "91e0686e-272a-4780-b33d-d7860b94a7b4": "2026-10-02",
+   "bb953f29-0059-4a40-aa9e-3a8c88733902": "2026-10-02",
+   "ce58d9fd-f22b-4336-80b5-ba1e8d764526": "2026-10-02",
+   "edc2528d-6e6c-4a67-b871-bfe7d9c890b4": "2026-10-02"
+  },
+  "Asana": {},
+  "Autodesk": {},
+  "Bank of America": {},
+  "BlackRock": {
+   "/job/Atlanta-GA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---Atlanta_R266470": "2026-10-02",
+   "/job/Chicago-IL/XMLNAME-2027-Quantitative-Masters-Internship-Program---Sales---Relationship-Management---Institutional-Wealth---Chicago_R266475": "2026-10-02",
+   "/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Research---Markets-Advisory---New-York_R266467": "2026-10-02",
+   "/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Sales---Relationship-Management---Institutional---Wealth---New-York_R266466": "2026-10-02",
+   "/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468": "2026-10-02",
+   "/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---New-York_R266471": "2026-10-02",
+   "/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---New-York_R266473": "2026-10-02",
+   "/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477": "2026-10-02",
+   "/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469": "2026-10-02",
+   "/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---San-Francisco_R266472": "2026-10-02",
+   "/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---San-Francisco_R266474": "2026-10-02",
+   "/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476": "2026-10-02"
+  },
+  "Block": {},
+  "Blue Origin": {
+   "/job/Greater-Seattle-Area/MBA-Direct-Pathways--2027-graduates-_R73235": "2026-10-02"
+  },
+  "Boeing": {
+   "/job/GBR---London-UK/Government-Affairs-Intern--12-Months-Placement_JR2026520528": "2026-10-02",
+   "/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829": "2026-10-02"
+  },
+  "Booz Allen Hamilton": {
+   "/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249565": "2026-10-02",
+   "/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249566": "2026-10-02",
+   "/job/Fayetteville-NC/Business---Office-Management-Intern_R0250786": "2026-10-02",
+   "/job/Honolulu-HI/University--2026-Fall-Technologist-Intern_R0249246": "2026-10-02",
+   "/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869": "2026-10-02",
+   "/job/McLean-VA/Product-Engineering-Intern_R0250655": "2026-10-02",
+   "/job/McLean-VA/University---Corporate-Finance-Intern_R0246500": "2026-10-02",
+   "/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249252": "2026-10-02",
+   "/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249253": "2026-10-02",
+   "/job/McLean-VA/University---Summer-27--Pricing-Intern_R0249254": "2026-10-02",
+   "/job/McLean-VA/University--Summer-2027---Accounting-Intern_R0250271": "2026-10-02",
+   "/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115": "2026-10-02"
+  },
+  "Box": {},
+  "Brex": {},
+  "Broadcom": {},
+  "CVS Health": {
+   "/job/CA---Fontana/Pharmacy-Intern_R0982161": "2026-10-02",
+   "/job/CA---Hacienda-Heights/Pharmacy-Intern_R0982066": "2026-10-02",
+   "/job/CA---Irvine/Pharmacy-Intern_R1063388": "2026-10-02",
+   "/job/CA---Pasadena/Pharmacy-Intern_R0982060": "2026-10-02",
+   "/job/CA---Upland/Pharmacy-Intern_R1024474-1": "2026-10-02",
+   "/job/CT---Hartford/Finance-Corporate-Internship---Summer-2027_R1037710-1": "2026-10-02",
+   "/job/CT---Hartford/Internal-Audit-Corporate-Internship---Summer-2027--Undergrad-_R1058891": "2026-10-02",
+   "/job/HI---Hilo/Pharmacy-Intern_R0913597": "2026-10-02",
+   "/job/IN---Lafayette/Pharmacy-Intern_R1063124": "2026-10-02",
+   "/job/WI---Waukesha/Pharmacy-Intern_R1063240": "2026-10-02"
+  },
+  "Canva": {},
+  "Capital One": {
+   "/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1": "2026-10-02"
+  },
+  "Caterpillar": {
+   "/job/Nashville-Tennessee/XMLNAME-2027-Summer-Intern---Finance_R0000387781": "2026-10-02",
+   "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Accounting_R0000379993": "2026-10-02",
+   "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Pricing_R0000380150": "2026-10-02",
+   "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Procurement_R0000380151": "2026-10-02",
+   "/job/Santiago-Region-Metropolitana-de-Santiago/Financial-Intern_R0000396320": "2026-10-02",
+   "/job/Selangor-Selangor/Intern--Accounting---Finance-_R0000380757": "2026-10-02",
+   "/job/Suzhou-Jiangsu/Transportation-Analyst-Intern_R0000393515": "2026-10-02",
+   "/job/Wuxi-Jiangsu/Communications-Intern_R0000395692": "2026-10-02",
+   "/job/Wuxi-Jiangsu/Digital-Transformation-Support-Intern_R0000388541-1": "2026-10-02",
+   "/job/Wuxi-Jiangsu/Project-Coordinator-Intern_R0000388557": "2026-10-02",
+   "/job/Wuxi-Jiangsu/Smart-Manufacturing-Engineering-Intern_R0000394667": "2026-10-02"
+  },
+  "Charles Schwab": {},
+  "Chime": {},
+  "Cisco": {},
+  "Clorox": {
+   "/job/Alpharetta-GA---USA/Supply-Chain-Intern---Business-Track--June-2027-_JR23439": "2026-10-02",
+   "/job/Alpharetta-GA---USA/Supply-Chain-Intern---Technical-Track--June-2027-_JR23438-1": "2026-10-02",
+   "/job/Burnside-KY---USA/Plant-Intern_21841": "2026-10-02",
+   "/job/Durham-NC---USA-Strickland-Bldg/Enterprise-Data----Technology--EDT--Intern---Summer-2027-_JR23483": "2026-10-02",
+   "/job/Mason-OH---USA/Sales-Analyst--Recent-Grad---Summer-2027-Start-_JR23352-1": "2026-10-02",
+   "/job/Oakland-CA---USA/Associate-Marketing-Manager--MBA-Recent-Graduate-Summer-2027-_JR23348-1": "2026-10-02",
+   "/job/Oakland-CA---USA/Brand-Management-Intern--MBA---Summer-2027-_JR23316": "2026-10-02",
+   "/job/Oakland-CA---USA/MBA-Finance-Intern--Summer-2027-_JR23493": "2026-10-02",
+   "/job/Pleasanton-CA---USA/Assistant-Finance-Manager_JR23349": "2026-10-02",
+   "/job/Pleasanton-CA---USA/R-D-Intern--Summer-2027-_JR23320": "2026-10-02",
+   "/job/Sales---Customer-Analytics-Intern-Summer-2027_JR23359-1": "2026-10-02"
+  },
+  "Cloudflare": {},
+  "Coca-Cola": {},
+  "Coinbase": {
+   "8168322": "2026-10-02",
+   "8173991": "2026-10-02",
+   "8175339": "2026-10-02",
+   "8175360": "2026-10-02",
+   "8175363": "2026-10-02",
+   "8175366": "2026-10-02",
+   "8175369": "2026-10-02",
+   "8175429": "2026-10-02",
+   "8175432": "2026-10-02",
+   "8175435": "2026-10-02",
+   "8175438": "2026-10-02",
+   "8175441": "2026-10-02",
+   "8175447": "2026-10-02",
+   "8175453": "2026-10-02",
+   "8175459": "2026-10-02",
+   "8175462": "2026-10-02",
+   "8175471": "2026-10-02",
+   "8175504": "2026-10-02",
+   "8175507": "2026-10-02",
+   "8175514": "2026-10-02",
+   "8175517": "2026-10-02",
+   "8175556": "2026-10-02",
+   "8175569": "2026-10-02",
+   "8187551": "2026-10-02",
+   "8221238": "2026-10-02",
+   "8221241": "2026-10-02"
+  },
+  "CrowdStrike": {
+   "/job/USA---Arlington-VA/Professional-Services-Explorer-Intern---Summer-2027--Arlington--VA-_R30155": "2026-10-02"
+  },
+  "Danaher": {},
+  "Databricks": {
+   "6883068002": "2026-10-02",
+   "8732364002": "2026-10-02"
+  },
+  "Datadog": {
+   "8052118": "2026-10-02",
+   "8108241": "2026-10-02"
+  },
+  "Discord": {},
+  "DoorDash": {
+   "8176863": "2026-10-02",
+   "8204111": "2026-10-02"
+  },
+  "Dropbox": {
+   "8106224": "2026-10-02"
+  },
+  "Duolingo": {
+   "8806187002": "2026-10-02"
+  },
+  "Eli Lilly": {},
+  "Etsy": {},
+  "Expedia": {},
+  "Figma": {
+   "6144755004": "2026-10-02",
+   "6178851004": "2026-10-02",
+   "6178857004": "2026-10-02",
+   "6180005004": "2026-10-02"
+  },
+  "GE Aerospace": {
+   "/job/Pomigliano-DArco/Internship---Combustors-Production-Control_R5040886-1": "2026-10-02",
+   "/job/Queretaro/EID-Intern---Systems-Engineer-Intern_R5040963": "2026-10-02",
+   "/job/Queretaro/SW-Tool-Integration-and-Development-Intern_R5037909-1": "2026-10-02",
+   "/job/Queretaro/Security-Intern_R5040750": "2026-10-02",
+   "/job/Subang/IT-Support-Intern_R5038715-1": "2026-10-02"
+  },
+  "GE HealthCare": {
+   "/job/IL03-01-Chicago-500-W-Monroe-St/GEHC-Ventures-Intern_R4045971-1": "2026-10-02"
+  },
+  "Genentech": {
+   "/job/Panama/Operations---Audit-Intern_202606-116367": "2026-10-02"
+  },
+  "General Mills": {},
+  "Google": {},
+  "Guidehouse": {
+   "/job/US---GA-Atlanta/Intern---Energy-Providers---Campus-2027_44256": "2026-10-02",
+   "/job/US---MA-Boston/Intern---State-and-Local-Government---Campus-2027_44623": "2026-10-02",
+   "/job/US---VA-Arlington/Intern---Federal-Civilian-Agencies---Campus-2027_44923": "2026-10-02",
+   "/job/US---VA-McLean/Intern---Health-and-Human-Services--Federal-Health-Advisory---Campus-2027_45153": "2026-10-02"
+  },
+  "Gusto": {},
+  "HP": {},
+  "Hewlett Packard Enterprise": {
+   "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1": "2026-10-02",
+   "/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1213629": "2026-10-02",
+   "/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632": "2026-10-02",
+   "/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Intern_1213423": "2026-10-02",
+   "/job/Spring-Texas-United-States-of-America/Finance-Intern_1213639": "2026-10-02",
+   "/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627": "2026-10-02",
+   "/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393": "2026-10-02",
+   "/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1": "2026-10-02",
+   "/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634": "2026-10-02"
+  },
+  "Hewlett Packard Enterprise (2)": {
+   "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-3": "2026-10-02",
+   "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-3": "2026-10-02",
+   "/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633": "2026-10-02"
+  },
+  "Home Depot": {
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Business-Operations---Management_Req191941": "2026-10-02",
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Cybersecurity_Req191938": "2026-10-02",
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968": "2026-10-02",
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Finance---Accounting_Req191935": "2026-10-02",
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Human-Resources_Req192106": "2026-10-02",
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Marketing_Req191965": "2026-10-02",
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931": "2026-10-02",
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937": "2026-10-02",
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Supply-Chain-and-Logistics_Req191966": "2026-10-02",
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---User-Experience_Req192109": "2026-10-02"
+  },
+  "HubSpot": {},
+  "Huron": {},
+  "Instacart": {},
+  "Intel": {
+   "/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544": "2026-10-02",
+   "/job/US-California-Santa-Clara/Sales-and-Marketing---Intern--Graduate_JR0286839": "2026-10-02",
+   "/job/US-California-Santa-Clara/Technical-Sales---Intern--Graduate_JR0286831": "2026-10-02",
+   "/job/US-Oregon-Hillsboro/Parametric-Test-Module-Intern_JR0286719": "2026-10-02",
+   "/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836": "2026-10-02"
+  },
+  "Kimberly-Clark": {},
+  "Kraft Heinz": {
+   "/job/Operations-Intern_R-53383": "2026-10-02"
+  },
+  "Lyft": {
+   "8767723002": "2026-10-02",
+   "8796124002": "2026-10-02",
+   "8802198002": "2026-10-02",
+   "8843341002": "2026-10-02"
+  },
+  "Medtronic": {
+   "/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958": "2026-10-02",
+   "/job/Cape-Town-Western-Cape-South-Africa/Sales-Intern_R78059-1": "2026-10-02",
+   "/job/East-London-Eastern-Cape-South-Africa/Technical-Consultant-Intern---Neurosurgery_R77965-2": "2026-10-02",
+   "/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1": "2026-10-02",
+   "/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1": "2026-10-02",
+   "/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-O4U-Engineering-Conference_R75847-1": "2026-10-02",
+   "/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309": "2026-10-02",
+   "/job/Minneapolis-Minnesota-United-States-of-America/Finance-Intern---Summer-2027_R73629-2": "2026-10-02",
+   "/job/Minneapolis-Minnesota-United-States-of-America/IT-Intern---Summer-2027_R73625-1": "2026-10-02",
+   "/job/Minneapolis-Minnesota-United-States-of-America/MBA-Internship---Summer-2027_R78587-1": "2026-10-02",
+   "/job/Minneapolis-Minnesota-United-States-of-America/MBA-Leadership-Development-Rotation-Program--LDRP--Associate_R77254-1": "2026-10-02",
+   "/job/Minneapolis-Minnesota-United-States-of-America/Supply-Chain-Supply-Management-Intern--Summer-2027_R73693-2": "2026-10-02",
+   "/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1": "2026-10-02",
+   "/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1": "2026-10-02"
+  },
+  "Merck": {},
+  "Micron": {
+   "/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697": "2026-10-02"
+  },
+  "Mondelez": {
+   "/job/Business-Unit-Head-Office---East-Hanover-USA/Manufacturing-Intern--Process-Engineering_R-175409": "2026-10-02",
+   "/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1": "2026-10-02",
+   "/job/East-Hanover-New-Jersey-United-States/Customer-Service-and-Logistics-Intern-_R-175412": "2026-10-02",
+   "/job/East-Hanover-New-Jersey-United-States/Research---Development-Intern_R-175411": "2026-10-02",
+   "/job/East-Hanover-New-Jersey-United-States/Sr-Associate-Brand-Manager-Intern_R-175406": "2026-10-02",
+   "/job/Ho-Chi-Minh-Vietnam/Sales-Capability-Intern_R-177715": "2026-10-02"
+  },
+  "MongoDB": {},
+  "Morgan Stanley": {
+   "/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2": "2026-10-02",
+   "/job/Los-Angeles-California-United-States-of-America/Real-Estate-Investing--Pre-MBA-Associate--2027-Program-_JR028854": "2026-10-02"
+  },
+  "NVIDIA": {
+   "/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645": "2026-10-02",
+   "/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488": "2026-10-02"
+  },
+  "Nike": {
+   "/job/Beaverton-Oregon/NIKE--Inc-Digital-Growth-Graduate-Internship_R-92073-1": "2026-10-02",
+   "/job/Beaverton-Oregon/NIKE--Inc-Finance-Graduate-Internship_R-91119": "2026-10-02",
+   "/job/Beaverton-Oregon/NIKE--Inc-Global-Sustainability-Graduate-Internship_R-92069": "2026-10-02",
+   "/job/Beaverton-Oregon/NIKE--Inc-Marketing-Vanguard-Program--MVP--Graduate-Internship_R-91139": "2026-10-02",
+   "/job/Beaverton-Oregon/NIKE--Inc-Product-Supply-Chain--PSC--Footwear---Apparel-Graduate-Internship_R-91695-1": "2026-10-02",
+   "/job/Beaverton-Oregon/NIKE--Inc-Strategic-Planning-Graduate-Internship_R-91142": "2026-10-02",
+   "/job/Beaverton-Oregon/NIKE--Inc-Supply-Chain-Planning-Graduate-Internship_R-92368-1": "2026-10-02",
+   "/job/Boston-Massachusetts/Converse-Enterprise-Business-Planning-Graduate-Internship_R-92810": "2026-10-02",
+   "/job/Boston-Massachusetts/Converse-Strategic-Planning-Graduate-Internship_R-92185": "2026-10-02"
+  },
+  "Nordstrom": {},
+  "Notion": {
+   "a67d6f2b-7c13-41d0-b36b-b2f662c9873e": "2026-10-02"
+  },
+  "Okta": {},
+  "Oliver Wyman": {
+   "/job/Chicago---155-Wacker/Workforce-and-Rewards-Summer-Associate--MBA-or-Master-s-Track----Chicago---MBA-Program-2027_R_367574-1": "2026-10-02",
+   "/job/Fort-Lauderdale---Corporate/Summer-Sales-Intern_R_324193": "2026-10-02",
+   "/job/Honolulu---201-Merchant/Intern_R_365485": "2026-10-02",
+   "/job/Lincoln---Pine/Insurance-Intern_R_364734": "2026-10-02",
+   "/job/Los-Angeles---West-5th/Career-Consulting-Summer-Associate--MBA-or-Master-s-Track----Los-Angeles---MBA-Program-2027_R_365103-1": "2026-10-02",
+   "/job/New-York---1166/Oliver-Wyman---2027-MBA-Summer-Associate---Health---Life-Sciences_R_363378": "2026-10-02",
+   "/job/Omaha---Southport/Insurance-Intern_R_364740": "2026-10-02",
+   "/job/Walnut-Creek---1255-Treat/EH-B-Intern_R_337618": "2026-10-02"
+  },
+  "OpenAI": {},
+  "Palantir": {
+   "1a935143-e857-480c-bc5a-ad625d754eb6": "2026-10-02",
+   "3db7e40a-28e0-4ad1-96c5-93de5bc96aa9": "2026-10-02",
+   "8f362a1f-1eff-4327-94c1-ff46e2101c69": "2026-10-02",
+   "8f7bbffa-92aa-4d25-9586-943b3322a27d": "2026-10-02",
+   "9db71277-3a9a-481b-a2a3-25c3125b0e8a": "2026-10-02",
+   "a49d4181-a289-435a-b581-7f5af0497c8e": "2026-10-02",
+   "cf5f44ff-1b0b-4752-bcd4-2dc88798f25b": "2026-10-02",
+   "ef725594-42dd-4f0d-ba8e-df8179dbc6cb": "2026-10-02",
+   "fa060d94-f85d-4d02-be58-b81787fe57e5": "2026-10-02"
+  },
+  "PayPal": {},
+  "Peloton": {},
+  "Perplexity": {
+   "9246cf02-26fd-4ae8-90c5-639c6e85e9e2": "2026-10-02",
+   "be94e89b-89d5-4f2a-a58b-7929c8d97f92": "2026-10-02"
+  },
+  "Pfizer": {
+   "/job/United-States---New-York---New-York-City/MBA-Finance-Summer-Associate_4960971": "2026-10-02",
+   "/job/United-States---New-York---New-York-City/MBA-Marketing-Summer-Associate_4960967": "2026-10-02",
+   "/job/United-States---New-York---New-York-City/MBA-Strategy---Consulting-Summer-Associate_4960972": "2026-10-02"
+  },
+  "Philips": {
+   "/job/Cambridge-US-Massachusetts-United-States/MBA-Full-Time---Operations-Leadership-Development-Program---Nashville--TN--Murrysville--PA--Cambridge--MA---Summer-2027_588665": "2026-10-02",
+   "/job/Ciudad-de-Panama/IT-Infrastructure-Intern_586528": "2026-10-02",
+   "/job/Eindhoven/Intern-Consultancy-data-modelling_581630": "2026-10-02",
+   "/job/Genoa/Strategic-Solution-Architect-Interm_587651": "2026-10-02",
+   "/job/Huixquilucan-de-Degollado/KPI-Administration-Intern_588004": "2026-10-02",
+   "/job/Lodz/Services-Intern--all-genders-_591443": "2026-10-02",
+   "/job/Milano/CMM-intern_591022": "2026-10-02",
+   "/job/San-Diego-California-United-States/Intern---R-D-NPI-Intern--Disposables---San-Diego--CA---2027_590830": "2026-10-02",
+   "/job/Stockholm/Service-Operations-Intern_590879-1": "2026-10-02",
+   "/job/Suzhou/Indirect-Procurement-Intern_592336-1": "2026-10-02",
+   "/job/Suzhou/Intern-of-equipment_588627": "2026-10-02",
+   "/job/Suzhou/Manufacturing-Engineering-Intern_590507": "2026-10-02",
+   "/job/Suzhou/Product-Industrialization-Intern_588379-1": "2026-10-02",
+   "/job/Varginha/EHS-Intern_589946": "2026-10-02",
+   "/job/Varginha/Sales-Operations-Intern_589725": "2026-10-02"
+  },
+  "Pinterest": {
+   "8138039": "2026-10-02",
+   "8138080": "2026-10-02",
+   "8138090": "2026-10-02",
+   "8138097": "2026-10-02",
+   "8140210": "2026-10-02",
+   "8140217": "2026-10-02"
+  },
+  "Plaid": {},
+  "Point B": {},
+  "PwC (2)": {
+   "/job/IL-Rosemont/Accelerated-Solutions-Consulting-Senior-Associate-Intern---Summer-2027_765697WD": "2026-10-02",
+   "/job/IL-Rosemont/Delivering-Deal-Value--DDV--Senior-Associate-Intern---Summer-2027_765612WD": "2026-10-02",
+   "/job/IL-Rosemont/Financial-Crimes-Unit-Consulting-Senior-Associate-Intern---Summer-2027_765384WD": "2026-10-02",
+   "/job/IL-Rosemont/Management-Consulting---Operations---Supply-Chain-Solutions-Senior-Associate-Intern---Summer-2027_765632WD": "2026-10-02",
+   "/job/IL-Rosemont/Management-Consulting---Sales--Service-and-Marketing-Senior-Associate-Intern---Summer-2027_765704WD": "2026-10-02",
+   "/job/IL-Rosemont/Management-Consulting---Sector-Operations---Financial-Services-Senior-Associate-Intern---Summer-2027_765388WD": "2026-10-02",
+   "/job/IL-Rosemont/Management-Consulting---Sector-Operations---Health-Senior-Associate-Intern---Summer-2027_765646WD": "2026-10-02",
+   "/job/IL-Rosemont/Risk---Reg---Technology---Analytics-Senior-Associate-Intern---Summer-2027_765386WD": "2026-10-02",
+   "/job/IL-Rosemont/Risk-Consulting---Financial-Services-Senior-Associate-Intern---Summer-2027_758896WD": "2026-10-02",
+   "/job/IL-Rosemont/Strategy--Deals-Strategy-Private-Equity-Senior-Associate-Intern---Summer-2027_765706WD": "2026-10-02",
+   "/job/IL-Rosemont/Strategy--Deals-Strategy-Senior-Associate-Intern---Summer-2027_765700WD": "2026-10-02",
+   "/job/IL-Rosemont/Strategy--Deals-Technology-Strategy-Senior-Associate-Intern---Summer-2027_765701WD": "2026-10-02",
+   "/job/IL-Rosemont/Strategy--Strategy-Consulting-Senior-Associate-Intern---Summer-2027_765647WD": "2026-10-02",
+   "/job/IL-Rosemont/Sustainability-CP-I---Senior-Associate-Intern---Summer-2027_765702WD": "2026-10-02",
+   "/job/IL-Rosemont/Sustainability-Strategy---Senior-Associate-Intern---Summer-2027_765703WD": "2026-10-02",
+   "/job/IL-Rosemont/Technology-Consulting-Senior-Associate-Intern---Summer-2027_765627WD": "2026-10-02",
+   "/job/MA-Boston/Boston---Audit---Intern---Winter-2027_756980WD": "2026-10-02",
+   "/job/MD-Baltimore/Baltimore---Audit---Intern---Winter-2027_756968WD": "2026-10-02",
+   "/job/OR-Portland/Portland---Audit---Intern---Summer-2028_757449WD": "2026-10-02",
+   "/job/OR-Portland/Portland---Audit---Intern---Winter-2028_758899WD": "2026-10-02"
+  },
+  "Qualtrics": {
+   "8193457": "2026-10-02"
+  },
+  "RTX": {
+   "/job/US-CT-EAST-GRANBY-200--200-Signature-Way--OFFICE/Aircraft-Operations-Aviation-Intern--Summer-2027-_01877881": "2026-10-02"
+  },
+  "Ramp": {
+   "acf6b28d-767f-483f-8ff2-114620cd7e04": "2026-10-02",
+   "b39ceb08-a0a7-4f8b-a760-2fb88e209956": "2026-10-02",
+   "b66be397-240b-41a6-9b05-493299b270a9": "2026-10-02",
+   "fcf118cc-521a-4a62-9d13-945e5b6e3cb8": "2026-10-02"
+  },
+  "Reddit": {},
+  "Remitly": {},
+  "Robinhood": {
+   "8123225": "2026-10-02",
+   "8123238": "2026-10-02",
+   "8142959": "2026-10-02",
+   "8142961": "2026-10-02",
+   "8142963": "2026-10-02",
+   "8187309": "2026-10-02",
+   "8192367": "2026-10-02",
+   "8193484": "2026-10-02",
+   "8193710": "2026-10-02",
+   "8197614": "2026-10-02",
+   "8198097": "2026-10-02",
+   "8198142": "2026-10-02",
+   "8198153": "2026-10-02",
+   "8198187": "2026-10-02",
+   "8198198": "2026-10-02",
+   "8198223": "2026-10-02",
+   "8198241": "2026-10-02",
+   "8198255": "2026-10-02",
+   "8198262": "2026-10-02",
+   "8207970": "2026-10-02",
+   "8214142": "2026-10-02",
+   "8241738": "2026-10-02"
+  },
+  "Roblox": {
+   "8143981": "2026-10-02",
+   "8143984": "2026-10-02"
+  },
+  "S&P Global": {
+   "/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1": "2026-10-02",
+   "/job/New-York-NY/Ratings-Analytical-Intern---Americas_331833-1": "2026-10-02",
+   "/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2": "2026-10-02"
+  },
+  "Salesforce": {
+   "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Financial-Services-_JR362508-1": "2026-10-02",
+   "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1": "2026-10-02",
+   "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant_JR362509-1": "2026-10-02"
+  },
+  "Samsara": {
+   "8082091": "2026-10-02",
+   "8099799": "2026-10-02",
+   "8103119": "2026-10-02"
+  },
+  "Scale AI": {
+   "4730845005": "2026-10-02"
+  },
+  "ServiceNow": {
+   "744000152290539": "2026-10-02",
+   "744000152290609": "2026-10-02"
+  },
+  "Smartsheet": {},
+  "Snap": {},
+  "Snowflake": {},
+  "SoFi": {},
+  "SpaceX": {
+   "8636143002": "2026-10-02",
+   "8636144002": "2026-10-02"
+  },
+  "Spotify": {
+   "ba2760c3-6461-45bf-b67b-0508d10c8659": "2026-10-02",
+   "e7f6e680-bf86-4da6-8711-afe44b84fa41": "2026-10-02"
+  },
+  "Stripe": {
+   "8194291": "2026-10-02"
+  },
+  "Stryker": {
+   "/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936": "2026-10-02",
+   "/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937": "2026-10-02",
+   "/job/Cary-Illinois/Manufacturing-Engineering-Intern_R572922": "2026-10-02",
+   "/job/Flower-Mound-Texas/Quality-Engineering-Intern_R572886": "2026-10-02",
+   "/job/Fremont-California/R-D-Intern_R572862": "2026-10-02",
+   "/job/Massachusetts-Virtual-Address/Mechanical-Engineering-Intern_R572943-1": "2026-10-02",
+   "/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846": "2026-10-02",
+   "/job/Redmond-Washington/Mechanical-Engineering-Intern_R572728": "2026-10-02",
+   "/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768": "2026-10-02",
+   "/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940": "2026-10-02",
+   "/job/Tempe-Arizona/Packaging-Engineering-Intern_R572830": "2026-10-02",
+   "/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732": "2026-10-02"
+  },
+  "Synchrony": {
+   "/job/Stamford-Hub/BLP-Intern---Sales_2601694": "2026-10-02"
+  },
+  "T-Mobile": {},
+  "Target": {
+   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Inventory-Analyst-Intern---Minneapolis--MN--Starting-Summer--2027-_R0000450965": "2026-10-02",
+   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/MBA-Intern--Finance-Leadership-Development-Program--FLDP--Internship----Summer-2027-_R0000451066": "2026-10-02",
+   "/job/249-NW-6th-St-Ste-120-MiamiFL-33136-4248/Store-Executive-Intern--Store-Leadership-Intern----South-FL--Miami-to-West-Palm---Starting-Summer-2027--_R0000448573": "2026-10-02"
+  },
+  "Toast": {},
+  "Twilio": {},
+  "US Bank": {},
+  "Uber": {},
+  "Vanguard": {
+   "/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1": "2026-10-02",
+   "/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767": "2026-10-02",
+   "/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765": "2026-10-02",
+   "/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851": "2026-10-02",
+   "/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766": "2026-10-02",
+   "/job/Malvern-PA/College-to-Corporate-IT-Internship---Investment-Systems--PA-_177685-1": "2026-10-02",
+   "/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788": "2026-10-02",
+   "/job/Malvern-PA/College-to-Corporate-Internship---Application-Development--PA-_177644-1": "2026-10-02",
+   "/job/Malvern-PA/College-to-Corporate-Internship---Finance_180047-1": "2026-10-02",
+   "/job/Malvern-PA/Intern---C2C-Business-Leadership_182016": "2026-10-02",
+   "/job/Malvern-PA/Intern--C2C-Sales_182018": "2026-10-02",
+   "/job/Malvern-PA/MBA-Development-Program---General-Management_180221": "2026-10-02",
+   "/job/Malvern-PA/MBA-Internship---General-Management-_180420": "2026-10-02",
+   "/job/Malvern-PA/MBA-Internship---Investment-Management_182042": "2026-10-02"
+  },
+  "Visa": {},
+  "Walmart": {},
+  "Wayfair": {},
+  "Waymo": {
+   "8165014": "2026-10-02",
+   "8174504": "2026-10-02",
+   "8197014": "2026-10-02",
+   "8198218": "2026-10-02",
+   "8198582": "2026-10-02",
+   "8201252": "2026-10-02",
+   "8210170": "2026-10-02",
+   "8234553": "2026-10-02",
+   "8238525": "2026-10-02"
+  },
+  "Workday": {},
+  "Zillow": {},
+  "Zoom": {},
+  "Zscaler": {},
+  "eBay": {}
+ },
  "eBay": [
   "/job/Amsterdam/EU-Trade---Export-Compliance-Lead_R0076840",
   "/job/Amsterdam/EU-Trade-and-Commercial-Counsel_R0076423",
