@@ -2497,6 +2497,7 @@
   "5231267007",
   "5231291007",
   "5231329007",
+  "5231433007",
   "5231568007",
   "5231595007",
   "5231611007",
@@ -3260,7 +3261,8 @@
   "5256064007",
   "5256069007",
   "5256072007",
-  "5256137007"
+  "5256137007",
+  "5256229007"
  ],
  "Anthropic": [
   "4017331008",
@@ -9415,6 +9417,7 @@
   "/job/MEX03-01-Mexico-City-SAMARA/Commercial-Operations-Leader---Strategic-Accounts_R4047147-1",
   "/job/Menlo-Park/MR-Imaging-Scientist--Artificial-Intelligence_R4046648-1",
   "/job/Monterrey/Especialista-en-Operaciones-de-Recursos-Humanos_R4044786-1",
+  "/job/Monterrey/HR-Intern_R4047087-1",
   "/job/Monterrey/NPI-Manufacturing-Engineer_R4047071-1",
   "/job/OH05-01-Beachwood-Science-Park-Drive/Algorithms-Research-Intern_R4047143-1",
   "/job/Oak-Creek/Manufacturing-Technician_R4046945-1",
@@ -15854,6 +15857,7 @@
   "/job/California---San-Francisco/Senior-Director--Platform-GTM-Strategy_JR360134",
   "/job/California---San-Francisco/Senior-Director--Sales-Programs_JR355927-1",
   "/job/California---San-Francisco/Senior-Lead-Full-Stack-Software-Engineer_JR359438-1",
+  "/job/California---San-Francisco/Senior-Lead-Principal-Software-Engineer--Agentforce-for-Supply-Chain_JR340462",
   "/job/California---San-Francisco/Senior-Manager--GTM-Growth-Strategy_JR362015",
   "/job/California---San-Francisco/Sr-Director-Enterprise-Architect---Product-Strategy_JR359240",
   "/job/California---San-Francisco/Sr-Director-of-Product-Management--Data-360_JR361847",
@@ -21956,6 +21960,7 @@
   "/job/Bengaluru/Insurance-Order-Specialist_P750950-1",
   "/job/Bengaluru/Senior-Benefits-Analyst_P750895-1",
   "/job/Bengaluru/Sr-Workday-Applications-Engineer_P751125-1",
+  "/job/Bengaluru/Title-Order-Specialist_P750940-1",
   "/job/Bengaluru/Workplace-Coordinator_P750669",
   "/job/Mexico-City/Product-Manager_P751347-1",
   "/job/Remote-CA/Technical-Customer-Success-Manager--API_P750643",
@@ -22682,6 +22687,7 @@
   },
   "GE HealthCare": {
    "/job/IL03-01-Chicago-500-W-Monroe-St/GEHC-Ventures-Intern_R4045971-1": "2026-10-02",
+   "/job/Monterrey/HR-Intern_R4047087-1": "2026-10-02",
    "/job/Remote/Instructional-Design-Intern_R4047208-1": "2026-10-02",
    "/job/Waukesha/Operations-Management-Leadership-Program---Internship_R4046211-1": "2026-10-02"
   },
@@ -23271,6 +23277,7 @@
   },
   "GE HealthCare": {
    "/job/IL03-01-Chicago-500-W-Monroe-St/GEHC-Ventures-Intern_R4045971-1": true,
+   "/job/Monterrey/HR-Intern_R4047087-1": false,
    "/job/Remote/Instructional-Design-Intern_R4047208-1": false,
    "/job/Waukesha/Operations-Management-Leadership-Program---Internship_R4046211-1": false
   },
