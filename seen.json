@@ -3070,6 +3070,8 @@
   "5249475007",
   "5249481007",
   "5249483007",
+  "5249522007",
+  "5249524007",
   "5249559007",
   "5249699007",
   "5249750007",
@@ -6863,7 +6865,8 @@
   "8247881",
   "8248766",
   "8248775",
-  "8249920"
+  "8249920",
+  "8250032"
  ],
  "CrowdStrike": [
   "/job/Australia---Remote-NW/Professional-Services-Subcontractor-Manager_R30007",
@@ -9745,6 +9748,7 @@
   "8205628",
   "8205633",
   "8208422",
+  "8209666",
   "8211813",
   "8212226",
   "8212233",
@@ -11019,6 +11023,7 @@
   "/job/Boise-ID---Main-Site/Senior-Member-of-Technical-Staff--Advanced-DRAM-Overlay-Engineer_JR109327",
   "/job/Boise-ID---Main-Site/Senior-Sales-Development-Representative_JR106810",
   "/job/Boise-ID---Main-Site/Sr-AV-Development-Engineer_JR113326-1",
+  "/job/Boise-ID---Main-Site/Sr-Design-Automation-Engineer--Simulation_JR113313",
   "/job/Boise-ID---Main-Site/Sr-Engineer--Photo-DRAM_JR105477",
   "/job/Boise-ID---Main-Site/Sr-Leader--Pathfinding---Strategy---Technology-and-Product-Group--ITP-_JR114079",
   "/job/Boise-ID---Main-Site/Sr-Manager--AI-Platforms-Service-Management_JR101257",
@@ -11110,6 +11115,7 @@
   "/job/Richardson-TX/MTS-SoC-DFT-Engineer--HBM_JR113619",
   "/job/Richardson-TX/SoC-Static-Timing-Analysis--STA--Engineer--HBM_JR113632",
   "/job/Richardson-TX/Sr-Design-Enablement--CAD_JR113311",
+  "/job/Richardson-TX/Staff-Physical-Design-Verification--CAD_JR113312",
   "/job/San-Jose-CA/ASIC-Gen-AI-Data-Scientist_JR110473-1",
   "/job/San-Jose-CA/DMTS--SrPrincipal-Product-Manager--HBM_JR108530-1",
   "/job/San-Jose-CA/Director--OEM-Major-Mobile-Accounts_JR111606",
@@ -12604,6 +12610,7 @@
   "2ee660bf-1911-4619-9282-751cd9fc5c61",
   "2f3f416d-cc2a-4836-bcff-daee80c94e95",
   "30d4f083-e3b7-4f06-bc57-575a3368c23a",
+  "310bba8b-1fb6-4e38-bd0b-9d83b712d240",
   "31f7b3d9-eb5f-4e70-98ab-9115dd153993",
   "3229b152-015f-49ad-9921-9c9de95570c8",
   "32425ea6-a64b-408d-ae54-38342b83c875",
@@ -14890,6 +14897,7 @@
   "/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Production-Test-Engineer-Intern--Summer-2027-_01872985",
   "/job/US-NM-WHITE-SANDS-LC38--Bldg-23626-LC-38-Nike-Ave--BLDG-LC38-External-Site/Principal-Systems-Administrator--Onsite-_01879000",
   "/job/US-OH-TROY-101--101-Waco-St--WACO/Associate-Director--SIOP---Materials-Management-Landing-Systems--Onsite-_01876895",
+  "/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Mechanical-Design-Engineering-Co-op--Spring-2027-_01874486",
   "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Engineer-I--Associate-Production-Engineer_01866626",
   "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/F135-Supply-Chain-CONUS-Warehousing--Manager----On-site-_01874105",
   "/job/US-OK-TINKER-AFB-CUST--3001-Staff-Dr--TINKER-AFB-External-Site/Engineer-I--Associate-Production-Engineer_01877310",
@@ -15799,6 +15807,7 @@
   "/job/Brazil---Remote/Technical-Architect_JR362256",
   "/job/Brazil---Sao-Paulo/Customer-Success-Manager--Senior-Manager_JR362578",
   "/job/Brazil---Sao-Paulo/Customer-Success-Manager_JR360915",
+  "/job/Brazil---Sao-Paulo/Customer-Success-Manager_JR362688",
   "/job/Brazil---Sao-Paulo/LATAM-Internship-Program---Alliances---Channels--Brazil-_JR360861-1",
   "/job/Brazil---Sao-Paulo/Named-Account-Executive_JR362158",
   "/job/Brazil---Sao-Paulo/Technical-Architect---Sr-Technical-Architect---Mulesoft_JR362321",
@@ -16634,7 +16643,8 @@
   "8245662",
   "8247017",
   "8247675",
-  "8248966"
+  "8248966",
+  "8250247"
  ],
  "Snap": [
   "/job/Beijing-China/Senior-Account-Manager--Gaming---Apps_R0046581-2",

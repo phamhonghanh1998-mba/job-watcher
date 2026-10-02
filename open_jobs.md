@@ -1,6 +1,6 @@
 # Open matching jobs (406)
 
-Updated 2026-10-02 21:33 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-02 21:51 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -116,7 +116,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
-| 2026-10-02 | Waymo | [2027 Summer Intern, Perception - Perception Data Foundations](https://careers.withwaymo.com/jobs?gh_jid=8248327) | Mountain View, CA, USA |
+| 2026-10-02 | Waymo | [2027 Summer Intern, Perception - Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8248327) | Mountain View, CA, USA |
 | 2026-10-02 | Vanguard | [College to Corporate IT Internship-Application Development (PA)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757) | Malvern, PA |
 | 2026-10-02 | Vanguard | [College to Corporate IT Internship-Application Development (NC)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781) | Charlotte, NC |
 | 2026-10-02 | Target | [Store Executive Intern (Store Leadership Intern) – North/West of Sacramento, CA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/4601-2nd-St-DavisCA-95618-9446/Store-Executive-Intern--Store-Leadership-Intern----North---West-Sacramento--CA--Starting-Summer-2027-_R0000450285) | 4601 2nd St, Davis,CA 95618-9446 |
