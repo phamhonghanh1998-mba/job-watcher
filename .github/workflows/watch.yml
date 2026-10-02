@@ -23,5 +23,5 @@ jobs:
         run: |
           git config user.name "job-watcher"
           git config user.email "job-watcher@users.noreply.github.com"
-          git add seen.json open_jobs.md
+          git add seen.json open_jobs.md open_jobs_by_company.md
           git diff --cached --quiet || (git commit -m "update seen jobs" && git pull --rebase origin main && git push)
