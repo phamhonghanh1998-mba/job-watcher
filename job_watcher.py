@@ -186,6 +186,15 @@ def location_ok(loc):
     return not has_any(loc, k.get("exclude_locations", []))
 
 
+def mba_in_title(title):
+    return has_any(title, CONFIG["keywords"].get("mba_signals", ["MBA"]))
+
+
+def mba_level(job):
+    """Alert only if the title says MBA-level, or the description mentions an MBA."""
+    return mba_in_title(job["title"]) or bool(re.search(r"\bMBA\b", job.get("description", "")))
+
+
 def fill_description(job):
     if job["description"]:
         return
@@ -308,6 +317,9 @@ def main():
             for j in new:
                 j["company"] = name
                 fill_description(j)
+                if not mba_level(j):
+                    print(f"  skipped (no MBA signal): {j['title']}")
+                    continue
                 fit = score_fit(j, resume)
                 if fit is None or fit.get("score", 0) >= min_score:
                     notify(j, fit)
@@ -320,14 +332,23 @@ def main():
 
     # Always-current list of every open matching job, viewable in the repo
     rows = sorted(all_matches, key=lambda x: (x[0].lower(), x[1]["title"].lower()))
+    mba = [r for r in rows if mba_in_title(r[1]["title"])]
+    other = [r for r in rows if not mba_in_title(r[1]["title"])]
+
+    def table(items):
+        return ["| Company | Role | Location |", "|---|---|---|"] + [
+            f"| {c} | [{j['title'].replace('|', '/')}]({j['url']}) | {j['location'].replace('|', '/')} |"
+            for c, j in items]
+
     md = [f"# Open matching jobs ({len(rows)})", "",
-          f"Updated {time.strftime('%Y-%m-%d %H:%M UTC', time.gmtime())}. "
-          "Every MBA-level internship currently open at tracked companies.", "",
-          "| Company | Role | Location |", "|---|---|---|"]
-    md += [f"| {c} | [{j['title'].replace('|', '/')}]({j['url']}) | {j['location'].replace('|', '/')} |"
-           for c, j in rows]
+          f"Updated {time.strftime('%Y-%m-%d %H:%M UTC', time.gmtime())}.", "",
+          f"## MBA-level in the title ({len(mba)})", "", *table(mba), "",
+          f"## Other internships ({len(other)})", "",
+          "Title doesn't say MBA. Many are for undergrads; phone alerts for these are sent only "
+          "if the job description mentions an MBA.", "", *table(other)]
     (ROOT / "open_jobs.md").write_text("\n".join(md) + "\n", encoding="utf-8")
-    print(f"\nTOTAL: {len(rows)} open matching jobs across {len({c for c, _ in rows})} companies")
+    print(f"\nTOTAL: {len(rows)} open matching jobs ({len(mba)} say MBA in the title) "
+          f"across {len({c for c, _ in rows})} companies")
 
 
 if __name__ == "__main__":

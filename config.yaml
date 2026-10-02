@@ -4,14 +4,16 @@ keywords:
   include: ["MBA", "Summer Associate", "Summer 2027", "Internship", "Intern"]
   # Loại bỏ nếu tiêu đề chứa các cụm này.
   # KHÔNG thêm "Senior": Amazon đặt tên MBA intern kiểu "Senior Product Manager, MBA Internship"
-  exclude: ["PhD", "Undergraduate", "Bachelor", "Software Engineer", "Software Development",
+  exclude: ["Co-op", "Coop", "Apprentice", "PhD", "Undergraduate", "Bachelor", "Software Engineer", "Software Development",
             "Hardware", "Research Scientist", "Data Scientist", "High School"]
+  # Title words that mean "MBA-level". Jobs without these only alert if the description mentions an MBA.
+  mba_signals: ["MBA", "Summer Associate", "Graduate", "Masters", "Master's", "Post-Graduate"]
   # MẢNG VIỆC: để [] = không giới hạn mảng (đang dùng).
   # Muốn thu hẹp sau này thì điền, VD: ["Product Manager", "Strategy", "Finance", "Marketing"]
   roles: []
   # Để trống [] nếu nhận mọi địa điểm
   # A job is KEPT if its location mentions any of these...
-  locations: ["United States", "USA", "US", "Remote"]
+  locations: ["United States", "USA", "US"]
   # ...and otherwise DROPPED only if it names one of these non-US places.
   # Anything else (Chicago, Minneapolis, "2 Locations"...) is kept.
   exclude_locations: ["India", "Bangalore", "Bengaluru", "Hyderabad", "Pune", "Mumbai", "Gurgaon",
@@ -22,7 +24,11 @@ keywords:
     "China", "Shanghai", "Beijing", "Hong Kong", "Japan", "Tokyo", "Korea", "Seoul", "Taiwan",
     "Singapore", "Malaysia", "Philippines", "Manila", "Vietnam", "Australia", "Sydney", "Melbourne",
     "New Zealand", "Mexico", "Brazil", "Sao Paulo", "Argentina", "Colombia", "Costa Rica", "Chile",
-    "South Africa", "UAE", "Dubai", "Saudi Arabia", "EMEA", "APAC", "LATAM"]
+    "South Africa", "UAE", "Dubai", "Saudi Arabia", "EMEA", "APAC", "LATAM",
+    "Morocco", "Casablanca", "Egypt", "Nigeria", "Kenya", "Turkey", "Istanbul", "Pakistan", "Indonesia",
+    "Jakarta", "Thailand", "Bangkok", "Peru", "Lima", "Austria", "Vienna", "Norway", "Oslo", "Finland",
+    "Greece", "Bulgaria", "Serbia", "Croatia", "Slovakia", "Lithuania", "Estonia", "Ukraine",
+    "Scotland", "Edinburgh", "Wales", "Luxembourg", "Qatar", "Puerto Rico"]
 
 # ===== CHẤM ĐIỂM RESUME (cần ANTHROPIC_API_KEY) =====
 model: claude-haiku-4-5-20251001
