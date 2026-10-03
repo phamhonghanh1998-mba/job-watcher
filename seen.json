@@ -1006,6 +1006,7 @@
   "5029730007",
   "5029731007",
   "5030041007",
+  "5030386007",
   "5030602007",
   "5030898007",
   "5030911007",
@@ -3264,7 +3265,10 @@
   "5256137007",
   "5256229007",
   "5256233007",
-  "5256234007"
+  "5256234007",
+  "5256304007",
+  "5256305007",
+  "5256306007"
  ],
  "Anthropic": [
   "4017331008",
@@ -10314,6 +10318,7 @@
   "/job/Argentina--San-Luis/Pasante-de-Mantenimiento_887485",
   "/job/Brazil--Sao-Paulo/Jovem-Aprendiz---Recursos-Humanos_887727",
   "/job/Buenos-Aires---Olivos-Office/Ejecutivo-de-Cuentas_886552-1",
+  "/job/Buenos-Aires-Argentina/Pasante-de-Recursos-Humanos_886105",
   "/job/Chicago-Commercial-Center/Brand-Growth-and-Innovation-Leader_887540-2",
   "/job/Chicago-Commercial-Center/Brand-Growth-and-Innovation-Leader_887541",
   "/job/Chicago-Commercial-Center/Brand-Manager---Content---Connections---Huggies--Diapers_887354-2",
