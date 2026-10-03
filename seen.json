@@ -10644,6 +10644,7 @@
   "/job/Dublin-Ireland-One-South-County/Senior-UI-Developer_R-292276",
   "/job/Dublin-Ireland/Platform-Engineer-II_R-287940",
   "/job/Dublin-Ireland/Senior-Software-Engineer---Java_R-288444",
+  "/job/Dublin-Ireland/Site-Reliability-Engineer-II_R-291626",
   "/job/Dublin-Ireland/Software-Engineer-II_R-276381",
   "/job/Frankfurt-Germany/Director--Communications_R-286320",
   "/job/Frankfurt-Germany/Director--SME-Specialist-Sales---Germany_R-280975",
@@ -22476,6 +22477,7 @@
    "/job/US-Minnesota-Maplewood/Internship---2027-MBA-IT-Enterprise-Application-Intern_R01171129": "2026-10-02"
   },
   "Abbott": {
+   "/job/France---Issy-les-Moulineaux/Field-Technical-Engineer--Intern---Paris---6-Months_31162067": "2026-10-03",
    "/job/United-States---Illinois---Abbott-Park/CRM-Clinical-Field-Intern---Summer-2027_31160750": "2026-10-02",
    "/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432": "2026-10-02",
    "/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Finance-Cancer-Diagnostics-Intern_31161561": "2026-10-02",
@@ -23122,6 +23124,7 @@
  "_mba": {
   "3M": {},
   "Abbott": {
+   "/job/France---Issy-les-Moulineaux/Field-Technical-Engineer--Intern---Paris---6-Months_31162067": false,
    "/job/United-States---Illinois---Abbott-Park/CRM-Clinical-Field-Intern---Summer-2027_31160750": false,
    "/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432": false,
    "/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Finance-Cancer-Diagnostics-Intern_31161561": false,
