@@ -1,6 +1,6 @@
-# Open matching jobs (423)
+# Open matching jobs (424)
 
-Updated 2026-10-04 23:10 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-04 23:32 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -110,7 +110,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (325)
+## Other internships (326)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -238,6 +238,10 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-08 | Coinbase | [User Research Intern](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) | Hybrid - San Francisco, CA |
 | 2026-10-02 | CrowdStrike | [Global Programs Intern (Summer 2027)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Global-Sales-Programs-Intern--Summer-2027-_R30217) | USA - Austin, TX |
 | 2026-10-01 | CrowdStrike | [Professional Services Explorer Intern - Summer 2027 (Arlington, VA)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Professional-Services-Explorer-Intern---Summer-2027--Arlington--VA-_R30155) | USA - Arlington, VA |
+| 2026-10-04 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MS---Natchez/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1065511-1) | MS - Natchez |
+| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Dallas/Pharmacy-Intern_R1065510) | TX - Dallas |
+| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Dallas/Pharmacy-Intern_R1065509) | TX - Dallas |
+| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Addison/Pharmacy-Intern_R1065506) | TX - Addison |
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/LA---Lafayette/Pharmacy-Intern_R1065502) | LA - Lafayette |
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Garland/Pharmacy-Intern_R1065496-1) | TX - Garland |
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Corsicana/Pharmacy-Intern_R1065495) | TX - Corsicana |
@@ -254,10 +258,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Dallas/Pharmacy-Intern_R1065433) | TX - Dallas |
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Saginaw/Pharmacy-Intern_R1065431) | TX - Saginaw |
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Mesquite/Pharmacy-Intern_R1065423) | TX - Mesquite |
-| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Dallas/Pharmacy-Intern_R1065419) | TX - Dallas |
-| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Grapevine/Pharmacy-Intern_R1065417) | TX - Grapevine |
-| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AL---Northport/Pharmacy-Intern_R1065413) | AL - Northport |
-| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AL---Calera/Pharmacy-Intern_R1065412-1) | AL - Calera |
 | 2023-08-17 | Databricks | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 2026-08-20 | Databricks | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 2026-08-17 | Datadog | [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | New York, New York, USA |
@@ -316,6 +316,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-04 (30+ days) | Medtronic | [Software Engineering Intern – Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) | 21 Locations |
 | 2026-09-04 (30+ days) | Medtronic | [Supply Chain/Supply Management Intern- Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Supply-Chain-Supply-Management-Intern--Summer-2027_R73693-2) | 7 Locations |
 | 2026-09-30 | Medtronic | [Technical Consultant Intern - Neurosurgery](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/East-London-Eastern-Cape-South-Africa/Technical-Consultant-Intern---Neurosurgery_R77965-2) | 2 Locations |
+| 2026-10-04 | Micron | [Intern - Design Engineer, HBM](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821) | Richardson, TX |
 | 2026-09-04 (30+ days) | Mondelez | [Corporate Finance Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1) | East Hanover, New Jersey, United States |
 | 2026-09-04 (30+ days) | Mondelez | [Customer Service and Logistics Intern ](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Customer-Service-and-Logistics-Intern-_R-175412) | East Hanover, New Jersey, United States |
 | 2026-09-09 | Mondelez | [Manufacturing Intern– Process Engineering](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Business-Unit-Head-Office---East-Hanover-USA/Manufacturing-Intern--Process-Engineering_R-175409) | 7 Locations |

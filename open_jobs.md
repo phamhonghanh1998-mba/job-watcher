@@ -1,6 +1,6 @@
-# Open matching jobs (423)
+# Open matching jobs (424)
 
-Updated 2026-10-04 23:10 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-04 23:32 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -110,12 +110,17 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (325)
+## Other internships (326)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
+| 2026-10-04 | Micron | [Intern - Design Engineer, HBM](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821) | Richardson, TX |
+| 2026-10-04 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MS---Natchez/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1065511-1) | MS - Natchez |
+| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Dallas/Pharmacy-Intern_R1065510) | TX - Dallas |
+| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Dallas/Pharmacy-Intern_R1065509) | TX - Dallas |
+| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Addison/Pharmacy-Intern_R1065506) | TX - Addison |
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/LA---Lafayette/Pharmacy-Intern_R1065502) | LA - Lafayette |
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Garland/Pharmacy-Intern_R1065496-1) | TX - Garland |
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Corsicana/Pharmacy-Intern_R1065495) | TX - Corsicana |
@@ -132,10 +137,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Dallas/Pharmacy-Intern_R1065433) | TX - Dallas |
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Saginaw/Pharmacy-Intern_R1065431) | TX - Saginaw |
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Mesquite/Pharmacy-Intern_R1065423) | TX - Mesquite |
-| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Dallas/Pharmacy-Intern_R1065419) | TX - Dallas |
-| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Grapevine/Pharmacy-Intern_R1065417) | TX - Grapevine |
-| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AL---Northport/Pharmacy-Intern_R1065413) | AL - Northport |
-| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AL---Calera/Pharmacy-Intern_R1065412-1) | AL - Calera |
 | 2026-10-03 | RTX | [Avionics Test Engineering -Systems Engineer Intern (Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518) | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112 |
 | 2026-10-03 | PwC (2) | [San Francisco - Tax - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/CA-San-Francisco/San-Francisco---Tax---Intern---Summer-2028_757723WD) | CA-San Francisco |
 | 2026-10-03 | PwC (2) | [Silicon Valley - Tax - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/CA-Silicon-Valley/Silicon-Valley---Tax---Intern---Summer-2028_757721WD) | CA-Silicon Valley |
