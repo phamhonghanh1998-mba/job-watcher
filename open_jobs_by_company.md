@@ -1,6 +1,6 @@
 # Open matching jobs (423)
 
-Updated 2026-10-04 22:51 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-04 23:10 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -238,6 +238,10 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-08 | Coinbase | [User Research Intern](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) | Hybrid - San Francisco, CA |
 | 2026-10-02 | CrowdStrike | [Global Programs Intern (Summer 2027)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Global-Sales-Programs-Intern--Summer-2027-_R30217) | USA - Austin, TX |
 | 2026-10-01 | CrowdStrike | [Professional Services Explorer Intern - Summer 2027 (Arlington, VA)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Professional-Services-Explorer-Intern---Summer-2027--Arlington--VA-_R30155) | USA - Arlington, VA |
+| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/LA---Lafayette/Pharmacy-Intern_R1065502) | LA - Lafayette |
+| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Garland/Pharmacy-Intern_R1065496-1) | TX - Garland |
+| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Corsicana/Pharmacy-Intern_R1065495) | TX - Corsicana |
+| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Forney/Pharmacy-Intern_R1065485) | TX - Forney |
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Rockwall/Pharmacy-Intern_R1065479-1) | TX - Rockwall |
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Euless/Pharmacy-Intern_R1065475) | TX - Euless |
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Sunnyvale/Pharmacy-Intern_R1065468) | TX - Sunnyvale |
@@ -254,10 +258,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Grapevine/Pharmacy-Intern_R1065417) | TX - Grapevine |
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AL---Northport/Pharmacy-Intern_R1065413) | AL - Northport |
 | 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AL---Calera/Pharmacy-Intern_R1065412-1) | AL - Calera |
-| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AL---Tuscaloosa/Pharmacy-Intern_R1065410) | AL - Tuscaloosa |
-| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AL---Orange-Beach/Pharmacy-Intern_R1065403) | AL - Orange Beach |
-| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AL---Foley/Pharmacy-Intern_R1065398) | AL - Foley |
-| 2026-10-04 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Lewisville/Pharmacy-Intern_R1065396) | TX - Lewisville |
 | 2023-08-17 | Databricks | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 2026-08-20 | Databricks | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 2026-08-17 | Datadog | [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | New York, New York, USA |
