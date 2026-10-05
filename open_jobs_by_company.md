@@ -1,6 +1,6 @@
-# Open matching jobs (406)
+# Open matching jobs (394)
 
-Updated 2026-10-05 21:35 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-05 21:53 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -111,7 +111,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (307)
+## Other internships (295)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -183,18 +183,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2024-09-21 | Applied Materials | [Research Intern - Reinforcement Learning, Self-Driving](https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526) | Sunnyvale |
 | 2026-02-13 | Applied Materials | [Research Intern - World-Action Foundation Model, Robotics](https://jobs.ashbyhq.com/applied/edc2528d-6e6c-4a67-b871-bfe7d9c890b4) | Sunnyvale |
 | 2026-09-14 | Boeing | [Government Affairs Intern- 12 Months Placement](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---London-UK/Government-Affairs-Intern--12-Months-Placement_JR2026520528) | 6 Locations |
-| 2026-09-29 | Booz Allen Hamilton | [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869) | McLean, VA |
-| 2026-10-01 | Booz Allen Hamilton | [Business & Office Management Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Business---Office-Management-Intern_R0250786) | Fayetteville, NC |
-| 2026-09-30 | Booz Allen Hamilton | [Product Engineering Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Product-Engineering-Intern_R0250655) | McLean, VA |
-| 2026-09-16 | Booz Allen Hamilton | [Systems Administrator Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249565) | Annapolis Junction, MD |
-| 2026-09-16 | Booz Allen Hamilton | [Systems Administrator Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249566) | Annapolis Junction, MD |
-| 2026-09-22 | Booz Allen Hamilton | [University - Corporate Finance Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Corporate-Finance-Intern_R0246500) | McLean, VA |
-| 2026-09-11 | Booz Allen Hamilton | [University - Summer 27, Contracts Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249252) | McLean, VA |
-| 2026-09-11 | Booz Allen Hamilton | [University - Summer 27, Contracts Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249253) | McLean, VA |
-| 2026-09-16 | Booz Allen Hamilton | [University - Summer 27, Pricing Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Pricing-Intern_R0249254) | McLean, VA |
-| 2026-09-28 | Booz Allen Hamilton | [University - Summer 27, Pricing Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Pricing-Intern_R0250410) | McLean, VA |
-| 2026-09-23 | Booz Allen Hamilton | [University, 2026 Fall Technologist Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/University--2026-Fall-Technologist-Intern_R0249246) | Honolulu, HI |
-| 2026-09-22 | Booz Allen Hamilton | [University, Summer 2027 - Accounting Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Summer-2027---Accounting-Intern_R0250271) | McLean, VA |
 | 2026-09-05 (30+ days) | Caterpillar | [2027 Summer Corporate Intern - Accounting](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Accounting_R0000379993) | 9 Locations |
 | 2026-09-05 (30+ days) | Caterpillar | [2027 Summer Corporate Intern - Pricing](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Pricing_R0000380150) | 3 Locations |
 | 2026-09-05 (30+ days) | Caterpillar | [2027 Summer Corporate Intern - Procurement](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Procurement_R0000380151) | 6 Locations |
@@ -239,13 +227,13 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-21 | Coinbase | [Tax Information Reporting Intern](https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [Tax Operations Intern](https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [User Research Intern](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) | Hybrid - San Francisco, CA |
-| 2026-10-05 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---State-College/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1066783) | PA - State College |
 | 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Keller/Pharmacy-Intern_R1066932) | TX - Keller |
 | 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/LA---Chalmette/Pharmacy-Intern_R1066926) | LA - Chalmette |
 | 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MS---Hurley/Pharmacy-Intern_R1066922) | MS - Hurley |
 | 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Allen/Pharmacy-Intern_R1066911-1) | TX - Allen |
 | 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Bryan/Pharmacy-Intern_R1066814) | TX - Bryan |
 | 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Bryan/Pharmacy-Intern_R1066813-1) | TX - Bryan |
+| 2026-10-05 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OK---Tulsa/Pharmacy-Intern---Grad_R1066979-1) | OK - Tulsa |
 | 2023-08-17 | Databricks | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 2026-08-20 | Databricks | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 2026-08-17 | Datadog | [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | New York, New York, USA |
@@ -286,8 +274,8 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-05 (30+ days) | Kraft Heinz | [Operations Intern](https://heinz.wd1.myworkdayjobs.com/en-US/KraftHeinz_Careers/job/Operations-Intern_R-53383) |  |
 | 2026-09-28 | Lyft | [Applied Scientist Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) | San Francisco, CA |
 | 2026-09-11 | Lyft | [Data Analyst Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | New York, NY |
-| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
+| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-25 | Medtronic | [Associate Clinical Experience (ACE) Intern – Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1) | 50 Locations |
 | 2026-09-21 | Medtronic | [Clinical Technologist Intern - Cardiovascular](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958) | 4 Locations |
 | 2026-09-05 (30+ days) | Medtronic | [Engineering Intern Summer 2027 - Candidates Attending 2026 O4U Engineering Conference](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-O4U-Engineering-Conference_R75847-1) | 15 Locations |
