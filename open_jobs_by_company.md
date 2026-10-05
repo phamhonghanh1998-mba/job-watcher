@@ -1,6 +1,6 @@
-# Open matching jobs (403)
+# Open matching jobs (401)
 
-Updated 2026-10-05 14:40 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-05 15:15 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -13,7 +13,7 @@ Title or job description mentions an MBA.
 |---|---|---|---|
 | 2026-09-21 | 3M | [Internship - 2027 MBA IT Enterprise Application Intern](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-MBA-IT-Enterprise-Application-Intern_R01171129) | US, Minnesota, Maplewood |
 | 2026-09-05 (30+ days) | Accenture | [Postgraduate Internship Program (Master's & MBA)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuala-Lumpur/Postgraduate-Internship-Program--Master-s---MBA-_R00238420) |  |
-| 2026-10-01 | Accenture | [Strategy Summer Consultant - MBA Internship - NAELFY27](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/NY---New-York/Strategy-Summer-Consultant---MBA-Internship---NAELFY27_R00361148) |  |
+| 2026-10-05 | Accenture | [Strategy Summer Consultant - MBA Internship - NAELFY27](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/NY---New-York/Strategy-Summer-Consultant---MBA-Internship---NAELFY27_R00361148) |  |
 | 2026-09-30 | Adobe | [2027 MBA Intern – Product Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261) | 2 Locations |
 | 2026-09-30 | Adobe | [2027 MBA Intern – Product Marketing Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Marketing-Manager_R172262) | 2 Locations |
 | 2026-09-18 | Adobe | [2027 MBA University Graduate - Manager, Corporate Strategy](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-MBA-University-Graduate---Manager--Corporate-Strategy_R171682) | 2 Locations |
@@ -110,7 +110,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (305)
+## Other internships (303)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -238,8 +238,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-08 | Coinbase | [Tax Operations Intern](https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [User Research Intern](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) | Hybrid - San Francisco, CA |
 | 2026-10-05 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Ansonia/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1065836) | CT - Ansonia |
-| 2026-10-05 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/VA---Hampton/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1065827) | VA - Hampton |
-| 2026-10-05 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/VA---Hampton/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1065833) | VA - Hampton |
+| 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MS---Diamondhead/Pharmacy-Intern_R1066138) | MS - Diamondhead |
 | 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MS---Flowood/Pharmacy-Intern_R1065834) | MS - Flowood |
 | 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Lawrenceville/Pharmacy-Intern_R1065835) | NJ - Lawrenceville |
 | 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IN---Crown-Point/Pharmacy-Intern_R1065837) | IN - Crown Point |
@@ -371,10 +370,10 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-14 | Robinhood | [Vendor Management Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097) | New York, NY |
 | 2026-09-02 | Roblox | [[Summer 2027] Product Design Intern](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) | San Mateo, CA, United States |
 | 2026-09-02 | Roblox | [[Summer 2027] Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA, United States |
-| 2026-10-05 | RTX | [Mechanical Engineer Intern (2027 Summer)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-Intern--2027-Summer-_01874513) | US-AZ-TUCSON-928 ~ 1151 E Hermans Rd ~ MULTI PURPOSE FAC 928 |
 | 2026-10-05 | RTX | [Mechanical Engineer Intern - Air Launched  Effectors (2027 Summer)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420) | US-AZ-TUCSON-9030 ~ 9030 S Rita Rd ~ BLDG 9030 |
 | 2026-10-05 | RTX | [Mechanical Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-Intern--Summer-2027-_01873571) | US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10 |
 | 2026-10-05 | RTX | [Systems Engineer Intern- Onsite](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Systems-Engineer-Intern--Onsite_01876452) | US-FL-MELBOURNE-313 ~ 1344 S Babcock St ~ BLDG 313 |
+| 2026-10-05 | RTX | [Systems Engineering Intern - CNS-Onsite](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Systems-Engineering-Intern---CNS-Onsite_01876809) | US-FL-MELBOURNE-307 ~ 1100 W Hibiscus Blvd ~ BLDG 307 |
 | 2026-09-05 (30+ days) | S&P Global | [Agribusiness Intern (Early Careers)](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2) | Virtual, BR |
 | 2026-09-09 | S&P Global | [Machine Learning Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1) | 2 Locations |
 | 2026-10-05 | S&P Global | [Market Intelligence Revenue Associate Internship](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Central-HK/Market-Intelligence-Revenue-Associate-Internship_332059-1) | Central, HK |
@@ -402,7 +401,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-07 | Stryker | [R&D Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fremont-California/R-D-Intern_R572862) | Fremont, California |
 | 2026-09-05 (30+ days) | Stryker | [R&D Operations Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768) | Salt Lake City, Utah |
 | 2026-09-05 (30+ days) | Synchrony | [BLP Intern – Sales](https://synchronyfinancial.wd5.myworkdayjobs.com/en-US/careers/job/Stamford-Hub/BLP-Intern---Sales_2601694) | Stamford Hub |
-| 2026-10-02 | Target | [Store Executive Intern (Store Leadership Intern) – North/West of Sacramento, CA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/4601-2nd-St-DavisCA-95618-9446/Store-Executive-Intern--Store-Leadership-Intern----North---West-Sacramento--CA--Starting-Summer-2027-_R0000450285) | 4601 2nd St, Davis,CA 95618-9446 |
 | 2026-09-05 (30+ days) | Vanguard | [College to Corporate Internship - Finance](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/College-to-Corporate-Internship---Finance_180047-1) | Malvern, PA |
 | 2026-09-05 (30+ days) | Vanguard | [College to Corporate IT Internship - Application Development  (TX)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Application-Development---TX-_181846) | Dallas/Ft. Worth, TX |
 | 2026-09-05 (30+ days) | Vanguard | [College to Corporate IT Internship - Data Analyst (NC)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767) | Charlotte, NC |
