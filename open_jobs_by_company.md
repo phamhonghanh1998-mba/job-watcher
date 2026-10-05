@@ -1,6 +1,6 @@
-# Open matching jobs (415)
+# Open matching jobs (416)
 
-Updated 2026-10-05 09:15 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-05 09:39 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -110,7 +110,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (317)
+## Other internships (318)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -266,6 +266,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-02 | GE HealthCare | [HR Intern](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Monterrey/HR-Intern_R4047087-1) | Monterrey |
 | 2026-10-02 | GE HealthCare | [Operations Management Leadership Program - Internship](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Waukesha/Operations-Management-Leadership-Program---Internship_R4046211-1) | 11 Locations |
 | 2026-10-05 | Genentech | [Internship in BGE Reagents Development (Rotkreuz, 6 Months, start: mid-November / December 2026)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Rotkreuz/Internship-in-BGE-Reagents-Development--Rotkreuz--6-Months--start--November-2026-_202608-121578) | Rotkreuz |
+| 2026-10-05 | Genentech | [Student Internship - Process Development for Oligonucleotides](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Student-Internship---Process-Development-for-Oligonucleotides_202610-124956) | Basel |
 | 2026-09-05 (30+ days) | Guidehouse | [Intern - Energy Providers - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---GA-Atlanta/Intern---Energy-Providers---Campus-2027_44256) | 9 Locations |
 | 2026-09-28 | Guidehouse | [Intern - Federal Civilian Agencies - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Intern---Federal-Civilian-Agencies---Campus-2027_44923) | 2 Locations |
 | 2026-10-01 | Guidehouse | [Intern - Health and Human Services, Federal Health Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Intern---Health-and-Human-Services--Federal-Health-Advisory---Campus-2027_45153) | US - VA, McLean |
