@@ -1,10 +1,10 @@
-# Open matching jobs (418)
+# Open matching jobs (417)
 
-Updated 2026-10-05 05:41 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-05 06:20 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (98)
+## MBA-level (97)
 
 Title or job description mentions an MBA.
 
@@ -93,7 +93,6 @@ Title or job description mentions an MBA.
 | 2026-09-05 (30+ days) | Mondelez | [Sr. Associate Brand Manager Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Sr-Associate-Brand-Manager-Intern_R-175406) | East Hanover, New Jersey, United States |
 | 2026-09-05 (30+ days) | Intel | [Software Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) | 5 Locations |
 | 2026-09-05 (30+ days) | Intel | [Technical Sales - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Technical-Sales---Intern--Graduate_JR0286831) | 4 Locations |
-| 2026-09-05 (30+ days) | Intel | [Sales and Marketing - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Sales-and-Marketing---Intern--Graduate_JR0286839) | 4 Locations |
 | 2026-09-05 (30+ days) | Hewlett Packard Enterprise (2) | [Product Management Graduate (Master's/MBA)](https://hpe.wd5.myworkdayjobs.com/en-US/ACJobSite/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633) | 10 Locations |
 | 2026-09-05 (30+ days) | Hewlett Packard Enterprise | [Product Management Graduate (Master's/MBA)](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1) | 10 Locations |
 | 2026-09-05 (30+ days) | Hewlett Packard Enterprise | [Product Management Intern (Master's/MBA)](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634) | 10 Locations |

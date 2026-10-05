@@ -1,10 +1,10 @@
-# Open matching jobs (418)
+# Open matching jobs (417)
 
-Updated 2026-10-05 05:41 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-05 06:20 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (98)
+## MBA-level (97)
 
 Title or job description mentions an MBA.
 
@@ -57,7 +57,6 @@ Title or job description mentions an MBA.
 | 2026-09-05 (30+ days) | Hewlett Packard Enterprise | [Product Management Graduate (Master's/MBA)](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1) | 10 Locations |
 | 2026-09-05 (30+ days) | Hewlett Packard Enterprise | [Product Management Intern (Master's/MBA)](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634) | 10 Locations |
 | 2026-09-05 (30+ days) | Hewlett Packard Enterprise (2) | [Product Management Graduate (Master's/MBA)](https://hpe.wd5.myworkdayjobs.com/en-US/ACJobSite/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633) | 10 Locations |
-| 2026-09-05 (30+ days) | Intel | [Sales and Marketing - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Sales-and-Marketing---Intern--Graduate_JR0286839) | 4 Locations |
 | 2026-09-05 (30+ days) | Intel | [Software Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) | 5 Locations |
 | 2026-09-05 (30+ days) | Intel | [Technical Sales - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Technical-Sales---Intern--Graduate_JR0286831) | 4 Locations |
 | 2026-09-29 | Medtronic | [MBA Internship - Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/MBA-Internship---Summer-2027_R78587-1) | Minneapolis, Minnesota, United States of America |
