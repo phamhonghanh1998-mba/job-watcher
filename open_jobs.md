@@ -1,6 +1,6 @@
-# Open matching jobs (404)
+# Open matching jobs (402)
 
-Updated 2026-10-05 23:31 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-05 23:48 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -108,7 +108,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (308)
+## Other internships (306)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -121,7 +121,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-05 | Morgan Stanley | [Intern](https://ms.wd5.myworkdayjobs.com/en-US/External/job/San-Antonio-Texas-United-States-of-America/Intern_JR042272-1) | San Antonio, Texas, United States of America |
 | 2026-10-05 | Micron | [Intern - ID1 Manufacturing Engineer](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287) | Boise, ID - ID1 |
 | 2026-10-05 | Micron | [Intern - Design Architecture, HBM](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Architecture--HBM_JR114300) | Richardson, TX |
-| 2026-10-05 | Micron | [Intern - Engineer, HIG HBM DTPCO](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Engineer--HIG-HBM-DTPCO_JR113618) | Richardson, TX |
 | 2026-10-05 | Guidehouse | [Intern - Centers for Disease Control and Prevention, Federal Health Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---GA-Atlanta/Intern---Centers-for-Disease-Control-and-Prevention--Federal-Health-Advisory---Campus-2027_45239) | US - GA, Atlanta |
 | 2026-10-05 | GE HealthCare | [HR Intern](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Monterrey/HR-Intern_R4047087-1) | Monterrey |
 | 2026-10-05 | GE Aerospace | [HR Intern](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Queretaro/HR-Intern_R5041204-1) | Queretaro |
@@ -137,7 +136,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-05 | Abbott | [2027 R&D Cancer Diagnostics Intern](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---La-Jolla/XMLNAME-2027-R-D-Cancer-Diagnostic-Intern_31162891) | 2 Locations |
 | 2026-10-03 | PwC (2) | [San Francisco - Tax - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/CA-San-Francisco/San-Francisco---Tax---Intern---Summer-2028_757723WD) | CA-San Francisco |
 | 2026-10-03 | PwC (2) | [Silicon Valley - Tax - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/CA-Silicon-Valley/Silicon-Valley---Tax---Intern---Summer-2028_757721WD) | CA-Silicon Valley |
-| 2026-10-02 | Waymo | [2027 Summer Intern, Perception - Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8248327) | Mountain View, CA, USA |
 | 2026-10-02 | Vanguard | [College to Corporate IT Internship-Application Development (PA)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757) | Malvern, PA |
 | 2026-10-02 | Vanguard | [College to Corporate IT Internship-Application Development (NC)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781) | Charlotte, NC |
 | 2026-10-02 | Target | [Store Executive Intern (Store Leadership Intern) – North/West of Sacramento, CA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/4601-2nd-St-DavisCA-95618-9446/Store-Executive-Intern--Store-Leadership-Intern----North---West-Sacramento--CA--Starting-Summer-2027-_R0000450285) | 4601 2nd St, Davis,CA 95618-9446 |

@@ -1,6 +1,6 @@
-# Open matching jobs (404)
+# Open matching jobs (402)
 
-Updated 2026-10-05 23:31 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-05 23:48 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -108,7 +108,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (308)
+## Other internships (306)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -298,7 +298,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-05 (30+ days) | Medtronic | [Supply Chain/Supply Management Intern- Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Supply-Chain-Supply-Management-Intern--Summer-2027_R73693-2) | 7 Locations |
 | 2026-09-30 | Medtronic | [Technical Consultant Intern - Neurosurgery](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/East-London-Eastern-Cape-South-Africa/Technical-Consultant-Intern---Neurosurgery_R77965-2) | 2 Locations |
 | 2026-10-05 | Micron | [Intern - Design Architecture, HBM](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Architecture--HBM_JR114300) | Richardson, TX |
-| 2026-10-05 | Micron | [Intern - Engineer, HIG HBM DTPCO](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Engineer--HIG-HBM-DTPCO_JR113618) | Richardson, TX |
 | 2026-10-05 | Micron | [Intern - ID1 Manufacturing Engineer](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287) | Boise, ID - ID1 |
 | 2026-09-05 (30+ days) | Mondelez | [Corporate Finance Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1) | East Hanover, New Jersey, United States |
 | 2026-09-09 | Mondelez | [Manufacturing Intern– Process Engineering](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Business-Unit-Head-Office---East-Hanover-USA/Manufacturing-Intern--Process-Engineering_R-175409) | 7 Locations |
@@ -421,4 +420,3 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-17 | Waymo | [2027 Summer Intern, BS/MS, Scenes](https://careers.withwaymo.com/jobs?gh_jid=8210170) | Mountain View, California |
 | 2026-09-14 | Waymo | [2027 Summer Intern, BS/MS, Software Engineering, Commercialization](https://careers.withwaymo.com/jobs?gh_jid=8198218) | Mountain View, California, United States; San Francisco, California, United States |
 | 2026-09-03 | Waymo | [2027 Summer Intern, MS, Software Engineering, Behavior Test ](https://careers.withwaymo.com/jobs?gh_jid=8174504) | San Francisco, California, USA |
-| 2026-10-02 | Waymo | [2027 Summer Intern, Perception - Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8248327) | Mountain View, CA, USA |
