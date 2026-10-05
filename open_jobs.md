@@ -1,6 +1,6 @@
-# Open matching jobs (403)
+# Open matching jobs (406)
 
-Updated 2026-10-05 22:12 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-05 22:33 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -111,13 +111,13 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (304)
+## Other internships (307)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
-| 2026-10-05 | RTX | [ERP Systems Transformations Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-NC-CHARLOTTE-2730--2730-W-Tyvola-Rd--TYVOLA/ERP-Systems-Transformations-Intern--Summer-2027-_01879765) | US-NC-CHARLOTTE-2730 ~ 2730 W Tyvola Rd ~ TYVOLA |
+| 2026-10-05 | S&P Global | [Market Intelligence Revenue Associate Internship](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Central-HK/Market-Intelligence-Revenue-Associate-Internship_332059-1) | Central, HK |
 | 2026-10-05 | PwC (2) | [Detroit - Audit - Intern - Winter 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/MI-Detroit/Detroit---Audit---Intern---Winter-2027_757001WD) | MI-Detroit |
 | 2026-10-05 | Philips | [Service Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Moskva/Service-Intern_591578) | Moskva |
 | 2026-10-05 | Morgan Stanley | [Intern](https://ms.wd5.myworkdayjobs.com/en-US/External/job/San-Antonio-Texas-United-States-of-America/Intern_JR042272-1) | San Antonio, Texas, United States of America |
@@ -187,6 +187,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-24 | Morgan Stanley | [Intern](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2) | Baltimore, Maryland, United States of America |
 | 2026-09-24 | Caterpillar | [Communications Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wuxi-Jiangsu/Communications-Intern_R0000395692) | Wuxi, Jiangsu |
 | 2026-09-24 | Caterpillar | [Financial Intern (Accounting / Finance)](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Selangor-Selangor/Intern--Accounting---Finance-_R0000380757) | Selangor, Selangor |
+| 2026-09-23 | S&P Global | [Ratings Analytical Intern - Americas](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Ratings-Analytical-Intern---Americas_331833-1) | New York, NY |
 | 2026-09-23 | Hewlett Packard Enterprise (2) | [Software Intern](https://hpe.wd5.myworkdayjobs.com/en-US/ACJobSite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-3) | 2 Locations |
 | 2026-09-23 | Hewlett Packard Enterprise (2) | [Cloud Developer Intern](https://hpe.wd5.myworkdayjobs.com/en-US/ACJobSite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-3) | 2 Locations |
 | 2026-09-23 | Hewlett Packard Enterprise | [Software Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1) | 2 Locations |
@@ -265,6 +266,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-10 | Philips | [Manufacturing Engineering Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/Manufacturing-Engineering-Intern_590507) | Suzhou |
 | 2026-09-10 | Intel | [Parametric Test Module Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Parametric-Test-Module-Intern_JR0286719) | US, Oregon, Hillsboro |
 | 2026-09-10 | Accenture | [Digital Engineering Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) |  |
+| 2026-09-09 | S&P Global | [Machine Learning Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1) | 2 Locations |
 | 2026-09-09 | Mondelez | [Manufacturing Intern– Process Engineering](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Business-Unit-Head-Office---East-Hanover-USA/Manufacturing-Intern--Process-Engineering_R-175409) | 7 Locations |
 | 2026-09-09 | Amazon | [Startup Project Manager (Execution) Intern Spring and Summer 2027 (CA, CT, TX) ](https://www.amazon.jobs/en/jobs/10534584/startup-project-manager-execution-intern-spring-and-summer-2027-ca-ct-tx) | Cleburne, Texas, USA |
 | 2026-09-09 | Amazon | [Startup Project Manager (Support) Intern Spring and Summer 2027 (Bellevue, WA),  ](https://www.amazon.jobs/en/jobs/10534582/startup-project-manager-support-intern-spring-and-summer-2027-bellevue-wa) | Bellevue, Washington, USA |
@@ -321,6 +323,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-05 (30+ days) | Stryker | [Advanced Operations Summer Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732) | Weston, Florida |
 | 2026-09-05 (30+ days) | Stryker | [R&D Operations Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768) | Salt Lake City, Utah |
 | 2026-09-05 (30+ days) | Stryker | [Engineering Intern, Product Quality](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940) | Tempe, Arizona |
+| 2026-09-05 (30+ days) | S&P Global | [Agribusiness Intern (Early Careers)](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2) | Virtual, BR |
 | 2026-09-05 (30+ days) | Philips | [CMM intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Milano/CMM-intern_591022) | Milano |
 | 2026-09-05 (30+ days) | Philips | [KPI Administration Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Huixquilucan-de-Degollado/KPI-Administration-Intern_588004) | Huixquilucan de Degollado |
 | 2026-09-05 (30+ days) | Oliver Wyman | [Insurance Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Lincoln---Pine/Insurance-Intern_R_364734) | Lincoln - Pine |
