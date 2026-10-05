@@ -3281,7 +3281,9 @@
   "5256503007",
   "5256509007",
   "5256510007",
-  "5256511007"
+  "5256511007",
+  "5256520007",
+  "5256522007"
  ],
  "Anthropic": [
   "4017331008",
@@ -3894,6 +3896,7 @@
   "5432573008",
   "5432575008",
   "5432583008",
+  "5432590008",
   "5432626008",
   "5432845008",
   "5432995008",
@@ -3946,7 +3949,8 @@
   "5441832008",
   "5442051008",
   "5442157008",
-  "5442680008"
+  "5442680008",
+  "5443281008"
  ],
  "Applied Materials": [
   "00eaa332-f855-4963-886c-909ac78bce6d",
@@ -5345,6 +5349,7 @@
   "/job/IND-Hyderabad-115-IT-Park-Area/Staff-Software-Engineer_R027093-6",
   "/job/IND-Pune-EON-Kharadi-Infrastructure/Technical-Support-Engineer_R027201-1",
   "/job/IND-Pune-EON-Kharadi-Infrastructure/Technical-Support-Engineer_R027245",
+  "/job/Singapore-Senoko/Senior-Epi---Fab-Process-Engineer_R027200-5",
   "/job/USA-AZ-Chandler-North-Juniper-Drive/ESD---CAD-Design-Engineer_R027157-1",
   "/job/USA-CA---Promontory-B/Software-Engineer-3_R027176",
   "/job/USA-CA---Promontory-B/Technology-Product-Manager_R026632",
@@ -7945,6 +7950,7 @@
   "8829903002",
   "8829996002",
   "8831555002",
+  "8839016002",
   "8842226002",
   "8842408002",
   "8842963002",
@@ -11252,6 +11258,7 @@
   "/job/Richardson-TX/HBM-SIPI--Principal-Engineer_JR111361",
   "/job/Richardson-TX/Interface-Design-Architect--HBM---DMTS_JR113802",
   "/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821",
+  "/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528",
   "/job/Richardson-TX/MTS-SoC-DFT-Engineer--HBM_JR113619",
   "/job/Richardson-TX/SoC-Static-Timing-Analysis--STA--Engineer--HBM_JR113632",
   "/job/Richardson-TX/Sr-Design-Enablement--CAD_JR113311",
@@ -23036,6 +23043,7 @@
   },
   "Micron": {
    "/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821": "2026-10-04",
+   "/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528": "2026-10-05",
    "/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697": "2026-10-02"
   },
   "Mondelez": {
@@ -23650,6 +23658,7 @@
   },
   "Micron": {
    "/job/Richardson-TX/Intern---Design-Engineer--HBM_JR111821": false,
+   "/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112528": false,
    "/job/San-Jose-CA/Intern---CDBU-Marketing_JR109697": true
   },
   "Mondelez": {
