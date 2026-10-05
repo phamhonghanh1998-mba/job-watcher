@@ -1,10 +1,10 @@
-# Open matching jobs (415)
+# Open matching jobs (410)
 
-Updated 2026-10-05 11:57 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-05 12:19 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (98)
+## MBA-level (95)
 
 Title or job description mentions an MBA.
 
@@ -83,9 +83,6 @@ Title or job description mentions an MBA.
 | 2026-09-05 (30+ days) | Vanguard | [MBA Internship - Investment Management](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/MBA-Internship---Investment-Management_182042) | Malvern, PA |
 | 2026-09-05 (30+ days) | Vanguard | [MBA Development Program - General Management](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/MBA-Development-Program---General-Management_180221) | Malvern, PA |
 | 2026-09-05 (30+ days) | Target | [MBA Intern, Finance Leadership Development Program (FLDP) Internship - (Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/MBA-Intern--Finance-Leadership-Development-Program--FLDP--Internship----Summer-2027-_R0000451066) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |
-| 2026-09-05 (30+ days) | Pfizer | [MBA Marketing Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Marketing-Summer-Associate_4960967) | United States - New York - New York City |
-| 2026-09-05 (30+ days) | Pfizer | [MBA Finance Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Finance-Summer-Associate_4960971) | United States - New York - New York City |
-| 2026-09-05 (30+ days) | Pfizer | [MBA Strategy & Consulting Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Strategy---Consulting-Summer-Associate_4960972) | United States - New York - New York City |
 | 2026-09-05 (30+ days) | Oliver Wyman | [Oliver Wyman - 2027 MBA Summer Associate - Health & Life Sciences](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Oliver-Wyman---2027-MBA-Summer-Associate---Health---Life-Sciences_R_363378) | 4 Locations |
 | 2026-09-05 (30+ days) | Nike | [NIKE, Inc. Strategic Planning Graduate Internship](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Strategic-Planning-Graduate-Internship_R-91142) | Beaverton, Oregon |
 | 2026-09-05 (30+ days) | Nike | [NIKE, Inc. Finance Graduate Internship](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Finance-Graduate-Internship_R-91119) | Beaverton, Oregon |
@@ -110,7 +107,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (317)
+## Other internships (315)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -136,7 +133,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Jacksonville/Pharmacy-Intern_R1065824) | FL - Jacksonville |
 | 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Kissimmee/Pharmacy-Intern_R1065826) | FL - Kissimmee |
 | 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Sacramento/Pharmacy-Intern_R1065810) | CA - Sacramento |
-| 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Deer-Park/Pharmacy-Intern_R1065811) | TX - Deer Park |
 | 2026-10-05 | Abbott | [2027 R&D Cancer Diagnostics Intern](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---La-Jolla/XMLNAME-2027-R-D-Cancer-Diagnostic-Intern_31162891) | 2 Locations |
 | 2026-10-03 | RTX | [Avionics Test Engineering -Systems Engineer Intern (Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518) | US-IA-CEDAR RAPIDS-112 ~ 400 Collins Rd NE ~ BLDG 112 |
 | 2026-10-03 | PwC (2) | [San Francisco - Tax - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/CA-San-Francisco/San-Francisco---Tax---Intern---Summer-2028_757723WD) | CA-San Francisco |
@@ -364,7 +360,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-05 (30+ days) | Hewlett Packard Enterprise | [Firmware Engineer Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627) | 10 Locations |
 | 2026-09-05 (30+ days) | Hewlett Packard Enterprise | [Data Science Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632) | 10 Locations |
 | 2026-09-05 (30+ days) | Hewlett Packard Enterprise | [Electrical Engineering Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Intern_1213423) | Spring, Texas, United States of America |
-| 2026-09-05 (30+ days) | Hewlett Packard Enterprise | [Mechanical Engineer Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393) | Spring, Texas, United States of America |
 | 2026-09-05 (30+ days) | Guidehouse | [Intern - Energy Providers - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---GA-Atlanta/Intern---Energy-Providers---Campus-2027_44256) | 9 Locations |
 | 2026-09-05 (30+ days) | Clorox | [Plant Intern](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Burnside-KY---USA/Plant-Intern_21841) | Burnside, KY - USA |
 | 2026-09-05 (30+ days) | Caterpillar | [2027 Summer Intern - Finance](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Nashville-Tennessee/XMLNAME-2027-Summer-Intern---Finance_R0000387781) | Nashville, Tennessee |

@@ -1,10 +1,10 @@
-# Open matching jobs (415)
+# Open matching jobs (410)
 
-Updated 2026-10-05 11:57 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-05 12:19 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (98)
+## MBA-level (95)
 
 Title or job description mentions an MBA.
 
@@ -76,9 +76,6 @@ Title or job description mentions an MBA.
 | 2026-09-05 (30+ days) | Oliver Wyman | [Oliver Wyman - 2027 MBA Summer Associate - Health & Life Sciences](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Oliver-Wyman---2027-MBA-Summer-Associate---Health---Life-Sciences_R_363378) | 4 Locations |
 | 2026-10-01 | Oliver Wyman | [Workforce and Rewards Summer Associate (MBA or Master's Track) - Chicago - MBA Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Chicago---155-Wacker/Workforce-and-Rewards-Summer-Associate--MBA-or-Master-s-Track----Chicago---MBA-Program-2027_R_367574-1) | Chicago - 155 Wacker |
 | 2026-09-08 | Oliver Wyman | [Workforce and Rewards Summer Associate (MBA or Master's Track) - Los Angeles - MBA Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Los-Angeles---West-5th/Career-Consulting-Summer-Associate--MBA-or-Master-s-Track----Los-Angeles---MBA-Program-2027_R_365103-1) | Los Angeles - West 5th |
-| 2026-09-05 (30+ days) | Pfizer | [MBA Finance Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Finance-Summer-Associate_4960971) | United States - New York - New York City |
-| 2026-09-05 (30+ days) | Pfizer | [MBA Marketing Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Marketing-Summer-Associate_4960967) | United States - New York - New York City |
-| 2026-09-05 (30+ days) | Pfizer | [MBA Strategy & Consulting Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Strategy---Consulting-Summer-Associate_4960972) | United States - New York - New York City |
 | 2026-09-08 | Philips | [MBA Full Time – Operations Leadership Development Program – Nashville, TN; Murrysville, PA; Cambridge, MA - Summer 2027](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/MBA-Full-Time---Operations-Leadership-Development-Program---Nashville--TN--Murrysville--PA--Cambridge--MA---Summer-2027_588665) | 3 Locations |
 | 2026-10-01 | Pinterest | [Master's Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US |
 | 2026-10-01 | Pinterest | [Master's Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US |
@@ -110,7 +107,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (317)
+## Other internships (315)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -253,7 +250,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Jacksonville/Pharmacy-Intern_R1065824) | FL - Jacksonville |
 | 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Kissimmee/Pharmacy-Intern_R1065826) | FL - Kissimmee |
 | 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Sacramento/Pharmacy-Intern_R1065810) | CA - Sacramento |
-| 2026-10-05 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Deer-Park/Pharmacy-Intern_R1065811) | TX - Deer Park |
 | 2023-08-17 | Databricks | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 2026-08-20 | Databricks | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 2026-08-17 | Datadog | [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | New York, New York, USA |
@@ -276,7 +272,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-05 (30+ days) | Hewlett Packard Enterprise | [Electrical Engineering Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Intern_1213423) | Spring, Texas, United States of America |
 | 2026-09-28 | Hewlett Packard Enterprise | [Finance Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Finance-Intern_1213639) | Spring, Texas, United States of America |
 | 2026-09-05 (30+ days) | Hewlett Packard Enterprise | [Firmware Engineer Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627) | 10 Locations |
-| 2026-09-05 (30+ days) | Hewlett Packard Enterprise | [Mechanical Engineer Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393) | Spring, Texas, United States of America |
 | 2026-09-23 | Hewlett Packard Enterprise | [Software Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1) | 2 Locations |
 | 2026-09-23 | Hewlett Packard Enterprise (2) | [Cloud Developer Intern](https://hpe.wd5.myworkdayjobs.com/en-US/ACJobSite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-3) | 2 Locations |
 | 2026-09-23 | Hewlett Packard Enterprise (2) | [Software Intern](https://hpe.wd5.myworkdayjobs.com/en-US/ACJobSite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-3) | 2 Locations |
