@@ -3354,7 +3354,11 @@
   "5257571007",
   "5257652007",
   "5257653007",
-  "5257656007"
+  "5257656007",
+  "5257674007",
+  "5257682007",
+  "5257690007",
+  "5257693007"
  ],
  "Anthropic": [
   "4017331008",
@@ -6069,6 +6073,7 @@
   "/job/London-Eng/Senior-Relationship-Management-and-Business-Development_R246507",
   "/job/McLean-VA/Assistant-Relationship-Manager_R1003052-2",
   "/job/McLean-VA/Associate--Finance---Treasury_R1002891-1",
+  "/job/McLean-VA/Business-Director--Product-Strategy---Analysis_R1000080-1",
   "/job/McLean-VA/Business-Manager---CR-A--Credit-Enablement-and-Operations_R1002757",
   "/job/McLean-VA/Business-Manager---Card-Loss-Forecast-and-Allowance_R1002479-1",
   "/job/McLean-VA/Business-Manager---Insights---Analytics---Community-Finance_R1002900-2",
@@ -9525,6 +9530,7 @@
   "/job/Austin-Domain-11---HomeAway/Software-Development-Engineer-III---AI-Engineer_R-102785-1",
   "/job/Canada---British-Columbia---Vancouver/Program-Manager-II--AI---Productivity_R-109904-1",
   "/job/Canada---British-Columbia---Vancouver/Software-Development-Engineer-I_R-109478",
+  "/job/Canada---Quebec---Montreal/Dveloppeur--euse--de-logiciels-snior-e---contenu----Senior-Software-Development-Engineer_R-106558-2",
   "/job/Czech-Republic---Prague/Associate-Account-Management--PGA----Portuguese-Speaking_R-108713-1",
   "/job/India---Bangalore/Manager--International-Tax_R-110212-1",
   "/job/India---Bangalore/Salesforce-System-Administrator_R-109872",
@@ -10066,6 +10072,7 @@
   "/job/Indianapolis/Inside-Sales-Representative_202609-124437-1",
   "/job/Indianapolis/Production-Technician--3rd-shift-_202607-118717",
   "/job/Indianapolis/Quality-Control-Technician--2nd-shift-_202609-124359-1",
+  "/job/Indianapolis/Regulatory-Affairs-Manager--Companion-Diagnostics_202607-119375-1",
   "/job/Indianapolis/VP--Near-Patient-Care-Sales_202609-124645",
   "/job/Jakarta/Patient-Journey-Partner_202608-120298",
   "/job/Jeddah/Early-in-Career-Development-Programme---Commercial--Roche-Pharma-_202610-125131",
@@ -13273,6 +13280,7 @@
   "8245007",
   "8245295",
   "8245298",
+  "8247018",
   "8247059",
   "8247721",
   "8248278",
@@ -15951,6 +15959,8 @@
   "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-II--Onsite-_01879240",
   "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-I--2nd-Shift-_01878750",
   "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-IV---Team-Lead--2nd-Shift-_01861388",
+  "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-IV---Team-Lead_01852421-1",
+  "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-I_01874117",
   "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Material-Handler-I_01873357",
   "/job/US-KY-LOUISVILLE-102--6201-Strawberry-Ln--STRAWBERRY/International-Program-Manager_01868840",
   "/job/US-KY-LOUISVILLE-500--1001-Cheri-Wy--BLDG-500-Ste-300-400-500/Program-Integrator_01878378",
@@ -16938,7 +16948,8 @@
   "8231343",
   "8231390",
   "8231864",
-  "8233354"
+  "8233354",
+  "8247229"
  ],
  "S&P Global": [
   "/job/Bengaluru-Karnataka/Data-Analyst_331325-2",
@@ -16989,6 +17000,7 @@
   "/job/Australia---Brisbane/Commercial-Account-Executive_JR361315",
   "/job/Australia---Melbourne/Commercial-Account-Executive---Mid-Market_JR359368",
   "/job/Australia---Sydney/Director--Policy_JR361951",
+  "/job/Australia---Sydney/Enterprise-Account-Executive---High-tech-and-Professional-Services_JR359296",
   "/job/Australia---Sydney/Renewals-Manager---Informatica_JR353789-1",
   "/job/Australia---Sydney/Specialist-Account-Executive_JR351557-1",
   "/job/Belgium---Brussels/Enterprise-Account-Executive---Tableau----Belgium_JR346156",
@@ -17181,7 +17193,8 @@
   "/job/Washington---Seattle/Principal-Researcher---Agentforce-Platform_JR361937",
   "/job/Washington---Seattle/Product-Management-Specialist_JR362469-1",
   "/job/Washington---Seattle/Sr-GRC-Analyst--Policy-Operations_JR361730",
-  "/job/Washington---Seattle/Sr-Product-Owner_JR362141"
+  "/job/Washington---Seattle/Sr-Product-Owner_JR362141",
+  "/job/Washington-DC---Remote/Named-Account-Executive---Federal-Civilian--Tribal-Gaming-and-Government_JR362637"
  ],
  "Samsara": [
   "7266176",
@@ -23891,7 +23904,10 @@
    "5153218007": "2026-10-02",
    "5236893007": "2026-10-02",
    "5255593007": "2026-10-02",
-   "5255827007": "2026-10-02"
+   "5255827007": "2026-10-02",
+   "5257674007": "2026-10-06",
+   "5257682007": "2026-10-06",
+   "5257690007": "2026-10-06"
   },
   "Anthropic": {},
   "Applied Materials": {
@@ -24160,6 +24176,7 @@
    "/job/Subang/IT-Support-Intern_R5038715-1": "2026-10-02"
   },
   "GE HealthCare": {
+   "/job/COL01-01-Bogota-Av-Cra-72-No-80-94/Becario-a-de-Channel-Management---Analytics_R4047086-1": "2026-10-06",
    "/job/IL03-01-Chicago-500-W-Monroe-St/GEHC-Ventures-Intern_R4045971-1": "2026-10-02",
    "/job/Monterrey/HR-Intern_R4047087-1": "2026-10-02",
    "/job/Remote/Instructional-Design-Intern_R4047208-1": "2026-10-02",
@@ -24642,7 +24659,10 @@
    "5153218007": false,
    "5236893007": false,
    "5255593007": false,
-   "5255827007": false
+   "5255827007": false,
+   "5257674007": false,
+   "5257682007": false,
+   "5257690007": false
   },
   "Applied Materials": {
    "91e0686e-272a-4780-b33d-d7860b94a7b4": false,
@@ -24871,6 +24891,7 @@
    "/job/Subang/IT-Support-Intern_R5038715-1": false
   },
   "GE HealthCare": {
+   "/job/COL01-01-Bogota-Av-Cra-72-No-80-94/Becario-a-de-Channel-Management---Analytics_R4047086-1": false,
    "/job/IL03-01-Chicago-500-W-Monroe-St/GEHC-Ventures-Intern_R4045971-1": true,
    "/job/Monterrey/HR-Intern_R4047087-1": false,
    "/job/Remote/Instructional-Design-Intern_R4047208-1": false,
