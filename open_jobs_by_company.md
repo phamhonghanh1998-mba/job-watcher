@@ -1,6 +1,6 @@
-# Open matching jobs (403)
+# Open matching jobs (404)
 
-Updated 2026-10-06 21:34 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-06 21:51 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -113,7 +113,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (302)
+## Other internships (303)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -304,6 +304,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-30 | Medtronic | [Technical Consultant Intern - Neurosurgery](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/East-London-Eastern-Cape-South-Africa/Technical-Consultant-Intern---Neurosurgery_R77965-2) | 2 Locations |
 | 2026-10-06 | Merck | [2027 Future Talent Program - Study Management - Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Study-Management---Intern_R413266) | 2 Locations |
 | 2026-09-06 (30+ days) | Mondelez | [Corporate Finance Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1) | East Hanover, New Jersey, United States |
+| 2026-10-06 | Mondelez | [Intern Sales Modern Trade](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Quito-Ecuador/Intern-Sales-Modern-Trade_R-177811) | Quito, Ecuador |
 | 2026-09-09 | Mondelez | [Manufacturing Intern– Process Engineering](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Business-Unit-Head-Office---East-Hanover-USA/Manufacturing-Intern--Process-Engineering_R-175409) | 7 Locations |
 | 2026-09-06 (30+ days) | Mondelez | [Research & Development Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Research---Development-Intern_R-175411) | East Hanover, New Jersey, United States |
 | 2026-09-17 | Mondelez | [Sales Capability Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Ho-Chi-Minh-Vietnam/Sales-Capability-Intern_R-177715) | 2 Locations |
