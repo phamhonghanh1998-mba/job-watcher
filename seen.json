@@ -517,6 +517,7 @@
   "8120721",
   "8121074",
   "8123037",
+  "8125873",
   "8125981",
   "8129371",
   "8130355",
@@ -651,6 +652,7 @@
   "/job/FL---Orlando/Licensed-Insurance-Sales-Representative--Remote---Home-Based-Work-_R28334",
   "/job/Ind--Pune-Sez-1-All-Floors-Except-9Th-And-10Th/Category---Sourcing-Management-Senior-Consultant-I_R35113-1",
   "/job/OH---Cincinnati/Licensed-Insurance-Sales-Representative--Remote---Home-Based-Work-_R28330",
+  "/job/TN---Nashville/Licensed-Insurance-Sales-Representative--Remote---Home-Based-Work-_R28325",
   "/job/TX---Dallas/Legal-Administrative-Assistant--Hybrid---Dallas--TX-_R34823",
   "/job/US---Remote/Digital-Product-Manager--Multiple-Levels-Available-_R30696-1",
   "/job/USA---AZ-Remote/Inside-Auto-Claims-Adjuster---West-Zone_R35300-1",
@@ -4125,6 +4127,7 @@
   "5444773008",
   "5444778008",
   "5445316008",
+  "5445366008",
   "5445760008"
  ],
  "Applied Materials": [
@@ -4566,7 +4569,8 @@
   "8250135",
   "8250168",
   "8257456",
-  "8257464"
+  "8257464",
+  "8260059"
  ],
  "Autodesk": [
   "/job/AMER---United-States---California---San-Francisco---One-Market/Director--Chief-of-Staff_26WD101007-2",
@@ -5084,7 +5088,8 @@
   "/job/Space-Coast-FL/Sr-Vehicle-Systems-Engineer---New-Glenn-Stage-2_R61659-1",
   "/job/Space-Coast-FL/Systems-Engineer-III---New-Glenn-Customer-Certification_R72037",
   "/job/Space-Coast-FL/Technical-Program-Manager-III---New-Glenn_R72029",
-  "/job/Space-Coast-FL/Technical-Project-Manager-III---Fluids_R71883"
+  "/job/Space-Coast-FL/Technical-Project-Manager-III---Fluids_R71883",
+  "/job/Space-Coast-FL/Technical-Project-Manager-Sr---Vertical-Integration-Strategy-and-Execution_R72876"
  ],
  "Boeing": [
   "/job/AUS---Port-Melbourne-Australia/Supply-Chain-Intern_JR2026509983",
@@ -5981,6 +5986,7 @@
   "/job/NY---New-York/Lead-Director--Marketing-Strategy---Operations_R1055667-1",
   "/job/NY---New-York/Lead-Director--Retail-Analytics-Technical-Product_R1014559",
   "/job/NY---New-York/Pharmacy-Intern_R1065646",
+  "/job/NY---New-York/Product-Manager---Intelligent-Reporting---BI-Modernization_R1054295",
   "/job/NY---New-York/Senior-Data-Scientist---Commercial-Product-Strategy_R0916261",
   "/job/NY---New-York/Senior-Manager--Corporate-Strategy_R1048959-1",
   "/job/NY---New-York/Senior-Manager--Enterprise-Strategy_R0946307-1",
@@ -7584,7 +7590,8 @@
   "8250032",
   "8257904",
   "8259801",
-  "8259870"
+  "8259870",
+  "8260052"
  ],
  "CrowdStrike": [
   "/job/Australia---Remote-NW/Professional-Services-Subcontractor-Manager_R30007",
@@ -10351,6 +10358,7 @@
   "/job/Remote/Biomedical-Equipment-Technician-1_R4046738-1",
   "/job/Remote/Biomedical-Equipment-Technician-1_R4046884-2",
   "/job/Remote/Biomedical-Equipment-Technician-3_R4046912-1",
+  "/job/Remote/Biomedical-Equipment-Technician-3_R4047415-1",
   "/job/Remote/Biomedical-Equipment-Technician-I_R4044975-1",
   "/job/Remote/Cardiac-PET-Senior-Account-Manager_R4046268-2",
   "/job/Remote/Care-Area-Lead-Neurology_R4045838-1",
@@ -11811,6 +11819,7 @@
   "/job/OFallon-Missouri/Director--Platform-Engineering_R-273321",
   "/job/OFallon-Missouri/Director--Software-Engineering_R-290006-1",
   "/job/OFallon-Missouri/Lead--Product-Management-Technical_R-277454",
+  "/job/OFallon-Missouri/Lead-Platform-Engineer_R-276836",
   "/job/OFallon-Missouri/Lead-PostgreSQL-Engineer_R-284513",
   "/job/OFallon-Missouri/Lead-Software-Integration-Engineer---Workday_R-281339",
   "/job/OFallon-Missouri/Lead-Software-Integration-Engineer--Release-Management----HR-Platforms_R-281457",
@@ -12506,6 +12515,7 @@
   "/job/MSB-Singapore/Staff-Principal-PDE-APACT--Adv-Pkg---Central-Team--Prog-Ops-Engineer_JR112111",
   "/job/MSB-Singapore/Technician--Metrology---RealTime-Defects-Analysis--MRDA-_JR114253",
   "/job/MSB-Singapore/logistics-analyst-3_JR110196",
+  "/job/Manassas-VA----Fab-6/Category-Supplier-Manager_JR104242",
   "/job/Manassas-VA----Fab-6/Equipment-Engineer--CMP-_JR112808",
   "/job/Manassas-VA----Fab-6/Equipment-Engineer--RDA---Metrology-_JR109850",
   "/job/Manassas-VA----Fab-6/Facilities--Electrical-Technician--Manassas--VA_JR112357",
@@ -13425,6 +13435,7 @@
   "/job/Seattle-WA/Digital-Marketing-Manager---3PP-and-Publishers--Hybrid---Seattle--WA-_R-875021",
   "/job/Seattle-WA/Program-Manager--Enterprise-Planning---Delivery---Hybrid--Seattle--WA-_R-875480",
   "/job/Seattle-WA/Senior-Full-Stack-Software-Engineer_R-852754",
+  "/job/Seattle-WA/Sr-Business-AI-Architect--Finance_R-868314",
   "/job/Shenandoah-TX/Manager---Asset-Protection---Portofino-Rack_R-875961-1",
   "/job/Tampa-FL/Assistant-Manager---Beauty---International-Plaza_R-872898-1",
   "/job/Tampa-FL/Beauty-Counter-Manager---Dr-Barbara-Sturm---International-Plaza_R-876766",
@@ -15374,7 +15385,8 @@
   "8238038",
   "8245795",
   "8247000",
-  "8249923"
+  "8249923",
+  "8256694"
  ],
  "Perplexity": [
   "0190699f-010b-44f2-8399-278899fef018",
@@ -15639,6 +15651,7 @@
   "7494740",
   "7494904",
   "7507652",
+  "7577227",
   "7638599",
   "7642253",
   "7656243",
@@ -16539,6 +16552,7 @@
   "/job/SG-01-SINGAPORE-690--690-W-Camp-Rd--690-W-CAMP-RD-Seletar-Aerospace-Park-JTC-Aviation-2-05-01/Principal-Engineer--Technology_01877745",
   "/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Mechanical-Engineer-I--Onsite-_01879329",
   "/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Mechanical-Engineer-II--Onsite-_01879333",
+  "/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/SM-6-IAU-Transition-To-Production-RRMIF-Integrated-Product-Team-Lead--IPTL-_01869997",
   "/job/US-AL-HUNTSVILLE-315--315-Bob-Heath-Dr--BOB-HEATH/Thermal-Analyst-I--Onsite-_01877096",
   "/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Principal-Software-Engineer---Core-Services-and-Libraries--Hybrid-_01879056",
   "/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Principal-Software-Engineer---TCMA--Onsite-_01879930",
@@ -16563,6 +16577,7 @@
   "/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/StormBreaker-Technical-Lead_01877729",
   "/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Systems-Security-Engineer-I---Anti-Tamper---Program-Protection--On-site-_01874756",
   "/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Systems-Security-Engineering-Intern--Summer-2027-_01874755",
+  "/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Ultra-Stack-Munition-Acceleration-Mechanical-Integrated-Product-Team-Lead--IPTL-_01871823",
   "/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/Finance-Lead--On-Site-_01879159",
   "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Affordability-Section-Manager_01858874",
   "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Digital-Product-Configuration-Management-Engineer-I--Onsite-_01879680",
@@ -16631,6 +16646,7 @@
   "/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Manager--Contracts---Advanced-Effectors---Space--Onsite-_01869471",
   "/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/RF-Electrical-Engineer-I---Onsite_01879593",
   "/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Senior-Analyst--Contracts--Onsite-_01869466",
+  "/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Sr-Materials-Engineer--Global-Chemical-Substances-_01879829-1",
   "/job/US-AZ-TUCSON-M05--1151-E-Hermans-Rd--BLDG-M05-External-Site/Cybersecurity-Analyst--Onsite-_01877614",
   "/job/US-AZ-TUCSON-M05--1151-E-Hermans-Rd--BLDG-M05-External-Site/Information-Systems-Security-Officer--Onsite-_01878315",
   "/job/US-AZ-TUCSON-M07--3292-E-Hemisphere-Loop--BLDG-M07/Senior-Javelin-Field-Service-Specialist--Tucson-UK-_01852093",
@@ -16643,6 +16659,7 @@
   "/job/US-AZ-TUCSON-M13--3601-E-Britannia-Dr--BRITANNIA-M13/Material-Program-Manger_01879088",
   "/job/US-CA-CARLSBAD-5940--5940-Darwin-Ct--DARWIN/Principal-Manufacturing-Readiness-Lead---Ceramic-Matrix-Composites--Onsite-_01878397",
   "/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Advanced-System-Program-Quality-Lead_01879411",
+  "/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Next-Gen-GEO-OPIR-Deputy-Chief-Engineer--DCE-_01860362-1",
   "/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Systems-Engineer-I--Onsite-_01877801",
   "/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/M-Code-ASIC-Sustainment-Program-Manager--Mission-Aligned-GPS-Systems--Hybrid-_01878046-1",
   "/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Principal-Financial-Analyst_01878225",
@@ -16683,6 +16700,7 @@
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Electronic-System-Servicer-2nd-Shift--onsite-_01868042-1",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Engine-Performance---Operability-Intern--Summer-2027--Onsite-_01877976",
+  "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Executive-Administrative-Assistant---Strategy---Transformation--Onsite-_01880590-1",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/F100-Materials-Specialist---Onsite_01873441",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/F135-Collins-Partner-Program-ECU-Business-Manager--Onsite-_01873426",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/F135-Deployment-Fleet-Logistics-Specialist----On-site-_01863704",
@@ -16711,6 +16729,7 @@
   "/job/US-CT-FARMINGTON-0010--10-Farm-Springs-Rd--10-FARM-SPRINGS/Sourcing-Manager---HR-Categories_01878352",
   "/job/US-CT-MIDDLETOWN-110--Aircraft-Rd--BLDG-110/HR-Employee-Partner--Hybrid-_01877183",
   "/job/US-CT-MIDDLETOWN-130--Aircraft-Rd--BLDG-130/Senior-Design-Engineer--AWW----Hybrid_01878421",
+  "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Assembly-Technician---2nd-Shift--Onsite-_01868331-2",
   "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Compressor-Aerodynamics-Intern--Summer-2027--Onsite-_01876152",
   "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Material-Servicer-B---2nd-Shift--Onsite-_01871324-1",
   "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/NDT-Inspector---2nd-Shift---Onsite-_01873005-1",
@@ -19424,7 +19443,8 @@
   "8010590003",
   "8010637003",
   "8011008003",
-  "8011804003"
+  "8011804003",
+  "8013180003"
  ],
  "SpaceX": [
   "8377056002",
@@ -23033,6 +23053,7 @@
   "8241571",
   "8241855",
   "8241857",
+  "8244505",
   "8245584",
   "8245638",
   "8248088",
@@ -23222,6 +23243,7 @@
   "/job/1000-Site-Pkwy-HamptonGA-30228/Senior-Target-Security-Specialist---Flow-Center---Hampton--GA_R0000475801",
   "/job/1111-Macom-Dr-DekalbIL-60115-8709/Sr-HR-Specialist-GSCL_R0000444809",
   "/job/129-North-Rd-WiltonNY-12831-1308/Seasonal-Target-Security-Specialist---Regional-Distribution-Center---Wilton--NY_R0000475578",
+  "/job/1290-Prince-Georges-Blvd-Upper-MarlboroMD-20774/Senior-Human-Resources-Specialist_R0000476618",
   "/job/14750-Miller-Avenue-FontanaCA-92336-1685/Senior-Target-Security-Specialist--B3-_R0000475408",
   "/job/1800-State-Hwy-5S-AmsterdamNY-12010-8174/Senior-Target-Security-Specialist---Regional-Distribution-Center---Amsterdam--NY_R0000476498",
   "/job/1800-Tiffin-Ave-FindlayOH-45840-6789/Assets-Protection-Team-Leader_R0000475543",
@@ -24971,6 +24993,7 @@
   "5248876007",
   "5249655007",
   "5249657007",
+  "5249661007",
   "5249895007",
   "5250686007",
   "5250700007",
