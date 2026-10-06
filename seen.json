@@ -3440,7 +3440,10 @@
   "5259733007",
   "5259735007",
   "5259736007",
-  "5259738007"
+  "5259738007",
+  "5259752007",
+  "5259766007",
+  "5259767007"
  ],
  "Anthropic": [
   "4017331008",
@@ -4132,6 +4135,7 @@
   "5444778008",
   "5445316008",
   "5445366008",
+  "5445577008",
   "5445760008"
  ],
  "Applied Materials": [
@@ -11848,6 +11852,7 @@
   "/job/OFallon-Missouri/Senior-Data-Engineer_R-291931",
   "/job/OFallon-Missouri/Senior-Data-Engineer_R-291932-1",
   "/job/OFallon-Missouri/Senior-Integration-Engineer_R-291917",
+  "/job/OFallon-Missouri/Senior-Software-Development-Engineer_R-287313",
   "/job/OFallon-Missouri/Senior-Software-Engineer_R-279539",
   "/job/OFallon-Missouri/Senior-Software-Engineer_R-289559",
   "/job/OFallon-Missouri/Senior-Specialist---Customer-Experience-and-Design_R-286325",
@@ -12290,6 +12295,7 @@
  ],
  "Micron": [
   "/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876",
+  "/job/Albany-NY/TD-Photolithography-Automation-Engineer_JR111984",
   "/job/Arzano-NA-Italy/ENGINEER--FW---PRODUCT-TEST-ENGINEERING_JR113780",
   "/job/Arzano-NA-Italy/INTERN-mNAND-System-Architecture_JR111816",
   "/job/Avezzano-AQ-Italy/Design-Engineer_JR113609",
@@ -12415,6 +12421,7 @@
   "/job/Boise-ID---Main-Site/Staff-System-Enablement-Engineer_JR102561",
   "/job/Boise-ID---Main-Site/Supply-Demand-Analyst--Revenue-Operations_JR109174",
   "/job/Boise-ID---Main-Site/TD-CVD-DIFF-IMPLANT-Process-MDE-Manager--Process-Development-Support-_JR104800",
+  "/job/Boise-ID---Main-Site/TD-Photolithography-Overlay-Engineer_JR111987",
   "/job/Boise-ID---Main-Site/TECHNICIAN--ID1-ME---CMP-OPERATIONS_JR113502",
   "/job/Boise-ID---Main-Site/TSE-R-D-Equipment-Project-Manager--Intern-_JR114087",
   "/job/Boise-ID---North-Office/Intern---Category-Supplier-Management_JR110910",
@@ -14647,6 +14654,7 @@
   "a1b4bfdf-673a-4ac4-a459-70118caabc09",
   "a1d8f659-c652-42df-968e-008298b733e5",
   "a20b7fc6-6f01-4618-ba35-37b40083f93e",
+  "a23a49a6-0c20-4cb3-8ffd-4881f5914474",
   "a23bd45a-e192-460d-bd34-a0f6c4bc6865",
   "a244270d-9308-4124-82d5-9c0b91eae1f2",
   "a368e0b4-2027-4d73-b45b-8a6a9b06c77b",
@@ -16708,6 +16716,8 @@
   "/job/US-CA-REMOTE/Program-Cost-Controls-Senior-Analyst_01875924",
   "/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/GPNTS-Program-Manager--Mission-Aligned-GPS-Systems--ONSITE-_01878048",
   "/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Logistics-Engineer--Onsite-_01879060",
+  "/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Systems-Engineer-I--Onsite-_01879195",
+  "/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Systems-Engineering-Intern--Summer-2027-_01879193",
   "/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Sr-Analyst--Security--Onsite-_01874291",
   "/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Staffing-Support-Lead_01879255",
   "/job/US-CO-REMOTE/Senior-Manager--Learning-Systems---Enablement_01879368",
@@ -16915,6 +16925,7 @@
   "/job/US-MA-ANDOVER-AN3--354-Lowell-St--AN3-SUFFOLK-BLDG/Sr-Analyst--Scheduling_01873234-1",
   "/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Contracts-Manager_01874089",
   "/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338",
+  "/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineer-1--Onsite-_01879874",
   "/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/FPGA--Digital-Design-Engineer-II---Onsite_01879342",
   "/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Mechanical-Engineer-I--Onsite-_01879796",
   "/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Mechanical-Engineer-II--Onsite-_01879790",
@@ -19473,7 +19484,8 @@
   "8010637003",
   "8011008003",
   "8011804003",
-  "8013180003"
+  "8013180003",
+  "8013449003"
  ],
  "SpaceX": [
   "8377056002",
@@ -24318,6 +24330,7 @@
   "8042096",
   "8042148",
   "8042365",
+  "8042489",
   "8042491",
   "8042495",
   "8044454",
@@ -25696,6 +25709,7 @@
    "/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420": "2026-10-05",
    "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-Intern--2027-Summer-_01874513": "2026-10-05",
    "/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-Intern--Summer-2027-_01873571": "2026-10-05",
+   "/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Systems-Engineering-Intern--Summer-2027-_01879193": "2026-10-06",
    "/job/US-CT-EAST-GRANBY-200--200-Signature-Way--OFFICE/Aircraft-Operations-Aviation-Intern--Summer-2027-_01877881": "2026-10-02",
    "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Digital-Technology-Intern--Summer-2027-_01867772": "2026-10-05",
    "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Safety-and-Reliability-Intern--Onsite-_01873849": "2026-10-06",
@@ -26391,6 +26405,7 @@
    "/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420": false,
    "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-Intern--2027-Summer-_01874513": false,
    "/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-Intern--Summer-2027-_01873571": false,
+   "/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Systems-Engineering-Intern--Summer-2027-_01879193": false,
    "/job/US-CT-EAST-GRANBY-200--200-Signature-Way--OFFICE/Aircraft-Operations-Aviation-Intern--Summer-2027-_01877881": false,
    "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Digital-Technology-Intern--Summer-2027-_01867772": false,
    "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Safety-and-Reliability-Intern--Onsite-_01873849": false,
