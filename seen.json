@@ -5567,6 +5567,7 @@
   "/job/CA---Rancho-Bernardo/Pharmacy-Intern_R0998423",
   "/job/CA---Sacramento/Pharmacy-Intern_R1065810",
   "/job/CA---South-Lake-Tahoe/Pharmacy-Intern_R0998425",
+  "/job/CA---Tracy/Pharmacy-Intern_R1067164",
   "/job/CA---Upland/Pharmacy-Intern_R1024474-1",
   "/job/CA---Vallejo/Pharmacy-Intern_R1065831",
   "/job/CO---Arvada/Pharmacy-Intern_R1063766",
@@ -17031,6 +17032,7 @@
   "/job/California---Remote/Senior-Customer-Marketing-Manager_JR361332",
   "/job/California---Remote/Specialist-Solution-Engineer_JR350915",
   "/job/California---San-Francisco-Metro---Remote/GTM-Builder--Distinguished-SE_JR362294",
+  "/job/California---San-Francisco/Agentic-Customer-Success-Manager--Senior-Manager_JR343794",
   "/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1",
   "/job/California---San-Francisco/Business-Development-Associate--Early-Career-_JR340479-1",
   "/job/California---San-Francisco/Business-Planning---Operations-Lead--Agentforce-Operations_JR358867-1",
@@ -17817,7 +17819,8 @@
   "744000153568980",
   "744000153601199",
   "744000153610789",
-  "744000153611412"
+  "744000153611412",
+  "744000153631431"
  ],
  "Smartsheet": [
   "3426405",
@@ -23995,6 +23998,7 @@
    "/job/CA---Los-Angeles/Pharmacy-Intern_R1064605": "2026-10-03",
    "/job/CA---Pasadena/Pharmacy-Intern_R0982060": "2026-10-02",
    "/job/CA---Sacramento/Pharmacy-Intern_R1065810": "2026-10-05",
+   "/job/CA---Tracy/Pharmacy-Intern_R1067164": "2026-10-06",
    "/job/CA---Upland/Pharmacy-Intern_R1024474-1": "2026-10-02",
    "/job/CA---Vallejo/Pharmacy-Intern_R1065831": "2026-10-05",
    "/job/CO---Arvada/Pharmacy-Intern_R1063766": "2026-10-02",
@@ -24728,6 +24732,7 @@
    "/job/CA---Los-Angeles/Pharmacy-Intern_R1064605": false,
    "/job/CA---Pasadena/Pharmacy-Intern_R0982060": false,
    "/job/CA---Sacramento/Pharmacy-Intern_R1065810": false,
+   "/job/CA---Tracy/Pharmacy-Intern_R1067164": false,
    "/job/CA---Upland/Pharmacy-Intern_R1024474-1": false,
    "/job/CA---Vallejo/Pharmacy-Intern_R1065831": false,
    "/job/CO---Arvada/Pharmacy-Intern_R1063766": false,
