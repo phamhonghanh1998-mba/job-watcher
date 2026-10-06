@@ -5638,6 +5638,7 @@
   "/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Analog-and-Mixed-Signal-IC-Design-Engineer_R027211",
   "/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/Die-to-Die--D2D--Applications-Engineer_R027123",
   "/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/PVD-Equipment-Engineer_R027214-1",
+  "/job/USA-GA-Duluth-River-Green-Parkway/Engineering-Program-Manager_R027265",
   "/job/USA-IL-Lisle-Warrenville-Road/Staff-Technical-Support-Engineer---Mainframe_R025730",
   "/job/USA-MD-Remote-Location/Senior-Program-Manager---Global-Professional-Services-Channel-Programs_R026369",
   "/job/USA-Mendota-Heights-Northland/SoC-Integration-and-Design-Engineer_R027218-1",
@@ -6356,6 +6357,9 @@
   "/job/McLean-VA/Full-stack-Engineer-4--Manager--IC-_R1002565-1",
   "/job/McLean-VA/Full-stack-Engineer-4--Manager--IC-_R1002776",
   "/job/McLean-VA/Full-stack-Engineer-4--Manager--IC-_R1002831-1",
+  "/job/McLean-VA/Full-stack-Engineer-4--Manager-IC-_R1001253-1",
+  "/job/McLean-VA/Full-stack-Engineer-4--Manager-IC-_R1001254",
+  "/job/McLean-VA/Full-stack-Engineer-4--Manager-IC-_R1001256-1",
   "/job/McLean-VA/Full-stack-Engineer-4--Node--TypeScript--AWS-_R1002012-1",
   "/job/McLean-VA/Full-stack-Engineer-4--Python--AWS-_R1001336-2",
   "/job/McLean-VA/Full-stack-Engineer-4_R1002521-1",
@@ -6369,6 +6373,7 @@
   "/job/McLean-VA/Full-stack-Engineer-5--Senior-Manager--IC-_R1002279-1",
   "/job/McLean-VA/Full-stack-Engineer-5--Senior-Manager--IC-_R1002284-1",
   "/job/McLean-VA/Full-stack-Engineer-5--Senior-Manager--IC-_R1002958-1",
+  "/job/McLean-VA/Full-stack-Engineer-5--Sr-Manager-IC-_R1001484-1",
   "/job/McLean-VA/HR-Manager--Vertical-Risk-Advisor---Tech---Automation_R1002491-1",
   "/job/McLean-VA/Insurance-Risk---Senior-Associate_R1002229-1",
   "/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1",
@@ -6479,6 +6484,7 @@
   "/job/Mexico-City-Mexico/Sr-Manager--Communications-Manager_R1001639",
   "/job/New-York-NY/Applied-Researcher-4_R1002587-1",
   "/job/New-York-NY/Associate-Project-Manager--Luxury-Travel-Operations_R1002739-1",
+  "/job/New-York-NY/Business-Manager---AIML-Product-Strategy_R1000634-1",
   "/job/New-York-NY/Business-Manager--Deal-Economics---Analytics_R1002914-2",
   "/job/New-York-NY/Data-Engineer-4---Nexus-Products_R1001571-1",
   "/job/New-York-NY/Data-Engineer-4---Payment-Networks_R1001573-1",
@@ -6519,6 +6525,7 @@
   "/job/New-York-NY/Senior-Associate--Product-Manager-Small-Business-Bank_R246423-2",
   "/job/New-York-NY/Senior-Associate-Product-Manager--Enterprise-Payments_R999381-1",
   "/job/New-York-NY/Senior-Business-Analyst--Deal-Economics---Analytics_R1002912-1",
+  "/job/New-York-NY/Senior-Business-Manager---AIML-Product-Strategy_R1000636",
   "/job/New-York-NY/Senior-Manager--Full-stack-Engineer--People-Leader--EDT_R1003061",
   "/job/New-York-NY/Senior-Manager--Product-Management---Back-Office-Servicing-Experiences_R999224-1",
   "/job/New-York-NY/Senior-Manager--Product-Management--Financial-Core-Engine_R1000964-1",
@@ -7297,6 +7304,7 @@
   "8250114",
   "8250155",
   "8255561",
+  "8256449",
   "8257533",
   "8258539"
  ],
@@ -10281,6 +10289,7 @@
   "/job/COL01-01-Bogota-Av-Cra-72-No-80-94/Becario-a-de-Channel-Management---Analytics_R4047086-1",
   "/job/Chalfont-St-Giles/EHS-Leader---PDx-Chemical-Compliance_R4046786-1",
   "/job/Chalfont-St-Giles/Global-Medical-Governance-Excellence-Lead_R4045166-1",
+  "/job/Chicago/Auditor--Technology_R4047070-1",
   "/job/Chicago/Commercial-Finance-Leader---Intelerad_R4044517-2",
   "/job/Chicago/Customer-Success-Manager--icometrix--icobrain-_R4046464",
   "/job/Ciudad-Juarez/Order-Fulfillment-Specialist_R4045774-1",
@@ -10611,6 +10620,7 @@
   "/job/Sao-Paulo/Business-Director---Private-Market-Brazil_202610-125093",
   "/job/Sao-Paulo/Coordenador-de-Experincia-Comercial---So-Paulo_202609-123758-1",
   "/job/Sao-Paulo/Data---Insights-Partner_202610-125089-1",
+  "/job/Sao-Paulo/Digital-Solutions-Intern_202608-121923-1",
   "/job/Sao-Paulo/Estagirio-em-Suporte-Tcnico---CEAC-LATAM_202608-122136",
   "/job/Sao-Paulo/Estgio-de-Inteligncia-de-Mercado--DIS-_202608-122378-1",
   "/job/Sao-Paulo/Gerente-de-Jornada-do-Paciente--Oncohematologia----Campinas_202610-125060-1",
@@ -10835,7 +10845,8 @@
  "HP": [
   "6209842004",
   "6214599004",
-  "6214653004"
+  "6214653004",
+  "6214670004"
  ],
  "Hewlett Packard Enterprise": [
   "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1",
@@ -16630,6 +16641,7 @@
   "/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-II---Air-Launched-Effectors--Onsite-_01878202",
   "/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420",
   "/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Miniature-Air-Launch-Decoy--MALD--CHIEF-ENGINEER_01873904",
+  "/job/US-AZ-TUCSON-9030-CORRIDOR--9030-S-Rita-Rd--BLDG-9030-CORRIDOR-AZ201-Tucson-Rita-Road-M30/Initial-Operational-Capability--IOC--Chief-Engineer_01872260-1",
   "/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/EO-Optical-Engineer-I--Onsite-_01877353",
   "/job/US-AZ-TUCSON-9070--9070-S-Rita-Rd--BLDG-9070/Electro-Optic-Intern--Summer-2027--Onsite-_01877708",
   "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Associate-Director--Contracts---Advanced-Technology--Alternate-Missions---Space_01865311",
@@ -16676,6 +16688,7 @@
   "/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Program-Manager--Emerging-Innovations_01878386",
   "/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Facility-Security-Officer---Senior-Security-Manager---Goleta--CA_01878073",
   "/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Manager--Contracts--Advanced-Technology--Onsite-_01866240",
+  "/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Program-Operations-Manager_01879374",
   "/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Senior-Principle-Embedded-Software-Engineer_01874695",
   "/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Senior-Program-Manager_01849102",
   "/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Supplier-Quality-Engineer_01880158",
@@ -16868,6 +16881,7 @@
   "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-IV---Team-Lead_01852421-1",
   "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-I_01874117",
   "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Material-Handler-I_01873357",
+  "/job/US-KY-LOUISVILLE-102--6201-Strawberry-Ln--STRAWBERRY/Close-In-Weapon-System--CIWS--Portfolio-Chief-Engineer_01880719",
   "/job/US-KY-LOUISVILLE-102--6201-Strawberry-Ln--STRAWBERRY/International-Program-Manager_01868840",
   "/job/US-KY-LOUISVILLE-500--1001-Cheri-Wy--BLDG-500-Ste-300-400-500/Program-Integrator_01878378",
   "/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Electrical-Test-Engineer-I_01880009",
@@ -16886,6 +16900,7 @@
   "/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Patriot-Capital-Test-Execution-Lead---Onsite-Andover--MA_01879398-1",
   "/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Procurement-Intern--Summer-2027-_01879139",
   "/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Quality-Engineering-Intern--Summer-2027-_01879150",
+  "/job/US-MA-ANDOVER-AN2--352-Lowell-St--AN2-HAMPSHIRE-BLDG/Sr-Materials-Engineer--Global-Chemical-Substances-_01879826",
   "/job/US-MA-ANDOVER-AN3--354-Lowell-St--AN3-SUFFOLK-BLDG/Manager--Scheduling_01879588",
   "/job/US-MA-ANDOVER-AN3--354-Lowell-St--AN3-SUFFOLK-BLDG/Sr-Analyst--Scheduling_01873234-1",
   "/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Contracts-Manager_01874089",
@@ -16942,6 +16957,7 @@
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Depot-Execution-Lead_01879476",
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Life-Cycle-Systems-Engineer-I_01880500",
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Senior-Program-Quality-Engineer_01879776",
+  "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Sr-Windows-Systems-Administrator--Will-sponsor-a-clearance_01880785",
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/System-Safety-Engineer-I_01876151",
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Technical-Documentation-and-Training-Specialist_01879560",
   "/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Principal-Network-Engineer-Trainer--Onsite-_01878667",
@@ -17919,6 +17935,7 @@
   "8247229",
   "8247322",
   "8248307",
+  "8248311",
   "8258066"
  ],
  "S&P Global": [
@@ -18845,7 +18862,8 @@
   "744000153828849",
   "744000153844479",
   "744000153846049",
-  "744000153851021"
+  "744000153851021",
+  "744000153870781"
  ],
  "Smartsheet": [
   "3426405",
@@ -22187,6 +22205,7 @@
   "8871075002",
   "8871597002",
   "8871809002",
+  "8872030002",
   "8872127002"
  ],
  "Spotify": [
