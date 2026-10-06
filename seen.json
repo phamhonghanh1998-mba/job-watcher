@@ -643,7 +643,8 @@
   "/job/USA---TX-Remote/Inside-Auto-Claims-Adjuster---South-Zone_R35025",
   "/job/USA---TX-Remote/Senior-Trial-Attorney---Dallas--TX--Hybrid-_R34569-1",
   "/job/USA---TX-Remote/Senior-Trial-Attorney---Dallas--TX--Hybrid-_R35210",
-  "/job/USA---TX-Remote/Senior-Trial-Attorney---Houston--TX--Hybrid-_R34570-1"
+  "/job/USA---TX-Remote/Senior-Trial-Attorney---Houston--TX--Hybrid-_R34570-1",
+  "/job/USA---VA-Remote/Senior-Trial-Attorney---Hampton-Roads--VA--Remote-_R29663"
  ],
  "Amazon": [
   "10435122",
@@ -2869,6 +2870,7 @@
   "5240680007",
   "5240688007",
   "5240738007",
+  "5240740007",
   "5240940007",
   "5240953007",
   "5240976007",
@@ -5719,6 +5721,7 @@
   "/job/IL---Work-from-home/Associate-Manager--Clinical-Health-Services_R1053418",
   "/job/IL---Work-from-home/Care-Coordinator--Utilization-Management_R1050900",
   "/job/IL---Work-from-home/Lead-Director--Patient-Experience_R1059327",
+  "/job/IL---Work-from-home/Manager--Data-Scientist_R1044534-1",
   "/job/IL---Work-from-home/Medical-Director---Midland-States_R1045359",
   "/job/IL---Work-from-home/Network-Configuration-Specialist_R0986630",
   "/job/IL---Work-from-home/Paralegal_R1058016-1",
@@ -5771,6 +5774,7 @@
   "/job/MA---Work-from-home/Lead-Director-Digital-Product---Clinic-Operations-and-Ambulatory-Workflows_R1050461",
   "/job/MD---Bethesda/Pharmacy-Intern_R1061479",
   "/job/MI---Detroit/Medical-Scribe_R1061773",
+  "/job/MI---Detroit/Medical-Scribe_R1066610",
   "/job/MI---Ferndale/Pharmacy-Intern_R1065645",
   "/job/MI---Work-from-home/Medical-Director_R1041199-1",
   "/job/MI---Wyoming/Medical-Scribe_R1000137",
@@ -6589,6 +6593,7 @@
   "/job/Richmond-United-Kingdom/Sales-Admin-Executive_23089-1",
   "/job/Rogers-AR---USA/Technical-Process-Operator_23236-1",
   "/job/Sales---Customer-Analytics-Intern-Summer-2027_JR23359-1",
+  "/job/Spring-Hill-KS---USA/D2-Material-Process-Operator_JR23661",
   "/job/Tlalnepantla-de-Baz-Mexico/Coordinador-de-Mantenimiento_JR23520",
   "/job/Tlalnepantla-de-Baz-Mexico/P2P-US-Vendor-Master-analyst_23205",
   "/job/Tlalnepantla-de-Baz-Mexico/Staff-Accountant--Sales-Accounting_23244-1",
@@ -10132,6 +10137,7 @@
   "/job/Chennai/Senior-Market-Analyst--Patient-Insights---Primary-Market-Research-_202609-124693",
   "/job/Daegu/CL-P-Branch-Sales-Manager_202609-124249",
   "/job/Delhi--Haryana/Market-Access-Specialist_202607-117273",
+  "/job/Delhi/Head---Access---Policy_202609-124452-1",
   "/job/Dhaka/Head-of-Commercial-Excellence-and-CX_202609-124170-1",
   "/job/Espoo/IT-Onsite-Enablement-Partner_202609-124320",
   "/job/Grenzach/Praktikum--m-w-d--im-Bereich-Events---Congresses_202608-121608-1",
@@ -10172,9 +10178,11 @@
   "/job/Laval/RDT-Business-Partner_202609-122488-1",
   "/job/Lima/Country-Medical-Director_202609-124873",
   "/job/Los-Angeles/Field-Engineering-Specialist---Tissue-Diagnostics---Los-Angeles--CA_202609-123009-2",
+  "/job/Ludhiana/Patient-Journey-Partner_202608-122322-1",
   "/job/Madrid/Custom-Software-Developer_202609-124297",
   "/job/Madrid/Data-Governance-Strategy---Operations-Lead---PTO_202609-124639",
   "/job/Madrid/Expert---Information-Security---Privacy-Governance_202604-110396",
+  "/job/Madrid/Team-Lead-Engineering---Content-Search-and-Knowledge-Management-2_202607-119049-1",
   "/job/Mannheim/Export-Control---Sanctions-Manager--m-w-d-_202609-123004-1",
   "/job/Mannheim/Head-of-CxM-Finished-Goods---Projects--m-w-d-_202604-109352-2",
   "/job/Mannheim/Ingenieur---Techniker-Energie--und-Mediennetze--m-w-d-_202609-123100-2",
@@ -11492,6 +11500,7 @@
   "/job/Sao-Paulo-Brazil/Manager--Product-Commercialization---SME-Solutions--LAC-_R-291994-1",
   "/job/Sao-Paulo-Brazil/Managing-Consultant--Advisors---Consulting-Services--Performance-Analytics_R-269414-1",
   "/job/Sao-Paulo-Brazil/Managing-Consultant--Program-Management--Advisors---Consulting-Service_R-276151",
+  "/job/Seoul-Korea-Sejong-Daero/Manager--Business-Development--Digital---R-C_R-280318",
   "/job/Singapore/Director--Solutions-Growth---Enablement_R-292703-1",
   "/job/Singapore/Lead-Platform-Engineer_R-287861",
   "/job/Singapore/Manager--Partner-Success---Security-Solutions_R-291512",
@@ -12671,6 +12680,7 @@
   "8231579",
   "8234338",
   "8236841",
+  "8237572",
   "8238617",
   "8238618",
   "8238623",
@@ -13496,7 +13506,9 @@
   "8248960",
   "8255902",
   "8255904",
-  "8256688"
+  "8256688",
+  "8258400",
+  "8258402"
  ],
  "Oliver Wyman": [
   "/job/Atlanta---Northside/Client-Executive---Single-Parent-Captives_R_356704",
@@ -16306,6 +16318,7 @@
   "/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Quality-Engineer-onsite-Woburn--MA_01879419",
   "/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Sr-Principal-Systems-Engineer--Sustainment-Tech-Lead-Onsite_01879318",
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Depot-Execution-Lead_01879476",
+  "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Life-Cycle-Systems-Engineer-I_01880500",
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Senior-Program-Quality-Engineer_01879776",
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/System-Safety-Engineer-I_01876151",
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Technical-Documentation-and-Training-Specialist_01879560",
@@ -17251,6 +17264,7 @@
   "/job/Central-HK/Market-Intelligence-Revenue-Associate-Internship_332059-1",
   "/job/Charlottesville-VA/Director--Enterprise-Architecture_329302-1",
   "/job/Colorado-US/Exclusive-S-P-Global-Ratings-Early-Careers-Virtual-Event_332068-1",
+  "/job/Gurugram-Haryana/AI-Enablement-Specialist_331993-1",
   "/job/Gurugram-Haryana/Associate-Product-Operations_330335-2",
   "/job/Gurugram-Haryana/Associate-Product-Operations_330336-2",
   "/job/Gurugram-Haryana/Consulting-Manager--Oil-Markets--Midstream---Downstream-Consulting--MDEI-_331708-1",
@@ -18116,7 +18130,9 @@
   "744000153696339",
   "744000153696450",
   "744000153706920",
-  "744000153734462"
+  "744000153734462",
+  "744000153744559",
+  "744000153750109"
  ],
  "Smartsheet": [
   "3426405",
@@ -22329,6 +22345,7 @@
   "/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940",
   "/job/Tempe-Arizona/Packaging-Engineering-Intern_R572830",
   "/job/Warsaw-Poland/Manager--Performance-Measurement---Global-Invoice-to-Pay-and-Master-Data_R571443-1",
+  "/job/Warsaw-Poland/Purchasing-Intern_R574722-1",
   "/job/Warsaw-Poland/Senior-Sourcing-Manager---Poland-BCL_R571930",
   "/job/Warsaw-Poland/Support-Analyst-Intern_R571969",
   "/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732"
@@ -24148,7 +24165,8 @@
   "5253418007",
   "5253726007",
   "5253835007",
-  "5255234007"
+  "5255234007",
+  "5256620007"
  ],
  "_first_seen": {
   "3M": {
