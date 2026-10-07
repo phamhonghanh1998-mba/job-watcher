@@ -738,6 +738,8 @@
   "10544548",
   "10552888",
   "10552937",
+  "10553765",
+  "10553907",
   "10553947",
   "10554336",
   "10555788",
@@ -11817,7 +11819,9 @@
   "/job/US-Oregon-Hillsboro/Networking-Hardware-Product-Manager_JR0287595",
   "/job/US-Oregon-Hillsboro/Parametric-Test-Module-Intern_JR0286719",
   "/job/US-Oregon-Hillsboro/Physical-AI-Industry-Solutions-Manager_JR0286421",
+  "/job/US-Oregon-Hillsboro/Senior-AI-Systems-and-Solutions-Architect---Agentic-AI-and-CPU-Host_JR0287444",
   "/job/US-Oregon-Hillsboro/Senior-Director--Construction-and-Facilities-Supply-Chain--CFSC-_JR0287211",
+  "/job/US-Oregon-Hillsboro/Senior-Ethernet-Product-Manager_JR0286178",
   "/job/US-Oregon-Hillsboro/Senior-Product-Manager--Data-Center_JR0287222",
   "/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829",
   "/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830",
@@ -12835,6 +12839,7 @@
   "/job/ZAF---Western-Cape---Cape-Town/Customer-Operations---Order-Management-Specialist_R420395"
  ],
  "Micron": [
+  "/job/Albany-NY/High-NA-EUV---Scanner-Engineer_JR99800",
   "/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876",
   "/job/Albany-NY/TD-Photolithography-Automation-Engineer_JR111984",
   "/job/Arzano-NA-Italy/ENGINEER--FW---PRODUCT-TEST-ENGINEERING_JR113780",
@@ -15035,6 +15040,7 @@
   "51b17595-3a70-43be-a333-3a3952303284",
   "51f1d6a0-2e53-4554-8abe-a100da87978b",
   "52263a22-1621-4dbb-9a11-ae4490f2acc8",
+  "5280c9d2-8090-47d1-a881-1fec37c90e64",
   "529feb11-4b9b-4baf-9b3f-f2b100156c5a",
   "52c72cb9-7c44-4cba-b440-e05262a38491",
   "533c0fc9-b773-476d-9f96-a0528efbab0e",
@@ -16721,6 +16727,7 @@
   "/job/Athens/Sustainability-Reporting---Assurance-Experienced-Professional_766465WD-1",
   "/job/Auckland---NZL/Assurance---Audit---Senior-Associate---Non-Financial-Services_766560WD",
   "/job/Auckland---NZL/Assurance---Audit-Senior-Associate_750897WD-2",
+  "/job/Auckland---NZL/Risk-Management---Independence---Compliance-Manager_735962WD",
   "/job/BA---Rio-de-Janeiro/Auditor-Snior---Senior-Associate_725910WD-1",
   "/job/Bangalore-SDC---Table-Space-Towers---Bangalore/Payroll-Accounting---Associate_766575WD-1",
   "/job/Bangkok/Cyber-Security-Manager_566182WD",
@@ -18228,6 +18235,7 @@
   "7976852",
   "7977052",
   "7980795",
+  "7995207",
   "7996994",
   "7997186",
   "8011163",
@@ -18865,6 +18873,7 @@
   "8247322",
   "8248307",
   "8248311",
+  "8250391",
   "8258066"
  ],
  "S&P Global": [
@@ -18920,6 +18929,7 @@
   "/job/Australia---Melbourne/Commercial-Account-Executive---Mid-Market_JR359368",
   "/job/Australia---Melbourne/RVP-Services-Sales_JR360856",
   "/job/Australia---Melbourne/Territory-Account-Executive_JR362923",
+  "/job/Australia---South-Australia---Remote/Account-Executive---Data-Foundations--Public-Sector_JR354774-1",
   "/job/Australia---Sydney/Account-Executive---Nonprofit_JR362892",
   "/job/Australia---Sydney/Director--Policy_JR361951",
   "/job/Australia---Sydney/Enterprise-Account-Executive---High-tech-and-Professional-Services_JR359296",
@@ -19853,7 +19863,8 @@
   "744000154154044",
   "744000154159726",
   "744000154177445",
-  "744000154201929"
+  "744000154201929",
+  "744000154206219"
  ],
  "Smartsheet": [
   "3426405",
@@ -26252,7 +26263,9 @@
    "10532296": "2026-10-02",
    "10532299": "2026-10-02",
    "10534582": "2026-10-02",
-   "10534584": "2026-10-02"
+   "10534584": "2026-10-02",
+   "10553765": "2026-10-07",
+   "10553907": "2026-10-07"
   },
   "Amgen": {
    "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349": "2026-10-02",
@@ -27097,7 +27110,9 @@
    "10532296": false,
    "10532299": false,
    "10534582": false,
-   "10534584": false
+   "10534584": false,
+   "10553765": false,
+   "10553907": false
   },
   "Amgen": {
    "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349": true,
