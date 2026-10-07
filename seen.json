@@ -7122,6 +7122,7 @@
   "8142219",
   "8142261",
   "8143252",
+  "8143255",
   "8143314",
   "8143377",
   "8143511",
@@ -8608,6 +8609,7 @@
   "8783602002",
   "8784103002",
   "8785045002",
+  "8785049002",
   "8785053002",
   "8785055002",
   "8785057002",
@@ -10288,6 +10290,7 @@
   "/job/Springdale/Inspection-Engineering-Intern---Summer-2027_R5040956-1",
   "/job/Springdale/Military-DoD-SkillBridge-Internship---Structure-Parts-Operations-Supervisor--1st-Shift-_R5040965-1",
   "/job/Subang/IT-Support-Intern_R5038715-1",
+  "/job/Subang/Intern---Inspection_R5038717-1",
   "/job/Taguig/Lead-Engineer-1---Fleet-Management_R5040762-1",
   "/job/Vandalia/Product-Leader_R5038085-1",
   "/job/Vandalia/Product-Leader_R5038087",
@@ -13398,6 +13401,7 @@
   "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496",
   "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489",
   "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491",
+  "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1",
   "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Digital-Circuit-Design_JR2023504",
   "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-ASIC-Design_JR2023486",
   "/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Hardware-Design-for-Test--DFT-_JR2023487-1",
@@ -25529,7 +25533,8 @@
    "/job/Queretaro/SW-Tool-Integration-and-Development-Intern_R5037909-1": "2026-10-02",
    "/job/Queretaro/Security-Intern_R5040750": "2026-10-02",
    "/job/Springdale/Inspection-Engineering-Intern---Summer-2027_R5040956-1": "2026-10-06",
-   "/job/Subang/IT-Support-Intern_R5038715-1": "2026-10-02"
+   "/job/Subang/IT-Support-Intern_R5038715-1": "2026-10-02",
+   "/job/Subang/Intern---Inspection_R5038717-1": "2026-10-07"
   },
   "GE HealthCare": {
    "/job/COL01-01-Bogota-Av-Cra-72-No-80-94/Becario-a-de-Channel-Management---Analytics_R4047086-1": "2026-10-06",
@@ -26292,7 +26297,8 @@
    "/job/Queretaro/SW-Tool-Integration-and-Development-Intern_R5037909-1": false,
    "/job/Queretaro/Security-Intern_R5040750": false,
    "/job/Springdale/Inspection-Engineering-Intern---Summer-2027_R5040956-1": false,
-   "/job/Subang/IT-Support-Intern_R5038715-1": false
+   "/job/Subang/IT-Support-Intern_R5038715-1": false,
+   "/job/Subang/Intern---Inspection_R5038717-1": false
   },
   "GE HealthCare": {
    "/job/COL01-01-Bogota-Av-Cra-72-No-80-94/Becario-a-de-Channel-Management---Analytics_R4047086-1": false,
