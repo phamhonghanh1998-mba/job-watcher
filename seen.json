@@ -3451,6 +3451,7 @@
   "5256802007",
   "5256822007",
   "5256876007",
+  "5256884007",
   "5256905007",
   "5256907007",
   "5256911007",
@@ -3470,6 +3471,7 @@
   "5257824007",
   "5258734007",
   "5258826007",
+  "5258836007",
   "5258924007",
   "5258927007",
   "5258987007",
@@ -4215,6 +4217,7 @@
   "5445577008",
   "5445625008",
   "5445760008",
+  "5446029008",
   "5446290008",
   "5446641008",
   "5446657008",
@@ -5422,7 +5425,8 @@
   "8256310",
   "8257221",
   "8257470",
-  "8261467"
+  "8261467",
+  "8262078"
  ],
  "Brex": [
   "7732107002",
@@ -5987,6 +5991,7 @@
   "/job/IL---Aurora/Case-Manager-Registered-Nurse---Field--Kane-and-LaSalle-Counties-_R1054948",
   "/job/IL---Belleville/Care-Manager-Registered-Nurse---Field--Metro-East-Southern-IL-_R1039593-1",
   "/job/IL---Belleville/Case-Management-Coordinator---Field-Illinois--Metro-East-Southern-Illinois-_R1039583",
+  "/job/IL---Bellwood/Medical-Scribe_R1069036",
   "/job/IL---Champaign/Care-Manager-Registered-Nurse---Field--Champaign--Vermillion--Ford-Counties--IL-_R1039626",
   "/job/IL---Chicago/Case-Management-Coordinator---Field---Chicago--IL-_R1061218",
   "/job/IL---Chicago/Case-Management-Coordinator---Field--Southern-Chicago--IL-_R1061247",
@@ -6656,6 +6661,7 @@
   "/job/McLean-VA/Senior-Manager--Finance---Treasury_R1003055-1",
   "/job/McLean-VA/Senior-Manager--Full-stack-Engineer-People-Leader-EDT_R1003296-2",
   "/job/McLean-VA/Senior-Manager--Full-stack-Engineer-People-Leader_R1001224-1",
+  "/job/McLean-VA/Senior-Manager--GEA-Risk-Guide----Business-Risk_R999599-1",
   "/job/McLean-VA/Senior-Manager--Product-Management---Chat-Servicing-Expansion_R248725-2",
   "/job/McLean-VA/Senior-Manager--Product-Management---Consumer---Developer-Experience_R1000872-1",
   "/job/McLean-VA/Senior-Manager--Product-Management---US-Card--Servicing---Core-Modernization_R249126-1",
@@ -7900,6 +7906,7 @@
   "/job/USA---Austin-TX/Sr-Manager--Engineering---Data-Analytics-Infrastructure--Hybrid-_R29506",
   "/job/USA---Austin-TX/Sr-Software-Engineer--LogScale-Search--Hybrid-_R29418",
   "/job/USA---New-York-NY/Sr-Engineer--Cloud_R29383",
+  "/job/USA---New-York-NY/Sr-Engineer-Cloud--Remote-_R29100",
   "/job/USA---New-York-NY/Sr-Manager--Engineering---Semantic-Data-Modeling-Framework--Hybrid-_R29507",
   "/job/USA---New-York-NY/Sr-Site-Reliability-Engineer---Core-Platform---Embedded-Reliability--Hybrid-_R29713",
   "/job/USA---New-York-NY/Sr-Software-Engineer--Cloud---Analytics-Platform_R29257",
@@ -13894,6 +13901,7 @@
   "/job/Mumbai-India/Software-Engineering---Executive-Director---Parametric_PT-JR038591-2",
   "/job/Mumbai-India/Trade-Surveillance--Vice-President--Oversight--Monitoring-and-Testing_PT-JR035667",
   "/job/New-York-New-York-United-States-of-America/Associate---Fixed-Income-Operations_PT-JR044918-1",
+  "/job/New-York-New-York-United-States-of-America/Dir--P3--Business-Audit---Job-Level---Director_PT-JR045119-1",
   "/job/New-York-New-York-United-States-of-America/Director--Corporate-Controllers--Reporting---Accounting_JR040570",
   "/job/New-York-New-York-United-States-of-America/EM-Non-Dollar-Fixed-Income-Sales_PT-JR045221",
   "/job/New-York-New-York-United-States-of-America/Executive-Assistant--Wealth-Management--EquityZen-_PT-JR044869-1",
@@ -14079,6 +14087,7 @@
   "/job/Mainhausen-Germany/Senior-Sales-Rep--Sporting-Goods---Gen-FTW--Germany--Austria---Switzerland_R-91964-1",
   "/job/Melbourne-Victoria/Lead--Partner-Service-and-Experience-Pacific_R-92682-1",
   "/job/Melbourne-Victoria/Senior-Specialist--DC-Operations-Pacific_R-87380",
+  "/job/New-York-New-York/Director--Energy-Marketing-NA_R-95005-1",
   "/job/New-York-New-York/Senior-Footwear-Product-Testing-Analyst---Nike-Sportswear_R-94291",
   "/job/New-York-New-York/Senior-Professional--North-America-Media-Relations--NYC-_R-92820",
   "/job/Paris-France/Senior-Administrative-Assistant--H-F-_R-91582",
@@ -16652,6 +16661,7 @@
   "d2f89c8e-551d-402b-9e81-c42577292d63",
   "d7cfe5b0-211a-41aa-a3c8-ea2844799a68",
   "dab31ae8-1e25-4b63-8008-d6930ff72369",
+  "dbdb48d0-37b4-4ab8-900d-43a8fdb2a23f",
   "deb08e02-522a-4b2f-8ed1-5dc5d61ef7bd",
   "dfe0f4e7-1c44-447a-82a7-aa2733b134ad",
   "e66e197d-b845-40d8-bc85-4239619a2ce6",
@@ -17715,6 +17725,7 @@
   "/job/US-IL-ROCKFORD-P1--2421-11th-St--2421-11TH-ST-P1/Manufacturing-Engineering-Ops-Co-Op--Spring-Summer-2027-_01876912",
   "/job/US-IL-ROCKFORD-P1--2421-11th-St--2421-11TH-ST-P1/Mechanical-Design-Engineer---Pump-Design-Engineering--Onsite-_01877925",
   "/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Electrical-Engineering-Intern--Summer-2027-_01869155",
+  "/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Embedded-Controls-Hardware-Co-Op--Summer-Fall-2027-_01872412",
   "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/AFATDS-Senior-Systems-Engineer--Contingent--Onsite_01860611",
   "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Associate-Director--Program-Manager---Fires-Control-Portfolio--Onsite-_01879831",
   "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/FPGA-Engineer-I--Onsite-_01878710",
@@ -18342,7 +18353,8 @@
   "8250389",
   "8256326",
   "8257083",
-  "8263374"
+  "8263374",
+  "8263406"
  ],
  "Remitly": [
   "/job/Abu-Dhabi-United-Arab-Emirates/Lead-Auditor--UAE_R_106785",
@@ -19833,7 +19845,8 @@
   "744000154137320",
   "744000154154044",
   "744000154159726",
-  "744000154177445"
+  "744000154177445",
+  "744000154201929"
  ],
  "Smartsheet": [
   "3426405",
@@ -24323,6 +24336,7 @@
   "/job/660-N-Edwards-Blvd-Lake-Geneva-WI-53147-4595/Assets-Protection-Team-Leader---Lake-Geneva--WI_R0000475140",
   "/job/6717-Ritchie-Hwy-Glen-BurnieMD-21061-2318/Property-Management-Lead---Glen-Burnie--MD_R0000476428",
   "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Accounting-Manager_R0000476126-1",
+  "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Android-Engineer---Flagship-Mobile-App_R0000449891",
   "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Engineer---AI-Security_R0000440740",
   "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Principal-Engineer---AI-Platform--Forward-Deployed-Engineering-and-AI-Builder-Experience-_R0000475423",
   "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Senior-AI-Engineer---Apply-For-CircleCard-_R0000444792",
@@ -24936,7 +24950,8 @@
   "8249569",
   "8256114",
   "8256423",
-  "8262150"
+  "8262150",
+  "8263280"
  ],
  "US Bank": [
   "4945093007"
