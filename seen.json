@@ -3460,7 +3460,8 @@
   "5259766007",
   "5259767007",
   "5259842007",
-  "5259843007"
+  "5259843007",
+  "5259991007"
  ],
  "Anthropic": [
   "4017331008",
@@ -6687,6 +6688,7 @@
   "/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1",
   "/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Summer-2027_R1003143",
   "/job/Toronto-ON/Senior-Associate--French-Localization-Specialist_R243886-1",
+  "/job/Toronto-ON/Senior-Manager--Anti-Money-Laundering-Advisor_R1000373-1",
   "/job/Toronto-ON/Senior-Manager--Software-Engineering_R1002455-1",
   "/job/Toronto-ON/Servicing-Delivery-Lead_R1003113-1",
   "/job/Toronto-ON/Staff-Software-Engineer---Capital-One-Travel-Tech---Full-stack_R1001099-1",
@@ -6773,6 +6775,7 @@
   "8681193002",
   "8684361002",
   "8684363002",
+  "8692366002",
   "8694719002",
   "8694723002",
   "8694809002",
@@ -6806,6 +6809,7 @@
   "8842932002",
   "8859182002",
   "8864214002",
+  "8866651002",
   "8869139002",
   "8869629002"
  ],
@@ -10045,6 +10049,7 @@
   "/job/Washington---Seattle-Campus/Machine-Learning-Scientist-III---Whole-Trip-AI_R-108184-1",
   "/job/Washington---Seattle-Campus/Manager--Tax---Compliance-Technology_R-108877",
   "/job/Washington---Seattle-Campus/Media---Sponsorship-Business-Director_R-103993",
+  "/job/Washington---Seattle-Campus/Mobile-Engineer-III_R-107935-1",
   "/job/Washington---Seattle-Campus/Product-Manager-III--Recommendations-Platform_R-109571-1",
   "/job/Washington---Seattle-Campus/Senior-Analytics-Partner--People-Analytics_R-106210-1",
   "/job/Washington---Seattle-Campus/Senior-Business-Programs-Specialist_R-110080",
@@ -15868,6 +15873,7 @@
   "/job/United-States---New-York---New-York-City/Marketing-Rotational-Manager_4965456"
  ],
  "Philips": [
+  "/job/Amsterdam/Internship--Enabling-Execution-of-2030-Impact-Ambitions_591183",
   "/job/Amsterdam/Internship--Enterprise-Strategy_582542",
   "/job/Amsterdam/Internship--Enterprise-Strategy_593151",
   "/job/Amsterdam/Internship--Training---Capability-Support--Master--non-thesis-_590542",
@@ -16467,6 +16473,7 @@
   "/job/Lucerne/Corporate-Tax-Manager-Zentralschweiz_740132WD",
   "/job/Luxembourg/Regulatory-Banking-Senior-Consultant_765572WD-3",
   "/job/Luxembourg/Senior-Associate-Tax-Consulting---Alternative-Investments_765836WD-2",
+  "/job/Luxembourg/Senior-Associate-in-Accounting---m-f-d-_627121WD",
   "/job/Lviv/Global-Mobility-Specialist_766401WD-1",
   "/job/Lyon/Manager-en-Transformation-de-la-fonction-Finance---Lyon---F-H_765004WD-1",
   "/job/MI-Detroit/IT-Services--Cyber-Threat-Response-Analyst--Senior-Associate_765017WD",
@@ -16992,6 +16999,7 @@
   "/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Systems-Engineering-Intern--Summer-2027-_01870304",
   "/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Production-Test-Engineer-I--Onsite-_01878941",
   "/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Production-Test-Engineer-II--Onsite-_01872264",
+  "/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Program-Supplier-Quality-Engineer_01880888",
   "/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-II---Air-Launched-Effectors--Onsite-_01878202",
   "/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Mechanical-Engineer-Intern---Air-Launched--Effectors--2027-Summer-_01879420",
   "/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Miniature-Air-Launch-Decoy--MALD--CHIEF-ENGINEER_01873904",
@@ -17157,6 +17165,7 @@
   "/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Mission---Quality-Assurance-Co-Op--Spring-Summer-2027-_01874142",
   "/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Mission---Quality-Assurance-Co-Op--Summer-Fall-2027-_01874146",
   "/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Systems-Engineer-Intern--Onsite_01876452",
+  "/job/US-FL-REMOTE/Director--Manufacturing---Connected-Factory-Apps_01880647",
   "/job/US-FL-REMOTE/Field-Supplier-Quality-Manager--Remote-_01878229",
   "/job/US-FL-REMOTE/Senior-Electrical-Engineer---Executive-Aircraft-Seating-Remote-_01879046",
   "/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/Co-Op---Columbus-Engine-Center-Rotational--2027-_01874815",
@@ -17347,6 +17356,7 @@
   "/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Manufacturing-Engineering-Manager---NPI--Onsite-_01880562",
   "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Quality-Inspection-Technician-II---2nd-Shift_01879646-1",
   "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Senior-Principal-Project-Chief-Engineer---AISD-Non-Safety-Routers--ONSITE-_01879700",
+  "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977",
   "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Systems-Engineering-Intern_01876483",
   "/job/US-MS-FOREST-425--19859-Hwy-80--BLDG-425/Senior-Information-System-Security-Officer--ISSO----Forest--MS--Sponsor-Clearance-_01877132-1",
   "/job/US-NC-CHARLOTTE-2730--2730-W-Tyvola-Rd--TYVOLA/ERP-Systems-Transformations-Intern--Summer-2027-_01879765",
@@ -19789,6 +19799,7 @@
   "f991db58-6bc1-40b2-a1b9-97d4d2b20a83",
   "f9adef6e-226a-45b1-9006-79b70ed22c84",
   "fbe83368-7436-4ef1-b7b3-ee7941961709",
+  "fbe9833c-f148-4f45-93ad-f34895a85b0a",
   "fc1923c1-b151-4458-a792-40d58331a5be",
   "fc4022e1-5041-4c6b-b5f3-050b74254a58",
   "fc9a4832-46ae-4c39-99d7-3e2b15c7d7da",
@@ -23508,7 +23519,8 @@
   "8257500",
   "8257892",
   "8258078",
-  "8258815"
+  "8258815",
+  "8261213"
  ],
  "Stryker": [
   "/job/Amsterdam-Netherlands/Associate-Brand-Manager--Patient-Care--Medical-EMEA--Maternity-Cover-_R571249",
@@ -24541,6 +24553,7 @@
   "/job/US---Miami-FL/Digital-Sales-Representative-2_REF089070W",
   "/job/US---Miami-FL/Director--Marketing_REF088144W",
   "/job/US---Miami-FL/LAC-Acceptance-growth-center-of-excellence----Product-Manager_REF088938W",
+  "/job/US---Miami-FL/Senior-Director--Consumer-Payments-Marketing_REF088019W-1",
   "/job/US---Miami-FL/Senior-Director--LAC-Government-Affairs--Head-of-Policy-Strategy---Operations_REF087209W",
   "/job/US---Miami-FL/Sr-Consultant-Acceptance-Network-Solutions_REF088709W",
   "/job/US---New-York-NY/Director--Social-Strategy--Community-Insights_REF089054W",
@@ -26072,6 +26085,7 @@
    "/job/United-States---New-York---New-York-City/MBA-Strategy---Consulting-Summer-Associate_4960972": "2026-10-02"
   },
   "Philips": {
+   "/job/Amsterdam/Internship--Enabling-Execution-of-2030-Impact-Ambitions_591183": "2026-10-07",
    "/job/Best/Intern-Service-Enablement-Team_591964": "2026-10-04",
    "/job/Cambridge-US-Massachusetts-United-States/MBA-Full-Time---Operations-Leadership-Development-Program---Nashville--TN--Murrysville--PA--Cambridge--MA---Summer-2027_588665": "2026-10-02",
    "/job/Ciudad-de-Panama/IT-Infrastructure-Intern_586528": "2026-10-02",
@@ -26168,6 +26182,7 @@
    "/job/US-IA-REMOTE/Mission-Systems-Supplier-Quality-Intern--Summer-2027-_01876246": "2026-10-06",
    "/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Mechanical-Materials-Engineer-Intern_01880672": "2026-10-06",
    "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineer-Intern--Summer-2027-_01880852": "2026-10-07",
+   "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977": "2026-10-07",
    "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Systems-Engineering-Intern_01876483": "2026-10-05",
    "/job/US-NC-CHARLOTTE-2730--2730-W-Tyvola-Rd--TYVOLA/ERP-Systems-Transformations-Intern--Summer-2027-_01879765": "2026-10-05",
    "/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Software-Engineering-Intern--Summer-2027-_01879553": "2026-10-06",
@@ -26804,6 +26819,7 @@
   },
   "Pfizer": {},
   "Philips": {
+   "/job/Amsterdam/Internship--Enabling-Execution-of-2030-Impact-Ambitions_591183": true,
    "/job/Best/Intern-Service-Enablement-Team_591964": false,
    "/job/Ciudad-de-Panama/IT-Infrastructure-Intern_586528": false,
    "/job/Eindhoven/Intern-Consultancy-data-modelling_581630": false,
@@ -26879,6 +26895,7 @@
    "/job/US-IA-REMOTE/Mission-Systems-Supplier-Quality-Intern--Summer-2027-_01876246": false,
    "/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Mechanical-Materials-Engineer-Intern_01880672": false,
    "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineer-Intern--Summer-2027-_01880852": false,
+   "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977": false,
    "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Systems-Engineering-Intern_01876483": false,
    "/job/US-NC-CHARLOTTE-2730--2730-W-Tyvola-Rd--TYVOLA/ERP-Systems-Transformations-Intern--Summer-2027-_01879765": false,
    "/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Software-Engineering-Intern--Summer-2027-_01879553": false,
@@ -27018,6 +27035,7 @@
   "/job/Kleinmachnow/Rechtsreferendar-in--w-m-d-_R0060042",
   "/job/Louisville/Outbound-Operations-Manager_R0076529-1",
   "/job/Milano/Financial-Controller--Certilogo_R0076620",
+  "/job/Remote-Ireland/Onboarding-Advisor---NL-Speaking_R0076974",
   "/job/Remote-Malaysia/Manager--GC-Service-Delivery-team_R0070917",
   "/job/San-Jose/Director--Corporate-Strategy_R0070341",
   "/job/San-Jose/Director-ICBP---Finance--Legal---Growth_R0074784-1",
