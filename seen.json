@@ -3368,8 +3368,11 @@
   "5255657007",
   "5255827007",
   "5255865007",
+  "5255866007",
   "5255868007",
   "5255870007",
+  "5255902007",
+  "5255914007",
   "5255931007",
   "5255952007",
   "5255981007",
@@ -3870,6 +3873,7 @@
   "5391207008",
   "5391215008",
   "5391227008",
+  "5391237008",
   "5391253008",
   "5391257008",
   "5391269008",
@@ -4594,7 +4598,8 @@
   "8250168",
   "8257456",
   "8257464",
-  "8260059"
+  "8260059",
+  "8260901"
  ],
  "Autodesk": [
   "/job/AMER---United-States---California---San-Francisco---One-Market/Director--Chief-of-Staff_26WD101007-2",
@@ -10692,6 +10697,7 @@
   "/job/San-Jose-Costa-Rica/Content-Review-Operations-Coordinator_202609-123348",
   "/job/Sant-Cugat-del-Valls/Direct-Procurement-Excellence---Category-Manager_202609-124817-1",
   "/job/Sant-Cugat-del-Valls/Order-to-Deliver-Agent_202610-125158",
+  "/job/Sant-Cugat-del-Valls/Proposal-Intern_202610-125173",
   "/job/Sant-Cugat-del-Valls/Regulatory-Affairs-Specialist_202609-124635-1",
   "/job/Sant-Cugat-del-Valls/Risk---Governance-Intern_202609-124784",
   "/job/Sant-Cugat-del-Valls/Senior-Machine-Learning-Engineer_202605-112823-1",
@@ -11959,6 +11965,7 @@
   "/job/Pune-India/Manager--Accounting_R-290805",
   "/job/Pune-India/Manager--Accounting_R-291473",
   "/job/Pune-India/Manager--Accounting_R-292494",
+  "/job/Pune-India/Manager--Business-Administration_R-292708-1",
   "/job/Pune-India/Manager--Operational-Risk---Controls---Europe_R-286910",
   "/job/Pune-India/Manager--Product-Management--Scheme-and-Regulatory-Compliance_R-291500",
   "/job/Pune-India/Manager--Product-Management_R-291944",
@@ -24285,6 +24292,7 @@
   "/job/EG---Cairo-Egypt/Director--Head-of-CVP--NALP_REF088765W",
   "/job/ES---Madrid-Spain/Client-Consulting-Analyst_REF082014W",
   "/job/ET---Addis-Ababa-Ethiopia/Head-of-Risk---Eastern-Africa_REF088962W",
+  "/job/GB---London-United-Kingdom/Cybersecurity-Engineer---Cloud_REF080470W",
   "/job/GB---London-United-Kingdom/Cybersecurity-Operations---Enablement-Associate_REF088882W",
   "/job/GB---London-United-Kingdom/Director--Large---Middle-Market-Sales_REF088701W",
   "/job/GB---London-United-Kingdom/Product-Manager---Treasury_REF087634W",
@@ -25766,7 +25774,8 @@
    "/job/Basel/Student-Internship-in-Lab-Automation--Pharma-Research---Early-Development-_202609-124621": "2026-10-02",
    "/job/Basel/Workforce-Optimization---Strategies--Data-Science--Intern_202609-124186": "2026-10-06",
    "/job/Panama/Operations---Audit-Intern_202606-116367": "2026-10-02",
-   "/job/Rotkreuz/Internship-in-BGE-Reagents-Development--Rotkreuz--6-Months--start--November-2026-_202608-121578": "2026-10-05"
+   "/job/Rotkreuz/Internship-in-BGE-Reagents-Development--Rotkreuz--6-Months--start--November-2026-_202608-121578": "2026-10-05",
+   "/job/Sant-Cugat-del-Valls/Proposal-Intern_202610-125173": "2026-10-07"
   },
   "General Mills": {},
   "Google": {},
@@ -26536,7 +26545,8 @@
    "/job/Basel/Student-Internship-in-Lab-Automation--Pharma-Research---Early-Development-_202609-124621": false,
    "/job/Basel/Workforce-Optimization---Strategies--Data-Science--Intern_202609-124186": false,
    "/job/Panama/Operations---Audit-Intern_202606-116367": false,
-   "/job/Rotkreuz/Internship-in-BGE-Reagents-Development--Rotkreuz--6-Months--start--November-2026-_202608-121578": false
+   "/job/Rotkreuz/Internship-in-BGE-Reagents-Development--Rotkreuz--6-Months--start--November-2026-_202608-121578": false,
+   "/job/Sant-Cugat-del-Valls/Proposal-Intern_202610-125173": false
   },
   "Guidehouse": {
    "/job/US---GA-Atlanta/Intern---Centers-for-Disease-Control-and-Prevention--Federal-Health-Advisory---Campus-2027_45239": false,
