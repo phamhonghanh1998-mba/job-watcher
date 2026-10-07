@@ -1,6 +1,6 @@
-# Open matching jobs (406)
+# Open matching jobs (404)
 
-Updated 2026-10-07 12:46 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-07 13:16 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -113,7 +113,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (305)
+## Other internships (303)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -130,7 +130,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-06 | RTX | [Systems Engineering Test Equipment Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01879955) | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 |
 | 2026-10-06 | RTX | [Project Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Project-Engineering-Intern--Summer-2027-_01876650) | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1 |
 | 2026-10-06 | RTX | [Project Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Project-Engineering-Intern--Summer-2027-_01872535) | US-CT-WINDSOR LOCKS-B1A ~ 1 Hamilton Rd ~ BLDG 1A |
-| 2026-10-06 | RTX | [Mechanical Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01879944) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 |
 | 2026-10-06 | PwC (2) | [Audit - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Audit---Japanese-Business-Network---Intern---Summer-2027_757086WD) | 3 Locations |
 | 2026-10-06 | PwC (2) | [Audit - Japanese Business Network (JBN) - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Audit---Japanese-Business-Network---Intern---Summer-2028_757478WD) | 7 Locations |
 | 2026-10-06 | PwC (2) | [Tax - Japanese Business Network (JBN) - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax---Japanese-Business-Network---Intern---Summer-2028_757656WD) | 7 Locations |
@@ -148,7 +147,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-05 | Abbott | [2027 Science (Medical Affairs) Cancer Diagnostics Intern](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Science--Medical-Affairs--Cancer-Diagnostics-Intern_31162766) | United States > Madison : 1 Exact Lane |
 | 2026-10-03 | PwC (2) | [San Francisco - Tax - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/CA-San-Francisco/San-Francisco---Tax---Intern---Summer-2028_757723WD) | CA-San Francisco |
 | 2026-10-03 | PwC (2) | [Silicon Valley - Tax - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/CA-Silicon-Valley/Silicon-Valley---Tax---Intern---Summer-2028_757721WD) | CA-Silicon Valley |
-| 2026-10-02 | Vanguard | [College to Corporate IT Internship-Application Development (PA)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757) | Malvern, PA |
 | 2026-10-02 | PwC (2) | [Portland - Audit - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/OR-Portland/Portland---Audit---Intern---Summer-2028_757449WD) | OR-Portland |
 | 2026-10-02 | PwC (2) | [Portland - Audit - Intern - Winter 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/OR-Portland/Portland---Audit---Intern---Winter-2028_758899WD) | OR-Portland |
 | 2026-10-02 | Philips | [Sales Operations Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Varginha/Sales-Operations-Intern_589725) | Varginha |

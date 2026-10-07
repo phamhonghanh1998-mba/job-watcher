@@ -1,6 +1,6 @@
-# Open matching jobs (406)
+# Open matching jobs (404)
 
-Updated 2026-10-07 12:46 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-07 13:16 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -113,7 +113,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (305)
+## Other internships (303)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -376,7 +376,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-02 | Roblox | [[Summer 2027] Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA, United States |
 | 2026-10-07 | RTX | [EH&S Intern](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MY-10-SUBANG-001--Mukim-Damansara-Daerah-Petaling--JALAN-LAPANGAN-TERBANG-SUBANG/EH-S-Intern_01865787) | MY-10-SUBANG-001 ~ Mukim Damansara, Daerah Petaling ~ JALAN LAPANGAN TERBANG SUBANG |
 | 2026-10-07 | RTX | [Mechanical Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineer-Intern--Summer-2027-_01880852) | US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG |
-| 2026-10-06 | RTX | [Mechanical Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01879944) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 |
 | 2026-10-06 | RTX | [Project Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Project-Engineering-Intern--Summer-2027-_01876650) | US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1 |
 | 2026-10-06 | RTX | [Project Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Project-Engineering-Intern--Summer-2027-_01872535) | US-CT-WINDSOR LOCKS-B1A ~ 1 Hamilton Rd ~ BLDG 1A |
 | 2026-10-06 | RTX | [Systems Engineering Test Equipment Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01879955) | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 |
@@ -414,7 +413,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-07 (30+ days) | Vanguard | [College to Corporate IT Internship - Data Science (PA)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766) | Malvern, PA |
 | 2026-09-07 (30+ days) | Vanguard | [College to Corporate IT Internship - Risk & Security - Engineer](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851) | Dallas/Ft. Worth, TX |
 | 2026-09-07 (30+ days) | Vanguard | [College to Corporate IT Internship - Technology Operations (PA)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788) | Malvern, PA |
-| 2026-10-02 | Vanguard | [College to Corporate IT Internship-Application Development (PA)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757) | Malvern, PA |
 | 2026-09-07 (30+ days) | Vanguard | [Intern - C2C Business Leadership](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/Intern---C2C-Business-Leadership_182016) | 3 Locations |
 | 2026-09-07 (30+ days) | Vanguard | [Intern- C2C Sales](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/Intern--C2C-Sales_182018) | 3 Locations |
 | 2026-09-28 | Waymo | [2027 Summer Intern, BS, Depot Automation](https://careers.withwaymo.com/jobs?gh_jid=8234553) | San Francisco, California |
