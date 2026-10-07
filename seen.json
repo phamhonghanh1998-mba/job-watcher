@@ -521,6 +521,7 @@
   "8107160",
   "8107161",
   "8108673",
+  "8112572",
   "8113284",
   "8114339",
   "8114345",
@@ -3507,7 +3508,8 @@
   "5260436007",
   "5260584007",
   "5260621007",
-  "5260675007"
+  "5260675007",
+  "5260717007"
  ],
  "Anthropic": [
   "4017331008",
@@ -4472,6 +4474,7 @@
   "c423823a-74d8-4add-b73d-d980ccdf0ff3",
   "c44c51dd-720f-4a08-94ec-5788d5e83a94",
   "c5c53293-959b-46a7-b4f0-275d801dc54d",
+  "c65ae625-09d2-4e94-ab37-7ae2444b84a0",
   "c6991bb3-bb12-489c-bed2-424d8322fb58",
   "c6e8a6f2-ae0a-46af-921b-e8909464df56",
   "c74901ba-588e-4c15-b6bb-afe8ba48f4de",
@@ -4504,6 +4507,7 @@
   "ddac70fe-ec44-485b-9066-29aac135b121",
   "de36e623-f9a0-423c-a51a-ef0b92760e50",
   "deeb8028-bd44-4bb3-ab30-583612879cfe",
+  "df72f9c6-98f0-4523-b952-7d4accfa0b3b",
   "e015ce66-91c0-4361-a789-70ddbccc4e06",
   "e03f3b3a-d8eb-40f1-b84d-c035c54a0dda",
   "e0c23485-f535-4086-8b1e-41c5a0cd6de4",
@@ -5768,6 +5772,7 @@
   "/job/USA-NC-Remote-Location/Forward-Deployed-Engineer--Principal-_R027052",
   "/job/USA-NY-Melville/Instructional-Designer---Mainframe-Education---Mainframe-DevOps_R027087",
   "/job/USA-NY-Melville/Internal-Audit-IT-Senior_R026485",
+  "/job/USA-Pennsylvania-Breinigsville-9999-Hamilton-Blvd/Process-and-Integration-Engineer--Optoelectronics_R026344-1",
   "/job/USA-TX-Plano-Legacy-Drive-Suite-700/Solution-Architect--Broadcom-Software_R027113",
   "/job/USA-TX-Plano-Legacy-Drive-Suite-700/Sr-Mainframe-Technical-Consultant_R027128",
   "/job/United-Kingdom-Remote-Location/Mainframe-Technical-Consultant----Mainframe-AIOPS_R027185"
@@ -7560,6 +7565,7 @@
   "8250114",
   "8250155",
   "8255561",
+  "8256332",
   "8256449",
   "8257165",
   "8257533",
@@ -14091,6 +14097,7 @@
   "/job/Seattle-WA/Senior-Apparel-Product-Developer--Women-s---Rack--Hybrid--Seattle-_R-885010",
   "/job/Seattle-WA/Senior-Full-Stack-Software-Engineer_R-852754",
   "/job/Seattle-WA/Sr-Business-AI-Architect--Finance_R-868314",
+  "/job/Seattle-WA/Sr-Director--Internal-Audit_R-835120-1",
   "/job/Seattle-WA/Sr-Program-Manager---Finance-Data-Analytics--Insights---AI_R-884856",
   "/job/Seattle-WA/Sr-Program-Manager--Enterprise-Planning---Delivery--Hybrid--Seattle--WA-_R-884864-1",
   "/job/Shenandoah-TX/Manager---Asset-Protection---Portofino-Rack_R-875961-1",
@@ -14675,7 +14682,8 @@
   "8258803",
   "8258817",
   "8259188",
-  "8261644"
+  "8261644",
+  "8262963"
  ],
  "Oliver Wyman": [
   "/job/Atlanta---Northside/Client-Executive---Single-Parent-Captives_R_356704",
@@ -17703,6 +17711,7 @@
   "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986",
   "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01875725",
   "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Principal-Specialist--Program-Mgmt--V-22_01880720",
+  "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Program-Manager-----V-22_01880723",
   "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Developer-Engineer-I--Onsite-_01878881",
   "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Developer-Engineer-II--Onsite-_01878953",
   "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-II--Onsite-_01879240",
@@ -17759,6 +17768,7 @@
   "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineer-II--Onsite-_01879772",
   "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineer-Intern--Summer-2027-_01880852",
   "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Test-Engineer-II_01880011",
+  "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RF---Microwave-Electrical-Engineer-I---Onsite_01880177",
   "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Senior-Electrical-Engineer---Radar-Processing-System-Design_01879515",
   "/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Planning-and-Production-Control-Specialist_01881030",
   "/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Principal-Program-Execution-Lead_01878810",
@@ -17801,6 +17811,7 @@
   "/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Sr-Principal-Systems-Engineer--Sustainment-Tech-Lead-Onsite_01879318",
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Depot-Execution-Lead_01879476",
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Life-Cycle-Systems-Engineer-I_01880500",
+  "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Linux-System-Administrator---Will-sponsor-a--a-secret-clearance_01880883",
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Senior-Program-Quality-Engineer_01879776",
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Sr-Windows-Systems-Administrator--Will-sponsor-a-clearance_01880785",
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/System-Safety-Engineer-I_01876151",
@@ -18504,6 +18515,7 @@
   "8214553",
   "8220699",
   "8220730",
+  "8223546",
   "8224564",
   "8224751",
   "8224764",
@@ -23167,12 +23179,14 @@
   "8872030002",
   "8872127002",
   "8872876002",
+  "8873306002",
   "8873383002",
   "8873393002",
   "8873396002",
   "8873401002",
   "8875925002",
-  "8876413002"
+  "8876413002",
+  "8876618002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
