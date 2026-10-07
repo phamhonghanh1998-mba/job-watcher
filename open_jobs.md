@@ -1,6 +1,6 @@
 # Open matching jobs (403)
 
-Updated 2026-10-07 13:57 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-07 14:17 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -119,9 +119,9 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
-| 2026-10-07 | RTX | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977) | US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG |
+| 2026-10-07 | RTX | [Manufacturing Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Manufacturing-Engineering-Intern--Summer-2027-_01872988) | US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site) |
+| 2026-10-07 | RTX | [Production Test Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Production-Test-Engineering-Intern--Summer-2027-_01872992) | US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site) |
 | 2026-10-07 | RTX | [Mechanical Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineer-Intern--Summer-2027-_01880852) | US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG |
-| 2026-10-07 | RTX | [EH&S Intern](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MY-10-SUBANG-001--Mukim-Damansara-Daerah-Petaling--JALAN-LAPANGAN-TERBANG-SUBANG/EH-S-Intern_01865787) | MY-10-SUBANG-001 ~ Mukim Damansara, Daerah Petaling ~ JALAN LAPANGAN TERBANG SUBANG |
 | 2026-10-07 | PwC | [Paid Internship in Audit (Vilnius)](https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Vilnius/Internship-in-Audit-team_766587WD) | Vilnius |
 | 2026-10-07 | PwC | [Kommunikationsansvarlig med fokus på intern kommunikation og samfundsansvar (barselsvikariat)](https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Copenhagen/Kommunikationsansvarlig-med-fokus-p-intern-kommunikation-og-samfundsansvar--barselsvikariat-_766443WD-2) | Copenhagen |
 | 2026-10-07 | Genentech | [Proposal Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Sant-Cugat-del-Valls/Proposal-Intern_202610-125173) | Sant Cugat del Vallès |
