@@ -1,6 +1,6 @@
-# Open matching jobs (407)
+# Open matching jobs (406)
 
-Updated 2026-10-08 02:52 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-08 03:13 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -112,7 +112,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (307)
+## Other internships (306)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -120,7 +120,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 |---|---|---|---|
 | 2026-10-08 | Visa | [Risk Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PA---Panama-City-Panama/Risk-Intern_REF086150W-1) | PA - Panama City, Panama |
 | 2026-10-08 | Salesforce | [Summer 2027 Intern - Tableau Research](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1) | 2 Locations |
-| 2026-10-08 | RTX | [Mechanical Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01879967) | US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01 |
 | 2026-10-08 | PwC (2) | [Charlotte - Digital Assurance & Transparency (DAT) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/NC-Charlotte/Charlotte---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_756932WD) | NC-Charlotte |
 | 2026-10-08 | PwC | [Paid Internship in Audit (Vilnius)](https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Vilnius/Internship-in-Audit-team_766587WD) | Vilnius |
 | 2026-10-08 | PwC | [Kommunikationsansvarlig med fokus på intern kommunikation og samfundsansvar (barselsvikariat)](https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Copenhagen/Kommunikationsansvarlig-med-fokus-p-intern-kommunikation-og-samfundsansvar--barselsvikariat-_766443WD-2) | Copenhagen |
@@ -261,8 +260,8 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-11 | Philips | [Intern of equipment](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/Intern-of-equipment_588627) | Suzhou |
 | 2026-09-11 | Philips | [Manufacturing Engineering Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/Manufacturing-Engineering-Intern_590507) | Suzhou |
 | 2026-09-11 | Lyft | [Data Analyst Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | New York, NY |
-| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
 | 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
+| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
 | 2026-09-11 | Intel | [Parametric Test Module Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Parametric-Test-Module-Intern_JR0286719) | US, Oregon, Hillsboro |
 | 2026-09-11 | Accenture | [Digital Engineering Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) |  |
 | 2026-09-10 | S&P Global | [Machine Learning Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1) | 2 Locations |
