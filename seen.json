@@ -3540,7 +3540,9 @@
   "5261162007",
   "5261234007",
   "5261334007",
-  "5261398007"
+  "5261398007",
+  "5261431007",
+  "5261435007"
  ],
  "Anthropic": [
   "4017331008",
@@ -4502,6 +4504,7 @@
   "bd38501d-afc2-464d-b1db-4bd906426065",
   "bdabebf6-b1f5-414f-9369-03bd9e4336e2",
   "bded8844-1f21-42ee-ab17-7a056440716a",
+  "bdfa53c5-ff2e-4e79-886d-3c58c089b6c3",
   "bf5a0c08-a3cc-4c6f-a6fa-e4eb9661b5ff",
   "c03e24c3-9dda-4963-ae1c-3c5a1ac4999a",
   "c222bb2f-893d-455b-8dd2-f585205632e4",
@@ -5782,7 +5785,8 @@
   "8871793002",
   "8871795002",
   "8871796002",
-  "8871800002"
+  "8871800002",
+  "8879575002"
  ],
  "Broadcom": [
   "/job/BGR-Sofia-Garitage-Park---Bldg-2/PD-engineer_R027051",
@@ -5991,6 +5995,7 @@
   "/job/FL---West-Palm-Beach/Pharmacy-Intern_R1061340",
   "/job/FL---West-Palm-Beach/Pharmacy-Intern_R1061345",
   "/job/FL---West-Palm-Beach/Pharmacy-Intern_R1061361",
+  "/job/FL---Work-from-home/Behavioral-Analysis-Utilization-Management-Clinical-Consultant-FLORIDA_R1050989",
   "/job/FL---Work-from-home/Case-Manager---Registered-Nurse---Must-reside-in-Florida_R1040199",
   "/job/FL---Work-from-home/Case-Manager--Registered-Nurse_R1039863",
   "/job/FL---Work-from-home/Cdr-HR-LOA-Svc_R1052476",
@@ -9130,6 +9135,7 @@
   "8873053002",
   "8876599002",
   "8876675002",
+  "8877968002",
   "8878720002",
   "8878722002"
  ],
@@ -10209,6 +10215,7 @@
   "8262815",
   "8262870",
   "8263086",
+  "8263362",
   "8263726",
   "8263774",
   "8263786",
@@ -10261,7 +10268,9 @@
   "8234202",
   "8245730",
   "8245731",
-  "8249475"
+  "8249475",
+  "8261911",
+  "8261916"
  ],
  "Duolingo": [
   "8318257002",
@@ -10805,6 +10814,7 @@
   "/job/West-Chester/Applied-Material---Behavior-Engineer_R5040379",
   "/job/West-Chester/Design-Engineer---GE9X-Fan-Composites_R5040955-1",
   "/job/West-Chester/Executive--Enterprise-Design-Leader_R5040791-2",
+  "/job/West-Chester/GE9X-HPT-Rotor-Design---Lead-Engineer_R5041240-2",
   "/job/Wilmington-NC-USA/Military-DoD-SkillBridge-Program---CNC-Machinist_R5040971-1"
  ],
  "GE HealthCare": [
@@ -12031,6 +12041,7 @@
   "/job/US-California-Santa-Clara/Intel-Foundry-Strategic-Marketing_JR0286359",
   "/job/US-California-Santa-Clara/Product-Manager---AI-Software-and-Solution_JR0287128",
   "/job/US-California-Santa-Clara/Product-Manager---Data-Center-System-and-Manageability-Software_JR0287129",
+  "/job/US-California-Santa-Clara/Sales-Account-Manager_JR0287901",
   "/job/US-California-Santa-Clara/Sales-and-Marketing---Intern--Bachelor-s_JR0286838",
   "/job/US-California-Santa-Clara/Sales-and-Marketing---Intern--Graduate_JR0286839",
   "/job/US-California-Santa-Clara/Technical-Sales---Intern--Bachelor-s_JR0286835",
@@ -12526,6 +12537,7 @@
   "/job/OFallon-Missouri/Data-Engineer-II_R-289305",
   "/job/OFallon-Missouri/Director--Data-Analytics_R-292652",
   "/job/OFallon-Missouri/Director--Finance-Business-Partner_R-291955",
+  "/job/OFallon-Missouri/Director--People-Business-Partner_R-293190",
   "/job/OFallon-Missouri/Director--Platform-Engineering_R-273321",
   "/job/OFallon-Missouri/Director--Product-Delivery_R-292645",
   "/job/OFallon-Missouri/Director--Software-Engineering_R-290006-1",
@@ -17682,6 +17694,7 @@
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Gestionnaire-de-comptes--Services-de-pices-de-rechange---Account-Manager--Spare-Parts-Services_01879003-1",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Gestionnaire-de-comptes--chef-d-quipe---Services-de-pices-de-rechange---Account-Manager--Team-Lead---Spare-Parts-Services_01879005",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Gestionnaire-de-l-Assemblage-au-Dveloppement---Development-Build-Manager_01878923-1",
+  "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Gestionnaire-de-programme-senior--Stratgie-commerciale-des-nouveaux-produits---Senior-Program-Manager--New-Product-Commercial-Strategy_01869485",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Gestionnaire-des-Projets-Technique---Technical-Project-Manager_01879355",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Gestionnaire-principal--stratgies-de-tarification-et-transactions---Senior-Manager--Pricing---Lifecycle-Strategy_01880165",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Ingenieur-e--de-projets---Project-Engineer_01874840",
@@ -18104,6 +18117,7 @@
   "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01870343",
   "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Sr-Program-Engagement-Lead---Hybrid_01877694",
   "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01874003",
+  "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Electrical-Engineer-1_01870080",
   "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Engineer-II--Electrical-Engineer--Onsite-_01858934",
   "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Principle-Project-Engineer---Test-Engineering-Design-Services--Onsite-_01861282",
   "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Senior-Manager--Environmental-Effects-Engineering--Onsite-_01878616",
@@ -18206,6 +18220,7 @@
   "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Developer-Engineer-I--Onsite-_01878881",
   "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Developer-Engineer-II--Onsite-_01878953",
   "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineer-II--Onsite-_01879240",
+  "/job/US-IN-REMOTE/Principal-Specialist--Contracts--Remote-_01878604",
   "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-I--2nd-Shift-_01878750",
   "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-IV---Team-Lead--2nd-Shift-_01861388",
   "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-IV---Team-Lead_01852421-1",
@@ -19059,6 +19074,7 @@
   "8247333",
   "8250279",
   "8255840",
+  "8257655",
   "8258305",
   "8258307",
   "8259035",
@@ -19557,11 +19573,13 @@
   "/job/India---Hyderabad/Associate-proactive-Monitoring-Engineer_JR341087-2",
   "/job/India---Hyderabad/Business-Analyst--Q2C-Rapid-Delivery_JR361417",
   "/job/India---Hyderabad/Director--Customer-Success-Management_JR332861",
+  "/job/India---Hyderabad/Director--Delivery-Management_JR340412",
   "/job/India---Hyderabad/Escalation-Manager_JR361317",
   "/job/India---Hyderabad/Global-Support-Contract-Specialist----IST-Time-Zone-_JR359314",
   "/job/India---Hyderabad/Manager---Commission-Accounting_JR360259-1",
   "/job/India---Hyderabad/Manager--Technical-Consulting--Salesforce-Lifesciences-exp-mandatory-_JR361157",
   "/job/India---Hyderabad/Payroll-Analyst_JR359307",
+  "/job/India---Hyderabad/Program-Manager---Strategy-and-Operations_JR327797",
   "/job/India---Hyderabad/Sales-Compensation-Associate-Analyst_JR360885",
   "/job/India---Hyderabad/Senior-Accountant---Hedge-Accounting_JR362507",
   "/job/India---Hyderabad/Senior-Analyst--Global-Incentive-Compensation-Operations_JR362815",
@@ -19715,6 +19733,7 @@
   "/job/Washington---Bellevue/Lead-Software-Developer---Platform-Security_JR358576",
   "/job/Washington---Bellevue/Senior-Cloud-Platform-Engineer--SMTS-_JR358761",
   "/job/Washington---Bellevue/Senior-Software-Engineer--SMTS---Identity---Access-Management---Device-Trust_JR352439",
+  "/job/Washington---Bellevue/Software-Engineer--MTS---Frontier-Strike--EntSecTech-_JR361861",
   "/job/Washington---Bellevue/Software-Engineering-MTS--Platform-Security_JR358577",
   "/job/Washington---Bellevue/Software-Engineering-MTS_JR355208-1",
   "/job/Washington---Bellevue/Sr-Product-Manager--Enterprise-Security-Technology_JR359178-1",
