@@ -438,7 +438,8 @@
   "8011038003",
   "8011590003",
   "8012043003",
-  "8012584003"
+  "8012584003",
+  "8015158003"
  ],
  "Airbnb": [
   "6757302",
@@ -7034,6 +7035,7 @@
   "/job/Richmond-VA/Integration-Engineer-5_R1003145-1",
   "/job/Richmond-VA/Manager--Product-Manager-Small-Business-Bank_R1000555-1",
   "/job/Richmond-VA/Manager--Project-Management---Mainstreet-Product---Experiences-Well-Managed-Team--Hybrid-_R1002704-1",
+  "/job/Richmond-VA/Principal-Associate--Principal-Extended-Ops-Associate---Card-Delivery-Operations--Client-Facing-_R1003190-1",
   "/job/Richmond-VA/Principal-Associate--Process-Management---Content-Marketing--Hybrid-_R1000383-1",
   "/job/Richmond-VA/Principal-Risk-Associate--Well-Managed-Team---Business-Cards---Payments_R249131-1",
   "/job/Richmond-VA/Risk-Manager---Payment-Risk-Advisory---Business-Enablement--Hybrid-_R1002395-1",
@@ -7232,6 +7234,7 @@
   "/job/Hanoi-Vietnam/Structural-Test-Engineer_2024203-1",
   "/job/Hanoi-Vietnam/Structural-Test-Engineer_2024205",
   "/job/Herndon-Virginia-US/Customer-Experience--CX--Director-for-DISA-Army_2025177-1",
+  "/job/Houston-Texas-US/Engineering-Product-Manager_2022755-1",
   "/job/Krakow-Poland/Data-Engineer_2025792",
   "/job/Krakow-Poland/Frontend-Engineer_2025794",
   "/job/Krakow-Poland/Full-Stack-Engineer_2025805",
@@ -7277,6 +7280,7 @@
   "/job/San-Jose-California-US/Finance-Manager_2021930-1",
   "/job/San-Jose-California-US/Hardware-Engineering-Project-Manager_2026474",
   "/job/San-Jose-California-US/Principal-Engineering-Project---Program-Management_2018229",
+  "/job/San-Jose-California-US/Principal-Machine-Learning-Engineer---AISWP--Hybrid-_2027863",
   "/job/San-Jose-California-US/Product-Lifecycle-Program-Manager--hybrid----2020746_2020746",
   "/job/San-Jose-California-US/Product-Manager--SASE-Platform_2023445",
   "/job/San-Jose-California-US/Real-Estate-Lead--Americas_2023822",
@@ -10770,6 +10774,7 @@
   "6212642004",
   "6214991004",
   "6215865004",
+  "6216211004",
   "6218349004",
   "6220093004"
  ],
@@ -11138,6 +11143,7 @@
   "/job/Shanghai/Director--Business-Strategy---Development---AVS_R4047100-1",
   "/job/Shanghai/Director--Business-Strategy---Development---PCS-Private-HKTW_R4047026",
   "/job/Shanghai/Product-Manager_R4047106-1",
+  "/job/State-College/Manufacturing-Engineer_R4047068-1",
   "/job/State-College/Warehouse-Associate-II--Shipping--M-F-7-30-AM---4-00-PM_R4046962-1",
   "/job/State-College/Warehouse-Associate_R4045743-1",
   "/job/Toulouse/Ingnieur-d-Application-WHS-Sud-Ouest_R4044501-1",
@@ -11986,6 +11992,7 @@
   "/job/Chicago---550-Van-Buren/Revenue-Cycle-Insights-Management-Technical-Manager---Healthcare_JR-0015998",
   "/job/Chicago---550-Van-Buren/Revenue-Cycle-Service-Delivery-Senior-Director---HMS-DBO_JR-0016318",
   "/job/Chicago---550-Van-Buren/Senior-Director---IT-M-A-Integration---Digital-Transformation_JR-0015665",
+  "/job/Chicago---550-Van-Buren/Senior-Director--Healthcare-Decision-Support---Financial-Performance-Advisory_JR-0016808-2",
   "/job/Chicago---550-Van-Buren/Workday-Healthcare---Senior-Director---Market-Driver_JR-0015463",
   "/job/Chicago---550-Van-Buren/Workday-SCM-Consultant---Senior-Associate_JR-0015860",
   "/job/Chicago---550-Van-Buren/Workday-Student-Financials---Consulting-Manager_JR-0014822-2",
@@ -19753,6 +19760,7 @@
   "/job/California---San-Francisco/Named-Account-Executive--Non-Profit--Enterprise--West-Mountain-_JR361761",
   "/job/California---San-Francisco/Paralegal--Corporate-Governance---Securities_JR357577",
   "/job/California---San-Francisco/Pricing-Strategy--Manager-Senior-Manager_JR342675",
+  "/job/California---San-Francisco/Product-Management-Director_JR358007",
   "/job/California---San-Francisco/Product-Security-Associate_JR362197-2",
   "/job/California---San-Francisco/Product-Security-Engineer--Senior---Lead--Enterprise-Security---Security-AI-_JR345894",
   "/job/California---San-Francisco/Product-Security-Engineer_JR362613-1",
@@ -24115,7 +24123,8 @@
   "8877899002",
   "8880095002",
   "8880475002",
-  "8880515002"
+  "8880515002",
+  "8880672002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -25714,7 +25723,8 @@
   "8264840",
   "8265015",
   "8265213",
-  "8265593"
+  "8265593",
+  "8265668"
  ],
  "Twilio": [
   "6372770",
@@ -25971,6 +25981,7 @@
   "/job/CD---Kinshasa-Democratic-Republic-of-Congo/Sr-Risk-Manager_REF089107W",
   "/job/CI---Abidjan-Cote-DIvoire/Sr-Manager-Client-Success_REF088707W",
   "/job/CN---Beijing-China/Director--Solutions-Architect--Tech-Partnership_REF088725W",
+  "/job/CO---Bogota-Colombia/Analyst--Corporate-Services---People-Analytics_REF089204W-2",
   "/job/CO---Bogota-Colombia/Associate-Help-Desk-Analyst_REF088974W",
   "/job/CO---Bogota-Colombia/Director--Client-Services-Implementations_REF089211W",
   "/job/CO---Bogota-Colombia/Implementation-Consultant--Technical-Solutions_REF088452W",
@@ -26137,6 +26148,7 @@
   "/job/US---Foster-City-CA/Sr-Compliance-Analyst_REF089179W",
   "/job/US---Foster-City-CA/Sr-Data-Scientist_REF088994W-1",
   "/job/US---Foster-City-CA/Sr-Manager_REF088675W",
+  "/job/US---Foster-City-CA/Sr-Product-Manager_REF080722W",
   "/job/US---Foster-City-CA/Sr-Technical-Program-Manager---Real-Estate_REF088836W",
   "/job/US---Foster-City-CA/Treasury-Analyst--Global-Treasury-Settlement-Operations_REF088998W",
   "/job/US---Miami-FL/Analyst_REF088669W",
@@ -26154,6 +26166,7 @@
   "/job/US---Remote---Ohio/Director--Account-Executive_REF088946W",
   "/job/US---San-Francisco-CA/Analyst--Merchant-BD_REF088838W",
   "/job/US---San-Francisco-CA/Analyst_REF087892W",
+  "/job/US---San-Francisco-CA/Business-Consultant_REF089321W",
   "/job/US---San-Francisco-CA/Director--Sales-Incentive-Planning---Performance-Management_REF087524W",
   "/job/US---San-Francisco-CA/Director--US-Merchant-Business-Development_REF088831W-1",
   "/job/US---San-Francisco-CA/Executive-Assistant--NA-Events_REF089034W",
