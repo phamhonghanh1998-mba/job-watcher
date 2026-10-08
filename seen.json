@@ -646,7 +646,8 @@
   "8259671",
   "8259920",
   "8260010",
-  "8260061"
+  "8260061",
+  "8264060"
  ],
  "Airtable": [
   "8403107002",
@@ -3528,7 +3529,9 @@
   "5261023007",
   "5261025007",
   "5261149007",
-  "5261151007"
+  "5261151007",
+  "5261162007",
+  "5261234007"
  ],
  "Anthropic": [
   "4017331008",
@@ -6006,6 +6009,7 @@
   "/job/Field-Ohio/Case-Management-Coordinator---Field---OhioRISE-Northeast-Northwest-Ohio_R1037826",
   "/job/Field-Ohio/Case-Management-Coordinator-OhioRISE--Field---West-Region_R1037775-1",
   "/job/Field-Pennsylvania/District-Asset-Protection-Leader--DAPL---Central-PA-Scranton-area_R1053019-1",
+  "/job/Field-Rhode-Island/Senior-Program-Manager--Capital-Project-Planning_R1052879-1",
   "/job/Field-Texas/Analyst--Case-Management--Field_R1008523",
   "/job/Field-Virginia/Case-Management-Analyst---Field-in-Danville--VA_R1047658",
   "/job/GA---Atlanta/Grad-Pharmacist_R1065654",
@@ -6085,6 +6089,7 @@
   "/job/IN---Work-from-home/Employee-Assistance-Program-Work-life-Customer-Support-Associate_R1055730",
   "/job/IRL---Dublin/GMP-Quality-Manager_R1063834",
   "/job/IRL---Galway/Senior-DevSecOps-Engineer_R1012405",
+  "/job/IRL---Galway/Senior-Product-Manager_R1040485",
   "/job/IRL---Galway/Tech-College-Intern_R1038031",
   "/job/IRL---Galway/Workday-Integration-Developer_R1053067",
   "/job/Irving-750-West-John-Carpenter/Senior-Contract-Analyst---Hybrid_R0958203",
@@ -6223,6 +6228,7 @@
   "/job/OH---Dayton/Nurse-Practitioner_R0876061",
   "/job/OH---Dayton/Nurse-Practitioner_R1067350",
   "/job/OH---Dayton/Primary-Care-Physician_R1067361-1",
+  "/job/OH---Dayton/Registered-Nurse---Case-Manager---Dayton-Ohio_R1061216-1",
   "/job/OH---Kent/Licensed-Practical-Nurse--LPN-_R0962664",
   "/job/OH---Wadsworth/Delivery-Driver---Part-Time---Afternoon-Evening_R0935493-1",
   "/job/OH---Work-from-hom/Accounts-Payable-Manager---Omnicare_R1061148-1",
@@ -6847,6 +6853,7 @@
   "/job/Plano-TX/Compliance-Tester-III_R1002924-1",
   "/job/Plano-TX/Compliance-Tester-II_R1002926",
   "/job/Plano-TX/Data-Engineer-4_R1001702-1",
+  "/job/Plano-TX/Full-Stack-Engineer-3_R1003250-1",
   "/job/Plano-TX/Full-Stack-Engineer-4--Java--Kafka--AWS-_R1003137",
   "/job/Plano-TX/Full-Stack-Engineer-4--Java--Python--AWS-_R1002799-1",
   "/job/Plano-TX/Full-Stack-Engineer-4_R1001707-1",
@@ -7657,7 +7664,8 @@
   "8258111",
   "8258539",
   "8262000",
-  "8262821"
+  "8262821",
+  "8264687"
  ],
  "Coca-Cola": [
   "/job/Brazil---Manus/Apprentice_R-146209",
@@ -10895,6 +10903,7 @@
   "/job/Remote/Field-Service-Engineer-1_R4047081-1",
   "/job/Remote/Field-Service-Engineer-1_R4047095-1",
   "/job/Remote/Field-Service-Engineer-1_R4047243-1",
+  "/job/Remote/Field-Service-Engineer-1_R4047285-1",
   "/job/Remote/Field-Service-Engineer-3_R4047265-1",
   "/job/Remote/Field-Service-Engineer-3_R4047354-1",
   "/job/Remote/Field-Service-Engineer-3_R4047408-1",
@@ -13413,6 +13422,7 @@
   "/job/Penang-Malaysia---Grande/Sr-Supply-Manager-II--ATSM-Capital_JR108686",
   "/job/Penang-Malaysia---Grande/Supply-Manager--ATSM-Capital_JR108685",
   "/job/Penang-Malaysia---Grande/Test-Development-Engineer_JR109684",
+  "/job/Richardson-TX/Design-Lead--HBM-Advanced-Memory-Design-_JR113294",
   "/job/Richardson-TX/Director--Custom-HBM-Design-and-Architecture_JR113804",
   "/job/Richardson-TX/HBM-SIPI--Principal-Engineer_JR111361",
   "/job/Richardson-TX/Interface-Design-Architect--HBM---DMTS_JR113802",
@@ -14039,6 +14049,7 @@
   "8239745",
   "8240010",
   "8241351",
+  "8242325",
   "8243220",
   "8243327",
   "8246377",
@@ -14048,6 +14059,7 @@
   "8256571",
   "8257245",
   "8260947",
+  "8262077",
   "8264146"
  ],
  "Morgan Stanley": [
@@ -14164,6 +14176,7 @@
   "/job/New-York-New-York-United-States-of-America/Director--Corporate-Controllers--Reporting---Accounting_JR040570",
   "/job/New-York-New-York-United-States-of-America/EM-Non-Dollar-Fixed-Income-Sales_PT-JR045221",
   "/job/New-York-New-York-United-States-of-America/Executive-Assistant--Wealth-Management--EquityZen-_PT-JR044869-1",
+  "/job/New-York-New-York-United-States-of-America/Fixed-Income-Compliance-Officer--Vice-President---Securitized-Products-and-Rates_PT-JR042780",
   "/job/New-York-New-York-United-States-of-America/Fixed-Income-Division---Analyst---Associate--Commodity-Structurer_JR045288",
   "/job/New-York-New-York-United-States-of-America/Global-Financial-Crimes-ISG-Advisory-Vice-President_PT-JR045056-1",
   "/job/New-York-New-York-United-States-of-America/Institutional-Client-Specialist--Associate-AVP---New-York---Purchase_JR045140",
@@ -14957,6 +14970,7 @@
   "8248800",
   "8248830",
   "8248960",
+  "8249918",
   "8255902",
   "8255904",
   "8256066",
@@ -17584,6 +17598,7 @@
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Specialiste-ingnieurie---Contrats-de-financement-public---acadmique---Engineering-Specialist---Public-Funding---academic-Contracts_01877870",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage----Hiver-2027---Gestion-de-la-chane-d-approvisionnement---Internship---Winter-2027---Supply-Chain-Management_01878942",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Coordination-des-projets-de-recherche-collaboratifs-et-amelioration-du-processus-de-gestion-des-technologies---Internship---Winter-2027---Collaborative-Research-Projects-Coordination---Technology-Management-Process-Improvement_01868255",
+  "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-Logiciel-Avanc--Mthodes-Numriques---Internship---Winter-2027---Advanced-Software-Development--Numerical-Methods_01871187",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie-de-fabrication---Internship---Winter-2027---Manufacturing-Engineer_01864153",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027-Stagiaire-Technicien-en-Instrumentation-Internship---Winter-2027-Instrumentation-Technician_01878634",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Value-Stream-Manager-Vanes_01865663",
@@ -17872,6 +17887,7 @@
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Electronic-System-Servicer-2nd-Shift--onsite-_01868042-1",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Embedded-Software-Engineer-I--Onsite-_01878013",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Engine-Performance---Operability-Intern--Summer-2027--Onsite-_01877976",
+  "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Engineer-II--Structural---Engine-Dynamics-and-Loads--Onsite-_01876447-1",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Engineering-Quality-Co-op--Spring-2027---Onsite-_01876476",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Executive-Administrative-Assistant---Strategy---Transformation--Onsite-_01880590-1",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/F100-Materials-Specialist---Onsite_01873441",
@@ -18122,6 +18138,7 @@
   "/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-I---Onsite-_01879030",
   "/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Developer-II--Onsite-_01879035",
   "/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01877495",
+  "/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Platform-Engineer-I--Onsite-_01870054",
   "/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineer-I--Onsite-_01874953",
   "/job/US-MA-REMOTE/Capacity-Growth-Office--CGO--Distributed-Work-Execution---Engineering---Remote_01878691",
   "/job/US-MA-REMOTE/Cloud-Platform-Release-Deployment-Engineer--Remote-_01858379",
@@ -19426,6 +19443,7 @@
   "/job/India---Mumbai/Senior-Partner-Sales-Manager_JR362712",
   "/job/Indiana---Indianapolis/Customer-Success-Manager---Digital--Marketing---Commerce--Clouds_JR332573",
   "/job/Indiana---Indianapolis/Internal-Audit-Manager---Quality---Operations_JR359226",
+  "/job/Indiana---Indianapolis/Product-Management-Director_JR362887",
   "/job/Indiana---Indianapolis/Senior-Manager--SOX360_JR361324",
   "/job/Indiana---Indianapolis/Senior-Success-Architect_JR320532-1",
   "/job/Indiana---Indianapolis/Sr-Analyst--Product-and-Pricing-Operations_JR362500",
@@ -20232,7 +20250,8 @@
   "744000154451559",
   "744000154455229",
   "744000154455620",
-  "744000154458969"
+  "744000154458969",
+  "744000154471339"
  ],
  "Smartsheet": [
   "3426405",
@@ -20619,6 +20638,7 @@
   "9a88d51a-09ef-4960-9c4d-be211affcc1b",
   "9b5d1c6c-1fcd-4de9-89e2-1d95c7ded130",
   "9b8581c8-764c-44cf-aa40-f866e650cf6e",
+  "9ba51355-d486-4d17-bc41-e1c1ed57e93d",
   "9befd7fb-dd0d-445c-b349-21cf2265821c",
   "9c72fcbe-c6f4-470c-b2ff-9fca085cccfd",
   "9d538c1b-16fa-4d21-8549-d1d1993aa201",
@@ -23643,6 +23663,7 @@
   "1f56d4be-4e54-441a-ad05-946b9efcc391",
   "204f6cd7-98a3-4360-87e3-8876adf087da",
   "2193db3f-77c5-43b8-b030-8f92c9882bf1",
+  "2517cbbf-5640-4467-a3ae-08577e76bead",
   "281e7db9-86ba-4a1c-8773-c23b96ed32dc",
   "29b0056f-f163-4728-a32a-214bcb3232e8",
   "35e07377-d8a5-47b4-b3f1-c443de3c86dd",
@@ -24599,6 +24620,7 @@
   "/job/Central-Region-Engagement-Hub-IN/Senior-Analyst-Analytics--Consumer-Bank_2602606",
   "/job/Charlotte-Engagement-Hub-NC/VP--Credit-Account-Management-Strategy-Development-Leader--LMAD-_2602788",
   "/job/Charlotte-Engagement-Hub-NC/VP--Relationship-Manager---Ashley_2602778-1",
+  "/job/Hyderabad-IN/API-Engineer-1---Credit--L08-_2602789-1",
   "/job/Hyderabad-IN/AVP---Cloud-Database-Automation-Engineer_2602366",
   "/job/Hyderabad-IN/AVP---Data-Architect--L11-_2602470-1",
   "/job/Hyderabad-IN/AVP--CoreTech-Governance---Risk_2602112-1",
@@ -24653,6 +24675,7 @@
   "/job/Bellevue-Washington/Finance-Manager---Financial-Services_REQ353073",
   "/job/Bellevue-Washington/Finance-Manager--Rideshare---O-O_REQ368417-1",
   "/job/Bellevue-Washington/Principal-Business-Development-Manager--Spectrum_REQ364724-1",
+  "/job/Bellevue-Washington/Principal-Business-Development-Manager_REQ372777",
   "/job/Bellevue-Washington/Principal-Engineers--Software_REQ373671",
   "/job/Bellevue-Washington/Senior-Director--Product-Design---User-Experience_REQ372092",
   "/job/Bellevue-Washington/Sr-Analysts--Credit-Risk-Mgmt_REQ358510",
@@ -25548,6 +25571,7 @@
   "/job/PL---Warsaw-Poland/Acceptance-Solutions-Analyst_REF089192W",
   "/job/PL---Warsaw-Poland/Client-and-Network-Queries-Manager_REF087984W",
   "/job/PL---Warsaw-Poland/Compliance-Associate_REF088276W",
+  "/job/PL---Warsaw-Poland/Controls-Testing-Analyst_REF089268W",
   "/job/PL---Warsaw-Poland/Financial-Crime-Analyst--Currencycloud-_REF087907W",
   "/job/PL---Warsaw-Poland/Senior-Consulting-Manager_REF089106W",
   "/job/PL---Warsaw-Poland/Staff-SW-Engineer_REF089109W",
@@ -26132,7 +26156,8 @@
   "/job/Remote-USA/Senior-Product-Manager--Rich-Media_P751273-1",
   "/job/Remote-USA/Senior-Software-Development-Engineer_P751030-1",
   "/job/Remote-USA/Software-Development-Engineer---Fullstack_P751269-1",
-  "/job/Remote-USA/Sr-Director--Customer-Identity-and-Access-Management_P751102"
+  "/job/Remote-USA/Sr-Director--Customer-Identity-and-Access-Management_P751102",
+  "/job/Remote-USA/Strategic-Account-Executive--Agent-Software-and-Advertising_P751556-2"
  ],
  "Zoom": [
   "/job/Dublin-IRL/EMEA-Field-Marketing-Manager_R19545-1",

@@ -1,6 +1,6 @@
-# Open matching jobs (403)
+# Open matching jobs (399)
 
-Updated 2026-10-08 14:59 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-08 15:22 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -111,14 +111,12 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (304)
+## Other internships (300)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
-| 2026-10-08 | RTX | [Finance Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Finance-Intern--Summer-2027-_01872505) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC |
-| 2026-10-08 | RTX | [Intern: Industrial Engineering (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Industrial-Engineering--Summer-2027-_01868424-1) | US-CT-EAST HARTFORD-J ~ 400 Main St ~ BLDG J |
 | 2026-10-08 | Philips | [Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Best/Intern_592635) | Best |
 | 2026-10-08 | Intel | [Operations Research Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945) | 2 Locations |
 | 2026-10-08 | Genentech | [Workforce Optimization / Strategies (Data Science) Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Sant-Cugat-del-Valls/Workforce-Optimization---Strategies--Data-Science--Intern_202610-125516) | Sant Cugat del Vallès |
@@ -128,8 +126,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-07 | Mondelez | [HSE Intern Colombia](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Cali-Colombia/HSE-Intern-Colombia_R-178636) | 2 Locations |
 | 2026-10-07 | GE HealthCare | [Financial Management Program Internship](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IL03-01-Chicago-500-W-Monroe-St/Financial-Management-Program-Internship_R4043926-1) | IL03-01-Chicago-500 W Monroe St |
 | 2026-10-07 | GE Aerospace | [Site Security Operations Intern](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Queretaro/Security-Intern_R5040750) | Queretaro |
-| 2026-10-07 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OR-Portland/Pharmacy-Intern_R1069420) | OR-Portland |
-| 2026-10-07 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/UT---Salt-Lake-City/Pharmacy-Intern_R1069367) | UT - Salt Lake City |
 | 2026-10-06 | Waymo | [2027 Summer Intern, BS, Waymo ML Ops & Automation](https://careers.withwaymo.com/jobs?gh_jid=8257237) | Mountain View, CA, USA |
 | 2026-10-06 | Stryker | [Customer Service Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Roma-Rome-Via-Alexandre-Gustave-Eiffel-1315/Customer-Service-Intern_R574587) | Roma, Rome Via Alexandre Gustave Eiffel 13/15 |
 | 2026-10-06 | PwC (2) | [Audit - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Audit---Japanese-Business-Network---Intern---Summer-2027_757086WD) | 3 Locations |
