@@ -3500,6 +3500,7 @@
   "5257727007",
   "5257788007",
   "5257824007",
+  "5258568007",
   "5258734007",
   "5258826007",
   "5258836007",
@@ -7349,6 +7350,7 @@
   "/job/Rogers-AR---USA/Technical-Process-Operator_23236-1",
   "/job/Rogers-AR---USA/Technical-Process-Operator_JR23662",
   "/job/Rogers-AR---USA/Technical-Process-Operator_JR23663",
+  "/job/Rogers-AR---USA/Technical-Process-Operator_JR23664",
   "/job/Rogers-AR---USA/Technical-Process-Operator_JR23665",
   "/job/Sales---Customer-Analytics-Intern-Summer-2027_JR23359-1",
   "/job/Spring-Hill-KS---USA/D2-Material-Process-Operator_JR23661",
@@ -8021,6 +8023,7 @@
   "8168322",
   "8172100",
   "8173991",
+  "8174232",
   "8174949",
   "8175339",
   "8175360",
@@ -9206,6 +9209,7 @@
   "8831555002",
   "8836690002",
   "8839016002",
+  "8841960002",
   "8842226002",
   "8842408002",
   "8842963002",
@@ -9808,7 +9812,8 @@
   "8846732002",
   "8856460002",
   "8856467002",
-  "8856582002"
+  "8856582002",
+  "8879502002"
  ],
  "DoorDash": [
   "3236374",
@@ -12168,7 +12173,9 @@
   "8250324",
   "8250361",
   "8257641",
-  "8263161"
+  "8263161",
+  "8265981",
+  "8265982"
  ],
  "Intel": [
   "/job/India-Bangalore/Intern_JR0279777",
@@ -14519,6 +14526,7 @@
   "/job/Sandy-Utah-United-States-of-America/Executive-Services-Specialist--Associate_PT-JR043752-1",
   "/job/Sandy-Utah-United-States-of-America/Priority-Relationship-Manager_JR016619-1",
   "/job/Santa-Monica-California-United-States-of-America/Wealth-Management-Associate_JR045073-1",
+  "/job/Seattle-WA-800/Parametric---Operations-Analyst-Cohort--Summer-2027-Grads_JR043248",
   "/job/Seattle-Washington-United-States-of-America/Analyst--Client-Reporting---Parametric_PT-JR044165-1",
   "/job/Seattle-Washington-United-States-of-America/Portfolio-Manager---Parametric_PT-JR045317-1",
   "/job/Seattle-Washington-United-States-of-America/Private-Wealth-Management-Analyst_JR045003-1",
@@ -15642,6 +15650,7 @@
   "529feb11-4b9b-4baf-9b3f-f2b100156c5a",
   "52c72cb9-7c44-4cba-b440-e05262a38491",
   "533c0fc9-b773-476d-9f96-a0528efbab0e",
+  "539aa9e9-76e0-4408-b47b-3bd569a81f91",
   "5431666c-530b-49c0-b67e-32477f9eaf5e",
   "544af761-e37a-450c-884b-b96506c1b883",
   "54d56768-ba4b-4e57-8e3d-6eacd3e88a42",
@@ -17265,6 +17274,7 @@
   "9de91efe-7adc-4288-87fb-7bd04af36b3b",
   "a063f469-1ec5-44d1-8cc5-1da47a7b8783",
   "a1db9566-d51d-495e-9e87-4d57ac307d3c",
+  "a342fecf-4607-42bb-9dce-2952cfa6ad33",
   "a4a868a6-555a-4119-bbd7-6300f16d9045",
   "a53bfb4f-ae6a-4d3f-8267-32978ccfc5c6",
   "a9dc0810-546b-4773-9545-2862409e24b4",
@@ -17347,6 +17357,7 @@
   "/job/Athens/Sustainability-Reporting---Assurance-Experienced-Professional_766465WD-1",
   "/job/Athens/Tax-Advise-Manager_741029WD",
   "/job/Auckland---NZL/Assurance---Audit---Senior-Associate---Non-Financial-Services_766560WD",
+  "/job/Auckland---NZL/Assurance---Audit-Manager---Financial-Services_767025WD",
   "/job/Auckland---NZL/Assurance---Audit-Senior-Associate_750897WD-2",
   "/job/Auckland---NZL/Risk-Management---Independence---Compliance-Manager_735962WD",
   "/job/BA---Rio-de-Janeiro/Auditor-Snior---Senior-Associate_725910WD-1",
@@ -18587,6 +18598,7 @@
   "/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Senior-Finance-Analyst--Program-Cost-Controls_01879309",
   "/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Senior-Principal-Program-Execution-Lead_01878811-1",
   "/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Senior-Program-Execution-Lead_01878809",
+  "/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Mechanical-Engineer-I_01881401",
   "/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Patriot-System-Engineering-Ukraine-Missile-Product-Team-Lead--CPTL--Onsite-_01879558",
   "/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Principal-System-Engineer---Patriot-IPTL--Onsite-_01879555",
   "/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Principal-Systems-Engineer_01877960",
@@ -27748,7 +27760,8 @@
   "Morgan Stanley": {
    "/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2": "2026-10-02",
    "/job/Los-Angeles-California-United-States-of-America/Real-Estate-Investing--Pre-MBA-Associate--2027-Program-_JR028854": "2026-10-02",
-   "/job/San-Antonio-Texas-United-States-of-America/Intern_JR042272-1": "2026-10-05"
+   "/job/San-Antonio-Texas-United-States-of-America/Intern_JR042272-1": "2026-10-05",
+   "/job/Seattle-WA-800/Parametric---Operations-Analyst-Cohort--Summer-2027-Grads_JR043248": "2026-10-08"
   },
   "NVIDIA": {
    "/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645": "2026-10-02",
@@ -28577,7 +28590,8 @@
   },
   "Morgan Stanley": {
    "/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2": false,
-   "/job/San-Antonio-Texas-United-States-of-America/Intern_JR042272-1": false
+   "/job/San-Antonio-Texas-United-States-of-America/Intern_JR042272-1": false,
+   "/job/Seattle-WA-800/Parametric---Operations-Analyst-Cohort--Summer-2027-Grads_JR043248": false
   },
   "NVIDIA": {
    "/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645": false,
