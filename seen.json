@@ -3567,7 +3567,8 @@
   "5261681007",
   "5261684007",
   "5261695007",
-  "5261730007"
+  "5261730007",
+  "5261748007"
  ],
  "Anthropic": [
   "4017331008",
@@ -12251,6 +12252,7 @@
   "/job/Pune-India/Senior-EDI-Data-Analyst_886354-1",
   "/job/Pune-Kharadi-Hub/Global-Supplier-Governance---Performance-Senior-Analyst_887246-1",
   "/job/Roswell-GA-USA/Head-of-People-Strategy--Planning--Portfolio---Transformation_887739-2",
+  "/job/San-Luis-Argentina/Pasante-de-Mejora-Continua_886675-1",
   "/job/Santa-Clara-Peru/Montacarguista_887387",
   "/job/Singapore/Quality-Team-Leader_887614-2",
   "/job/So-Paulo-Berrini-Brazil/Especialista-em-Planejamento-de-RGM_886888",
@@ -18161,6 +18163,7 @@
   "/job/US-AZ-TUCSON-M07--3292-E-Hemisphere-Loop--BLDG-M07/Senior-Javelin-Field-Service-Specialist--Tucson-UK-_01852093",
   "/job/US-AZ-TUCSON-M09--3350-E-Hemisphere-Loop--BLDG-M09/PF-M---Program-Cost-Controls-Analyst---P2----Hybrid-_01879417",
   "/job/US-AZ-TUCSON-M09--3350-E-Hemisphere-Loop--BLDG-M09/Sr-Manager--Material-Program-Manager---Tucson--AZ_01880869-1",
+  "/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineer-I--Control-Actuation-Systems-CAS_01881461",
   "/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineer-II---Onsite-_01876947",
   "/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-I--Onsite-_01872084",
   "/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Mechanical-Engineering-Intern--Summer-2027-_01873571",
@@ -20831,7 +20834,8 @@
   "8259302",
   "8262162",
   "8262170",
-  "8264858"
+  "8264858",
+  "8265320"
  ],
  "Snap": [
   "/job/Abingdon---141-Park-Drive/Executive-Assistant---1-year-FTC_R0047053-1",
@@ -20874,6 +20878,7 @@
   "0636f234-a5d9-4c8f-8516-f2eddf3b8d4c",
   "073c91f2-0758-4544-9297-3f48a81fb04d",
   "079b5a33-2fcd-458e-b1ba-bde591bef4cd",
+  "07aead0b-3d2a-4162-b578-5eb323230c1f",
   "07d2ac99-43b0-42c0-849f-9eab3f437b4d",
   "080606f5-8a95-49d1-b604-c4780cb50e09",
   "08ba6a41-fb63-4b51-aee7-be5501668909",
@@ -24122,8 +24127,11 @@
   "8877633002",
   "8877899002",
   "8880095002",
+  "8880385002",
   "8880475002",
   "8880515002",
+  "8880556002",
+  "8880570002",
   "8880672002"
  ],
  "Spotify": [
