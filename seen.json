@@ -3569,7 +3569,11 @@
   "5261695007",
   "5261730007",
   "5261748007",
-  "5261801007"
+  "5261749007",
+  "5261764007",
+  "5261782007",
+  "5261801007",
+  "5261805007"
  ],
  "Anthropic": [
   "4017331008",
@@ -8111,7 +8115,8 @@
   "8259801",
   "8259870",
   "8260052",
-  "8262841"
+  "8262841",
+  "8265918"
  ],
  "CrowdStrike": [
   "/job/Australia---Remote-NW/Professional-Services-Subcontractor-Manager_R30007",
@@ -9226,6 +9231,7 @@
   "8859666002",
   "8860431002",
   "8860643002",
+  "8860653002",
   "8860663002",
   "8860665002",
   "8860667002",
@@ -11149,6 +11155,7 @@
   "/job/Shanghai/Director--Business-Strategy---Development---AVS_R4047100-1",
   "/job/Shanghai/Director--Business-Strategy---Development---PCS-Private-HKTW_R4047026",
   "/job/Shanghai/Product-Manager_R4047106-1",
+  "/job/State-College/Lead-Manufacturing-Engineer_R4047238",
   "/job/State-College/Manufacturing-Engineer_R4047068-1",
   "/job/State-College/Warehouse-Associate-II--Shipping--M-F-7-30-AM---4-00-PM_R4046962-1",
   "/job/State-College/Warehouse-Associate_R4045743-1",
@@ -13387,6 +13394,7 @@
   "/job/Boise-ID---ID1/VP--Boise-FE-Manufacturing-Operations_JR113204",
   "/job/Boise-ID---ID1/Wet-Process-Engineer_JR106526",
   "/job/Boise-ID---Main-Site/AI-Engineer_JR111826-1",
+  "/job/Boise-ID---Main-Site/AI-Ops-Solution-Intake---Feasibility-Analyst_JR114206",
   "/job/Boise-ID---Main-Site/AI-Strategy--Emerging-Systems---AI-Principal-Architect_JR91766",
   "/job/Boise-ID---Main-Site/APTD-PI-Line---Systems-Coordinator_JR112776",
   "/job/Boise-ID---Main-Site/BU-Analyst---Catalyst-Rotation-Program_JR114440",
@@ -14344,7 +14352,9 @@
   "8260947",
   "8262077",
   "8263092",
-  "8264146"
+  "8264146",
+  "8265960",
+  "8265973"
  ],
  "Morgan Stanley": [
   "/job/1-New-York-Plaza/Stock-Plan-Project-Operations--Manager--AVP-_PT-JR043977-1",
@@ -14876,6 +14886,7 @@
   "7013622",
   "7013711",
   "7013739",
+  "7182169",
   "7233212",
   "7247309",
   "7254170",
@@ -15291,7 +15302,8 @@
   "8262963",
   "8264443",
   "8265921",
-  "8265927"
+  "8265927",
+  "8265956"
  ],
  "Oliver Wyman": [
   "/job/Atlanta---Northside/Client-Executive---Single-Parent-Captives_R_356704",
@@ -15369,6 +15381,7 @@
   "0728d036-6057-4194-942f-34254610c18f",
   "079ba35a-b4fa-42a3-92bb-dc31de99d9e3",
   "07fb9365-8e80-48fe-86df-08d60dd46f43",
+  "082f4d82-499f-4150-892f-0b0d1105fffe",
   "0875c19f-3f37-403e-81e9-7bf2429f1e4e",
   "08e8d03a-df94-46af-8664-cd9aab1af445",
   "0916f210-e851-493c-b8ec-51cf00152be1",
@@ -15517,6 +15530,7 @@
   "2ee19240-419a-479a-a00e-72436ae2b27a",
   "2ee660bf-1911-4619-9282-751cd9fc5c61",
   "2f3f416d-cc2a-4836-bcff-daee80c94e95",
+  "2f97db3d-3d92-4480-87cb-534e0caadadf",
   "30d4f083-e3b7-4f06-bc57-575a3368c23a",
   "310bba8b-1fb6-4e38-bd0b-9d83b712d240",
   "31f7b3d9-eb5f-4e70-98ab-9115dd153993",
@@ -18736,6 +18750,7 @@
   "/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineer-Developer-I--Onsite-_01879018",
   "/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineer-Developer-II--Onsite-_01879040",
   "/job/US-RI-PORTSMOUTH-PS2--1847-W-Main-Rd--NIMITZ-SOUTH-BLDG/Mechanical-Engineer-I--Onsite-_01879661",
+  "/job/US-RI-PORTSMOUTH-PS3--1847-W-Main-Rd--NIMITZ-WEST-BLDG/Mechanical-Engineering-Co-Op--Winter-Spring-2027-_01880887",
   "/job/US-SC-SIMPSONVILLE-1001--1001-Old-Stage-Rd--OLD-STAGE/Quality-Engineer--On-site-_01879856",
   "/job/US-TX-FREER-401-CUST--401-County-Rd--ESCONDITO-RANCH-External-Site/Senior-Quality-Electronics-Engineer_01876367",
   "/job/US-TX-GREENVILLE-6201--6201-Interstate-Hwy-30--PAYROLL/Sr-Coordinator--Finance-Support---Timekeeping_01879589-1",
@@ -21020,6 +21035,7 @@
   "5a4a6ea7-fcfb-4639-83ce-90266cad1548",
   "5a78a5bf-9ade-474b-8e69-576462427aaf",
   "5be9023b-1277-4f22-8483-d9aedac2371f",
+  "5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec",
   "5db01aa4-92eb-4796-bd7e-446ea98402f2",
   "5ed76bcd-cb61-4222-900b-ad9fa89a472e",
   "5ee9f5f0-2942-4c17-81bf-f2ffec3a64b9",
