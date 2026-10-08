@@ -764,7 +764,8 @@
   "10571004",
   "10571374",
   "10573069",
-  "10573268"
+  "10573268",
+  "10573984"
  ],
  "Amgen": [
   "/job/Algeria---Algiers/CW---Senior-Finance-Manager_R-225698",
@@ -3557,7 +3558,9 @@
   "5261440007",
   "5261442007",
   "5261454007",
-  "5261480007"
+  "5261480007",
+  "5261629007",
+  "5261647007"
  ],
  "Anthropic": [
   "4017331008",
@@ -3678,6 +3681,7 @@
   "5138289008",
   "5139038008",
   "5139628008",
+  "5139910008",
   "5146298008",
   "5149802008",
   "5150472008",
@@ -5220,6 +5224,7 @@
   "5442638008",
   "5442639008",
   "5445011008",
+  "5445289008",
   "5445475008",
   "5445635008",
   "5445844008",
@@ -5504,6 +5509,7 @@
   "8245697",
   "8250406",
   "8256310",
+  "8256440",
   "8257221",
   "8257470",
   "8261467",
@@ -5864,6 +5870,7 @@
   "/job/USA-Pennsylvania-Breinigsville-9999-Hamilton-Blvd/Process-and-Integration-Engineer--Optoelectronics_R026344-1",
   "/job/USA-TX-Plano-Legacy-Drive-Suite-700/Solution-Architect--Broadcom-Software_R027113",
   "/job/USA-TX-Plano-Legacy-Drive-Suite-700/Sr-Mainframe-Technical-Consultant_R027128",
+  "/job/USA-VA-Remote-Location/Solution-Engineer---ValueOps_R026472",
   "/job/United-Kingdom-Remote-Location/Mainframe-Technical-Consultant----Mainframe-AIOPS_R027185"
  ],
  "CVS Health": [
@@ -6339,6 +6346,7 @@
   "/job/PA---Pittsburgh/Pharmacy-Intern_R1063050",
   "/job/PA---Pittsburgh/Pharmacy-Intern_R1064231",
   "/job/PA---Pittsburgh/Pharmacy-Intern_R1065639",
+  "/job/PA---Pittsburgh/Pharmacy-Intern_R1070442",
   "/job/PA---State-College/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1066783",
   "/job/PA---Work-from-home/Analyst-Corp-Compliance_R1025350",
   "/job/PA---Work-from-home/Case-Management-Coordinator---Transition-of-Care-Team_R0971217",
@@ -6783,6 +6791,7 @@
   "/job/McLean-VA/Principal-Associate---Communications--Hybrid-_R1002970-1",
   "/job/McLean-VA/Principal-Associate--Data-Science---Model-Risk-Office_R243970-1",
   "/job/McLean-VA/Principal-Associate--Data-Scientist---Capital-One-Personal-Loan_R1003033",
+  "/job/McLean-VA/Principal-Associate--Enterprise-Payments-Governance---Oversight--Hybrid_R1003293-2",
   "/job/McLean-VA/Principal-Associate--Process-Management--Performance-Marketing-and-Analytics-Well-Managed-Team_R1002509-1",
   "/job/McLean-VA/Principal-Associate--Sourcing-Manager_R1002824",
   "/job/McLean-VA/Principal-Associate--Tech-Risk---Analysis---Technology-Audit_R1002320-1",
@@ -6880,6 +6889,7 @@
   "/job/New-York-NY/Business-Manager--Deal-Economics---Analytics_R1002914-2",
   "/job/New-York-NY/Data-Engineer-4---Nexus-Products_R1001571-1",
   "/job/New-York-NY/Data-Engineer-4---Payment-Networks_R1001573-1",
+  "/job/New-York-NY/Data-Engineer-4--Manager--IC-_R1003355-1",
   "/job/New-York-NY/Data-Engineer-4_R1002522-1",
   "/job/New-York-NY/Data-Engineer-4_R1002915-1",
   "/job/New-York-NY/Data-Engineer-5_R1002928-1",
@@ -7125,6 +7135,7 @@
   "8607195002",
   "8609159002",
   "8609485002",
+  "8612037002",
   "8614188002",
   "8616359002",
   "8625622002",
@@ -7219,6 +7230,7 @@
   "/job/Milpitas-California-US/Senior-AI-Researcher--AISWP--Hybrid-_2027449-1",
   "/job/Milpitas-California-US/Senior-Product-Manager_2023806",
   "/job/Milpitas-California-US/Senior-Software-Engineer_2021200-1",
+  "/job/Milpitas-California-US/Software-Engineer_2024896",
   "/job/Mumbai-India/Account-Executive---Portfolio_2025403",
   "/job/Mumbai-India/Leader--Sales--BFSI-_2025785-1",
   "/job/North-Sydney-Australia/Engineering-Product-Manager_2024051-1",
@@ -8189,6 +8201,7 @@
   "/job/Marlborough-Massachusetts-United-States/Senior-Director--Intelligent-Equipment---Sensing--Analytics--and-Digital-Innovation_R1315063",
   "/job/Marlborough-Massachusetts-United-States/Senior-Leader-Americas-Commercial-Genomic-Medicine_R1319678-1",
   "/job/Marlborough-Massachusetts-United-States/Sr-Director--HRBP-Global-Commercial_R1316913",
+  "/job/Miami-Florida-United-States/Senior-Strategic-Account-Executive_R1319881",
   "/job/Milan-Italy/Technical-Support-Specialist---Systems_R1316952-1",
   "/job/Milan-Italy/Technical-Support-Specialist_R1320160",
   "/job/Neuchtel-Switzerland/Accountant--International-Reporting---Compliance---12-Month-FTC_R1320173",
@@ -8209,6 +8222,7 @@
   "/job/Portsmouth-United-Kingdom/Director--Systems-Project-Management---Commissioning_R1318722",
   "/job/Saint-Germain-en-Laye-Yvelines-France/Director--Systems-Project-Management---Commissioning_R1318720",
   "/job/San-Jose-California-United-States/Manufacturing-Ops-Technician--San-Jose--CA-_R1319444",
+  "/job/Seattle-Washington-United-States/Strategic-Accounts-Executive_R1319879",
   "/job/Seoul-Republic-of-Korea/Bioprocess-Development-Leader---Korea_R1317823",
   "/job/Seoul-Republic-of-Korea/Sr-Director--Head-of-Global-Strategic-Accounts-APAC_R1303141",
   "/job/Shanghai-China/QA-Manager_R1317913",
@@ -10286,7 +10300,9 @@
   "8263786",
   "8264397",
   "8264534",
-  "8264542"
+  "8264542",
+  "8265444",
+  "8265499"
  ],
  "Dropbox": [
   "6330377",
@@ -10984,6 +11000,7 @@
   "/job/MEX03-01-Mexico-City-SAMARA/Commercial-Operations-Leader---Strategic-Accounts_R4047147-1",
   "/job/MEX03-01-Mexico-City-SAMARA/Especialista-de-Nmina-Mexico_R4047321-1",
   "/job/MEX03-01-Mexico-City-SAMARA/Especialista-de-Nmina-y-Beneficios-Hispanoamrica_R4047033-2",
+  "/job/MEX03-01-Mexico-City-SAMARA/Service-Operations-Support-Specialist_R4047358-1",
   "/job/Madrid/AST-and-Programs-Support---Apprentice_R4046793",
   "/job/Menlo-Park/MR-Imaging-Scientist--Artificial-Intelligence_R4046648-1",
   "/job/Monterrey/Especialista-en-Operaciones-de-Recursos-Humanos_R4044786-1",
@@ -11191,6 +11208,7 @@
   "/job/Hyderabad/IT-Software-Engineering-Expert---RDT-Pharma-Medicines_202607-119586",
   "/job/Hyderabad/Lead-Analyst--Analytical-Products-_202606-115419",
   "/job/Hyderabad/Senior-Medical-Writer_202610-125493",
+  "/job/Indianapolis/Digital-Consultant_202610-124987-1",
   "/job/Indianapolis/Digital-Support-Team-Manager_202608-121236-2",
   "/job/Indianapolis/Director--Strategic-Customer-Solutions---Women-s-Health_202609-124230-1",
   "/job/Indianapolis/Global-Head-of-Regulatory-Affairs--Roche-Diagnostics_202609-124851-1",
@@ -11582,7 +11600,8 @@
   "6214599004",
   "6214653004",
   "6214670004",
-  "6218769004"
+  "6218769004",
+  "6220878004"
  ],
  "Hewlett Packard Enterprise": [
   "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1",
@@ -12470,6 +12489,8 @@
  ],
  "Mastercard": [
   "/job/Abidjan-Cote-divoire/Senior-Managing-Consultant--Business-Development--Services--Francophone-Africa_R-289538",
+  "/job/Almaty-Kazakhstan/Associate-Consultant--Launch-Graduate-Program---2027--Almaty--Kazakhstan_R-287584",
+  "/job/Almaty-Kazakhstan/Associate-Consultant-Intern--Summer-Internship-Program---2027--Almaty--Kazakhstan_R-287589-2",
   "/job/Almaty-Kazakhstan/Director--Business-Development---MC-Move-products-and-solutions_R-288711",
   "/job/Arlington-Virginia/Lead-Software-Engineer_R-279701",
   "/job/Arlington-Virginia/Principal-Software-Development-Engineer_R-286148-1",
@@ -12768,6 +12789,7 @@
   "/job/Tokyo-Japan/Manager--Small-Business-Segment--Sales-Specialist--North-East-Asia_R-289284",
   "/job/Tokyo-Japan/Senior-Specialist-Marketing-Services---Advisors---Consulting-Services_R-291043",
   "/job/Toronto-Canada/Consultant--Advisors---Consulting-Services--Strategy---Transformation_R-274557",
+  "/job/Toronto-Canada/Senior-Analyst--Customer-Performance--Brand-1_R-290824-1",
   "/job/Toronto-Canada/Senior-Investigator--BRAM-Program_R-293187",
   "/job/Vendor---Kuwait-City-Kuwait-Mercans/Manager--Technology-Account-Manager_R-261523",
   "/job/Vienna-Austria/AI-Managing-Consultant--Fluent-in-German-_R-290829-1",
@@ -13294,6 +13316,7 @@
   "/job/Boise-ID---ID1/Process-Quality-Engineer_JR111465",
   "/job/Boise-ID---ID1/Project-Manager--Construction---Engineering_JR91670",
   "/job/Boise-ID---ID1/RDA-Process-Engineer_JR96684",
+  "/job/Boise-ID---ID1/SENIOR-ENGINEER--ID1-ATE-PH-SCANNER-PROCESS_JR94993",
   "/job/Boise-ID---ID1/Senior-Diffusion-Process-Engineer_JR102758",
   "/job/Boise-ID---ID1/Senior-Photolithography-Equipment-Engineer_JR101261",
   "/job/Boise-ID---ID1/Senior-Photolithography-Process-Engineer_JR101262-1",
@@ -13568,6 +13591,7 @@
   "/job/Manassas-VA----Fab-6/Category-Supplier-Manager_JR104242",
   "/job/Manassas-VA----Fab-6/Equipment-Engineer--CMP-_JR112808",
   "/job/Manassas-VA----Fab-6/Equipment-Engineer--RDA---Metrology-_JR109850",
+  "/job/Manassas-VA----Fab-6/Equipment-Engineer_JR108493",
   "/job/Manassas-VA----Fab-6/Equipment-Maintenance-Technician_JR106731",
   "/job/Manassas-VA----Fab-6/Fab-Equipment-Engineer_JR106736",
   "/job/Manassas-VA----Fab-6/Facilities--Electrical-Technician--Manassas--VA_JR112357",
@@ -17640,6 +17664,7 @@
   "/job/Tunis---Immeuble-The-Screen/Analyste-SOC_766978WD",
   "/job/Tunis---Immeuble-The-Screen/Expert-Assurance_746364WD",
   "/job/Tunis---Immeuble-The-Screen/esponsable-conformit-et-performance_766099WD",
+  "/job/Vancouver/Capital-Markets-and-Accounting-Advisory-Services--Manager_766695WD",
   "/job/Vancouver/Deals-Real-Assets--Data-Engineering---Digital-Solutions--Senior-Associate-_732972WD",
   "/job/Vilnius/Internship-in-Audit-team_766587WD",
   "/job/Vilnius/Paid-Internship-in-Deals-team_766460WD",
@@ -19247,6 +19272,7 @@
   "8246088",
   "8247333",
   "8250279",
+  "8250286",
   "8255840",
   "8255842",
   "8257655",
@@ -19670,6 +19696,7 @@
   "/job/California---San-Francisco/Senior-Manager--GTM-Growth-Strategy_JR362015",
   "/job/California---San-Francisco/Senior-Manager-Slack-Technical-Business-Development_JR350618",
   "/job/California---San-Francisco/Senior-Product-Manager--Piper_JR362568-1",
+  "/job/California---San-Francisco/Senior-Product-Manager--Salesforce-Platform_JR360799",
   "/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1",
   "/job/California---San-Francisco/Software-Engineering-MTS_JR354592",
   "/job/California---San-Francisco/Software-Engineering-MTS_JR355941",
@@ -19689,6 +19716,7 @@
   "/job/Canada---Toronto/Director--Talent-Attraction_JR363191",
   "/job/Canada---Toronto/Platform-and-Security-Growth-Business-Account-Executive_JR362693-1",
   "/job/Canada---Toronto/Run-Rate-Programs-Senior-Manager_JR362834",
+  "/job/Canada---Toronto/Sr-Analyst--Product-and-Pricing-Operations_JR363492",
   "/job/Canada---Toronto/Technical-Architect-Director---PubSec---Mulesoft-Canada_JR362275",
   "/job/Canada---Vancouver/Small--Medium--and-Growth-Business---Account-Executive---Vancouver--Office-Based-_JR274505",
   "/job/Colombia---Bogota/Customer-Success-Manager--Marketing-Cloud_JR362689",
@@ -27019,7 +27047,8 @@
   "5260367007",
   "5260493007",
   "5260497007",
-  "5261047007"
+  "5261047007",
+  "5261426007"
  ],
  "_first_seen": {
   "3M": {
@@ -27106,7 +27135,8 @@
    "10534582": "2026-10-02",
    "10534584": "2026-10-02",
    "10553765": "2026-10-07",
-   "10553907": "2026-10-07"
+   "10553907": "2026-10-07",
+   "10573984": "2026-10-08"
   },
   "Amgen": {
    "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349": "2026-10-02",
@@ -27278,6 +27308,7 @@
    "/job/PA---Newtown-Square/Pharmacy-Intern---Grad_R1065651-1": "2026-10-05",
    "/job/PA---Pittsburgh/Pharmacy-Intern_R1064231": "2026-10-02",
    "/job/PA---Pittsburgh/Pharmacy-Intern_R1065639": "2026-10-05",
+   "/job/PA---Pittsburgh/Pharmacy-Intern_R1070442": "2026-10-08",
    "/job/PA---State-College/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1066783": "2026-10-05",
    "/job/TX---Addison/Pharmacy-Intern_R1065506": "2026-10-04",
    "/job/TX---Allen/Pharmacy-Intern_R1066911-1": "2026-10-05",
@@ -27516,7 +27547,9 @@
    "8802198002": "2026-10-02",
    "8843341002": "2026-10-02"
   },
-  "Mastercard": {},
+  "Mastercard": {
+   "/job/Almaty-Kazakhstan/Associate-Consultant-Intern--Summer-Internship-Program---2027--Almaty--Kazakhstan_R-287589-2": "2026-10-08"
+  },
   "Medtronic": {
    "/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958": "2026-10-02",
    "/job/Cape-Town-Western-Cape-South-Africa/Sales-Intern_R78059-1": "2026-10-02",
@@ -27986,7 +28019,8 @@
    "10534582": false,
    "10534584": false,
    "10553765": false,
-   "10553907": false
+   "10553907": false,
+   "10573984": false
   },
   "Amgen": {
    "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349": true,
@@ -28132,6 +28166,7 @@
    "/job/PA---Newtown-Square/Pharmacy-Intern---Grad_R1065651-1": false,
    "/job/PA---Pittsburgh/Pharmacy-Intern_R1064231": false,
    "/job/PA---Pittsburgh/Pharmacy-Intern_R1065639": false,
+   "/job/PA---Pittsburgh/Pharmacy-Intern_R1070442": false,
    "/job/PA---State-College/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1066783": false,
    "/job/TX---Addison/Pharmacy-Intern_R1065506": false,
    "/job/TX---Allen/Pharmacy-Intern_R1066911-1": false,
@@ -28339,6 +28374,9 @@
    "8796124002": false,
    "8802198002": false,
    "8843341002": false
+  },
+  "Mastercard": {
+   "/job/Almaty-Kazakhstan/Associate-Consultant-Intern--Summer-Internship-Program---2027--Almaty--Kazakhstan_R-287589-2": false
   },
   "Medtronic": {
    "/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958": false,
