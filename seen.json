@@ -4803,6 +4803,7 @@
   "/job/Chandler/Centralized-Lending-Specialist--Mortgage-Loan-Officer----Chandler--AZ_26032069",
   "/job/Chandler/Consumer-Investments-Money-Movement-Service-Representative---Chandler--AZ_26026151",
   "/job/Charlotte/Centralized-Lending-Specialist--Mortgage-Loan-Officer----Charlotte--NC_26032081",
+  "/job/Charlotte/Credit-Officer-I---Global-Infrastructure-Credit_26033000",
   "/job/Charlotte/Credit-Officer-II---Global-Infrastructure-Credit_26033007-2",
   "/job/Charlotte/Senior-Credit-Underwriter-Global-Wealth-and-Investment-Management_26034306",
   "/job/Charlotte/Senior-Insights-Strategy-Executive---Product-Marketing_26036826",
@@ -5228,6 +5229,7 @@
   "5441183008",
   "5442638008",
   "5442639008",
+  "5442647008",
   "5445011008",
   "5445289008",
   "5445475008",
@@ -10319,6 +10321,7 @@
   "8264397",
   "8264534",
   "8264542",
+  "8265033",
   "8265444",
   "8265499"
  ],
@@ -10549,6 +10552,7 @@
   "/job/USA---Missouri---Springfield/Accountant_R-109474",
   "/job/Washington---Seattle-Campus/Business-Programs-Manager_R-110339-1",
   "/job/Washington---Seattle-Campus/Data-Scientist-III---Growth-Marketing_R-107547-1",
+  "/job/Washington---Seattle-Campus/Data-Scientist-III--Media---Paid-Social-Analytics_R-109076",
   "/job/Washington---Seattle-Campus/Director--Software-Development-Engineering---Experience-Management-Platform_R-109705-1",
   "/job/Washington---Seattle-Campus/Director--Technology_R-108910-1",
   "/job/Washington---Seattle-Campus/Director--Workforce-Management_R-109240-1",
@@ -10849,6 +10853,7 @@
   "/job/McAllen/McAllen-Processor-Inspector---2nd-Shift--Innovation-_R5041256-1",
   "/job/Norwalk/Executive-Assistant_R5041399-1",
   "/job/Norwich/Lead-Quality-Engineer_R5041308-1",
+  "/job/Norwich/Production-Technician-4--Core---Coil-_R5039296-1",
   "/job/Norwich/Production-Technician-4--Switches-_R5039768-1",
   "/job/Overland-Park/Lead-Accountant---Investment-Accounting-and-Reporting_R5041282-1",
   "/job/Peebles/Lead-Engineer-Testing_R5039120-2",
@@ -11216,6 +11221,7 @@
   "/job/Espoo/IT-Onsite-Enablement-Partner_202609-124320",
   "/job/Grenzach/Praktikum--m-w-d--im-Bereich-Events---Congresses_202608-121608-1",
   "/job/Grenzach/RDT-Business-Partner--m-w-d--RDT-Pharma-International_202608-120681",
+  "/job/Guayaquil/Especialista-Consultor-de-Aplicaciones-IVD---Innovacin-Clnica_202610-125219",
   "/job/Gwangju/CL-P-Branch-Sales-Manager_202609-124793",
   "/job/Hangzhou/XMLNAME--Senior--Medical-Science-Manager-LC-GI-Hangzhou-_202609-124139-1",
   "/job/Ho-Chi-Minh/Sales-Executive_202609-124826",
@@ -12517,6 +12523,7 @@
   "/job/Almaty-Kazakhstan/Associate-Consultant-Intern--Summer-Internship-Program---2027--Almaty--Kazakhstan_R-287589-2",
   "/job/Almaty-Kazakhstan/Director--Business-Development---MC-Move-products-and-solutions_R-288711",
   "/job/Arlington-Virginia/Lead-Software-Engineer_R-279701",
+  "/job/Arlington-Virginia/Lead-Software-Engineer_R-292194",
   "/job/Arlington-Virginia/Principal-Software-Development-Engineer_R-286148-1",
   "/job/Arlington-Virginia/Senior-Software-Engineer_R-292388",
   "/job/Arlington-Virginia/Software-Engineer-II_R-288574",
@@ -14548,6 +14555,7 @@
   "/job/Barcelona-Spain/Senior-Administrative-Assistant_R-91887",
   "/job/Beaverton-Oregon/Designer-Color-Design_R-94851-1",
   "/job/Beaverton-Oregon/Designer-II--Core-Studio-Footwear-Materials-Design-Expression_R-90744-1",
+  "/job/Beaverton-Oregon/Designer-II--Field-Sports-Apparel-Graphic-Design_R-92195",
   "/job/Beaverton-Oregon/Director--Apparel-Product-Development-Local-Creation-NA_R-92752",
   "/job/Beaverton-Oregon/Director--Footwear-Product-Line-Management--Local-Creation-North-America_R-93750",
   "/job/Beaverton-Oregon/Executive-Assistant---Nike-Direct_R-94850",
@@ -17856,8 +17864,12 @@
   "8247259",
   "8256634",
   "8259074",
+  "8261678",
   "8264793",
-  "8264854"
+  "8264854",
+  "8264886",
+  "8264929",
+  "8265748"
  ],
  "RTX": [
   "/job/AE-AZ-ABU-DHABI-ADGM-TOWER-3--Al-Maqam-Tower--GLOBAL-MARKET-SQ-TWR-3/Quality-Manager_01858264",
@@ -17886,6 +17898,7 @@
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Gestionnaire-principal--stratgies-de-tarification-et-transactions---Senior-Manager--Pricing---Lifecycle-Strategy_01880165",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Ingenieur-e--de-projets---Project-Engineer_01874840",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Ingenieur-mecanique---Ingenierie-des-installations-d-essais---Mechanical-Engineer---Test-Facilities-Engineering_01856005-1",
+  "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Machiniste-CNC_01876423",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Mcanicien-d-entretien-industriel_01878221",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Operations-Strategy--Sr-Manager_01877654",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Prpose-au-traitement-thermique_01878258",
@@ -18324,6 +18337,7 @@
   "/job/US-FL-REMOTE/Field-Supplier-Quality-Manager--Remote-_01878229",
   "/job/US-FL-REMOTE/Principal-Equipment-Engineer--Adhesion---Assembly--Remote-_01880825",
   "/job/US-FL-REMOTE/Senior-Electrical-Engineer---Executive-Aircraft-Seating-Remote-_01879046",
+  "/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01874928",
   "/job/US-GA-ATLANTA-3625-CUST--3625-Royal-S-Parkway--ROYAL-External-Site/Quality-Engineer--Mission-Quality-Assurance--Onsite-_01880131",
   "/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/Co-Op---Columbus-Engine-Center-Rotational--2027-_01874815",
   "/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/Principal-Structures-Engineer--Onsite-_01876573",
@@ -18750,6 +18764,7 @@
   "/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Senior-Engineering-Manager---IT-Infrastructure---Simulation--Onsite-_01881141-1",
   "/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Senior-Software-Engineer---Training-System-Software--Onsite-_01879561",
   "/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-II---Training-System-Software---Onsite-_01870532",
+  "/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01877890",
   "/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Finishing-Operator-I_01879078-1",
   "/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Finishing-Operator-I_01879557-1",
   "/job/US-WV-BRIDGEPORT-1525--1525-Midway-Park-Rd--MIDWAY-BLDG-A/Facilities-Supervisor--Onsite-_01868748",
@@ -19311,6 +19326,7 @@
   "8245932",
   "8246088",
   "8247333",
+  "8248165",
   "8250279",
   "8250286",
   "8255840",
@@ -19753,6 +19769,7 @@
   "/job/California---San-Francisco/Technical-Architect--Pre-Sales----All-Levels_JR321042",
   "/job/Canada---Montreal/JR172962-Responsable-de-compte-de-rgion--affaires-des-petites-entreprises---Growth-Business-Account-Executive---Bilingual--English-French--Montreal_JR237841",
   "/job/Canada---Toronto-Metro---Remote/Senior-Readiness-Designer_JR362290-1",
+  "/job/Canada---Toronto/Customer-Success-Manager---Global-Public-Sector---NGO---Higher-Education_JR339239",
   "/job/Canada---Toronto/Director--Talent-Attraction_JR363191",
   "/job/Canada---Toronto/Platform-and-Security-Growth-Business-Account-Executive_JR362693-1",
   "/job/Canada---Toronto/Run-Rate-Programs-Senior-Manager_JR362834",
@@ -19791,6 +19808,7 @@
   "/job/Illinois---Chicago/Agentforce-Success-Architect_JR336652",
   "/job/Illinois---Chicago/CSG-Product-Senior-Manager_JR356257-1",
   "/job/Illinois---Chicago/Cloud-Account-Executive_JR358759",
+  "/job/Illinois---Chicago/Commercial---Emerging-Enterprise-Account-Executive---Consumer-Business-Services_JR332959",
   "/job/Illinois---Chicago/Commercial-Account-Executive---Financial-Services_JR292762",
   "/job/Illinois---Chicago/Commercial-Account-Executive---Healthcare---Life-Sciences_JR293223",
   "/job/Illinois---Chicago/Customer-Success-Manager---Global-Public-Sector--State---Local-Gov-_JR332446",
@@ -21288,7 +21306,8 @@
   "8012077003",
   "8013180003",
   "8013449003",
-  "8017073003"
+  "8017073003",
+  "8017077003"
  ],
  "SpaceX": [
   "8377056002",
@@ -24061,8 +24080,10 @@
   "8873393002",
   "8873396002",
   "8873401002",
+  "8875741002",
   "8875925002",
   "8876413002",
+  "8876415002",
   "8876611002",
   "8876618002",
   "8876676002",
@@ -24071,7 +24092,9 @@
   "8877391002",
   "8877633002",
   "8877899002",
-  "8880475002"
+  "8880095002",
+  "8880475002",
+  "8880515002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -27820,6 +27843,7 @@
    "/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Systems-Engineering-Intern---CNS-Onsite_01876809": "2026-10-05",
    "/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Systems-Engineer-Intern--Onsite_01876452": "2026-10-05",
    "/job/US-FL-REMOTE/Corporate-Supply-Chain-Intern--Summer-2027---Remote-_01879372": "2026-10-08",
+   "/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01874928": "2026-10-08",
    "/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518": "2026-10-04",
    "/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288": "2026-10-07",
    "/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01871884": "2026-10-06",
@@ -27843,7 +27867,8 @@
    "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineering-Intern--Summer-2027-_01879520": "2026-10-06",
    "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037": "2026-10-06",
    "/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Electrical-Engineer-Intern--Summer2027--Onsite-_01880018": "2026-10-07",
-   "/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Internship--June-2027-_01879348": "2026-10-02"
+   "/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Internship--June-2027-_01879348": "2026-10-02",
+   "/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01877890": "2026-10-08"
   },
   "Ramp": {
    "acf6b28d-767f-483f-8ff2-114620cd7e04": "2026-10-02",
@@ -28602,6 +28627,7 @@
    "/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Systems-Engineering-Intern---CNS-Onsite_01876809": false,
    "/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Systems-Engineer-Intern--Onsite_01876452": false,
    "/job/US-FL-REMOTE/Corporate-Supply-Chain-Intern--Summer-2027---Remote-_01879372": false,
+   "/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01874928": false,
    "/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Avionics-Test-Engineering--Systems-Engineer-Intern--Onsite-_01876518": false,
    "/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288": false,
    "/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01871884": false,
@@ -28625,7 +28651,8 @@
    "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineering-Intern--Summer-2027-_01879520": false,
    "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037": false,
    "/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Electrical-Engineer-Intern--Summer2027--Onsite-_01880018": false,
-   "/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Internship--June-2027-_01879348": false
+   "/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Internship--June-2027-_01879348": false,
+   "/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01877890": false
   },
   "Ramp": {
    "acf6b28d-767f-483f-8ff2-114620cd7e04": false,
