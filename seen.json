@@ -6459,7 +6459,8 @@
   "6000000001462407",
   "6000000001462412",
   "6000000001468666",
-  "6000000001470622"
+  "6000000001470622",
+  "6000000001470787"
  ],
  "Capital One": [
   "/job/Bangalore-In/Director---HR-Operations-and-Risk_R249605",
@@ -11876,6 +11877,7 @@
   "/job/Pune-Kharadi-Hub/Global-Supplier-Governance---Performance-Senior-Analyst_887246-1",
   "/job/Roswell-GA-USA/Head-of-People-Strategy--Planning--Portfolio---Transformation_887739-2",
   "/job/Santa-Clara-Peru/Montacarguista_887387",
+  "/job/Singapore/Quality-Team-Leader_887614-2",
   "/job/So-Paulo-Berrini-Brazil/Especialista-em-Planejamento-de-RGM_886888",
   "/job/South-Africa--Cape-Town--Epping/Shift-Mechanical-Technician-1_887530-1",
   "/job/Sri-City-India/Executive-Production_885637-2",
@@ -13268,6 +13270,7 @@
   "/job/Taichung---Fab-16-Taiwan/MGR--PHOTO-DUV-PE_JR113661-1",
   "/job/Taichung---Fab-16-Taiwan/PDE-NPI-PWF-Process-Engineer_JR105575-1",
   "/job/Taichung---Fab-16-Taiwan/Principle-Ramp-Expansion-Supplier-Manager_JR113547",
+  "/job/Taichung---Fab-16-Taiwan/QMO-Lead-Staff-Senior-Auditor_JR113611",
   "/job/Taichung---Fab-16-Taiwan/SR-ENGINEER--OMT-ADT-DE_JR113638",
   "/job/Taichung---Fab-16-Taiwan/Safety-Engineer_JR113099",
   "/job/Taichung---Fab-16-Taiwan/Shift-Nurse_JR113170",
@@ -14063,6 +14066,7 @@
   "/job/Beaverton-Oregon/NIKE--Inc-Strategic-Planning-Graduate-Internship_R-91142",
   "/job/Beaverton-Oregon/NIKE--Inc-Supply-Chain-Planning-Graduate-Internship_R-92368-1",
   "/job/Beaverton-Oregon/Principal--Strategy--Energy_R-94649",
+  "/job/Beaverton-Oregon/Principal-Engineer--Security---Compliance_R-94730",
   "/job/Beaverton-Oregon/Senior-Accountant--Close-and-Consolidations_R-91265",
   "/job/Beaverton-Oregon/Senior-Auditor--Global-Audit-and-Risk-Management_R-89190",
   "/job/Beaverton-Oregon/Senior-Data-Modeler---MAC-BI--Activity-Intelligence_R-91806",
@@ -18960,6 +18964,7 @@
   "/job/Brazil---Sao-Paulo/Technical-Architect---Sr-Technical-Architect---Mulesoft_JR362321",
   "/job/California---Irvine/Associate-Evaluations-Manager_JR359889",
   "/job/California---Irvine/Engagement-Delivery-Leader---Public-Sector_JR355677",
+  "/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1",
   "/job/California---Remote/Renewals-Manager_JR352024",
   "/job/California---Remote/Senior-Customer-Marketing-Manager_JR361332",
   "/job/California---Remote/Specialist-Solution-Engineer_JR350915",
@@ -20202,6 +20207,7 @@
   "768bc008-b6a6-4b1d-a8ac-3d44d052d6ba",
   "76e65492-9ff5-4ca1-950a-3565f075f6cb",
   "775f7c0e-f4ca-4334-a3c5-100811daf192",
+  "778634b7-b2db-418e-a7b1-922f8a775ff6",
   "791b244b-3d22-4394-b437-2972a89d8820",
   "79e0f681-fed6-42cc-9754-9e150e056c5a",
   "79fccbd7-b0c6-4854-b288-7ecf5b1d58c3",
@@ -23186,6 +23192,7 @@
   "8862213002",
   "8862389002",
   "8863775002",
+  "8863844002",
   "8864165002",
   "8864282002",
   "8864340002",
@@ -26958,6 +26965,7 @@
    "/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2": "2026-10-02"
   },
   "Salesforce": {
+   "/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1": "2026-10-08",
    "/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1": "2026-10-02",
    "/job/California---San-Francisco/Summer-2027-Intern---Product-GTM-Strategy_JR362217-1": "2026-10-02",
    "/job/California---San-Francisco/Summer-2027-Internship---Content-Design_JR363232-1": "2026-10-07",
@@ -27698,6 +27706,7 @@
    "/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2": false
   },
   "Salesforce": {
+   "/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1": false,
    "/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1": false,
    "/job/California---San-Francisco/Summer-2027-Intern---Product-GTM-Strategy_JR362217-1": false,
    "/job/California---San-Francisco/Summer-2027-Internship---Content-Design_JR363232-1": false,
