@@ -3516,7 +3516,9 @@
   "5260621007",
   "5260675007",
   "5260703007",
-  "5260717007"
+  "5260717007",
+  "5261023007",
+  "5261025007"
  ],
  "Anthropic": [
   "4017331008",
@@ -5981,6 +5983,7 @@
   "/job/GA---Columbus/Medical-Scribe_R1018033",
   "/job/GA---Decatur/Medical-Scribe_R1025086",
   "/job/GA---East-Point/Medical-Scribe_R1061805",
+  "/job/GA---Marietta/Nurse-Practitioner_R0972980",
   "/job/GA---Norcross/Grad-Pharmacist_R1065641",
   "/job/GA---Riverdale/Float-Medical-Scribe_R1004000",
   "/job/GA---Work-from-home/Case-Manager--Registered-Nurse---Southeast-Region_R1059805",
@@ -12703,6 +12706,7 @@
   "/job/SGP---Singapore---Singapore-Biomedical-Grove/Assoc-Scientist-Post-Doc-Fellow_R421017",
   "/job/SGP---Singapore---Singapore-Boulevard-Towers/Assoc-Spclst---Cybersecurity-Engineering_R399283-1",
   "/job/SGP---Singapore---Singapore-Boulevard-Towers/Executive-Director--International-Legal---Compliance_R418748",
+  "/job/THA---Bangkok---Bangkok-Tha-Central-World/Franchise-Lead---Pharma_R421457-1",
   "/job/TWN---Taipei---Taipei-City/Associate-Product-Manager---Vaccine_R415763",
   "/job/USA---California---California/Associate-Director--Urology---Oncology-Key-Accounts--West-_R413629-1",
   "/job/USA---California---San-Diego-Science-Park-Road/Executive-Director--Immunology-Discovery_R417353-2",
@@ -12858,6 +12862,7 @@
   "/job/USA---Pennsylvania---West-Point/Sr-Principal-Scientist--Nonclinical-Drug-Safety_R404834-2",
   "/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Discovery-Neuroscience---Co-op_R418834",
   "/job/USA---REMOTE---REMOTE/Regional-Medical-Scientific-Director--Cardiopulmonary---Pulmonary-Hypertension----Central-Plains-Territory_R420223-2",
+  "/job/USA---REMOTE---REMOTE/Regional-Medical-Scientific-Director--Cardiopulmonary---Pulmonary-Hypertension----Southwest-Territory_R420222-1",
   "/job/USA---REMOTE---REMOTE/Time-Zone-Support-Milking-Product-Senior-Specialist-Expert_R391300-1",
   "/job/USA---Tennessee---Nashville/Associate-Director--Oncology-Key-Accounts---Mid-South_R420677-1",
   "/job/USA---Texas---Texas/Senior-Territory-Sales-Representative---Dairy-Monitoring--Texas-Panhandle-and-New-Mexico-_R416494-1",
@@ -17101,6 +17106,7 @@
   "/job/Saint-Peter-Port/Onboarding-Adviser-Senior-Associate-1_754857WD-1",
   "/job/San-Jos/Asistente-de-Auditora_740203WD-2",
   "/job/Santo-Domingo/Data---Software-Support-Analyst_766703WD",
+  "/job/Singapore/AI-Hub-Director_766808WD",
   "/job/Singapore/Assurance-Transformation---Senior-Associate---Assistant-Manager_765976WD",
   "/job/Singapore/Capital-Markets-and-Accounting-Advisory-Services---Manager-Senior-Manager_637036WD",
   "/job/Singapore/Digital-Tax--Business-Analyst----Associate---Senior-Associate_731074WD",
