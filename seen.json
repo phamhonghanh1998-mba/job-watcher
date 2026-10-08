@@ -3514,6 +3514,7 @@
   "5260584007",
   "5260621007",
   "5260675007",
+  "5260703007",
   "5260717007"
  ],
  "Anthropic": [
@@ -6488,6 +6489,7 @@
   "/job/Chicago-IL/Full-Stack-Engineer-4_R1002519-1",
   "/job/Chicago-IL/Full-Stack-Engineer-4_R1002591-1",
   "/job/Chicago-IL/Full-stack-Engineer-4--AWS--Java--Python--Database--Go-_R1003167",
+  "/job/Chicago-IL/Full-stack-Engineer-4--Java--AWS--CI-CD-_R1002989-1",
   "/job/Chicago-IL/Full-stack-Engineer-4_R1001741-2",
   "/job/Chicago-IL/Full-stack-Engineer-4_R1002155-1",
   "/job/Chicago-IL/Full-stack-Engineer-5--Go--TypeScript-and-Angular-_R1001271-1",
@@ -17713,6 +17715,7 @@
   "/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Assoc-Dir---Systems-Engineer---Environmental-Compliance--Onsite---Cedar-Rapids--IA-_01879008",
   "/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Summer--Fall-2027-_01873293",
   "/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01871884",
+  "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-Co-op--Spring-Summer-_01871518-1",
   "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Electrical--RCP-HW-Engineer-1--Onsite-_01869283",
   "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726",
   "/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738",
@@ -18975,6 +18978,7 @@
   "/job/California---San-Francisco/Business-Planning---Operations-Lead--Agentforce-Operations_JR358867-1",
   "/job/California---San-Francisco/Chief-Revenue-Officer--Process-Transformation_JR362322-1",
   "/job/California---San-Francisco/Chief-of-Staff--Consumer---Business-Services_JR363016",
+  "/job/California---San-Francisco/Corporate-Development-M-A-Senior-Analyst_JR363033-1",
   "/job/California---San-Francisco/Customer-Success-Manager--Director---Core--Sales---Service--Clouds---TMT_JR353112",
   "/job/California---San-Francisco/Customer-Success-Manager--Director---Retail_JR360283-1",
   "/job/California---San-Francisco/Data-Applied-Scientist--College-Grad-_JR361988",
@@ -23266,7 +23270,8 @@
   "8876618002",
   "8876676002",
   "8877229002",
-  "8877232002"
+  "8877232002",
+  "8877391002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -26678,6 +26683,7 @@
   },
   "Instacart": {},
   "Intel": {
+   "/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945": "2026-10-08",
    "/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544": "2026-10-02",
    "/job/US-California-Santa-Clara/Sales-and-Marketing---Intern--Graduate_JR0286839": "2026-10-02",
    "/job/US-California-Santa-Clara/Technical-Sales---Intern--Graduate_JR0286831": "2026-10-02",
@@ -27474,6 +27480,7 @@
    "/job/Pensacola---125-W-Romana/IT-Contact-Support-Intern--Pensacola--Florida---Onsite-Opportunity_JR-0016746": false
   },
   "Intel": {
+   "/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945": false,
    "/job/US-California-Santa-Clara/AI-Software-Technical-Intern_JR0287544": false,
    "/job/US-Oregon-Hillsboro/Parametric-Test-Module-Intern_JR0286719": false
   },
