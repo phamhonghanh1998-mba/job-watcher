@@ -4281,6 +4281,7 @@
   "2548bb56-b66c-4dc0-9385-27ea0c964d34",
   "273fe3be-f482-4235-9459-3e1c36ae6c0a",
   "2872ab93-db4c-4a8a-a1f2-e76550743b6c",
+  "289cead6-d731-4ca4-95e2-e83cee83c20c",
   "290def1d-ade4-4f96-b106-494b51c7e046",
   "295f0fc6-9bdf-4d20-87ff-d3a23983a226",
   "298784ff-fd23-45c0-b923-2fa8f33469aa",
@@ -4461,6 +4462,7 @@
   "aa307211-0de1-49d1-a478-81ca652d2699",
   "ab036590-eae9-45ea-9edc-8d7528cdde9d",
   "ab5710d5-6511-4282-971d-74e7b99c1e95",
+  "ac63bfed-de2e-47e5-8f20-fb7e7854795c",
   "ad48ec73-2f2e-4e11-8322-5f68624d18ab",
   "ae5031f6-c041-47e4-961c-7ff138bb3108",
   "ae6e9474-e4e2-4297-b91e-ae406c7deb2d",
@@ -11122,7 +11124,8 @@
   "/job/Welwyn/Talent-Acquisition-Partner---UK---Ireland_202610-125267-1",
   "/job/West-Palm-Beach/Field-Engineering-Specialist---West-Palm-Beach--FL_202607-117325",
   "/job/Wilmington/Sr-Bioinformatics-Engineer_202609-123576-2",
-  "/job/Xian/XMLNAME--Senior--Medical-Science-Manager--GI-_202609-122493"
+  "/job/Xian/XMLNAME--Senior--Medical-Science-Manager--GI-_202609-122493",
+  "/job/Xian/_202609-124787"
  ],
  "General Mills": [
   "7182645002"
@@ -13119,6 +13122,7 @@
   "/job/Hiroshima---Fab-15-Japan/Process-Integration-Engineer--BEOL-_JR107780",
   "/job/Hiroshima---Fab-15-Japan/Sr-Manager--Area-Manufacturing-Engineering_JR111511-1",
   "/job/Hiroshima---Fab-15-Japan/Technology-Development-Senior-Staff-Principal-Process-Development-Engineer_JR110144",
+  "/job/Hiroshima---Fab-15-Japan/Yield-PMO-Engineer---SPMO--Strategic-Program-Management-Office-_JR91177",
   "/job/Hiroshima---Fab-15-Japan/_JR113414-1",
   "/job/Hyderabad---Phoenix-Aquila-India/AI-Workforce-Development-Specialist_JR108610-1",
   "/job/Hyderabad---Phoenix-Aquila-India/Apply-Now--India-Campus-Team_JR114507",
@@ -13917,6 +13921,7 @@
   "/job/Frankfurt-Germany/Fixed-Income-Division-MSEHSE-COO--Vice-President_JR041412",
   "/job/Glasgow-United-Kingdom/Control-Group-Manager---Compliance--Associate---Director--AVP-equivalent-_PT-JR044495",
   "/job/Glasgow-United-Kingdom/Control-Group-Manager---Compliance--Vice-President_PT-JR044494",
+  "/job/Glasgow-United-Kingdom/EMEA-Payroll-Administrator_PT-JR044871-1",
   "/job/Glasgow-United-Kingdom/Finance-Data-Sourcing-AVP-Director_PT-JR037590",
   "/job/Glasgow-United-Kingdom/Financial-Reporting--Associate--Fund-Services--Glasgow-_JR045057-1",
   "/job/Glasgow-United-Kingdom/Fund-Accountant---Associate--Fund-Services--Glasgow-_JR043425-1",
@@ -16923,6 +16928,7 @@
   "/job/Gurugram-Novus-Tower/IN-Associate-SOC-Cyber-as-a-Service-Advisory-Gurgaon_745674WD-1",
   "/job/Gurugram-Novus-Tower/IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Gurgaon_760147WD-2",
   "/job/Gurugram-Novus-Tower/IN-Specialist-2-Direct-Tax-HR-Shared-Services-IFS-Gurgaon_DB_004501-1",
+  "/job/Ho-Chi-Minh-City/Manager---IT-Risk-Assurance_745570WD",
   "/job/Hyderabad---Salarpuria/IN-Manager--GCP-Data-Engineer---Data--Analytics--Advisory--Bangalore_717815WD-1",
   "/job/Hyderabad---Salarpuria/IN-Manager-SAP-CO--SAP-Advisory--Bangalore_744803WD-1",
   "/job/Hyderabad---Salarpuria/IN-Manager-SAP-PPQM-SAP-Advisory-Hyderabad_749482WD-1",
@@ -24885,6 +24891,7 @@
   "8258664",
   "8259169",
   "8259223",
+  "8259361",
   "8259888",
   "8261386",
   "8261492",
@@ -25238,6 +25245,7 @@
   "/job/SG---Singapore/Senior-Data-Engineer_REF088710W",
   "/job/SG---Singapore/Sr-Associate-Counsel---Products-and-Solutions_REF088898W-1",
   "/job/SG---Singapore/Sr-Cybersecurity-Analyst_REF088804W",
+  "/job/SG---Singapore/Sr-Data-Engineer_REF088913W",
   "/job/SG---Singapore/Sr-SW-Test-Engineer_REF088800W",
   "/job/TH---Bangkok-Thailand/Manager--Client-Consulting---Technology_REF088953W",
   "/job/TH---Bangkok-Thailand/Marketing-Manager--Client-Marketing---Partnerships_REF088920W-1",
@@ -26266,6 +26274,7 @@
   "5257222007",
   "5257224007",
   "5257756007",
+  "5258577007",
   "5260497007"
  ],
  "_first_seen": {
