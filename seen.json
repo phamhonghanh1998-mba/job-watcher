@@ -3528,6 +3528,7 @@
   "5260717007",
   "5261023007",
   "5261025007",
+  "5261106007",
   "5261149007",
   "5261151007",
   "5261162007",
@@ -4689,6 +4690,7 @@
   "8221174",
   "8227150",
   "8227362",
+  "8227390",
   "8227428",
   "8232028",
   "8234428",
@@ -5286,7 +5288,8 @@
   "/job/IRL---Dublin-Ireland/Engineering-Intern---January-2027_JR2026524284",
   "/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829",
   "/job/USA---Hialeah-FL/Senior-Program-Management-Manager_JR2026525114",
-  "/job/USA---Hialeah-FL/Senior-Program-Management-Manager_JR2026526011-1"
+  "/job/USA---Hialeah-FL/Senior-Program-Management-Manager_JR2026526011-1",
+  "/job/USA---North-Charleston-SC/Business-Operations-Specialist_JR2026518690-1"
  ],
  "Booz Allen Hamilton": [
   "/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249565",
@@ -5886,6 +5889,7 @@
   "/job/Audit-Analyst---IT-SOX_R0991945",
   "/job/CA---Berkeley/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R0973168",
   "/job/CA---Carlsbad/Pharmacy-Intern_R0998206-1",
+  "/job/CA---Encinitas/Pharmacy-Intern_R0987951",
   "/job/CA---Fontana/Pharmacy-Intern_R0982161",
   "/job/CA---Garden-Grove/Pharmacy-Intern_R1029753",
   "/job/CA---Hacienda-Heights/Pharmacy-Intern_R0982066",
@@ -6158,6 +6162,7 @@
   "/job/MO---Kansas-City/Primary-Care-Physician_R1067954",
   "/job/MO---Saint-Charles/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1065820",
   "/job/MO---Saint-Peters/Pharmacy-Intern_R1065640",
+  "/job/MO---Work-from-home/National-Account-Proposal-Associate_R1056487",
   "/job/MO---Work-from-home/Virtual-Clinician-Home-Evaluations-Nurse-Practitioner-Full-Time---Missouri_R0931769-1",
   "/job/MS---Diamondhead/Pharmacy-Intern_R1066138",
   "/job/MS---Flowood/Pharmacy-Intern_R1065834",
@@ -6218,6 +6223,7 @@
   "/job/NY---Staten-Island/Pharmacy-Intern_R1065655",
   "/job/NY---Work-from-hom/Lead-Director--Software-Development-Engineering_R1055785-1",
   "/job/NY---Work-from-hom/Lead-Director-Digital-Product--Specialty-Care-and-Partnerships---Medical-Cost-Initiatives_R1063580",
+  "/job/NY---Work-from-hom/Minute-Clinic-Virtual-Care-Nurse-Practitioner--contract-_R1047581",
   "/job/NY---Work-from-hom/Representative-II--Operations_R1061601",
   "/job/NY---Work-from-hom/Senior-Data-Scientist---Clinical-Informatics--Analytics-Enablement-_R1058602-1",
   "/job/NY---Work-from-hom/UM-Nurse-Consultant_R1054592",
@@ -6240,6 +6246,7 @@
   "/job/OH---Work-from-hom/Care-Plan-Reviewer---Clinical-Case-Manager-Behavioral-Health_R1037830",
   "/job/OH---Work-from-hom/Clinical-Case-Manager-Behavioral-Health_R1051395",
   "/job/OH---Work-from-hom/Customer-Service-Representative--Omnicare--Monday-Friday-10am-6-30pm-EST-_R1049045-1",
+  "/job/OH---Work-from-hom/Customer-Service-Representative--Omnicare--Monday-Friday-between-8-30am-6-30pm-EST-_R1060061-1",
   "/job/OH---Work-from-hom/Provider-Data-Services-Specialist---Claim-Pends_R1033978",
   "/job/OH---Work-from-hom/Senior-Clinical-Strategist--C-----Aetna-OhioRISE---BH-or-Psych_R1052285",
   "/job/OH---Work-from-hom/Senior-Manager--Digital-Content-Designer_R1049515",
@@ -6270,6 +6277,7 @@
   "/job/PA---Pittsburgh/Pharmacy-Intern_R1065639",
   "/job/PA---State-College/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1066783",
   "/job/PA---Work-from-home/Analyst-Corp-Compliance_R1025350",
+  "/job/PA---Work-from-home/Case-Management-Coordinator---Transition-of-Care-Team_R0971217",
   "/job/PA---Work-from-home/Case-Manager-RN_R1054485",
   "/job/PA---Work-from-home/FP-A-Analyst_R1055036",
   "/job/PA---Work-from-home/Health-Advocate--Call-Coordinator--Healthy-Outcomes-Team---Remote_R1044824-1",
@@ -6807,6 +6815,7 @@
   "/job/New-York-NY/Full-stack-Engineer-4--Agentic-Orchestration_R1002667",
   "/job/New-York-NY/Full-stack-Engineer-4--Cyber-Endpoint-Security_R1001539-2",
   "/job/New-York-NY/Full-stack-Engineer-4--Manager--IC-_R1001186-2",
+  "/job/New-York-NY/Full-stack-Engineer-4--Manager--IC-_R1001203-1",
   "/job/New-York-NY/Full-stack-Engineer-4--Manager--IC-_R1001219",
   "/job/New-York-NY/Full-stack-Engineer-4--Manager--IC-_R1001908-1",
   "/job/New-York-NY/Full-stack-Engineer-4--Manager-IC-_R1002629-1",
@@ -6931,6 +6940,7 @@
   "/job/Riverwoods-IL/Full-Stack-Engineer-4--SQL-Server-DBA-_R1002993-1",
   "/job/Riverwoods-IL/Full-Stack-Engineer-5--Java--AWS--Kafka-_R1001846-1",
   "/job/Riverwoods-IL/Full-stack-Engineer-4_R1002548-1",
+  "/job/Riverwoods-IL/Full-stack-Engineer-4_R1003341-1",
   "/job/Riverwoods-IL/Integration-Engineer-4_R1003111-1",
   "/job/Riverwoods-IL/Manager-Data-Science---Global-Payment-Network-AI-Foundations_R1002899-1",
   "/job/Riverwoods-IL/R1000631-Senior-Manager--Data-Science---AI-Foundations--Open-_R1000648-1",
@@ -7073,6 +7083,7 @@
   "8859182002",
   "8864214002",
   "8866651002",
+  "8868950002",
   "8869139002",
   "8869629002",
   "8875663002",
@@ -10916,6 +10927,7 @@
   "/job/Remote/Indirect-Contracting-Team-Leader--f-m-d--Pharmaceutical-Diagnostics_R4043848",
   "/job/Remote/Instructional-Design-Intern_R4047208-1",
   "/job/Remote/MR-Product-Manager--Canada_R4046310-1",
+  "/job/Remote/Market-Vice-President---New-York_R4047468-1",
   "/job/Remote/Medical-Monitor_R4047391-1",
   "/job/Remote/Medical-Technology-Advanced-Services--Sales-Director_R4044701-2",
   "/job/Remote/National-Clinical-Applications-Specialist--Cardiac---Vascular-Ultrasound_R4046480",
@@ -10966,6 +10978,7 @@
   "/job/Warsaw/Service-Center-Apprentice_R4047038",
   "/job/Waukesha/Clinical-Development-Leader---AI_R4047198-1",
   "/job/Waukesha/Commercial-Sales-Leadership-Program-Internship_R4043921-1",
+  "/job/Waukesha/Digital-Innovation---Strategy-Partnership-Manager_R4047197-1",
   "/job/Waukesha/Environmental-Health---Safety--EHS--Leader_R4047207-1",
   "/job/Waukesha/Executive-Administrator_R4046652-2",
   "/job/Waukesha/Lead-Supplier-Quality---Development-Engineer_R4044336-2",
@@ -12547,6 +12560,7 @@
   "/job/Pune-India/Wintel-Senior-Engineer_R-288834",
   "/job/Purchase-New-York/Director--Communications_R-292385",
   "/job/Purchase-New-York/Director--Controller_R-287008-1",
+  "/job/Purchase-New-York/Director--Enterprise-Strategy_R-288239",
   "/job/Purchase-New-York/Director--Executive-Development_R-292393",
   "/job/Purchase-New-York/Director--Finance-Business-Partner_R-291974-1",
   "/job/Purchase-New-York/Director--Global-Network-Economics---Value-Optimization_R-292438",
@@ -12596,6 +12610,7 @@
   "/job/Singapore/Director--Solutions-Growth---Enablement_R-292703-1",
   "/job/Singapore/Lead-Network-Engineer--Site-Reliability-Engineering_R-272566-1",
   "/job/Singapore/Lead-Platform-Engineer_R-287861",
+  "/job/Singapore/Manager--Business-Development---Strategy---Performance_R-291757",
   "/job/Singapore/Manager--Partner-Success---Security-Solutions_R-291512",
   "/job/Singapore/Manager--Product-Management--ALM_R-291758",
   "/job/Singapore/Manager--Services-Business-Development--Acquiring---Processing-_R-291925-1",
@@ -13359,6 +13374,7 @@
   "/job/Longmont-MAX--Office-CO/Intern---Enterprise-SSD-Customer-Support-Engineering_JR111592",
   "/job/Longmont-MAX--Office-CO/Principal-Engineer--SSD-Validation_JR113974",
   "/job/Longmont-MAX--Office-CO/Principal-Hardware-Engineer--SSD_JR106016",
+  "/job/Longmont-MAX--Office-CO/Senior-Engineer--FW---Product-Test-Eng_JR114317",
   "/job/Longmont-MAX--Office-CO/Staff-Validation-Engineer_JR114330",
   "/job/MIL---Israel-Hadera---Home/AI-Engineering-Manager--Infrastructure-and-Security-team----remote-Tel-Aviv-office_JR110492",
   "/job/MSB-Singapore/Director--ATTP-Inventory----Central-NPM_JR111530",
@@ -14319,6 +14335,7 @@
   "/job/Beaverton-Oregon/NIKE--Inc-Product-Supply-Chain--PSC--Footwear---Apparel-Graduate-Internship_R-91695-1",
   "/job/Beaverton-Oregon/NIKE--Inc-Strategic-Planning-Graduate-Internship_R-91142",
   "/job/Beaverton-Oregon/NIKE--Inc-Supply-Chain-Planning-Graduate-Internship_R-92368-1",
+  "/job/Beaverton-Oregon/Principal--Running-Footwear-Product-Developer_R-95106",
   "/job/Beaverton-Oregon/Principal--Strategy--Energy_R-94649",
   "/job/Beaverton-Oregon/Principal-Engineer--Security---Compliance_R-94730",
   "/job/Beaverton-Oregon/Senior-Accountant--Close-and-Consolidations_R-91265",
@@ -14980,6 +14997,7 @@
   "8258400",
   "8258402",
   "8258406",
+  "8258420",
   "8258803",
   "8258817",
   "8259188",
@@ -16838,6 +16856,7 @@
   "8242487",
   "8244922",
   "8245152",
+  "8247246",
   "8247248",
   "8247774",
   "8248297",
@@ -17499,6 +17518,7 @@
   "/job/OH-Cleveland/Cleveland---Tax---Associate---Summer-Fall-2027_5292638EIB",
   "/job/OR-Portland/Portland---Audit---Intern---Summer-2028_757449WD",
   "/job/OR-Portland/Portland---Audit---Intern---Winter-2028_758899WD",
+  "/job/PA-Pittsburgh/Pittsburgh---Tax-CPA---Intern---Summer-2027_756465WD",
   "/job/TX-Dallas/Dallas---Audit---Associate---Winter-2027_52926142EIB-1",
   "/job/TX-Houston/Houston---Audit---Associate---Winter-2027_764772WD",
   "/job/UT-Salt-Lake-City/Salt-Lake-City---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_764775WD",
@@ -17589,6 +17609,7 @@
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Gestionnaire-de-comptes--chef-d-quipe---Services-de-pices-de-rechange---Account-Manager--Team-Lead---Spare-Parts-Services_01879005",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Gestionnaire-de-l-Assemblage-au-Dveloppement---Development-Build-Manager_01878923-1",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Gestionnaire-des-Projets-Technique---Technical-Project-Manager_01879355",
+  "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Gestionnaire-principal--stratgies-de-tarification-et-transactions---Senior-Manager--Pricing---Lifecycle-Strategy_01880165",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Ingenieur-mecanique---Ingenierie-des-installations-d-essais---Mechanical-Engineer---Test-Facilities-Engineering_01856005-1",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Mcanicien-d-entretien-industriel_01878221",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Operations-Strategy--Sr-Manager_01877654",
@@ -17599,6 +17620,7 @@
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage----Hiver-2027---Gestion-de-la-chane-d-approvisionnement---Internship---Winter-2027---Supply-Chain-Management_01878942",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Coordination-des-projets-de-recherche-collaboratifs-et-amelioration-du-processus-de-gestion-des-technologies---Internship---Winter-2027---Collaborative-Research-Projects-Coordination---Technology-Management-Process-Improvement_01868255",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-Logiciel-Avanc--Mthodes-Numriques---Internship---Winter-2027---Advanced-Software-Development--Numerical-Methods_01871187",
+  "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Etudiant-en-droit---Internship---Winter-2027---Legal-student_01865040",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie-de-fabrication---Internship---Winter-2027---Manufacturing-Engineer_01864153",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027-Stagiaire-Technicien-en-Instrumentation-Internship---Winter-2027-Instrumentation-Technician_01878634",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Value-Stream-Manager-Vanes_01865663",
@@ -17874,6 +17896,7 @@
   "/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Systems-Engineering-Intern--Summer-2027-_01879193",
   "/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Sr-Analyst--Security--Onsite-_01874291",
   "/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Staffing-Support-Lead_01879255",
+  "/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Test-Engineer-I--Onsite_01866667",
   "/job/US-CO-REMOTE/Senior-Manager--Learning-Systems---Enablement_01879368",
   "/job/US-CO-SCHRIEVER-AFB-CUST--720-Irwin-Ave--SCHRIEVER-AFB-External-Site/Principal-Specialist---RDC-Warfighter-Support-Team_01879742",
   "/job/US-CT-EAST-GRANBY-200--200-Signature-Way--OFFICE/Aircraft-Operations-Aviation-Intern--Summer-2027-_01877881",
@@ -17921,6 +17944,7 @@
   "/job/US-CT-EAST-HARTFORD-RTRC-L--411-Silver-Ln--RTRC-L/Sr-Researcher--Electromagnetics_01877690",
   "/job/US-CT-FARMINGTON-0004--4-Farm-Springs-Rd--4-FARM-SPRINGS/Application-Portfolio-Support-Intern--Summer-2027-_01879981",
   "/job/US-CT-FARMINGTON-0004--4-Farm-Springs-Rd--4-FARM-SPRINGS/Associate-Director--Real-Estate-Finance_01879409-1",
+  "/job/US-CT-FARMINGTON-0004--4-Farm-Springs-Rd--4-FARM-SPRINGS/Audit-Specialist---USG-Compliance_01880189",
   "/job/US-CT-FARMINGTON-0008--8-Farm-Springs-Rd--8-FARM-SPRINGS/Senior-Analyst--Corporate-Holding-Company---Treasury-Accounting_01879370",
   "/job/US-CT-FARMINGTON-0010--10-Farm-Springs-Rd--10-FARM-SPRINGS/Sourcing-Manager---HR-Categories_01878352",
   "/job/US-CT-MIDDLETOWN-110--Aircraft-Rd--BLDG-110/HR-Employee-Partner--Hybrid-_01877183",
@@ -19326,6 +19350,7 @@
   "/job/California---San-Francisco/Engineering-Onboarding-Program-Manager_JR361635",
   "/job/California---San-Francisco/Enterprise-Account-Executive--Apromore-Specialist_JR344578",
   "/job/California---San-Francisco/Forward-Deployed-Consultant---Senior-Consultant_JR360310",
+  "/job/California---San-Francisco/Investigations-Analyst--Global-Safety---Security_JR359841",
   "/job/California---San-Francisco/Keynote-Demo-Developer--Solutions---Research---Architecting-Demos_JR358857",
   "/job/California---San-Francisco/Named-Account-Executive--Non-Profit--Enterprise--West-Mountain-_JR361761",
   "/job/California---San-Francisco/Paralegal--Corporate-Governance---Securities_JR357577",
@@ -19526,6 +19551,7 @@
   "/job/South-Africa---Remote/Named-Account-Executive-Enterprise--Cape-Town-_JR360145",
   "/job/Spain---Madrid/AI-Builder--Emerging-Talent---Hebrew-Market_JR359147",
   "/job/Spain---Madrid/AI-Builder--Emerging-Talent---Italian-Market_JR360573",
+  "/job/Spain---Madrid/AI-Builder--Emerging-Talent---Spanish-Market_JR360475-2",
   "/job/Spain---Madrid/D360-Forward-Deployed-Engineer_JR361110",
   "/job/Spain---Madrid/D360-Forward-Deployed-Engineer_JR361113",
   "/job/Spain---Madrid/Senior-Account-Manager--Professional-Services_JR361394",
@@ -19857,7 +19883,8 @@
   "8250423",
   "8260850",
   "8261992",
-  "8262123"
+  "8262123",
+  "8264748"
  ],
  "Scale AI": [
   "4282118005",
@@ -20251,7 +20278,9 @@
   "744000154455229",
   "744000154455620",
   "744000154458969",
-  "744000154471339"
+  "744000154471339",
+  "744000154471344",
+  "744000154473649"
  ],
  "Smartsheet": [
   "3426405",
@@ -23731,6 +23760,7 @@
   "d2489df3-87cb-48bb-81af-83aab5f03bdc",
   "d7c43743-2240-45b6-bc31-33e50cbaba4a",
   "d87833d0-fb78-4794-b45d-3fe5c8274bc8",
+  "da45648b-3b35-4e4b-81df-31667aa4a76d",
   "ddb5dfa9-c5ef-4199-bd19-c179af568cc8",
   "ddcf0836-4443-4954-be31-7466be1eaff2",
   "e04833c0-9cff-4b5e-b217-91a3bcb57051",
@@ -24715,6 +24745,7 @@
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Director-Enterprise-Risk-Portfolio-Management_R0000475006",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Inventory-Analyst-Intern---Minneapolis--MN--Starting-Summer--2027-_R0000450965",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Lead-Business-Partner-Site-Merchandising-Enablement_R0000476047",
+  "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Lead-Data-Scientist---Network-Planning-and-Design--applied-ML--optimization--simulation-_R0000476520",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Lead-Data-Scientist---Recommendations--applied-ML--Reinforcement-Learning--Contextual-Bandit-Design-_R0000475165",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Lead-Program-Manager---Integrated-Energy-Strategy---Resilience_R0000474960",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Lead-Specialist-Corp-Security_R0000475813",
@@ -24812,6 +24843,7 @@
   "/job/BangaloreIndia/Sr-Specialist-Service-Center-4_R0000476369",
   "/job/BangaloreIndia/Sr-Specialist-Service-Center-5_R0000476365",
   "/job/BangaloreIndia/Sr-manager-accounting_R0000475491",
+  "/job/Nationwide/Sr-Cybersecurity-Analyst---Cyber-Threat-Intelligence--CTI-_R0000475558",
   "/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Engineering-Manager_R0000452216-1"
  ],
  "Toast": [
@@ -25505,6 +25537,7 @@
   "/job/GB---London-United-Kingdom/Regulatory-Risk-Manager_REF088916W",
   "/job/GB---London-United-Kingdom/Sourcing-and-Property-Counsel_REF089067W",
   "/job/GB---London-United-Kingdom/Sr-Systems-Engineer_REF088918W-1",
+  "/job/GT---Guatemala-City-Guatemala/Marketing-Intern_REF086155W-1",
   "/job/IN---Bengaluru-India/Accountant--Exp-in-T-E-card-program-_REF089033W",
   "/job/IN---Bengaluru-India/Data---Insights-Consultant_REF089061W",
   "/job/IN---Bengaluru-India/Director--Consulting-Delivery--VCA-X_REF088845W-1",
@@ -26818,6 +26851,7 @@
    "/job/AZ---Phoenix/Pharmacy-Intern_R1063787": "2026-10-02",
    "/job/AZ---Yuma/Pharmacy-Intern---Grad_R1064167": "2026-10-02",
    "/job/AZ---Yuma/Pharmacy-Intern---Grad_R1064177": "2026-10-02",
+   "/job/CA---Encinitas/Pharmacy-Intern_R0987951": "2026-10-08",
    "/job/CA---Fontana/Pharmacy-Intern_R0982161": "2026-10-02",
    "/job/CA---Hacienda-Heights/Pharmacy-Intern_R0982066": "2026-10-02",
    "/job/CA---Irvine/Pharmacy-Intern_R1063388": "2026-10-02",
@@ -27298,13 +27332,15 @@
    "/job/MI-Detroit/Detroit---Audit---Intern---Winter-2027_757001WD": "2026-10-05",
    "/job/NC-Charlotte/Charlotte---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_756932WD": "2026-10-07",
    "/job/OR-Portland/Portland---Audit---Intern---Summer-2028_757449WD": "2026-10-02",
-   "/job/OR-Portland/Portland---Audit---Intern---Winter-2028_758899WD": "2026-10-02"
+   "/job/OR-Portland/Portland---Audit---Intern---Winter-2028_758899WD": "2026-10-02",
+   "/job/PA-Pittsburgh/Pittsburgh---Tax-CPA---Intern---Summer-2027_756465WD": "2026-10-08"
   },
   "Qualtrics": {
    "8193457": "2026-10-02"
   },
   "RTX": {
    "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Coordination-des-projets-de-recherche-collaboratifs-et-amelioration-du-processus-de-gestion-des-technologies---Internship---Winter-2027---Collaborative-Research-Projects-Coordination---Technology-Management-Process-Improvement_01868255": "2026-10-02",
+   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Etudiant-en-droit---Internship---Winter-2027---Legal-student_01865040": "2026-10-08",
    "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie-de-fabrication---Internship---Winter-2027---Manufacturing-Engineer_01864153": "2026-10-07",
    "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027-Stagiaire-Technicien-en-Instrumentation-Internship---Winter-2027-Instrumentation-Technician_01878634": "2026-10-06",
    "/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage---Hiver-2027---Automatisation--Internship---Winter-2027---Automation_01864888": "2026-10-02",
@@ -27484,6 +27520,7 @@
    "/job/Malvern-PA/MBA-Internship---Investment-Management_182042": "2026-10-02"
   },
   "Visa": {
+   "/job/GT---Guatemala-City-Guatemala/Marketing-Intern_REF086155W-1": "2026-10-08",
    "/job/PA---Panama-City-Panama/Risk-Intern_REF086150W-1": "2026-10-07"
   },
   "Walmart": {},
@@ -27648,6 +27685,7 @@
    "/job/AZ---Phoenix/Pharmacy-Intern_R1063787": false,
    "/job/AZ---Yuma/Pharmacy-Intern---Grad_R1064167": false,
    "/job/AZ---Yuma/Pharmacy-Intern---Grad_R1064177": false,
+   "/job/CA---Encinitas/Pharmacy-Intern_R0987951": false,
    "/job/CA---Fontana/Pharmacy-Intern_R0982161": false,
    "/job/CA---Hacienda-Heights/Pharmacy-Intern_R0982066": false,
    "/job/CA---Irvine/Pharmacy-Intern_R1063388": false,
@@ -28049,13 +28087,15 @@
    "/job/MI-Detroit/Detroit---Audit---Intern---Winter-2027_757001WD": false,
    "/job/NC-Charlotte/Charlotte---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_756932WD": false,
    "/job/OR-Portland/Portland---Audit---Intern---Summer-2028_757449WD": false,
-   "/job/OR-Portland/Portland---Audit---Intern---Winter-2028_758899WD": false
+   "/job/OR-Portland/Portland---Audit---Intern---Winter-2028_758899WD": false,
+   "/job/PA-Pittsburgh/Pittsburgh---Tax-CPA---Intern---Summer-2027_756465WD": false
   },
   "Qualtrics": {
    "8193457": false
   },
   "RTX": {
    "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Coordination-des-projets-de-recherche-collaboratifs-et-amelioration-du-processus-de-gestion-des-technologies---Internship---Winter-2027---Collaborative-Research-Projects-Coordination---Technology-Management-Process-Improvement_01868255": false,
+   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Etudiant-en-droit---Internship---Winter-2027---Legal-student_01865040": false,
    "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie-de-fabrication---Internship---Winter-2027---Manufacturing-Engineer_01864153": false,
    "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027-Stagiaire-Technicien-en-Instrumentation-Internship---Winter-2027-Instrumentation-Technician_01878634": false,
    "/job/CA-QC-MIRABEL-M01--11155-Julien-Audette--M01-BLDG/Stage---Hiver-2027---Automatisation--Internship---Winter-2027---Automation_01864888": false,
@@ -28217,6 +28257,7 @@
    "/job/Malvern-PA/Intern--C2C-Sales_182018": false
   },
   "Visa": {
+   "/job/GT---Guatemala-City-Guatemala/Marketing-Intern_REF086155W-1": false,
    "/job/PA---Panama-City-Panama/Risk-Intern_REF086150W-1": false
   },
   "Waymo": {
