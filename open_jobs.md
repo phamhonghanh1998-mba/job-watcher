@@ -1,6 +1,6 @@
-# Open matching jobs (411)
+# Open matching jobs (410)
 
-Updated 2026-10-09 15:56 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-09 16:15 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -111,7 +111,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (312)
+## Other internships (311)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -123,8 +123,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-09 | Micron | [Intern – Procurement Cost Analyst](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Procurement-Cost-Analyst_JR112690) | Boise, ID - North Office |
 | 2026-10-09 | Micron | [Intern - Category Supply Management](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---Category-Supply-Management_JR110644) | Boise, ID - ID1 |
 | 2026-10-09 | Micron | [Intern - Fab Equipment Maintenance Technician](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/Intern---Fab-Equipment-Maintenance-Technician_JR114722) | Manassas, VA -  Fab 6 |
-| 2026-10-09 | Genentech | [Intern - Safety, Health and Environment (SHE) and Business Continuity Management (BCM)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Petaling-Jaya/Intern---Safety--Health-and-Environment--SHE--and-Business-Continuity-Management--BCM-_202610-125469) | Petaling Jaya |
-| 2026-10-09 | Genentech | [Marketing Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Burgess-Hill/Marketing-Intern_202609-124705) | Burgess Hill |
+| 2026-10-09 | Genentech | [Finance Chapter Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Burgess-Hill/Finance-Chapter-Intern_202609-124543) | Burgess Hill |
 | 2026-10-09 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Saint-Clairsville/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1006067) | OH - Saint Clairsville |
 | 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Toledo/Pharmacy-Intern_R1006040) | OH - Toledo |
 | 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Clinton-Township/Pharmacy-Intern_R1005934) | MI - Clinton Township |
