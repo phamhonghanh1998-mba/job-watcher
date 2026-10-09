@@ -260,6 +260,7 @@
   "7737155003",
   "7740654003",
   "7749580003",
+  "7749582003",
   "7764109003",
   "7773691003",
   "7773693003",
@@ -801,7 +802,9 @@
   "10575231",
   "10575248",
   "10575250",
-  "10575251"
+  "10575251",
+  "10575252",
+  "10575256"
  ],
  "Amgen": [
   "/job/Algeria---Algiers/CW---Senior-Finance-Manager_R-225698",
@@ -4448,6 +4451,7 @@
   "32e39ce9-9c09-4dd9-9ad1-4ee0b0cf7907",
   "32fdfd22-9bb9-4031-b211-87fa7b2157d4",
   "332102e4-db8a-4276-9bb4-de7bc92a8f2a",
+  "33424b2f-dc78-4baf-9ff3-66615379e3b2",
   "33f86ea0-2506-4f7a-93c0-81086bbcf7e4",
   "364578da-efcd-4f29-9f9d-8f647502b6ba",
   "366ad3c0-3988-4a94-a825-8fe6238a2a9a",
@@ -5636,7 +5640,8 @@
   "8257470",
   "8261467",
   "8262078",
-  "8262931"
+  "8262931",
+  "8263583"
  ],
  "Brex": [
   "7732107002",
@@ -13362,6 +13367,7 @@
   "/job/CHN---Beijing---Beijing-Wangjing-Park/XMLNAME--Asso--Manager--Clinical-Research-Manager_R420295-1",
   "/job/CHN---Shanghai---Shanghai-Tower-A/Associate-Marketing-Director_R410457",
   "/job/COL---Cundinamarca---Bogot-Colpatria/Aprendiz-SENA-Comercial-Vacunas-Privadas_R420945",
+  "/job/COL---Cundinamarca---Bogot-Colpatria/Aprendiz-SENA-Mercadeo_R421435",
   "/job/COL---Cundinamarca---Bogot-Colpatria/Aprendiz-SENA-Operational-Excellence---Quality-Management_R420474",
   "/job/COL---Cundinamarca---Bogot-Colpatria/Associate-Director--CDM-Trial-Lead--GDMS-Clinical-Data-Management_R421133",
   "/job/COL---Cundinamarca---Bogot-Colpatria/Medical-Science-Liaison-RSV--Termino-Fijo-_R420042",
@@ -13598,6 +13604,7 @@
   "/job/USA---Kansas---De-Soto/Manager--Maintenance_R419427-1",
   "/job/USA---Kansas---Lenexa/Associate-Director--Omnichannel-Strategy_R407885",
   "/job/USA---Kansas---Lenexa/Senior-Territory-Cattle-Sales-Representative---Eastern-ND--Northwest-MN---Northeast-SD_R417018-1",
+  "/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/Principal-Scientist--Director---Translational-Medicine---Cardiovascular_R416039",
   "/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/Senior-Director--Oncology-Small-Molecule_R410076-1",
   "/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/Senior-Principal-Scientist--Quantitative-Biosciences_R415648-1",
   "/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/Sr-Scientist--Clinical-Research_R421352",
@@ -13644,6 +13651,7 @@
   "/job/USA---New-Jersey---Rahway/Clinical-Research-Associate--CRA----Neurology--Remote-_R421117-1",
   "/job/USA---New-Jersey---Rahway/Clinical-Trial-Contracts---Budget-Lead--Remote_R421622-1",
   "/job/USA---New-Jersey---Rahway/Dir-Technical-Project-Management_R410014-1",
+  "/job/USA---New-Jersey---Rahway/Director--Clinical-Research--Obesity_R414479",
   "/job/USA---New-Jersey---Rahway/Director--Companion-Animal-Global-Marketing---Canine-Dog-Vaccines_R403222",
   "/job/USA---New-Jersey---Rahway/Director--Cybersecurity-Engineering_R419880",
   "/job/USA---New-Jersey---Rahway/Director--Global-Marketing-Alliance-Portfolio-Lead_R417523",
@@ -13673,6 +13681,8 @@
   "/job/USA---New-Jersey---Rahway/Principal-Scientist--Regulatory-Liaison---Oncology_R418421-1",
   "/job/USA---New-Jersey---Rahway/Regional-Operations-Head--Senior-Director---Hybrid_R420490-1",
   "/job/USA---New-Jersey---Rahway/Senior-Clinical-Director--Clinical-Research--Hematology_R398110",
+  "/job/USA---New-Jersey---Rahway/Senior-Director--Advanced-Pharmacometrics--Quantitative-Pharmacology-and-Pharmacometrics---Immuno-Oncology--Hybrid-or-Remote-_R408271-1",
+  "/job/USA---New-Jersey---Rahway/Senior-Director--Clinical-Development-Metabolism--MASH-_R413383",
   "/job/USA---New-Jersey---Rahway/Senior-Director--Data-Integration-and-Automation---Hybrid_R420064-1",
   "/job/USA---New-Jersey---Rahway/Senior-Principal-Scientist--Senior-Director---Clinical-Research--Breast-Cancer_R420771",
   "/job/USA---New-Jersey---Rahway/Senior-Specialist--Capital-Project-Management---Global-Engineering-Solutions_R420427-1",
@@ -13731,6 +13741,7 @@
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Executive-Director--Account-Management_R420198",
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/National-Account-Director--Oncology-GPOs_R420590-1",
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Principal-Scientist--Biostatistics--Late-Stage-Clinical-Development_R414604-2",
+  "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Principal-Scientist--Drug-Safety_R421787-1",
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Senior-Associate--Administrative-Services--Global-Medical-and-Value-Capabilities--Hybrid-_R420032-1",
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Senior-Director--Business-Platform-Strategy---Operations_R414438-1",
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Senior-Director--Head-of-Global-Data-Management-and-Standards--GDMS--Process---Quality-Management---Hybrid_R419144-1",
@@ -13760,6 +13771,7 @@
   "/job/USA---Pennsylvania---West-Point/Operations-Coordinator_R412836-1",
   "/job/USA---Pennsylvania---West-Point/Packaging-Technical-Lead--Associate-Director-_R420807-1",
   "/job/USA---Pennsylvania---West-Point/Post-Doc-Fellow-Immunogenicity-Prediction_R419989-1",
+  "/job/USA---Pennsylvania---West-Point/Principal-Scientist--Translational-Medicine--Neuroscience_R415501",
   "/job/USA---Pennsylvania---West-Point/Senior-Intelligence-Analyst_R421042-1",
   "/job/USA---Pennsylvania---West-Point/Senior-Scientist--Biology-Discovery--Neuroscience-Biomarkers--Mass-Spectrometry_R419564-1",
   "/job/USA---Pennsylvania---West-Point/Senior-Specialist---Clinical-Supply-Project-Manager---Protocol---Hybrid_R419976",
@@ -18093,6 +18105,7 @@
   "/job/Gurugram-10-C/IN-Manager-SAP-PAPM-Enterprise-APP-SAP-Advisory-Mumbai_734505WD-1",
   "/job/Gurugram-10-C/IN-Manager-SAP-VIM-Enterprise-Apps-SAP-Advisory-Kolkata_758669WD-2",
   "/job/Gurugram-10-C/IN-Senior-Associate-Business-Analyst-Capital-Markets---Financial-Services-Advisory-Mumbai_736945WD-1",
+  "/job/Gurugram-10-C/IN-Senior-Associate-SAP-GRC-Security-Enterprise-Apps-SAP-Advisory-Mumbai_694808WD-1",
   "/job/Gurugram-10-C/IN-Senior-Associate-SAP-PPDS-SAP-Advisory-Gurgaon_749558WD",
   "/job/Gurugram-10-C/IN-Senior-Associate-SAP-PPDS-SAP-Advisory-Gurgaon_749559WD-1",
   "/job/Gurugram-10-C/IN-Senior-Associate-SAP-SD-SAP-Advisory-Gurgaon_741745WD-1",
@@ -20106,6 +20119,7 @@
   "8214553",
   "8220699",
   "8220730",
+  "8220757",
   "8223546",
   "8224564",
   "8224751",
@@ -25012,7 +25026,8 @@
   "8881382002",
   "8881616002",
   "8882425002",
-  "8882432002"
+  "8882432002",
+  "8882501002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -26930,6 +26945,7 @@
   "/job/BR---So-Paulo-Brazil/Senior-Manager--Visa-Consulting-and-Analytics--VCA--Senior-Learning-Consultant--Visa-University_REF088793W",
   "/job/BR---So-Paulo-Brazil/Senior-Manager-3_REF087937W-1",
   "/job/BR---So-Paulo-Brazil/Specialist-Client-Services-Manager_REF088708W",
+  "/job/BR---So-Paulo-Brazil/Sr-Associate-Counsel_REF089121W",
   "/job/CA---Toronto-Canada/Director--Visa-Direct-Account-Management_REF087571W",
   "/job/CA---Toronto-Canada/Senior-Data-Scientist_REF088874W",
   "/job/CA---Toronto-Canada/Senior-Director--Issuing-Solutions-Sales-Executive-Canada_REF081491W",
@@ -28243,7 +28259,9 @@
    "10573984": "2026-10-08",
    "10575248": "2026-10-09",
    "10575250": "2026-10-09",
-   "10575251": "2026-10-09"
+   "10575251": "2026-10-09",
+   "10575252": "2026-10-09",
+   "10575256": "2026-10-09"
   },
   "Amgen": {
    "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349": "2026-10-02",
@@ -28874,7 +28892,8 @@
    "/job/OR-Portland/Portland---Audit---Intern---Summer-2028_757449WD": "2026-10-02",
    "/job/OR-Portland/Portland---Audit---Intern---Winter-2028_758899WD": "2026-10-02",
    "/job/PA-Philadelphia/Philadelphia---Tax-CPA---Intern---Winter-2027_756463WD": "2026-10-08",
-   "/job/PA-Pittsburgh/Pittsburgh---Tax-CPA---Intern---Summer-2027_756465WD": "2026-10-08"
+   "/job/PA-Pittsburgh/Pittsburgh---Tax-CPA---Intern---Summer-2027_756465WD": "2026-10-08",
+   "/job/UT-Salt-Lake-City/Salt-Lake-City---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_764775WD": "2026-10-09"
   },
   "Qualtrics": {
    "8193457": "2026-10-02"
@@ -29179,7 +29198,9 @@
    "10573984": false,
    "10575248": false,
    "10575250": false,
-   "10575251": false
+   "10575251": false,
+   "10575252": false,
+   "10575256": false
   },
   "Amgen": {
    "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349": true,
@@ -29707,7 +29728,8 @@
    "/job/OR-Portland/Portland---Audit---Intern---Summer-2028_757449WD": false,
    "/job/OR-Portland/Portland---Audit---Intern---Winter-2028_758899WD": false,
    "/job/PA-Philadelphia/Philadelphia---Tax-CPA---Intern---Winter-2027_756463WD": false,
-   "/job/PA-Pittsburgh/Pittsburgh---Tax-CPA---Intern---Summer-2027_756465WD": false
+   "/job/PA-Pittsburgh/Pittsburgh---Tax-CPA---Intern---Summer-2027_756465WD": false,
+   "/job/UT-Salt-Lake-City/Salt-Lake-City---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_764775WD": false
   },
   "Qualtrics": {
    "8193457": false
