@@ -9410,6 +9410,7 @@
   "8785265002",
   "8785266002",
   "8786930002",
+  "8787352002",
   "8788152002",
   "8788172002",
   "8788190002",
@@ -10846,6 +10847,7 @@
   "/job/UK---London/Sr-Manager---Vendor-management_R-109813",
   "/job/UK---London/Sr-Manager--Commercial-Incentives---Revenue-Operations_R-109410",
   "/job/USA---California---San-Francisco/Associate-Account-Manager_R-106691",
+  "/job/USA---California---San-Francisco/Director---Principal-Motion-Designer--Expedia-Design_R-110430-1",
   "/job/USA---California---San-Jose/Machine-Learning-Engineer-III_R-109254-1",
   "/job/USA---California---San-Jose/Machine-Learning-Engineer-II_R-108871-1",
   "/job/USA---California---San-Jose/Principal-Software-Development-Engineer--Loyalty-_R-109548",
@@ -14485,6 +14487,7 @@
   "7157100",
   "7160353",
   "7191603",
+  "7194933",
   "7211805",
   "7217699",
   "7217805",
@@ -28595,7 +28598,8 @@
   "Danaher": {},
   "Databricks": {
    "6883068002": "2026-10-02",
-   "8732364002": "2026-10-02"
+   "8732364002": "2026-10-02",
+   "8787352002": "2026-10-09"
   },
   "Datadog": {
    "8052118": "2026-10-02",
@@ -29498,7 +29502,8 @@
   },
   "Databricks": {
    "6883068002": false,
-   "8732364002": false
+   "8732364002": false,
+   "8787352002": false
   },
   "Datadog": {
    "8052118": false,
