@@ -1,6 +1,6 @@
 # Open matching jobs (407)
 
-Updated 2026-10-09 10:56 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-09 11:13 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -344,8 +344,8 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-09 (30+ days) | Accenture | [Financial Services - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago/Banking-and-Financial-Regulation-Intern_R00279783) |  |
 | 2026-09-09 (30+ days) | Accenture | [Business Analyst - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Stage-in-area-Consulting_R00279776) |  |
 | 2026-09-09 (30+ days) | Accenture | [Tech Intern - Accenture Customer Innovation Network](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Accenture-Customer-Innovation-Network---Innovation-Intern_R00279814) |  |
-| 2026-09-09 (30+ days) | Accenture | [Intellera Public Service Local - Digital Transformation Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano-Via-Gaetano-de-Castillia-23/Intellera---Candidatura-Assessment-Day_R00333132) |  |
 | 2026-09-09 (30+ days) | Accenture | [Adobe Experience Cloud Intern Analyst / MarTech & Digital Experience Internship Program (He/She/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Functional-Analyst---MarTech-Trainee--Adobe-Experience-Cloud----Internship-Program--She-He-They-_R00335218) |  |
+| 2026-09-09 (30+ days) | Accenture | [Intellera Public Service Local - Digital Transformation Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano-Via-Gaetano-de-Castillia-23/Intellera---Candidatura-Assessment-Day_R00333132) |  |
 | 2026-09-09 (30+ days) | Abbott | [2027 IT Intern](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432) | United States - Illinois - Waukegan |
 | 2026-09-09 (30+ days) | Abbott | [CRM Clinical Field Intern - Summer 2027](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Abbott-Park/CRM-Clinical-Field-Intern---Summer-2027_31160750) | United States - Illinois - Abbott Park |
 | 2026-09-08 | Datadog | [Software Engineering Intern (Summer)](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) | Boston, Massachusetts, USA; New York, New York, USA |
