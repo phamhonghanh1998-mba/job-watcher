@@ -495,6 +495,7 @@
   "8017277",
   "8017556",
   "8021476",
+  "8023118",
   "8024057",
   "8024316",
   "8028783",
@@ -4300,6 +4301,7 @@
   "5446657008",
   "5446776008",
   "5447118008",
+  "5447973008",
   "5448167008"
  ],
  "Applied Materials": [
@@ -11072,6 +11074,8 @@
   "/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Safety---Regulatory-Engineer---CT_R4046527-1",
   "/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Senior-Director---SaaS-Analytics---AI_R4046567-1",
   "/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Senior-Staff-Software-Architect_R4045556",
+  "/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Service-Parts-Program-Integrator_R4047219",
+  "/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Service-Parts-Program-Integrator_R4047220-1",
   "/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Technical-Product-Manager---Oracle-Fusion-Costing---Intercompany_R4047561-2",
   "/job/IND22-01-Mumbai-1204-A-The-Capital/Area-Sales-Manager_R4043218-2",
   "/job/IND22-01-Mumbai-1204-A-The-Capital/Area-Sales-Manager_R4047317",
@@ -11231,7 +11235,8 @@
   "/job/West-Milwaukee/Applied-AI---Integrations-Engineer_R4047419-1",
   "/job/West-Milwaukee/Director--Strategic-Procurement---Monitoring-Solutions_R4046948-1",
   "/job/West-Milwaukee/Full-stack-software-engineer_R4047417",
-  "/job/Zipf/Clinical-Documentation-Specialist--f-m-d-_R4047192-1"
+  "/job/Zipf/Clinical-Documentation-Specialist--f-m-d-_R4047192-1",
+  "/job/Zipf/Warehouse-Leader--f-m-d-_R4047475-1"
  ],
  "Genentech": [
   "/job/Alberta/Healthcare-System-Partner---HSP----West_202609-122986",
@@ -14006,6 +14011,7 @@
   "/job/Jeddah-Saudi-Arabia/SC-Customer-Service-Intern_R-176757",
   "/job/Khon-Kaen-Thailand/Engineer-Intern_R-179131",
   "/job/Khon-Kaen-Thailand/Intern_R-176599",
+  "/job/Khon-Kaen-Thailand/Intern_R-178481",
   "/job/Lahore-Pakistan/Territory-Sales-Manager---Mianwali-SD_R-178167-1",
   "/job/Lahore-Pakistan/Territory-Sales-Manager--Multan_R-177703",
   "/job/Malaysia-Remote/Sales-Operations-Manager-Modern-Trade--MY_R-166328",
@@ -15445,7 +15451,8 @@
   "8266092",
   "8266102",
   "8266105",
-  "8266566"
+  "8266566",
+  "8266577"
  ],
  "Oliver Wyman": [
   "/job/Atlanta---Northside/Client-Executive---Single-Parent-Captives_R_356704",
@@ -17639,6 +17646,7 @@
   "/job/Gurugram-10-C/IN-Senior-Associates-SAP-SD-Enterprise-Apps-SAP-Advisory--Pan-India_759114WD-1",
   "/job/Gurugram-10-C/IN-Sr-Associate-Java-Full-Stack-Engineer-D-A-Advisory-Bangalore_755344WD-1",
   "/job/Gurugram-10-C/IN-Sr-Associate-SAP-Opentext-Enterprise-Apps-SAP-Advisory-Kolkata_755636WD-1",
+  "/job/Gurugram-8-B/IN-Associate-Internal-Audit-Managed-Services-Advisory-Bangalore_752546WD-1",
   "/job/Gurugram-8-B/IN-Associate-Internal-Audit-Managed-Services-Advisory-Bangalore_754571WD-1",
   "/job/Gurugram-8-B/IN-INTERN_726047WD-1",
   "/job/Gurugram-8-B/IN-Manager-LMCC-GCC-Advisory-Chennai_741495WD-1",
@@ -17682,6 +17690,7 @@
   "/job/Kingston/Advisory-Intern_766956WD",
   "/job/Kingston/Associate_524402WD",
   "/job/Kingston/Assurance-Intern_726009WD",
+  "/job/Klaipeda/Audit-Assistant-in-Competence-Center-Klaipda_767075WD-1",
   "/job/Klaipeda/Internship-in-Audit-team--Klaipda-_766582WD",
   "/job/Kolkata-DN-57/IN-Associate-Azure---Databricks-Solution-Digital-Integration-Advisory-Kolkata_680969WD-1",
   "/job/Kolkata-DN-57/IN-Senior-Associate-GCP-Data-Engineer-Data-Analytics-Advisory-Bangalore_713120WD-2",
@@ -20199,6 +20208,7 @@
   "/job/Spain---Madrid/D360-Forward-Deployed-Engineer_JR361113",
   "/job/Spain---Madrid/Senior-Account-Manager--Professional-Services_JR361394",
   "/job/Spain---Madrid/Senior-Technical-Consultant_JR361391",
+  "/job/Spain---Madrid/Technical-Architect_JR362761",
   "/job/Sweden---Stockholm/Named-Account-Executive_JR362415",
   "/job/Switzerland---Zurich/Customer-Success-Manager--Switzerland_JR362285",
   "/job/Switzerland---Zurich/Named-Account-Executive_JR363330",
@@ -20230,6 +20240,7 @@
   "/job/United-Kingdom---London/Senior-Corporate-Paralegal--Global-Governance_JR362439",
   "/job/United-Kingdom---London/Senior-Project-Manager_JR362260",
   "/job/United-Kingdom---London/Senior-Solution-Architect_JR362265-1",
+  "/job/United-Kingdom---London/Senior-Technical-Architect_JR362269",
   "/job/United-Kingdom---London/Technical-Architect-8_JR359492",
   "/job/Utah---Remote/Analyst--Product-Growth-Strategy_JR361742-2",
   "/job/Utah---Remote/Sr-Director-Sales-Cloud--Product-Marketing-_JR361260",
@@ -26271,6 +26282,7 @@
   "/job/IN---Bengaluru-India/Software-Engineer--1-year-Exp-_REF087690W",
   "/job/IN---Bengaluru-India/Sr-Client-Consulting-Manager---Migration-Practice_REF087252W-1",
   "/job/IN---Bengaluru-India/Sr-Data-Engineer_REF089135W-1",
+  "/job/IN---Bengaluru-India/Sr-Data-Scientist_REF089012W",
   "/job/IN---Bengaluru-India/Sr-Director_REF088904W-1",
   "/job/IN---Bengaluru-India/Sr-Manager--Finance-Operations--Accounts-Payable-_REF089035W",
   "/job/IN---Bengaluru-India/Sr-SW-Engineer---SDET---Automation--GenAI-tooling--API-Testing_REF080993W",
