@@ -1,6 +1,6 @@
 # Open matching jobs (411)
 
-Updated 2026-10-09 15:36 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-09 15:56 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -118,6 +118,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | Posted | Company | Role | Location |
 |---|---|---|---|
 | 2026-10-09 | Visa | [Global Products & Solutions Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PA---Panama-City-Panama/Global-Products---Solutions-Intern_REF086159W) | PA - Panama City, Panama |
+| 2026-10-09 | PwC (2) | [Pittsburgh - Tax - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Pittsburgh/Pittsburgh---Tax-CPA---Intern---Summer-2027_756465WD) | PA-Pittsburgh |
 | 2026-10-09 | PwC | [Enterprise Risk Management - Intern - Roma (OTS)](https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Rome/Enterprise-Risk-Management---Intern---Roma--OTS-_767062WD-1) | Rome |
 | 2026-10-09 | Micron | [Intern – Procurement Cost Analyst](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Procurement-Cost-Analyst_JR112690) | Boise, ID - North Office |
 | 2026-10-09 | Micron | [Intern - Category Supply Management](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---Category-Supply-Management_JR110644) | Boise, ID - ID1 |
@@ -132,7 +133,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Temple-Terrace/Pharmacy-Intern_R1070829) | FL - Temple Terrace |
 | 2026-10-09 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Heath/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1005988-1) | OH - Heath |
 | 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Martins-Ferry/Pharmacy-Intern_R1005995) | OH - Martins Ferry |
-| 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Mount-Vernon/Pharmacy-Intern_R1005986) | OH - Mount Vernon |
 | 2026-10-08 | PwC (2) | [Philadelphia - Tax - Intern - Winter 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Philadelphia/Philadelphia---Tax-CPA---Intern---Winter-2027_756463WD) | PA-Philadelphia |
 | 2026-10-08 | Pinterest | [Solutions Engineer Intern 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8214788) | San Francisco, CA, US; Remote, US |
 | 2026-10-08 | Philips | [Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Best/Intern_592635) | Best |
