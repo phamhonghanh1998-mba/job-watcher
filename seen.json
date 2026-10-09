@@ -804,7 +804,8 @@
   "10575250",
   "10575251",
   "10575252",
-  "10575256"
+  "10575256",
+  "10575291"
  ],
  "Amgen": [
   "/job/Algeria---Algiers/CW---Senior-Finance-Manager_R-225698",
@@ -8147,6 +8148,7 @@
   "7985187",
   "7991691",
   "7991839",
+  "7993006",
   "7993445",
   "7994498",
   "7994501",
@@ -18390,6 +18392,7 @@
   "/job/Singapore/Tax---Digital-Tax--Data-Scientist--Experienced-Associate_657786WD",
   "/job/Skopje/Interns--Associates-and-Senior-Associates-in-Audit---Assurance_750262WD",
   "/job/So-Paulo/Assistente-de-Auditoria--Curitiba-PR--Associate_764467WD",
+  "/job/So-Paulo/Assistente-de-Auditoria-Externa---Associate-2_764482WD-1",
   "/job/So-Paulo/Assistente-de-Auditoria-Externa---Campinas_764473WD-1",
   "/job/So-Paulo/Assistente-de-Auditoria-Externa---So-Jos-dos-Campos--Associate_764470WD",
   "/job/So-Paulo/Auditor-Externo---Florianpolis-SC---Senior-Associate_764464WD",
@@ -21575,7 +21578,8 @@
   "744000154691799",
   "744000154692929",
   "744000154726727",
-  "744000154756170"
+  "744000154756170",
+  "744000154789179"
  ],
  "Smartsheet": [
   "3426405",
@@ -28278,7 +28282,8 @@
    "10575250": "2026-10-09",
    "10575251": "2026-10-09",
    "10575252": "2026-10-09",
-   "10575256": "2026-10-09"
+   "10575256": "2026-10-09",
+   "10575291": "2026-10-09"
   },
   "Amgen": {
    "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349": "2026-10-02",
@@ -29217,7 +29222,8 @@
    "10575250": false,
    "10575251": false,
    "10575252": false,
-   "10575256": false
+   "10575256": false,
+   "10575291": false
   },
   "Amgen": {
    "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349": true,
