@@ -3555,6 +3555,7 @@
   "5261149007",
   "5261151007",
   "5261162007",
+  "5261196007",
   "5261234007",
   "5261334007",
   "5261398007",
@@ -4290,7 +4291,8 @@
   "5446290008",
   "5446641008",
   "5446657008",
-  "5447118008"
+  "5447118008",
+  "5448167008"
  ],
  "Applied Materials": [
   "00eaa332-f855-4963-886c-909ac78bce6d",
@@ -6656,6 +6658,7 @@
   "/job/Chicago-IL/Director--Product--Card-Acquisitions_R1002737",
   "/job/Chicago-IL/Full-Stack-Engineer-4_R1002519-1",
   "/job/Chicago-IL/Full-Stack-Engineer-4_R1002591-1",
+  "/job/Chicago-IL/Full-Stack-Engineer-4_R1003262-1",
   "/job/Chicago-IL/Full-stack-Engineer-4--AWS--Java--Python--Database--Go-_R1003167",
   "/job/Chicago-IL/Full-stack-Engineer-4--Java--AWS--CI-CD-_R1002989-1",
   "/job/Chicago-IL/Full-stack-Engineer-4_R1001741-2",
@@ -6851,6 +6854,8 @@
   "/job/McLean-VA/Senior-Auditor---Bank-and-Support-Functions_R1002485-1",
   "/job/McLean-VA/Senior-Business-Analyst---Retail-Bank-Shop-and-Apply_R999791-2",
   "/job/McLean-VA/Senior-Business-Analyst--Liquidity--Market--and-Capital-Risk-Oversight_R243495-1",
+  "/job/McLean-VA/Senior-Business-Analyst--Product-Strategy_R249315-1",
+  "/job/McLean-VA/Senior-Business-Analyst--Product-Strategy_R249317",
   "/job/McLean-VA/Senior-Director--Ad-Tech-Engineering--Capital-One-Shopping-Tech--Remote---Eligible-_R1001144-1",
   "/job/McLean-VA/Senior-Director--Cyber-Security-Product-Manager_R1002819-1",
   "/job/McLean-VA/Senior-Director--Data-Science_R1003196-1",
@@ -11435,6 +11440,7 @@
   "/job/Singapore/Head-of-Operations--APAC-Hub_202605-113637",
   "/job/Slovenia/Technical-Service-Support---part-time-role--Early-in-Career-Program-_202609-123506-1",
   "/job/South-Korea/CCE-Specialist_202609-124573",
+  "/job/Taguig-City/Oncology-Portfolio-Manager_202610-125441-1",
   "/job/Taipei/Ophthalmology-Marketing-Advisor_202609-122433",
   "/job/Taipei/Patient-Journey-Partner--HemaPJP-_202610-125134",
   "/job/Tianjin/XMLNAME--Senior--Medical-Science-Manager-LC-GI--Tianjin-_202609-124148-1",
@@ -13527,6 +13533,7 @@
   "/job/Fab-10A-Singapore/Principal-Engineer--ATCQE_JR109520",
   "/job/Fab-10A-Singapore/SENIOR---STAFF-ENGINEER--GLOBAL-FE-MODELING_JR111683-1",
   "/job/Fab-10A-Singapore/SR-STAFF-PR-MTS-FE-OCT-CPEE-SPARES-ENRG_JR114371",
+  "/job/Fab-10A-Singapore/Senior---Staff-Program-Manager--Sustainability-Operations_JR110534-1",
   "/job/Fab-10A-Singapore/Senior-Engineer--Global-Facilities-Central-Engineering--Construction---Chemical---Gas_JR104054",
   "/job/Fab-10A-Singapore/Senior-Principal-Eng--FE-OCT-CPEE-PHOTO-METROLOGY_JR114250-1",
   "/job/Fab-10A-Singapore/Singapore-Campus-Hiring_JR114160",
@@ -13539,6 +13546,7 @@
   "/job/Fab-10A-Singapore/Technician--Process-Integration-and-Yield_JR114252",
   "/job/Fab-10NX-Singapore/DMTS--NAND-PI_JR103312",
   "/job/Fab-10NX-Singapore/Director--Facilities-Construction_JR114291",
+  "/job/Fab-10NX-Singapore/ENGINEER-SENIOR-ENGINEER---NAND-PRODUCT-DEVELOPMENT-ENGINEER_JR113583-1",
   "/job/Fab-10NX-Singapore/Engineer---QEM-CC_JR113852",
   "/job/Fab-10NX-Singapore/Engineer---QEM-Incoming-Quality-Control_JR113644",
   "/job/Fab-10NX-Singapore/Engineer--NAND-NTI-RDA-Shift-Operations_JR112444",
@@ -17196,6 +17204,7 @@
   "8259517"
  ],
  "Plaid": [
+  "027e260d-230b-4f7c-b145-dfade9d49bd6",
   "039c0c35-7244-470c-9b49-5ecfcf150f40",
   "058c0896-18fb-47a5-8b34-2f1a78623312",
   "07cde72b-a127-48a8-b01a-570de5768340",
@@ -24189,7 +24198,10 @@
   "8880515002",
   "8880556002",
   "8880570002",
-  "8880672002"
+  "8880672002",
+  "8880858002",
+  "8880861002",
+  "8880868002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
