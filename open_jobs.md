@@ -1,6 +1,6 @@
-# Open matching jobs (410)
+# Open matching jobs (413)
 
-Updated 2026-10-09 19:18 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-09 19:37 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -111,7 +111,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (311)
+## Other internships (314)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -121,11 +121,14 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-09 | PwC (2) | [Pittsburgh - Tax - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Pittsburgh/Pittsburgh---Tax-CPA---Intern---Summer-2027_756465WD) | PA-Pittsburgh |
 | 2026-10-09 | PwC | [Assurance Intern](https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Kingston/Assurance-Intern_766212WD) | Kingston |
 | 2026-10-09 | PwC | [Enterprise Risk Management - Intern - Roma (OTS)](https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Rome/Enterprise-Risk-Management---Intern---Roma--OTS-_767062WD-1) | Rome |
+| 2026-10-09 | Micron | [Intern - SSD Firmware - CICD](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542) | Longmont-MAX- Office, CO |
 | 2026-10-09 | Micron | [Intern – Procurement Cost Analyst](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---North-Office/Intern---Procurement-Cost-Analyst_JR112690) | Boise, ID - North Office |
 | 2026-10-09 | Micron | [Intern - Category Supply Management](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---ID1/Intern---Category-Supply-Management_JR110644) | Boise, ID - ID1 |
 | 2026-10-09 | Micron | [Intern - Fab Equipment Maintenance Technician](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Manassas-VA----Fab-6/Intern---Fab-Equipment-Maintenance-Technician_JR114722) | Manassas, VA -  Fab 6 |
 | 2026-10-09 | Merck | [2027 Future Talent Program – Modeling & Informatics - Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Modeling---Informatics---Intern_R416278) | 4 Locations |
 | 2026-10-09 | Genentech | [Finance Chapter Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Burgess-Hill/Finance-Chapter-Intern_202609-124543) | Burgess Hill |
+| 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Ozone-Park/Pharmacy-Intern_R1071510) | NY - Ozone Park |
+| 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Forest-Hills/Pharmacy-Intern_R1071496) | NY - Forest Hills |
 | 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Beavercreek/Pharmacy-Intern_R1071326) | OH - Beavercreek |
 | 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Cincinnati/Pharmacy-Intern_R1071321) | OH - Cincinnati |
 | 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Akron/Pharmacy-Intern_R1071319) | OH - Akron |
