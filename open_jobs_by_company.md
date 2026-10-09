@@ -1,10 +1,10 @@
-# Open matching jobs (410)
+# Open matching jobs (404)
 
-Updated 2026-10-09 16:37 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-09 16:57 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (99)
+## MBA-level (96)
 
 Title or job description mentions an MBA.
 
@@ -74,9 +74,6 @@ Title or job description mentions an MBA.
 | 2026-09-09 (30+ days) | Nike | [NIKE, Inc. Product Supply Chain (PSC) Footwear & Apparel Graduate Internship](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Product-Supply-Chain--PSC--Footwear---Apparel-Graduate-Internship_R-91695-1) | Beaverton, Oregon |
 | 2026-09-09 (30+ days) | Nike | [NIKE, Inc. Strategic Planning Graduate Internship](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Strategic-Planning-Graduate-Internship_R-91142) | Beaverton, Oregon |
 | 2026-09-17 | Nike | [NIKE, Inc. Supply Chain Planning Graduate Internship](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Supply-Chain-Planning-Graduate-Internship_R-92368-1) | Beaverton, Oregon |
-| 2026-09-09 (30+ days) | Oliver Wyman | [Oliver Wyman - 2027 MBA Summer Associate - Health & Life Sciences](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Oliver-Wyman---2027-MBA-Summer-Associate---Health---Life-Sciences_R_363378) | 4 Locations |
-| 2026-10-01 | Oliver Wyman | [Workforce and Rewards Summer Associate (MBA or Master's Track) - Chicago - MBA Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Chicago---155-Wacker/Workforce-and-Rewards-Summer-Associate--MBA-or-Master-s-Track----Chicago---MBA-Program-2027_R_367574-1) | Chicago - 155 Wacker |
-| 2026-09-09 (30+ days) | Oliver Wyman | [Workforce and Rewards Summer Associate (MBA or Master's Track) - Los Angeles - MBA Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Los-Angeles---West-5th/Career-Consulting-Summer-Associate--MBA-or-Master-s-Track----Los-Angeles---MBA-Program-2027_R_365103-1) | Los Angeles - West 5th |
 | 2026-09-09 (30+ days) | Pfizer | [MBA Finance Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Finance-Summer-Associate_4960971) | United States - New York - New York City |
 | 2026-09-09 (30+ days) | Pfizer | [MBA Marketing Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Marketing-Summer-Associate_4960967) | United States - New York - New York City |
 | 2026-09-09 (30+ days) | Pfizer | [MBA Strategy & Consulting Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Strategy---Consulting-Summer-Associate_4960972) | United States - New York - New York City |
@@ -111,7 +108,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (311)
+## Other internships (308)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -128,8 +125,8 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-14 | Abbott | [Field Technical Engineer- Intern - Paris - 6 Months](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/France---Issy-les-Moulineaux/Field-Technical-Engineer--Intern---Paris---6-Months_31162067) | 2 Locations |
 | 2026-09-09 (30+ days) | Accenture | [Adobe Experience Cloud Intern Analyst / MarTech & Digital Experience Internship Program (He/She/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Functional-Analyst---MarTech-Trainee--Adobe-Experience-Cloud----Internship-Program--She-He-They-_R00335218) |  |
 | 2026-09-09 (30+ days) | Accenture | [Business Analyst - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Stage-in-area-Consulting_R00279776) |  |
+| 2026-10-09 | Accenture | [Consulting Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Consulting-Intern_R00359291) |  |
 | 2026-09-25 | Accenture | [Data & AI Intern - Accenture Internship Program -Athens](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Athens-Arcadias/Global-S-C-Networks-Internship-Program---Athens_R00284676) |  |
-| 2026-09-10 | Accenture | [Digital Engineering Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) |  |
 | 2026-09-09 (30+ days) | Accenture | [Digital transformation intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Digital-transformation-intern_R00354466) |  |
 | 2026-09-15 | Accenture | [Finance Transformation Analyst - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Finance-Transformation-Analyst---Intern_R00356849) |  |
 | 2026-09-09 (30+ days) | Accenture | [Financial Services - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago/Banking-and-Financial-Regulation-Intern_R00279783) |  |
@@ -225,6 +222,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-08 | Coinbase | [Data Engineer Intern](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) | Hybrid - San Francisco, CA |
 | 2026-09-08 | Coinbase | [Data Science Intern](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [Employee and Workplace Experience Intern](https://www.coinbase.com/careers/positions/8175429?gh_jid=8175429) | Hybrid - New York, NY |
+| 2026-10-09 | Coinbase | [Forward Deployed Engineer Intern (HR Technology)](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [Institutional Operations Intern](https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569) | Hybrid - New York, NY |
 | 2026-09-21 | Coinbase | [Internal Audit Analytics Intern](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [Internal Audit Intern](https://www.coinbase.com/careers/positions/8175432?gh_jid=8175432) | Hybrid - New York, NY |
@@ -241,13 +239,11 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-08 | Coinbase | [Tax Operations Intern](https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [User Research Intern](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) | Hybrid - San Francisco, CA |
 | 2026-10-09 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Saint-Clairsville/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1006067) | OH - Saint Clairsville |
-| 2026-10-09 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Heath/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1005988-1) | OH - Heath |
+| 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Concord/Pharmacy-Intern_R0998271) | CA - Concord |
 | 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Audubon/Pharmacy-Intern_R1071201-1) | PA - Audubon |
 | 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Toledo/Pharmacy-Intern_R1006040) | OH - Toledo |
 | 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Clinton-Township/Pharmacy-Intern_R1005934) | MI - Clinton Township |
 | 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Dennison/Pharmacy-Intern_R1006021) | OH - Dennison |
-| 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Johnstown/Pharmacy-Intern_R1005977) | OH - Johnstown |
-| 2026-10-09 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Temple-Terrace/Pharmacy-Intern_R1070829) | FL - Temple Terrace |
 | 2023-08-17 | Databricks | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 2026-08-20 | Databricks | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 2026-08-17 | Datadog | [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | New York, New York, USA |
@@ -312,8 +308,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-08-19 | Notion | [Data Science Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e) | San Francisco, California |
 | 2026-09-09 (30+ days) | NVIDIA | [Applied Research Intern, NLP - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | US, CA, Santa Clara |
 | 2026-09-09 (30+ days) | NVIDIA | [Software Engineering Intern, NCCL - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645) | 2 Locations |
-| 2026-09-09 (30+ days) | Oliver Wyman | [Insurance Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Lincoln---Pine/Insurance-Intern_R_364734) | Lincoln - Pine |
-| 2026-09-09 (30+ days) | Oliver Wyman | [Insurance Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Omaha---Southport/Insurance-Intern_R_364740) | Omaha - Southport |
 | 2025-12-11 | Palantir | [Deployment Strategist, Internship - US Government](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) | Honolulu, HI |
 | 2026-07-10 | Palantir | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | Washington, D.C. |
 | 2026-07-10 | Palantir | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | Palo Alto, CA |
