@@ -453,6 +453,7 @@
   "8010615003",
   "8010617003",
   "8011038003",
+  "8011375003",
   "8011590003",
   "8012043003",
   "8012584003",
@@ -797,7 +798,10 @@
   "10573999",
   "10574530",
   "10574531",
-  "10575231"
+  "10575231",
+  "10575248",
+  "10575250",
+  "10575251"
  ],
  "Amgen": [
   "/job/Algeria---Algiers/CW---Senior-Finance-Manager_R-225698",
@@ -4920,6 +4924,7 @@
   "/job/Indianapolis/Sr-Relationship-Manager---Global-Commercial-Banking--Middle-Market----Indianapolis_26028320-1",
   "/job/Iselin/Sr-Relationship-Manager---Global-Commercial-Banking---Middle-Market-Banking--Iselin--New-Jersey-_26021583-1",
   "/job/Jacksonville/Consumer-Investments-Money-Movement-Service-Representative---Jacksonville--FL_26022978-2",
+  "/job/Jacksonville/Life-Services-Financial-Solutions-Advisor--Series-7-required----Jacksonville--FL_26023092-2",
   "/job/Little-Rock/Private-Client-Manager-II_26034362",
   "/job/Little-Rock/Sr-Relationship-Manager---Global-Commercial-Banking--Middle-Market----Little-Rock--AR_26033210-2",
   "/job/Los-Angeles/Business-Solutions-Advisor---La-Brea-Rosewood-Financial-Center_26034919-1",
@@ -7436,6 +7441,7 @@
   "/job/Armenia/Memory-Layout-Design-Engineer_2026849",
   "/job/Atlanta-Georgia-US/Director--Sales_2025501-1",
   "/job/Atlanta-Georgia-US/Director--Solutions-Engineer_2025498-1",
+  "/job/Austin-Texas-US/Senior-Hardware-Engineering-Program-Manager_2028178-1",
   "/job/Bangalore-India/Account-Executive---Splunk_2022871-1",
   "/job/Bangalore-India/Finance-Analyst-Techno-Functional-Financial-Analyst---Finance--AI---Advanced-Analytics---6-yrs-exp_2025845",
   "/job/Bangalore-India/Principal-Product-Management-Engineer---Datacenter--Networking-and-AI---14--years--Bangalore_2027528",
@@ -7543,6 +7549,7 @@
   "/job/Oakland-CA---USA/Brand-Management-Intern--MBA---Summer-2027-_JR23316",
   "/job/Oakland-CA---USA/Director-of-Real-Estate--Workplace---Security_JR23432",
   "/job/Oakland-CA---USA/MBA-Finance-Intern--Summer-2027-_JR23493",
+  "/job/Oakland-CA---USA/Senior-Manager--Consumer---Market-Insights_JR23616",
   "/job/Pleasanton-CA---USA/Assistant-Finance-Manager_JR23349",
   "/job/Pleasanton-CA---USA/R-D-Intern--Summer-2027-_JR23320",
   "/job/Pleasanton-CA---USA/Scientist-II-AMEA-Product-Development_JR23452",
@@ -11988,6 +11995,7 @@
   "8205633",
   "8208066",
   "8208422",
+  "8208432",
   "8209666",
   "8211813",
   "8212226",
@@ -15150,6 +15158,7 @@
   "/job/Beaverton-Oregon/Lead--Apparel-Designer--Jordan--Local-Creation-NA_R-92739",
   "/job/Beaverton-Oregon/Lead--Apparel-Designer--NSW--Create--Local-Creation-NA_R-92740",
   "/job/Beaverton-Oregon/Lead--Business-Planner_R-94472-1",
+  "/job/Beaverton-Oregon/Lead--Energy-Whitespace-Materials-Design_R-94722",
   "/job/Beaverton-Oregon/Lead-Apparel-Materials---Trim-Developer--Local-Creation_R-92818",
   "/job/Beaverton-Oregon/Lead-Planner--Sport-Specialty--NA_R-94473",
   "/job/Beaverton-Oregon/Lead-Product-Line-Manager--Jordan-Energy-Apparel_R-94738",
@@ -19211,6 +19220,7 @@
   "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/FPGA-Engineer-I--Onsite-_01878710",
   "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Principal-Mechanical-Engineer--Onsite-_01878603",
   "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Principal-Project-Engineer--Onsite-_01845371",
+  "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Principal-Project-Engineer_01855822",
   "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Developer-Engineer-I--Onsite-_01878880",
   "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Developer-Engineer-II--Onsite-_01878948",
   "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986",
@@ -21125,6 +21135,7 @@
   "8256425",
   "8259091",
   "8260850",
+  "8261809",
   "8261992",
   "8262123",
   "8264748",
@@ -27133,7 +27144,9 @@
   "/job/US---San-Francisco-CA/Business-Consultant_REF089321W",
   "/job/US---San-Francisco-CA/Director--Sales-Incentive-Planning---Performance-Management_REF087524W",
   "/job/US---San-Francisco-CA/Director--US-Merchant-Business-Development_REF088831W-1",
+  "/job/US---San-Francisco-CA/Director--VSP-Payment-Orchestration_REF089351W",
   "/job/US---San-Francisco-CA/Director--Visa-Crypto-Partnerships_REF089123W",
+  "/job/US---San-Francisco-CA/Director-of-Product-Management---Open-USD_REF089353W",
   "/job/US---San-Francisco-CA/Executive-Assistant--NA-Events_REF089034W",
   "/job/US---San-Francisco-CA/GTM-Strategy-Manager--Visa-Direct---Commercial-Banks_REF088936W",
   "/job/US---San-Francisco-CA/Manager--AI-Enablement---Digital-Content--VCA_REF089205W",
@@ -28189,7 +28202,9 @@
    "/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Marketing-Manager_R172262": "2026-10-02",
    "/job/San-Jose/XMLNAME-2027-MBA-University-Graduate---Product-Manager_R171900": "2026-10-02"
   },
-  "Affirm": {},
+  "Affirm": {
+   "8011375003": "2026-10-09"
+  },
   "Airbnb": {},
   "Airtable": {},
   "Allstate": {
@@ -28225,7 +28240,10 @@
    "10534584": "2026-10-02",
    "10553765": "2026-10-07",
    "10553907": "2026-10-07",
-   "10573984": "2026-10-08"
+   "10573984": "2026-10-08",
+   "10575248": "2026-10-09",
+   "10575250": "2026-10-09",
+   "10575251": "2026-10-09"
   },
   "Amgen": {
    "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349": "2026-10-02",
@@ -29124,6 +29142,9 @@
    "/job/San-Jose/XMLNAME-2027-Intern---Adobe-Sales-Academy-BDR_R170977": false,
    "/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519": false
   },
+  "Affirm": {
+   "8011375003": false
+  },
   "Allstate": {
    "/job/USA---IL-Remote/Quantum-Algorithm-Development-Intern_R34881": false
   },
@@ -29155,7 +29176,10 @@
    "10534584": false,
    "10553765": false,
    "10553907": false,
-   "10573984": false
+   "10573984": false,
+   "10575248": false,
+   "10575250": false,
+   "10575251": false
   },
   "Amgen": {
    "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349": true,
