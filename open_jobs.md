@@ -1,6 +1,6 @@
 # Open matching jobs (417)
 
-Updated 2026-10-10 03:12 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-10 03:37 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -138,7 +138,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-09 | PwC (2) | [Philadelphia - Tax - Intern - Winter 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Philadelphia/Philadelphia---Tax-CPA---Intern---Winter-2027_756463WD) | PA-Philadelphia |
 | 2026-10-09 | Philips | [Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Best/Intern_592635) | Best |
 | 2026-10-09 | Intel | [Operations Research Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945) | 2 Locations |
-| 2026-10-09 | Databricks | [Evergreen  - Product Design Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002) | San Francisco, California; Seattle, Washington |
+| 2026-10-09 | Databricks | [Product Design Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002) | San Francisco, California; Seattle, Washington |
 | 2026-10-09 | Coinbase | [Forward Deployed Engineer Intern (HR Technology)](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) | Hybrid - New York, NY |
 | 2026-10-09 | Amazon | [Supply Chain Manager Intern - Summer 2027](https://www.amazon.jobs/en/jobs/10575291/supply-chain-manager-intern-summer-2027) | Seattle, Washington, USA |
 | 2026-10-09 | Amazon | [Sourcing Recruiter Intern – Summer 2027](https://www.amazon.jobs/en/jobs/10575252/sourcing-recruiter-intern-summer-2027) | Seattle, Washington, USA |
