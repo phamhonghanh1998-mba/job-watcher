@@ -1909,6 +1909,7 @@
   "5178534007",
   "5178546007",
   "5178575007",
+  "5178591007",
   "5178736007",
   "5179194007",
   "5179198007",
@@ -3649,7 +3650,9 @@
   "5262718007",
   "5262722007",
   "5262725007",
+  "5262868007",
   "5262870007",
+  "5262876007",
   "5262877007"
  ],
  "Anthropic": [
@@ -8363,7 +8366,8 @@
   "8262841",
   "8265721",
   "8265918",
-  "8267151"
+  "8267151",
+  "8269081"
  ],
  "CrowdStrike": [
   "/job/Australia---Remote-NW/Professional-Services-Subcontractor-Manager_R30007",
@@ -11685,6 +11689,7 @@
   "/job/Mannheim/Transfer-Pricing-Specialist--m-w-d-_202607-118438-2",
   "/job/Mannheim/Werkstudent-im-Gebudemanagement--m-w-d-_202610-125049-1",
   "/job/Mexico-City/Capability-Building-and-Customer-Engagement-Coordinator_202610-125103-1",
+  "/job/Mexico-City/Ejecutivo-de-Compras_202610-125120-1",
   "/job/Mexico-City/Especialista-de-Aplicaciones-Pre---Post-Sales_202610-125417-1",
   "/job/Mexico-City/Field-Service-Engineer_202608-122023-1",
   "/job/Mexico-City/Marketing-Intern_202609-124837",
@@ -11693,6 +11698,7 @@
   "/job/Mexico-City/Pasante-Especialista-en-Comunicaciones_202609-123455",
   "/job/Mexico-City/Product-Manager--Pharma-Oncology-_202610-125653-1",
   "/job/Mexico-City/Representante-de-Acceso-Pblico_202610-124995",
+  "/job/Mexico-City/Representante-de-Promocin-Mdica---Neurologa-Alta-Especialidad_202610-125235-1",
   "/job/Mexico-City/Representante-de-Promocin-Mdica---Oncologa_202610-125321",
   "/job/Mexico-City/XMLNAME-202610-125328-Gerente-de-Campo---Oncologa_202610-125650-1",
   "/job/Meylan/Gestionnaire-Appels-d-offres-et-devis--f-m-d-_202609-124222",
@@ -11739,6 +11745,7 @@
   "/job/Pune/Senior-Full-Stack-Engineer---Enterprise-ALM--Test-Automation---AI_202609-124688",
   "/job/Pune/Technical-Lead---AEM-Platform_202609-122516",
   "/job/Quebec/Medical-Science-Partner---Nephrology---Rheumatology--Quebec-_202609-124661-2",
+  "/job/Quertaro/Representante-de-Promocin-Mdica-Oncologa---Quertaro_202610-125434-1",
   "/job/Quito/Pasante-Seguridad-al-Paciente_202610-125185",
   "/job/RM--Region-Metropolitana-de-Santiago/Especialista-de-Proyectos-y-Asesora-Cientfica--IVD-_202608-121484-2",
   "/job/RM--Region-Metropolitana-de-Santiago/Financial-Controlling-Specialist_202609-122809-2",
@@ -20191,7 +20198,8 @@
   "8262110",
   "8262776",
   "8266107",
-  "8268261"
+  "8268261",
+  "8268415"
  ],
  "Roblox": [
   "7332473",
@@ -20443,6 +20451,7 @@
   "8204799",
   "8204801",
   "8205219",
+  "8209006",
   "8209010",
   "8211271",
   "8211305",
@@ -21870,6 +21879,7 @@
   "4b327a92-0f6a-4e2e-a657-2ab709445d15",
   "4b494244-50fe-4c55-837c-5c347ff5235b",
   "4d18f84f-bff2-40fa-8d44-aa123d9e93a4",
+  "4d33c57c-655c-4784-b0f0-d37a07ad68a0",
   "4dccc2f2-48b2-4c2e-ae37-c7368e77a6d6",
   "4de1b10f-c34c-4d2c-99d1-abcf17541530",
   "4e227052-187e-4273-93ee-437337fc6b06",
