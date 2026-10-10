@@ -1,6 +1,6 @@
-# Open matching jobs (416)
+# Open matching jobs (415)
 
-Updated 2026-10-10 12:14 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-10 12:41 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -111,7 +111,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (317)
+## Other internships (316)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -261,7 +261,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-23 | Figma | [Data Engineer Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | San Francisco, CA • New York, NY |
-| 2026-10-09 | Genentech | [Finance Chapter Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Burgess-Hill/Finance-Chapter-Intern_202609-124543) | Burgess Hill |
 | 2026-10-05 | Guidehouse | [Intern - Centers for Disease Control and Prevention, Federal Health Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---GA-Atlanta/Intern---Centers-for-Disease-Control-and-Prevention--Federal-Health-Advisory---Campus-2027_45239) | US - GA, Atlanta |
 | 2026-09-10 (30+ days) | Guidehouse | [Intern - Energy Providers - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---GA-Atlanta/Intern---Energy-Providers---Campus-2027_44256) | 9 Locations |
 | 2026-09-28 | Guidehouse | [Intern - Federal Civilian Agencies - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Intern---Federal-Civilian-Agencies---Campus-2027_44923) | 2 Locations |
