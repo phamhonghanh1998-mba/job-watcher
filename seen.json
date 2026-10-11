@@ -18677,6 +18677,7 @@
  ],
  "RTX": [
   "/job/AE-AZ-ABU-DHABI-ADGM-TOWER-3--Al-Maqam-Tower--GLOBAL-MARKET-SQ-TWR-3/Quality-Manager_01858264",
+  "/job/AE-AZ-ABU-DHABI-REGUS-CUST--Regus-ADGM-Square-Maryah-Island-Al-Maqam-Tower--REGUS-ADGM-SQ-External-Site/Procurement-Intern_01881274",
   "/job/AE-AZ-MILITARY-CUST--Abu-Dhabi-Capital--ABU-DHABI-CAPITAL-Military-Locations-External-Site/THAAD-Systems-Engineer-UAE_01867841",
   "/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/Principal-Systems---Cyber-Security-Specialist_01879094",
   "/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/WTRSS-Operations-Lead_01877068",
@@ -29027,6 +29028,7 @@
    "8193457": "2026-10-02"
   },
   "RTX": {
+   "/job/AE-AZ-ABU-DHABI-REGUS-CUST--Regus-ADGM-Square-Maryah-Island-Al-Maqam-Tower--REGUS-ADGM-SQ-External-Site/Procurement-Intern_01881274": "2026-10-11",
    "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Coordination-des-projets-de-recherche-collaboratifs-et-amelioration-du-processus-de-gestion-des-technologies---Internship---Winter-2027---Collaborative-Research-Projects-Coordination---Technology-Management-Process-Improvement_01868255": "2026-10-02",
    "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Etudiant-en-droit---Internship---Winter-2027---Legal-student_01865040": "2026-10-08",
    "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie-de-fabrication---Internship---Winter-2027---Manufacturing-Engineer_01864153": "2026-10-07",
@@ -29873,6 +29875,7 @@
    "8193457": false
   },
   "RTX": {
+   "/job/AE-AZ-ABU-DHABI-REGUS-CUST--Regus-ADGM-Square-Maryah-Island-Al-Maqam-Tower--REGUS-ADGM-SQ-External-Site/Procurement-Intern_01881274": false,
    "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Coordination-des-projets-de-recherche-collaboratifs-et-amelioration-du-processus-de-gestion-des-technologies---Internship---Winter-2027---Collaborative-Research-Projects-Coordination---Technology-Management-Process-Improvement_01868255": false,
    "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Etudiant-en-droit---Internship---Winter-2027---Legal-student_01865040": false,
    "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie-de-fabrication---Internship---Winter-2027---Manufacturing-Engineer_01864153": false,
