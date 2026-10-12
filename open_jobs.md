@@ -1,6 +1,6 @@
 # Open matching jobs (415)
 
-Updated 2026-10-12 02:21 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-12 02:56 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -123,6 +123,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-12 | NVIDIA | [CPU Compiler Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1) | 2 Locations |
 | 2026-10-12 | Genentech | [Internship / Business Operation Support](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Petaling-Jaya/Internship---Customer-Support---SAP-ERP_202607-118525) | Petaling Jaya |
 | 2026-10-12 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Carrollton/Pharmacy-Intern_R1072475) | TX - Carrollton |
+| 2026-10-12 | Caterpillar | [Welder Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wujiang-Jiangsu/Welder-Intern_R0000396237) | Wujiang, Jiangsu |
 | 2026-10-11 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---East-Boston/Pharmacy-Intern_R1072146) | MA - East Boston |
 | 2026-10-11 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Tallahassee/Pharmacy-Intern_R1028499) | FL - Tallahassee |
 | 2026-10-11 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OK---Oklahoma-City/Pharmacy-Intern_R1049634) | OK - Oklahoma City |
@@ -339,7 +340,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-12 (30+ days) | Caterpillar | [2027 Summer Corporate Intern - Communications](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Communications_R0000380423) | 2 Locations |
 | 2026-09-12 (30+ days) | Caterpillar | [2027 Summer Corporate Intern- Manufacturing](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454) | 11 Locations |
 | 2026-09-12 (30+ days) | Caterpillar | [2027 Summer Corporate Intern - Engineering](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650) | 27 Locations |
-| 2026-09-12 (30+ days) | Caterpillar | [2027 Summer Intern - Information Technology](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Nashville-Tennessee/XMLNAME-2027-Summer-Intern---Information-Technology_R0000387802) | Nashville, Tennessee |
 | 2026-09-12 | Booz Allen Hamilton | [University - Summer 27, Contracts Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249252) | McLean, VA |
 | 2026-09-12 | Booz Allen Hamilton | [University - Summer 27, Contracts Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249253) | McLean, VA |
 | 2026-09-12 (30+ days) | Amgen | [Undergrad Intern – Finance (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Undergrad-Intern---Finance--Summer-2027-_R-254668) | United States - Remote |
