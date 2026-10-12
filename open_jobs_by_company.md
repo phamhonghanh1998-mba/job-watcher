@@ -1,6 +1,6 @@
-# Open matching jobs (420)
+# Open matching jobs (416)
 
-Updated 2026-10-12 13:51 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-12 14:19 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -112,7 +112,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (320)
+## Other internships (316)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -247,9 +247,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-21 | Coinbase | [Tax Information Reporting Intern](https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [Tax Operations Intern](https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [User Research Intern](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) | Hybrid - San Francisco, CA |
-| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/07107---Longs-Drug-Stores-California-LLC/Pharmacy-Intern---Grad_R0996618) | 07107 - Longs Drug Stores California, L.L.C. |
-| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/09164---Longs-Drug-Stores-California-LLC/Pharmacy-Intern---Grad_R0996759) | 09164 - Longs Drug Stores California, L.L.C. |
-| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/09189---Longs-Drug-Stores-California-LLC/Pharmacy-Intern---Grad_R0996764) | 09189 - Longs Drug Stores California, L.L.C. |
 | 2026-10-09 | Databricks | [Product Design Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002) | San Francisco, California; Seattle, Washington |
 | 2023-08-17 | Databricks | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 2026-08-20 | Databricks | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
@@ -260,17 +257,14 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-23 | Figma | [Data Engineer Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | San Francisco, CA • New York, NY |
-| 2026-10-12 | GE Aerospace | [Digital Technology Intern – US – Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Digital-Technology-Intern---US---Summer-2027---Returning-Students_R5030092-2) | 2 Locations |
 | 2026-10-12 | GE Aerospace | [Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027---Returning-Students_R5030074-1) | 2 Locations |
-| 2026-10-12 | GE Aerospace | [Engines Engineering Intern – US – Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027---Returning-Students_R5029793-1) | 2 Locations |
 | 2026-10-12 | GE Aerospace | [Environmental/Health/Safety, Facilities, & Maintenance Intern – US – Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Environmental-Health-Safety--Facilities----Maintenance-Intern---US---Summer-2027---Returning-Students_R5030088-1) | 23 Locations |
-| 2026-10-12 | GE Aerospace | [Manufacturing Engineering Intern – US – Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Manufacturing-Engineering-Intern---US---Summer-2027---Returning-Students_R5030079-1) | 23 Locations |
+| 2026-10-12 | GE Aerospace | [Finance Intern – US – Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Finance-Intern---US---Summer-2027---Returning-Students_R5030322-1) | Evendale |
 | 2026-10-12 | GE Aerospace | [Supply Chain Operations Intern – US – Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Supply-Chain-Operations-Intern---US---Summer-2027---Returning-Students_R5030084-1) | 23 Locations |
 | 2026-10-12 | GE Aerospace | [Systems Engineering Intern - Electrical Engineering & Computer Engineering/Science (Avionics) - US - Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Summer-2027---Returning-Students_R5030173-1) | 2 Locations |
 | 2026-10-12 | GE Aerospace | [Systems Engineering Intern - Electrical Engineering & Computer Engineering/Science (Electric Power) - US - Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027---Returning-Students_R5030174-1) | 2 Locations |
 | 2026-10-12 | GE Aerospace | [Systems Engineering Intern - Mechanical/Aerospace Engineering (Avionics) - US - Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Intern---Mechanical-Aerospace-Engineering--Avionics----US---Summer-2027---Returning-Students_R5030175) | 2 Locations |
 | 2026-10-12 | GE Aerospace | [Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US - Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Mechanical-Aerospace-Engineering--Electric-Power----US---Summer-2027---Returning-Students_R5030177-1) | 2 Locations |
-| 2026-10-12 | Genentech | [Internship / License to Operate Chapter (1 Year, Full-Time)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Amadora/Internship---License-to-Operate-Chapter--1-Year--Full-Time-_202610-125035) | Amadora |
 | 2026-10-05 | Guidehouse | [Intern - Centers for Disease Control and Prevention, Federal Health Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---GA-Atlanta/Intern---Centers-for-Disease-Control-and-Prevention--Federal-Health-Advisory---Campus-2027_45239) | US - GA, Atlanta |
 | 2026-09-12 (30+ days) | Guidehouse | [Intern - Energy Providers - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---GA-Atlanta/Intern---Energy-Providers---Campus-2027_44256) | 9 Locations |
 | 2026-09-28 | Guidehouse | [Intern - Federal Civilian Agencies - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Intern---Federal-Civilian-Agencies---Campus-2027_44923) | 2 Locations |
@@ -311,6 +305,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-02 | Medtronic | [Sales Intern](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Cape-Town-Western-Cape-South-Africa/Sales-Intern_R78059-1) | 4 Locations |
 | 2026-09-12 (30+ days) | Medtronic | [Software Engineering Intern – Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) | 21 Locations |
 | 2026-09-12 (30+ days) | Medtronic | [Supply Chain/Supply Management Intern- Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Supply-Chain-Supply-Management-Intern--Summer-2027_R73693-2) | 7 Locations |
+| 2026-10-12 | Merck | [2027 Future Talent Program – Modeling & Informatics - Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Modeling---Informatics---Intern_R416278) | 4 Locations |
 | 2026-09-12 (30+ days) | Mondelez | [Corporate Finance Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1) | East Hanover, New Jersey, United States |
 | 2026-10-07 | Mondelez | [HSE Intern Colombia](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Cali-Colombia/HSE-Intern-Colombia_R-178636) | 2 Locations |
 | 2026-10-06 | Mondelez | [Intern Sales Modern Trade](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Quito-Ecuador/Intern-Sales-Modern-Trade_R-177811) | Quito, Ecuador |
@@ -395,6 +390,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-14 | Robinhood | [Vendor Management Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097) | New York, NY |
 | 2026-09-02 | Roblox | [[Summer 2027] Product Design Intern](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) | San Mateo, CA, United States |
 | 2026-09-02 | Roblox | [[Summer 2027] Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA, United States |
+| 2026-10-12 | RTX | [Human Resources Internship (June 2027) (Hybrid)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Internship--June-2027---Hybrid-_01881487) | US-VA-ARLINGTON-108 ~ 1100 Wilson Blvd ~ ROSSLYN HQ |
 | 2026-09-12 (30+ days) | S&P Global | [Agribusiness Intern (Early Careers)](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2) | Virtual, BR |
 | 2026-09-12 (30+ days) | S&P Global | [Machine Learning Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1) | 2 Locations |
 | 2026-10-05 | S&P Global | [Market Intelligence Revenue Associate Internship](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Central-HK/Market-Intelligence-Revenue-Associate-Internship_332059-1) | Central, HK |

@@ -1,6 +1,6 @@
-# Open matching jobs (420)
+# Open matching jobs (416)
 
-Updated 2026-10-12 13:51 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-12 14:19 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -112,18 +112,20 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (320)
+## Other internships (316)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
+| 2026-10-12 | RTX | [Human Resources Internship (June 2027) (Hybrid)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Internship--June-2027---Hybrid-_01881487) | US-VA-ARLINGTON-108 ~ 1100 Wilson Blvd ~ ROSSLYN HQ |
 | 2026-10-12 | NVIDIA | [CPU Compiler Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1) | 2 Locations |
 | 2026-10-12 | NVIDIA | [Accelerated Computing Research Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Sweden-Remote/Accelerated-Computing-Research-Intern_JR2027378) | 2 Locations |
 | 2026-10-12 | Nordstrom | [Technical Apparel Design - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Technical-Apparel-Design---Corporate-Internship---Summer-2027_R-886419) | Seattle, WA |
 | 2026-10-12 | Nordstrom | [Merchandising - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Merchandising---Corporate-Internship---Summer-2027_R-886408) | Seattle, WA |
 | 2026-10-12 | Nordstrom | [Fashion Design - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Fashion-Design---Corporate-Internship---Summer-2027_R-886422) | Seattle, WA |
-| 2026-10-12 | Genentech | [Internship / License to Operate Chapter (1 Year, Full-Time)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Amadora/Internship---License-to-Operate-Chapter--1-Year--Full-Time-_202610-125035) | Amadora |
+| 2026-10-12 | Merck | [2027 Future Talent Program – Modeling & Informatics - Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Modeling---Informatics---Intern_R416278) | 4 Locations |
+| 2026-10-12 | GE Aerospace | [Finance Intern – US – Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Finance-Intern---US---Summer-2027---Returning-Students_R5030322-1) | Evendale |
 | 2026-10-12 | GE Aerospace | [Systems Engineering Intern - Mechanical/Aerospace Engineering (Electric Power) - US - Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Mechanical-Aerospace-Engineering--Electric-Power----US---Summer-2027---Returning-Students_R5030177-1) | 2 Locations |
 | 2026-10-12 | GE Aerospace | [Systems Engineering Intern - Electrical Engineering & Computer Engineering/Science (Electric Power) - US - Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Dayton/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Summer-2027---Returning-Students_R5030174-1) | 2 Locations |
 | 2026-10-12 | GE Aerospace | [Systems Engineering Intern - Mechanical/Aerospace Engineering (Avionics) - US - Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Intern---Mechanical-Aerospace-Engineering--Avionics----US---Summer-2027---Returning-Students_R5030175) | 2 Locations |
@@ -131,12 +133,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-12 | GE Aerospace | [Systems Engineering Intern - Electrical Engineering & Computer Engineering/Science (Avionics) - US - Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Grand-Rapids/Systems-Engineering-Intern---Electrical-Engineering---Computer-Engineering-Science--Avionics----US---Summer-2027---Returning-Students_R5030173-1) | 2 Locations |
 | 2026-10-12 | GE Aerospace | [Supply Chain Operations Intern – US – Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Supply-Chain-Operations-Intern---US---Summer-2027---Returning-Students_R5030084-1) | 23 Locations |
 | 2026-10-12 | GE Aerospace | [Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027---Returning-Students_R5030074-1) | 2 Locations |
-| 2026-10-12 | GE Aerospace | [Engines Engineering Intern – US – Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---US---Summer-2027---Returning-Students_R5029793-1) | 2 Locations |
-| 2026-10-12 | GE Aerospace | [Manufacturing Engineering Intern – US – Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Manufacturing-Engineering-Intern---US---Summer-2027---Returning-Students_R5030079-1) | 23 Locations |
-| 2026-10-12 | GE Aerospace | [Digital Technology Intern – US – Summer 2027 - Returning Students](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Digital-Technology-Intern---US---Summer-2027---Returning-Students_R5030092-2) | 2 Locations |
-| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/07107---Longs-Drug-Stores-California-LLC/Pharmacy-Intern---Grad_R0996618) | 07107 - Longs Drug Stores California, L.L.C. |
-| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/09164---Longs-Drug-Stores-California-LLC/Pharmacy-Intern---Grad_R0996759) | 09164 - Longs Drug Stores California, L.L.C. |
-| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/09189---Longs-Drug-Stores-California-LLC/Pharmacy-Intern---Grad_R0996764) | 09189 - Longs Drug Stores California, L.L.C. |
 | 2026-10-12 | Caterpillar | [EHS Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wuxi-Jiangsu/EHS-Intern_R0000386931) | Wuxi, Jiangsu |
 | 2026-10-12 | Caterpillar | [Welder Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wujiang-Jiangsu/Welder-Intern_R0000396237) | Wujiang, Jiangsu |
 | 2026-10-09 | Visa | [Global Products & Solutions Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PA---Panama-City-Panama/Global-Products---Solutions-Intern_REF086159W) | PA - Panama City, Panama |
