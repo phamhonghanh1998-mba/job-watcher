@@ -1,6 +1,6 @@
-# Open matching jobs (412)
+# Open matching jobs (416)
 
-Updated 2026-10-12 14:46 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-12 15:17 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -112,7 +112,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (312)
+## Other internships (316)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -247,6 +247,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-21 | Coinbase | [Tax Information Reporting Intern](https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [Tax Operations Intern](https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [User Research Intern](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) | Hybrid - San Francisco, CA |
+| 2026-10-12 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Amherst/Pharmacy-Intern_R1072989) | NY - Amherst |
 | 2026-10-09 | Databricks | [Product Design Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002) | San Francisco, California; Seattle, Washington |
 | 2023-08-17 | Databricks | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 2026-08-20 | Databricks | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
@@ -304,7 +305,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-02 | Medtronic | [Sales Intern](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Cape-Town-Western-Cape-South-Africa/Sales-Intern_R78059-1) | 4 Locations |
 | 2026-09-12 (30+ days) | Medtronic | [Software Engineering Intern – Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) | 21 Locations |
 | 2026-09-12 (30+ days) | Medtronic | [Supply Chain/Supply Management Intern- Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Supply-Chain-Supply-Management-Intern--Summer-2027_R73693-2) | 7 Locations |
-| 2026-10-12 | Merck | [2027 Future Talent Program – Modeling & Informatics - Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Modeling---Informatics---Intern_R416278) | 4 Locations |
 | 2026-09-12 (30+ days) | Mondelez | [Corporate Finance Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1) | East Hanover, New Jersey, United States |
 | 2026-10-07 | Mondelez | [HSE Intern Colombia](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Cali-Colombia/HSE-Intern-Colombia_R-178636) | 2 Locations |
 | 2026-10-06 | Mondelez | [Intern Sales Modern Trade](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Quito-Ecuador/Intern-Sales-Modern-Trade_R-177811) | Quito, Ecuador |
@@ -312,6 +312,12 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-12 (30+ days) | Mondelez | [Research & Development Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Research---Development-Intern_R-175411) | East Hanover, New Jersey, United States |
 | 2026-10-05 | Morgan Stanley | [Intern](https://ms.wd5.myworkdayjobs.com/en-US/External/job/San-Antonio-Texas-United-States-of-America/Intern_JR042272-1) | San Antonio, Texas, United States of America |
 | 2026-09-24 | Morgan Stanley | [Intern](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2) | Baltimore, Maryland, United States of America |
+| 2026-10-12 | Nordstrom | [Fashion Design - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Fashion-Design---Corporate-Internship---Summer-2027_R-886422) | Seattle, WA |
+| 2026-10-12 | Nordstrom | [Finance - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Finance---Corporate-Internship---Summer-2027_R-886463-1) | Seattle, WA |
+| 2026-10-12 | Nordstrom | [Merchandising - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Merchandising---Corporate-Internship---Summer-2027_R-886408) | Seattle, WA |
+| 2026-10-12 | Nordstrom | [Supply Chain Operations Industrial Engineer - Corporate Internship - Summer 2027 - Dubuque, IA](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Dubuque-IA/Supply-Chain-Operations-Industrial-Engineer---Corporate-Internship---Summer-2027---Dubuque--IA_R-886442) | Dubuque, IA |
+| 2026-10-12 | Nordstrom | [Supply Chain Operations Industrial Engineer - Corporate Internship - Summer 2027 - Riverside, CA](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Riverside-CA/Supply-Chain-Operations-Industrial-Engineer---Corporate-Internship---Summer-2027---Riverside--CA_R-886446) | Riverside, CA |
+| 2026-10-12 | Nordstrom | [Technical Apparel Design - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Technical-Apparel-Design---Corporate-Internship---Summer-2027_R-886419) | Seattle, WA |
 | 2026-08-19 | Notion | [Data Science Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e) | San Francisco, California |
 | 2026-10-12 | NVIDIA | [Accelerated Computing Research Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Sweden-Remote/Accelerated-Computing-Research-Intern_JR2027378) | 2 Locations |
 | 2026-09-12 (30+ days) | NVIDIA | [Applied Research Intern, NLP - Fall 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488) | US, CA, Santa Clara |
@@ -388,10 +394,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-02 | Roblox | [[Summer 2027] Product Design Intern](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) | San Mateo, CA, United States |
 | 2026-09-02 | Roblox | [[Summer 2027] Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA, United States |
 | 2026-10-12 | RTX | [Human Resources Internship (June 2027) (Hybrid)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Internship--June-2027---Hybrid-_01881487) | US-VA-ARLINGTON-108 ~ 1100 Wilson Blvd ~ ROSSLYN HQ |
-| 2026-09-12 (30+ days) | S&P Global | [Agribusiness Intern (Early Careers)](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2) | Virtual, BR |
-| 2026-09-12 (30+ days) | S&P Global | [Machine Learning Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1) | 2 Locations |
-| 2026-10-05 | S&P Global | [Market Intelligence Revenue Associate Internship](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Central-HK/Market-Intelligence-Revenue-Associate-Internship_332059-1) | Central, HK |
-| 2026-09-23 | S&P Global | [Ratings Analytical Intern - Americas](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Ratings-Analytical-Intern---Americas_331833-1) | New York, NY |
+| 2026-10-12 | RTX | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741) | US-CA-FULLERTON-675 ~ 1801 Hughes Dr ~ BLDG 675 |
 | 2026-08-21 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119) | Atlanta, Georgia, United States |
 | 2026-08-21 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799) | Phoenix, Arizona, United States |
 | 2026-08-03 | Samsara | [Software Engineering Internship - San Francisco ](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) | San Francisco - SF9 |
@@ -412,6 +415,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-12 (30+ days) | Stryker | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936) | Arlington, Tennessee |
 | 2026-09-12 (30+ days) | Stryker | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937) | Arlington, Tennessee |
 | 2026-09-12 (30+ days) | Stryker | [R&D Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fremont-California/R-D-Intern_R572862) | Fremont, California |
+| 2026-09-12 (30+ days) | Synchrony | [BLP Intern – Sales](https://synchronyfinancial.wd5.myworkdayjobs.com/en-US/careers/job/Stamford-Hub/BLP-Intern---Sales_2601694) | Stamford Hub |
 | 2026-09-12 (30+ days) | Vanguard | [College to Corporate Internship - Finance](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/College-to-Corporate-Internship---Finance_180047-1) | Malvern, PA |
 | 2026-09-12 (30+ days) | Vanguard | [College to Corporate IT Internship - Application Development  (TX)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Application-Development---TX-_181846) | Dallas/Ft. Worth, TX |
 | 2026-09-12 (30+ days) | Vanguard | [College to Corporate IT Internship - Data Analyst (NC)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767) | Charlotte, NC |
