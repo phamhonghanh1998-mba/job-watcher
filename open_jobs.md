@@ -1,6 +1,6 @@
-# Open matching jobs (414)
+# Open matching jobs (426)
 
-Updated 2026-10-12 04:14 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-12 04:40 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -112,7 +112,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (314)
+## Other internships (326)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -122,11 +122,27 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-12 | RTX | [Procurement Intern](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/AE-AZ-ABU-DHABI-REGUS-CUST--Regus-ADGM-Square-Maryah-Island-Al-Maqam-Tower--REGUS-ADGM-SQ-External-Site/Procurement-Intern_01881274) | AE-AZ-ABU DHABI-REGUS-CUST ~ Regus ADGM Square, Maryah Island Al Maqam Tower ~ REGUS ADGM SQ (External Site) |
 | 2026-10-12 | NVIDIA | [CPU Compiler Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1) | 2 Locations |
 | 2026-10-12 | Genentech | [Internship / Business Operation Support](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Petaling-Jaya/Internship---Customer-Support---SAP-ERP_202607-118525) | Petaling Jaya |
-| 2026-10-12 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Carrollton/Pharmacy-Intern_R1072475) | TX - Carrollton |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/ME---Augusta/Pharmacy-Intern---Grad_R0985205-1) | ME - Augusta |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00008---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996006) | 00008 - CVS Pharmacy, Inc. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00026---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996010) | 00026 - CVS Pharmacy, Inc. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00043---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996013) | 00043 - CVS Pharmacy, Inc. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00046---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996014) | 00046 - CVS Pharmacy, Inc. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00071---Connecticut-CVS-Pharmacy-LLC/Pharmacy-Intern---Grad_R0996015) | 00071 - Connecticut CVS Pharmacy, L.L.C. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00073---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996016) | 00073 - CVS Pharmacy, Inc. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00114---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996021) | 00114 - CVS Pharmacy, Inc. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00119---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996022) | 00119 - CVS Pharmacy, Inc. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00143---CVS-State-Capital-LLC/Pharmacy-Intern---Grad_R0996023) | 00143 - CVS State Capital, L.L.C. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00145---Connecticut-CVS-Pharmacy-LLC/Pharmacy-Intern---Grad_R0996024) | 00145 - Connecticut CVS Pharmacy, L.L.C. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00149---Holiday-CVS-LLC/Pharmacy-Intern---Grad_R0996025) | 00149 - Holiday CVS, L.L.C. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00207---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996028) | 00207 - CVS Pharmacy, Inc. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00217---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996030) | 00217 - CVS Pharmacy, Inc. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00218---CVS-Albany-LLC/Pharmacy-Intern---Grad_R0996031) | 00218 - CVS Albany, L.L.C. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00233---Pennsylvania-CVS-Pharmacy-LLC/Pharmacy-Intern---Grad_R0996033) | 00233 - Pennsylvania CVS Pharmacy, L.L.C. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00258---Pennsylvania-CVS-Pharmacy-LLC/Pharmacy-Intern---Grad_R0996035) | 00258 - Pennsylvania CVS Pharmacy, L.L.C. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00262---Holiday-CVS-LLC/Pharmacy-Intern---Grad_R0996036) | 00262 - Holiday CVS, L.L.C. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00278---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996037) | 00278 - CVS Pharmacy, Inc. |
+| 2026-10-12 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00279---Georgia-CVS-Pharmacy-LLC/Pharmacy-Intern---Grad_R0996038) | 00279 - Georgia CVS Pharmacy, L.L.C. |
 | 2026-10-12 | Caterpillar | [Welder Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wujiang-Jiangsu/Welder-Intern_R0000396237) | Wujiang, Jiangsu |
-| 2026-10-11 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---East-Boston/Pharmacy-Intern_R1072146) | MA - East Boston |
-| 2026-10-11 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Tallahassee/Pharmacy-Intern_R1028499) | FL - Tallahassee |
-| 2026-10-11 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OK---Oklahoma-City/Pharmacy-Intern_R1049634) | OK - Oklahoma City |
 | 2026-10-10 | Visa | [Global Products & Solutions Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PA---Panama-City-Panama/Global-Products---Solutions-Intern_REF086159W) | PA - Panama City, Panama |
 | 2026-10-10 | RTX | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918) | US-FL-MELBOURNE-312 ~ 795 W Nasa Blvd ~ BLDG 312 |
 | 2026-10-10 | RTX | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467) | US-FL-MELBOURNE-312 ~ 795 W Nasa Blvd ~ BLDG 312 |
@@ -134,10 +150,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-10 | PwC (2) | [Salt Lake City - Digital Assurance & Transparency (DAT) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/UT-Salt-Lake-City/Salt-Lake-City---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_764775WD) | UT-Salt Lake City |
 | 2026-10-10 | PwC | [Assurance Intern](https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Kingston/Assurance-Intern_766212WD) | Kingston |
 | 2026-10-10 | PwC | [Enterprise Risk Management - Intern - Roma (OTS)](https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Rome/Enterprise-Risk-Management---Intern---Roma--OTS-_767062WD-1) | Rome |
-| 2026-10-10 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Boston/Pharmacy-Intern_R1071793) | MA - Boston |
-| 2026-10-10 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Los-Angeles/Pharmacy-Intern_R1071549) | CA - Los Angeles |
-| 2026-10-10 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Ozone-Park/Pharmacy-Intern_R1071510) | NY - Ozone Park |
-| 2026-10-10 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Forest-Hills/Pharmacy-Intern_R1071496) | NY - Forest Hills |
 | 2026-10-10 | Accenture | [Consulting Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Consulting-Intern_R00359291) |  |
 | 2026-10-10 | Abbott | [2027 IT Intern](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432) | United States - Illinois - Waukegan |
 | 2026-10-09 | PwC (2) | [Philadelphia - Tax - Intern - Winter 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Philadelphia/Philadelphia---Tax-CPA---Intern---Winter-2027_756463WD) | PA-Philadelphia |
