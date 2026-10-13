@@ -1,6 +1,6 @@
-# Open matching jobs (426)
+# Open matching jobs (425)
 
-Updated 2026-10-13 21:49 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-13 22:21 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -113,7 +113,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (325)
+## Other internships (324)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -124,7 +124,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-13 | RTX | [Summer Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Summer-Engineering-Intern--Summer-2027-_01882181) | US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 |
 | 2026-10-13 | RTX | [Stage - Hiver 2027 - Gestion et analyse de données clients / Internship - Winter 2027 - Customer Master Data Analysis and Management](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-et-analyse-de-donnes-clients---Internship---Winter-2027---Customer-Master-Data-Analysis-and-Management_01865932) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG |
 | 2026-10-13 | RTX | [Stage - Hiver 2027 - Stage en conception mécanique – Support aux opérations / Internship - Winter 2027 - Mechanical Designer - Support to operations](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Stage-en-conception-mcanique---Support-aux-oprations---Internship---Winter-2027---Mechanical-Designer---Support-to-operations_01877752) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG |
-| 2026-10-13 | RTX | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineering-Intern--Summer-2027-_01872655) | US-AL-HUNTSVILLE-382 ~ 420 Jan Davis Dr ~ DAVIS 382 |
 | 2026-10-13 | Remitly | [People Operations Intern](https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Managua-Nicaragua/People-Operations-Intern_R_107018) | Managua, Nicaragua |
 | 2026-10-13 | PwC (2) | [Philadelphia - Digital Assurance & Transparency (DAT) - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Philadelphia/Philadelphia---Digital-Assurance---Transparency--DAT----Intern---Summer-2028_757383WD) | PA-Philadelphia |
 | 2026-10-13 | PwC (2) | [Washington DC - Digital Assurance & Transparency (DAT) - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/DC-Washington/Washington-DC---Digital-Assurance---Transparency--DAT----Intern---Summer-2028_757381WD) | DC-Washington |
