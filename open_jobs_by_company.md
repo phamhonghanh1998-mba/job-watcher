@@ -1,6 +1,6 @@
-# Open matching jobs (432)
+# Open matching jobs (437)
 
-Updated 2026-10-13 12:51 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-13 13:22 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -113,7 +113,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (331)
+## Other internships (336)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -204,6 +204,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-13 (30+ days) | Booz Allen Hamilton | [University - Summer 27, Contracts Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249253) | McLean, VA |
 | 2026-09-16 | Booz Allen Hamilton | [University - Summer 27, Pricing Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Pricing-Intern_R0249254) | McLean, VA |
 | 2026-09-28 | Booz Allen Hamilton | [University - Summer 27, Pricing Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Pricing-Intern_R0250410) | McLean, VA |
+| 2026-09-13 (30+ days) | Booz Allen Hamilton | [University – Summer 27, Cybersecurity Analyst Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214) | McLean, VA |
 | 2026-09-23 | Booz Allen Hamilton | [University, 2026 Fall Technologist Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/University--2026-Fall-Technologist-Intern_R0249246) | Honolulu, HI |
 | 2026-09-22 | Booz Allen Hamilton | [University, Summer 2027 - Accounting Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Summer-2027---Accounting-Intern_R0250271) | McLean, VA |
 | 2026-09-13 (30+ days) | Caterpillar | [2027 Summer Corporate Intern - Communications](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Communications_R0000380423) | 2 Locations |
@@ -263,8 +264,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-12 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Hollywood/Pharmacy-Intern_R1073721) | CA - Hollywood |
 | 2026-10-12 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Los-Angeles/Pharmacy-Intern_R1073719) | CA - Los Angeles |
 | 2026-10-12 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Los-Angeles/Pharmacy-Intern_R1073718) | CA - Los Angeles |
-| 2026-10-12 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Los-Angeles/Pharmacy-Intern_R1073717-1) | CA - Los Angeles |
-| 2026-10-12 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Los-Angeles/Pharmacy-Intern_R1073715) | CA - Los Angeles |
 | 2026-10-09 | Databricks | [Product Design Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002) | San Francisco, California; Seattle, Washington |
 | 2023-08-17 | Databricks | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 2026-08-20 | Databricks | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
@@ -278,9 +277,14 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-23 | Figma | [Data Engineer Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | San Francisco, CA • New York, NY |
+| 2026-10-13 | GE Aerospace | [Environmental/Health/Safety Intern – Hooksett, NH – Summer 2027](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Hooksett/Environmental-Health-Safety-Intern---Hooksett--NH---Summer-2027_R5041385-1) | Hooksett |
+| 2026-10-13 | GE Aerospace | [Manufacturing/Supply Chain Intern – Hooksett, NH – Summer 2027](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Hooksett/Manufacturing-Supply-Chain-Intern---Hooksett--NH---Summer-2027_R5041386-1) | Hooksett |
 | 2026-10-12 | GE Aerospace | [Systems Product definition intern](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Queretaro/Systems-Product-definition-intern_R5037674-2) | Queretaro |
 | 2026-10-13 | GE HealthCare | [Innovation Intern](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Herlev/Innovation-Intern_R4047567-1) | Herlev |
 | 2026-10-13 | GE HealthCare | [Innovation Intern](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Herlev/Innovation-Intern_R4047587-1) | Herlev |
+| 2026-10-13 | Genentech | [Legal Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Burgess-Hill/Legal-Intern_202609-124720) | Burgess Hill |
+| 2026-10-13 | Genentech | [Talent Acquisition Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Petaling-Jaya/Talent-Acquisition-Intern_202610-125780) | Petaling Jaya |
+| 2026-10-13 | Genentech | [Technology Support Intern / Mandarin Speaker (Open to All Majors)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Petaling-Jaya/Technology-Support-Intern---Mandarin-Speaker--Open-to-All-Majors-_202610-125573) | Petaling Jaya |
 | 2026-10-05 | Guidehouse | [Intern - Centers for Disease Control and Prevention, Federal Health Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---GA-Atlanta/Intern---Centers-for-Disease-Control-and-Prevention--Federal-Health-Advisory---Campus-2027_45239) | US - GA, Atlanta |
 | 2026-09-13 (30+ days) | Guidehouse | [Intern - Energy Providers - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---GA-Atlanta/Intern---Energy-Providers---Campus-2027_44256) | 9 Locations |
 | 2026-09-28 | Guidehouse | [Intern - Federal Civilian Agencies - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Intern---Federal-Civilian-Agencies---Campus-2027_44923) | 2 Locations |
@@ -379,6 +383,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-06 | PwC (2) | [Audit - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Audit---Japanese-Business-Network---Intern---Summer-2027_757086WD) | 3 Locations |
 | 2026-10-06 | PwC (2) | [Audit - Japanese Business Network (JBN) - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Audit---Japanese-Business-Network---Intern---Summer-2028_757478WD) | 7 Locations |
 | 2026-10-08 | PwC (2) | [Philadelphia - Tax - Intern - Winter 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Philadelphia/Philadelphia---Tax-CPA---Intern---Winter-2027_756463WD) | PA-Philadelphia |
+| 2026-10-13 | PwC (2) | [Pittsburgh - Tax - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Pittsburgh/Pittsburgh---Tax-CPA---Intern---Summer-2027_756465WD) | PA-Pittsburgh |
 | 2026-10-09 | PwC (2) | [Salt Lake City - Digital Assurance & Transparency (DAT) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/UT-Salt-Lake-City/Salt-Lake-City---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_764775WD) | UT-Salt Lake City |
 | 2026-10-06 | PwC (2) | [Tax - Japanese Business Network (JBN) - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax---Japanese-Business-Network---Intern---Summer-2028_757656WD) | 7 Locations |
 | 2026-09-11 | Qualtrics | [Professional Sales Skillbridge Intern](https://www.qualtrics.com/careers/us/en/job/8193457?gh_jid=8193457) | Dallas, Texas, United States |

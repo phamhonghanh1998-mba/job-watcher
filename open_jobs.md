@@ -1,6 +1,6 @@
-# Open matching jobs (432)
+# Open matching jobs (437)
 
-Updated 2026-10-13 12:51 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-13 13:22 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -113,15 +113,21 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (331)
+## Other internships (336)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
 | 2026-10-13 | Salesforce | [Summer 2027 Intern - UI/UX Designer](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Summer-2027-Intern---UI-UX-Designer_JR363342) | 2 Locations |
+| 2026-10-13 | PwC (2) | [Pittsburgh - Tax - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Pittsburgh/Pittsburgh---Tax-CPA---Intern---Summer-2027_756465WD) | PA-Pittsburgh |
+| 2026-10-13 | Genentech | [Legal Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Burgess-Hill/Legal-Intern_202609-124720) | Burgess Hill |
+| 2026-10-13 | Genentech | [Technology Support Intern / Mandarin Speaker (Open to All Majors)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Petaling-Jaya/Technology-Support-Intern---Mandarin-Speaker--Open-to-All-Majors-_202610-125573) | Petaling Jaya |
+| 2026-10-13 | Genentech | [Talent Acquisition Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Petaling-Jaya/Talent-Acquisition-Intern_202610-125780) | Petaling Jaya |
 | 2026-10-13 | GE HealthCare | [Innovation Intern](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Herlev/Innovation-Intern_R4047567-1) | Herlev |
 | 2026-10-13 | GE HealthCare | [Innovation Intern](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Herlev/Innovation-Intern_R4047587-1) | Herlev |
+| 2026-10-13 | GE Aerospace | [Manufacturing/Supply Chain Intern – Hooksett, NH – Summer 2027](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Hooksett/Manufacturing-Supply-Chain-Intern---Hooksett--NH---Summer-2027_R5041386-1) | Hooksett |
+| 2026-10-13 | GE Aerospace | [Environmental/Health/Safety Intern – Hooksett, NH – Summer 2027](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Hooksett/Environmental-Health-Safety-Intern---Hooksett--NH---Summer-2027_R5041385-1) | Hooksett |
 | 2026-10-13 | Caterpillar | [Intern-Machinist III-2](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wuxi-Jiangsu/Intern-Machinist-III-2_R0000394461) | Wuxi, Jiangsu |
 | 2026-10-13 | Amazon | [ASIC Engineer Intern, Summer 2027](https://www.amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027) | Sunnyvale, California, USA |
 | 2026-10-13 | Accenture | [Analista Junior Tecnico/Funzionale - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Verona/Analista-Junior-Tecnico-Funzionale---Ambito-Financial-Services_R00278795) |  |
@@ -131,8 +137,8 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-12 | Nordstrom | [Supply Chain Operations Industrial Engineer - Corporate Internship - Summer 2027 - Dubuque, IA](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Dubuque-IA/Supply-Chain-Operations-Industrial-Engineer---Corporate-Internship---Summer-2027---Dubuque--IA_R-886442) | Dubuque, IA |
 | 2026-10-12 | Nordstrom | [Finance - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Finance---Corporate-Internship---Summer-2027_R-886463-1) | Seattle, WA |
 | 2026-10-12 | Nordstrom | [Technical Apparel Design - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Technical-Apparel-Design---Corporate-Internship---Summer-2027_R-886419) | Seattle, WA |
-| 2026-10-12 | Nordstrom | [Merchandising - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Merchandising---Corporate-Internship---Summer-2027_R-886408) | Seattle, WA |
 | 2026-10-12 | Nordstrom | [Supply Chain Operations - Corporate Internship - Summer 2027 - Seattle, WA](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Supply-Chain-Operations---Corporate-Internship---Summer-2027---Seattle--WA_R-886519) | Seattle, WA |
+| 2026-10-12 | Nordstrom | [Merchandising - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Merchandising---Corporate-Internship---Summer-2027_R-886408) | Seattle, WA |
 | 2026-10-12 | Nordstrom | [Fashion Design - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Fashion-Design---Corporate-Internship---Summer-2027_R-886422) | Seattle, WA |
 | 2026-10-12 | Hewlett Packard Enterprise | [ASIC Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034) | Sunnyvale, California, United States of America |
 | 2026-10-12 | GE Aerospace | [Systems Product definition intern](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Queretaro/Systems-Product-definition-intern_R5037674-2) | Queretaro |
@@ -152,8 +158,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-12 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Hollywood/Pharmacy-Intern_R1073721) | CA - Hollywood |
 | 2026-10-12 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Los-Angeles/Pharmacy-Intern_R1073719) | CA - Los Angeles |
 | 2026-10-12 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Los-Angeles/Pharmacy-Intern_R1073718) | CA - Los Angeles |
-| 2026-10-12 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Los-Angeles/Pharmacy-Intern_R1073717-1) | CA - Los Angeles |
-| 2026-10-12 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Los-Angeles/Pharmacy-Intern_R1073715) | CA - Los Angeles |
 | 2026-10-12 | Caterpillar | [EHS Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wuxi-Jiangsu/EHS-Intern_R0000386931) | Wuxi, Jiangsu |
 | 2026-10-12 | Caterpillar | [Welder Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wujiang-Jiangsu/Welder-Intern_R0000396237) | Wujiang, Jiangsu |
 | 2026-10-12 | Allstate | [Supply Management & Data Analytics Intern (Summer 2027)](https://allstate.wd5.myworkdayjobs.com/en-US/allstate_careers/job/USA---IL-Remote/Supply-Management---Data-Analytics-Intern--Summer-2027-_R36103) | USA - IL (Remote) |
@@ -359,6 +363,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-13 (30+ days) | Caterpillar | [2027 Summer Corporate Intern - Marketing](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Marketing_R0000391407) | 7 Locations |
 | 2026-09-13 (30+ days) | Booz Allen Hamilton | [University - Summer 27, Contracts Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249252) | McLean, VA |
 | 2026-09-13 (30+ days) | Booz Allen Hamilton | [University - Summer 27, Contracts Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249253) | McLean, VA |
+| 2026-09-13 (30+ days) | Booz Allen Hamilton | [University – Summer 27, Cybersecurity Analyst Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214) | McLean, VA |
 | 2026-09-13 (30+ days) | Amgen | [Undergrad Intern – Finance (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Undergrad-Intern---Finance--Summer-2027-_R-254668) | United States - Remote |
 | 2026-09-13 (30+ days) | Amgen | [Undergrad Intern - Operations – Engineering (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Engineering--Summer-2027-_R-255335) | US - California - Thousand Oaks |
 | 2026-09-13 (30+ days) | Amgen | [Undergrad intern - U.S. Value & Access (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Undergrad-intern---US-Value---Access--Summer-2027-_R-253424) | United States - Remote |
