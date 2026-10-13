@@ -827,7 +827,8 @@
   "10575251",
   "10575252",
   "10575256",
-  "10575291"
+  "10575291",
+  "10576619"
  ],
  "Amgen": [
   "/job/Algeria---Algiers/CW---Senior-Finance-Manager_R-225698",
@@ -15000,6 +15001,7 @@
   "/job/Taichung---Fab-16-Taiwan/FY26-Micron-Korea-Overseas-Campus-Hiring_JR114122",
   "/job/Taichung---Fab-16-Taiwan/FY27-Hiring--ADT-PHOTO-ENGINEER_JR113093",
   "/job/Taichung---Fab-16-Taiwan/FY27-Micron-Korea-Overseas-Experience-Hiring_JR114123",
+  "/job/Taichung---Fab-16-Taiwan/Full-Stack-AI-Engineer--IPAI--SMAI_JR106376",
   "/job/Taichung---Fab-16-Taiwan/ID1-RAM-Remote-Applications-Manager_JR114114",
   "/job/Taichung---Fab-16-Taiwan/INDIRECT-CATEGORY-SUPPLIER-MANAGER_JR110965",
   "/job/Taichung---Fab-16-Taiwan/IT-System-Administrator_JR113199-1",
@@ -19234,6 +19236,7 @@
   "/job/Singapore/Digital-Tax--Business-Analyst----Associate---Senior-Associate_731074WD",
   "/job/Singapore/Digital-Tax--Business-Analyst---Corporate-Tax----Manager_748183WD",
   "/job/Singapore/Digital-Tax--Data-Scientist---Manager_678893WD-1",
+  "/job/Singapore/Finance-Consultant--R2R---record-to-report-----6-months-contract_764078WD",
   "/job/Singapore/Financial-Services-Tax---MA---SM_743563WD",
   "/job/Singapore/Risk-Services---Risk-Regulatory---Compliance--Insurance----Senior-Associate---Assistant-Manager_734185WD",
   "/job/Singapore/Tax---Digital-Tax--Data-Scientist--Experienced-Associate_657786WD",
@@ -21589,6 +21592,7 @@
   "/job/California---San-Francisco/Sr-Manager--Enterprise-Technical-Resilience_JR360074",
   "/job/California---San-Francisco/Sr-Manager-Director-Sr-Director-of-Product-Management--Life-Sciences-Cloud--Evergreen-_JR363047",
   "/job/California---San-Francisco/Sr-Product-Manager--Customer-Health-Platform_JR342997",
+  "/job/California---San-Francisco/Staff-Software-Engineer--Data-Infrastructure_JR363305-1",
   "/job/California---San-Francisco/Strategic-Partner-Account-Sr-Manager_JR362133",
   "/job/California---San-Francisco/Summer-2027-Intern---Product-GTM-Strategy_JR362217-1",
   "/job/California---San-Francisco/Summer-2027-Internship---Content-Design_JR363232-1",
@@ -21770,7 +21774,9 @@
   "/job/Italy---Rome/Forward-Deployed-Engineer--Italian-Speaking_JR348964-1",
   "/job/Italy---Rome/Senior-Forward-Deployed-Engineer--Italian-Speaking_JR363565",
   "/job/Japan---Tokyo/Account-Solution-Engineer--Informatica_JR362034",
+  "/job/Japan---Tokyo/Customer-Success-Manager_JR359358-1",
   "/job/Japan---Tokyo/Operations-Senior-Manager--Deal-Risk-Management--Professional-Services-_JR356510",
+  "/job/Japan---Tokyo/Sales-Strategy-Senior-Lead-Lead--Business-Partner-_JR345991",
   "/job/Korea-Republic-of---Seoul/Account-Executive--Growth-Market-Sales_JR363104",
   "/job/Korea-Republic-of---Seoul/Enterprise-Account-Executive---Slack--Korea-_JR362532-2",
   "/job/Maryland---Remote/Solution-Architect---Senior-Solution-Architect---PubSec---FedCiv_JR354177",
@@ -29428,7 +29434,8 @@
    "10575251": "2026-10-09",
    "10575252": "2026-10-09",
    "10575256": "2026-10-09",
-   "10575291": "2026-10-09"
+   "10575291": "2026-10-09",
+   "10576619": "2026-10-13"
   },
   "Amgen": {
    "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349": "2026-10-02",
@@ -30546,7 +30553,8 @@
    "10575251": false,
    "10575252": false,
    "10575256": false,
-   "10575291": false
+   "10575291": false,
+   "10576619": false
   },
   "Amgen": {
    "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349": true,
