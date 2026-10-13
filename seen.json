@@ -3725,7 +3725,8 @@
   "5264876007",
   "5264946007",
   "5265042007",
-  "5265052007"
+  "5265052007",
+  "5265088007"
  ],
  "Anthropic": [
   "4017331008",
@@ -5756,6 +5757,7 @@
   "8257221",
   "8257470",
   "8258849",
+  "8259211",
   "8261467",
   "8262078",
   "8262931",
@@ -5763,7 +5765,8 @@
   "8268267",
   "8278436",
   "8278963",
-  "8278964"
+  "8278964",
+  "8279978"
  ],
  "Brex": [
   "7732107002",
@@ -6718,6 +6721,7 @@
   "/job/NC---Winston-Salem/Grad-Pharmacist_R1065828",
   "/job/NC---Winston-Salem/Nurse-Practitioner--Advanced-Practice-Provider_R1009389",
   "/job/NC---Work-from-home/A1A-Case-Manager-RN---Registered-Nurse---NC_R1036948",
+  "/job/NC---Work-from-home/A1A-Precertification-Nurse_R1009691",
   "/job/NC---Work-from-home/Case-Manager--Registered-Nurse_R1055185",
   "/job/NC---Work-from-home/Case-Manager-RN---Must-reside-in-North-Carolina_R1038467",
   "/job/NC---Work-from-home/Case-Manager-RN--High-Point--NC_R1061002-1",
@@ -7503,6 +7507,7 @@
   "/job/McLean-VA/Senior-Manager--Vertical-Risk-Manager--DaaS--Decisioning-as-a-Service-_R1003158-1",
   "/job/McLean-VA/Senior-Manager--Well-Managed--QA---Program-Execution_R1002602-1",
   "/job/McLean-VA/Senior-Product-Manager---Card-Team_R1001788-1",
+  "/job/McLean-VA/Senior-Product-Manager--AI-Enablement---Analytics--Capital-One-Shopping--Remote-Eligible-_R1003310-1",
   "/job/McLean-VA/Senior-Risk-Manager---Enterprise-Risk-Management_R1003102-1",
   "/job/McLean-VA/Senior-Risk-Manager---Global-Payment-Network--GPN--Controls-Advisory-Team_R1003427-1",
   "/job/McLean-VA/Senior-Risk-Specialist---Retail-Bank_R249955-1",
@@ -7742,6 +7747,7 @@
   "/job/San-Francisco--CA/Staff-AI-Engineer--Remote-Eligible-_R1002807-1",
   "/job/San-Jose-CA/Applied-Researcher-4--AI-Foundations--LLM-Core-and-Agentic-AI_R1003483-1",
   "/job/San-Jose-CA/Applied-Researcher-4--AI-Foundations--LLM-Customization-and-Finetuning-_R1002964",
+  "/job/San-Jose-CA/Full-stack-Engineer-5--Cyber-Identity_R1001536-1",
   "/job/Toronto-ON/Director--Data-Science_R1003071-1",
   "/job/Toronto-ON/Director--Sales--Discover-Payment-Network_R1003496-1",
   "/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1",
@@ -7900,7 +7906,8 @@
   "8875820002",
   "8875914002",
   "8877396002",
-  "8879659002"
+  "8879659002",
+  "8881989002"
  ],
  "Cisco": [
   "/job/Amsterdam-Netherlands/Test-Chip-Administrator_2024574",
@@ -8535,7 +8542,11 @@
   "8273693",
   "8274111",
   "8274112",
-  "8276155"
+  "8274341",
+  "8275432",
+  "8275434",
+  "8276155",
+  "8279346"
  ],
  "Coca-Cola": [
   "/job/Brazil---Manus/Apprentice_R-146209",
@@ -8856,7 +8867,8 @@
   "8269081",
   "8275185",
   "8275226",
-  "8275465"
+  "8275465",
+  "8279479"
  ],
  "CrowdStrike": [
   "/job/Australia---Remote-NW/Professional-Services-Subcontractor-Manager_R30007",
@@ -9064,6 +9076,7 @@
   "/job/So-Paulo-So-Paulo-Brazil/Field-Application-Specialist---So-Paulo-SP-_R1319650",
   "/job/Stuttgart-Germany/Clinical-Specialist--d-f-m-_R1320155",
   "/job/Sunnyvale-California-United-States/Executive-Administrative-Assistant--Onsite--Sunnyvale--CA-_R1319778",
+  "/job/Sunnyvale-California-United-States/Executive-Assistant---Marketing---Global-Product-Management--Onsite--Sunnyvale--CA-_R1316824",
   "/job/Tokyo-Japan/Automation-Product-Manager_R1318522",
   "/job/Toronto-Ontario-Canada/Technical-Specialist-I---Immunohistochemistry---Pathology-Imaging---Canada_R1315726",
   "/job/USA---Fargo---Aldevron---Main/Product-Manager--RNA_R1317675",
@@ -10071,8 +10084,10 @@
   "8871488002",
   "8873053002",
   "8874892002",
+  "8876388002",
   "8876599002",
   "8876675002",
+  "8877962002",
   "8877968002",
   "8878095002",
   "8878720002",
@@ -10658,7 +10673,9 @@
   "8856460002",
   "8856467002",
   "8856582002",
-  "8879502002"
+  "8879502002",
+  "8881544002",
+  "8885940002"
  ],
  "DoorDash": [
   "3236374",
@@ -11939,6 +11956,7 @@
   "/job/Singapore/Quality-Intern_R5036384-1",
   "/job/Singapore/Regional-Lead-Customs-Specialist_R5040848-1",
   "/job/Springdale/Customer-Service-Lead---Component-Repair-Shop_R5040036-2",
+  "/job/Springdale/EHS-Specialist_R5041194-1",
   "/job/Springdale/Inspection-Engineering-Intern---Summer-2027_R5040956-1",
   "/job/Springdale/Military-DoD-SkillBridge-Internship---Structure-Parts-Operations-Supervisor--1st-Shift-_R5040965-1",
   "/job/Sterling-VA-USA/Production-Supervisor---2nd-Shift_R5041215-2",
@@ -12751,8 +12769,10 @@
   "/job/US---VA-McLean/Managing-Consultant---Life-Sciences-Data---Analytics_43038",
   "/job/US---VA-McLean/Managing-Internal-Controls--Audit-Remediation--Readiness--and-Risk-Management-Consultant_43529",
   "/job/US---VA-McLean/Managing-Internal-Controls--Audit-Remediation--Readiness--and-Risk-Management-Consultant_44114",
+  "/job/US---VA-McLean/Operations-Facilitation-Specialist_43562",
   "/job/US---VA-McLean/Senior-Internal-Control---Business-Transformation-Consultant_43544",
-  "/job/US---VA-McLean/Senior-Internal-Controls--Audit-Remediation--Readiness--and-Risk-Management-Consultant_43537"
+  "/job/US---VA-McLean/Senior-Internal-Controls--Audit-Remediation--Readiness--and-Risk-Management-Consultant_43537",
+  "/job/US---VA-McLean/XMLNAME-2027-DoW-HOH-SkillBridge--Onsite-_45275"
  ],
  "Gusto": [
   "6625049",
@@ -14964,6 +14984,7 @@
   "/job/Boise-ID---Main-Site/Global-EHS-Principle-Safety-Engineer_JR110672",
   "/job/Boise-ID---Main-Site/Global-Engineering-Lab--GEL--Equipment-Maintenance-Technician_JR114299-1",
   "/job/Boise-ID---Main-Site/Global-Front-End--FE--Materials-Category-Supplier-Manager_JR114106",
+  "/job/Boise-ID---Main-Site/Global-Process-Safety-Engineer_JR103371",
   "/job/Boise-ID---Main-Site/HBM-Media-Health-Product-Engineer--DFT-_JR113491",
   "/job/Boise-ID---Main-Site/HBM-Media-Health-Product-Engineer--DFT-_JR113494",
   "/job/Boise-ID---Main-Site/HBM-Product-Manager--New-College-Grad-_JR102001",
@@ -16146,6 +16167,7 @@
   "/job/Baltimore-Maryland-United-States-of-America/Detection-Strategist---Director_PT-JR044984",
   "/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2",
   "/job/Baltimore-Maryland-United-States-of-America/Internal-Audit-Associate---Institutional-Securities-Group-Technology_PT-JR045103-2",
+  "/job/Baltimore-Maryland-United-States-of-America/Internal-Audit-Associate---Investment-Management-Technology_PT-JR045104-1",
   "/job/Baltimore-Maryland-United-States-of-America/Internal-Audit-Director---HR-Corporate-Services_PT-JR044173-1",
   "/job/Baltimore-Maryland-United-States-of-America/Wealth-Management-Associate_JR044778",
   "/job/Bengaluru-India/Advanced-Analytics--AA-I--and-Innovation--Associate--Technical-Specialist_PT-JR045269",
@@ -16288,6 +16310,8 @@
   "/job/New-York-New-York-United-States-of-America/Institutional-Equity-Division---Director--Fund-Services-Investor-Experience--New-York-Purchase-_JR045260",
   "/job/New-York-New-York-United-States-of-America/Institutional-Equity-Division---Director--Fund-Services-Valuation---Quality-Assurance--New-York-Purchase-_JR045290",
   "/job/New-York-New-York-United-States-of-America/Institutional-Securities-Group-Financial-Crimes-Advisory-Vice-President_PT-JR045173-1",
+  "/job/New-York-New-York-United-States-of-America/Internal-Audit-Director---Capital-Markets--Underwriting-_PT-JR045267-1",
+  "/job/New-York-New-York-United-States-of-America/Internal-Audit-Director---Fixed-Income--Lending-_PT-JR044174",
   "/job/New-York-New-York-United-States-of-America/Internal-Audit-Executive-Director---Global-Audit-Lead--Cybersecurity--Information-Security---Cyber-Resilience_PT-JR045022",
   "/job/New-York-New-York-United-States-of-America/Internal-Audit-Vice-President---Global-Financial-Crimes_PT-JR045115-1",
   "/job/New-York-New-York-United-States-of-America/International-Registered-CSA_JR040613-1",
@@ -17345,6 +17369,7 @@
   "171ebca6-de53-4d6e-a312-30332f353957",
   "17daedbd-b3fb-4e8c-a17c-8bbc9ec1d0b5",
   "186bf7d1-0531-47fc-8e81-4429cbd3b5cb",
+  "186c3f38-2739-4998-ac8b-c21d237fec72",
   "18e64608-5881-4b8f-b5cf-abd09a8ff086",
   "18f58952-c242-4562-8732-073a0ae8029e",
   "194a69ed-d7a2-4af8-9bec-67a4b7b58451",
@@ -19347,6 +19372,7 @@
   "/job/Bangkok/Cyber-Security-Manager_566182WD",
   "/job/Barueri/Analista-de-PMO---Senior-Associate_762329WD",
   "/job/Barueri/Assistente-de-Impostos-Indiretos---Associate_759246WD-1",
+  "/job/Barueri/Consultor-Cyber-Security--Senior-Associate-2--tag01-_681702WD",
   "/job/Barueri/XMLNAME---Associate--tag01-_760546WD-1",
   "/job/Belo-Horizonte/Auditor-a--Snior-de-Riscos-e-Controles-Internos---Senior-Associate---Belo-Horizonte_754046WD-1",
   "/job/Bengaluru-Brigade-Magnum/IN-Senior-Manager---FS---Internal-audit-Services--Advisory---Bangalore_DB_006220-1",
@@ -20075,7 +20101,8 @@
   "8268451",
   "8268452",
   "8274176",
-  "8274275"
+  "8274275",
+  "8279987"
  ],
  "RTX": [
   "/job/AE-AZ-ABU-DHABI-ADGM-TOWER-3--Al-Maqam-Tower--GLOBAL-MARKET-SQ-TWR-3/Quality-Manager_01858264",
@@ -20506,6 +20533,7 @@
   "/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Embedded-Software-Engineer-II--Onsite-_01881380",
   "/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Integrated-Planning-Lead_01878928",
   "/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Program-Manager--Emerging-Innovations_01878386",
+  "/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Vision-Systems---Summer-Intern--Onsite-_01880505",
   "/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Facility-Security-Officer---Senior-Security-Manager---Goleta--CA_01878073",
   "/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Manager--Contracts--Advanced-Technology--Onsite-_01866240",
   "/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Portfolio-Area-Chief-Engineer---Electronic-Warfare-Systems--EWS-Advanced-Systems-_01881135",
@@ -20550,6 +20578,7 @@
   "/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/Bearings---Seals-Intern--Summer-2027--Onsite-_01879595",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Airfoil-Cell-Operator---2nd-Shift--onsite-_01872559-1",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Airfoil-Cell-Operator---3rd-Shift--onsite-_01872555-1",
+  "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Director---Product-Owner--Hybrid-_01880814-1",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Director---Product-Owner--Hybrid-_01880817",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Director--DT-Sales---Distribution--Warehousing--Hybrid-_01879320",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/CCA-Marinized-Capture-Manager--Onsite-_01865670",
@@ -20580,6 +20609,7 @@
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Senior-Project-Engineer--Onsite-_01877550",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/XMLNAME-2027-Summer-Intern--Systems-Engineering--Onsite-_01872108",
+  "/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Aero-Propulsion-Systems-Intern--Summer-2027--Onsite-_01881306",
   "/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/F135-ECU-Business-Acquisition-Mgr--Onsite--EH---Onsite-_01879774",
   "/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/F135-ECU-Turbines-Sr-Project-Engineer-P3--Onsite-_01879873",
   "/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Senior-IPT-Lead-for-ECU-HPC-Statics--Onsite-_01878699-1",
@@ -21163,6 +21193,7 @@
   "/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Industrial-Engineer-Section-Manager--UID252--M5_01877736",
   "/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Material-Program-Manager_01869968",
   "/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Obsolescence-Program-Manager_01878991",
+  "/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Security-Integration-Manager--Growth-Projects---Remote_01881718",
   "/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Senior-Field-Service-Engineer--EUCOM-_01880907",
   "/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Senior-Material-Program-Manager_01879984",
   "/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Sr-Systems-Administrator--Linux---Onsite-_01875574",
@@ -22367,6 +22398,7 @@
   "/job/Germany---Munich/Sales-Intern--North-_JR335815",
   "/job/Germany---Munich/Senior-Architect-Technical-Consulting---Enterprise-Security---AI-driven_JR361402",
   "/job/Illinois---Chicago/Agentforce-Success-Architect_JR336652",
+  "/job/Illinois---Chicago/Business-Development-Associate_JR347430-1",
   "/job/Illinois---Chicago/CSG-Product-Senior-Manager_JR356257-1",
   "/job/Illinois---Chicago/Cloud-Account-Executive_JR358759",
   "/job/Illinois---Chicago/Commercial---Emerging-Enterprise-Account-Executive---Consumer-Business-Services_JR332959",
@@ -22382,6 +22414,7 @@
   "/job/Illinois---Chicago/Enterprise-Account-Executive---Health-and-Life-Sciences_JR293189",
   "/job/Illinois---Chicago/Enterprise-Account-Executive---Tech---Media_JR332958-1",
   "/job/Illinois---Chicago/Executive-Assistant---AI-Labs_JR362426",
+  "/job/Illinois---Chicago/Keynote-Production-Associate-Manager_JR363084",
   "/job/Illinois---Chicago/Manager--Revenue-Operational-Transformation_JR361095-1",
   "/job/Illinois---Chicago/Migration-Delivery--Deployment-Strategist_JR357407",
   "/job/Illinois---Chicago/SVP--General-Manager-OU-Lead---TMT--Professional-Services-_JR357948",
@@ -22659,6 +22692,7 @@
   "/job/Washington---Seattle-Metro---Remote/Chief-of-Staff--CRO_JR363112",
   "/job/Washington---Seattle-Metro---Remote/Qualified-Success-Architect--Internal-Enablement_JR362329",
   "/job/Washington---Seattle/Community-Program-Senior-Analyst_JR360246",
+  "/job/Washington---Seattle/Customer-Marketing-Senior-Analyst_JR363080-1",
   "/job/Washington---Seattle/Principal-Researcher---Agentforce-Platform_JR361937",
   "/job/Washington---Seattle/Product-Management-Specialist_JR362469-1",
   "/job/Washington---Seattle/Senior-Product-Marketing-Manager--Website-Lead---Slack_JR340650",
@@ -22948,7 +22982,8 @@
   "8264748",
   "8267637",
   "8275248",
-  "8275253"
+  "8275253",
+  "8279080"
  ],
  "Scale AI": [
   "4282118005",
@@ -24031,7 +24066,9 @@
   "8017073003",
   "8017077003",
   "8019831003",
-  "8030930003"
+  "8030930003",
+  "8030940003",
+  "8031683003"
  ],
  "SpaceX": [
   "8377056002",
@@ -26901,7 +26938,8 @@
   "8885678002",
   "8885762002",
   "8885791002",
-  "8885852002"
+  "8885852002",
+  "8886347002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -28081,6 +28119,7 @@
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Textile-Graphic-Designer--Baby_R0000475620",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Textile-Graphic-Designer--Baby_R0000476521",
   "/job/1000-Site-Pkwy-HamptonGA-30228/Senior-Target-Security-Specialist---Flow-Center---Hampton--GA_R0000475801",
+  "/job/1090-73rd-Ave-NE-FridleyMN-55432-3407/Sr-HR-Specialist-GSCL_R0000476969",
   "/job/1111-Macom-Dr-DekalbIL-60115-8709/Sr-HR-Specialist-GSCL_R0000444809",
   "/job/11311-Bandera-Rd-San-AntonioTX-78250-6812/Property-Management-Lead--San-Antonio-TX_R0000476631",
   "/job/129-North-Rd-WiltonNY-12831-1308/Seasonal-Target-Security-Specialist---Regional-Distribution-Center---Wilton--NY_R0000475578",
@@ -28775,6 +28814,7 @@
   "8240491",
   "8240694",
   "8241250",
+  "8241356",
   "8243069",
   "8243073",
   "8244723",
@@ -29117,6 +29157,7 @@
   "/job/US---Foster-City-CA/Sr-Manager_REF088675W",
   "/job/US---Foster-City-CA/Sr-Product-Manager_REF080722W",
   "/job/US---Foster-City-CA/Sr-Technical-Program-Manager---Real-Estate_REF088836W",
+  "/job/US---Foster-City-CA/Staff-SW-Engineer_REF089232W",
   "/job/US---Foster-City-CA/Treasury-Analyst--Global-Treasury-Settlement-Operations_REF088998W",
   "/job/US---Miami-FL/Analyst_REF088669W",
   "/job/US---Miami-FL/Consumer-Analyst_REF089124W",
@@ -29591,8 +29632,10 @@
   "8265173",
   "8265868",
   "8268204",
+  "8274710",
   "8275413",
-  "8279506"
+  "8279506",
+  "8279620"
  ],
  "Workday": [
   "/job/Costa-Rica/Technical-Support-Delivery-Intern_JR-0110629-1",
@@ -31153,6 +31196,7 @@
    "/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01879955": "2026-10-07",
    "/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741": "2026-10-12",
    "/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Systems-Security-Engineering-Intern---Summer-2027-_01878922": "2026-10-08",
+   "/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Vision-Systems---Summer-Intern--Onsite-_01880505": "2026-10-13",
    "/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Systems-Engineering-Intern--Summer-2027-_01879193": "2026-10-06",
    "/job/US-CT-EAST-GRANBY-200--200-Signature-Way--OFFICE/Aircraft-Operations-Aviation-Intern--Summer-2027-_01877881": "2026-10-02",
    "/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/Bearings---Seals-Intern--Summer-2027--Onsite-_01879595": "2026-10-08",
@@ -31160,6 +31204,7 @@
    "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Finance-Intern--Summer-2027-_01872505": "2026-10-08",
    "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials-Management---Logistics-Internship-Program--Summer-2027-_01862953-1": "2026-10-10",
    "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Safety-and-Reliability-Intern--Onsite-_01873849": "2026-10-06",
+   "/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Aero-Propulsion-Systems-Intern--Summer-2027--Onsite-_01881306": "2026-10-13",
    "/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Industrial-Engineering--Summer-2027-_01868424-1": "2026-10-08",
    "/job/US-CT-FARMINGTON-0004--4-Farm-Springs-Rd--4-FARM-SPRINGS/Application-Portfolio-Support-Intern--Summer-2027-_01879981": "2026-10-06",
    "/job/US-CT-FARMINGTON-0004--4-Farm-Springs-Rd--4-FARM-SPRINGS/Corporate-Supply-Chain-Intern--Fall-2026---Remote-_01879289": "2026-10-08",
@@ -32220,6 +32265,7 @@
    "/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01879955": false,
    "/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01879741": false,
    "/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Systems-Security-Engineering-Intern---Summer-2027-_01878922": false,
+   "/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Vision-Systems---Summer-Intern--Onsite-_01880505": false,
    "/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Systems-Engineering-Intern--Summer-2027-_01879193": false,
    "/job/US-CT-EAST-GRANBY-200--200-Signature-Way--OFFICE/Aircraft-Operations-Aviation-Intern--Summer-2027-_01877881": false,
    "/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/Bearings---Seals-Intern--Summer-2027--Onsite-_01879595": false,
@@ -32227,6 +32273,7 @@
    "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Finance-Intern--Summer-2027-_01872505": false,
    "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials-Management---Logistics-Internship-Program--Summer-2027-_01862953-1": false,
    "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Safety-and-Reliability-Intern--Onsite-_01873849": false,
+   "/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Aero-Propulsion-Systems-Intern--Summer-2027--Onsite-_01881306": false,
    "/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Industrial-Engineering--Summer-2027-_01868424-1": false,
    "/job/US-CT-FARMINGTON-0004--4-Farm-Springs-Rd--4-FARM-SPRINGS/Application-Portfolio-Support-Intern--Summer-2027-_01879981": false,
    "/job/US-CT-FARMINGTON-0004--4-Farm-Springs-Rd--4-FARM-SPRINGS/Corporate-Supply-Chain-Intern--Fall-2026---Remote-_01879289": false,
