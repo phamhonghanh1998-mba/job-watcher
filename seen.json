@@ -4652,6 +4652,7 @@
   "a9d292a3-f075-469b-86ce-87314accb7c6",
   "aa307211-0de1-49d1-a478-81ca652d2699",
   "ab036590-eae9-45ea-9edc-8d7528cdde9d",
+  "ab279e98-7ff7-4a66-b6e8-3721572e762a",
   "ab5710d5-6511-4282-971d-74e7b99c1e95",
   "ac63bfed-de2e-47e5-8f20-fb7e7854795c",
   "ad48ec73-2f2e-4e11-8322-5f68624d18ab",
@@ -12336,6 +12337,7 @@
   "/job/Welwyn/Talent-Acquisition-Partner---UK---Ireland_202610-125267-1",
   "/job/West-Palm-Beach/Field-Engineering-Specialist---West-Palm-Beach--FL_202607-117325",
   "/job/Wilmington/Sr-Bioinformatics-Engineer_202609-123576-2",
+  "/job/Wuhan/_202610-125838",
   "/job/Xian/XMLNAME--Senior--Medical-Science-Manager--GI-_202609-122493",
   "/job/Xian/_202609-124733",
   "/job/Xian/_202609-124787"
@@ -12577,6 +12579,7 @@
   "/job/Spring-Texas-United-States-of-America/Senior-Manager-Corporate-Strategy_1190434-3",
   "/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625",
   "/job/Spring-Texas-United-States-of-America/VLSI-Engineer-Intern_1213422",
+  "/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034",
   "/job/Sunnyvale-California-United-States-of-America/DevOps-Engineer--Sunnyvale--CA-_1213659-2",
   "/job/Sunnyvale-California-United-States-of-America/Senior-Product-Manager_1197600-2",
   "/job/Wroclaw-Lower-Silesian-Poland/Intern_1215169",
@@ -14859,6 +14862,7 @@
   "/job/Manassas-VA----Fab-6/Senior-FMEA-Site-Coordinator_JR114347",
   "/job/Manassas-VA----Fab-6/Superintendent_JR111590",
   "/job/Miaoli---Tongluo-Taiwan/Banyan-ChemLab-SR-Engineer_JR104959",
+  "/job/Miaoli---Tongluo-Taiwan/Fab16-RDA-Operation-Engineer_JR95922",
   "/job/Miaoli---Tongluo-Taiwan/IT-System-Engineer--Linux-Server-admin-_JR113197",
   "/job/Miaoli---Tongluo-Taiwan/MGR--OMT-TECH-PI1-MB-ESPEC_JR112220-1",
   "/job/Miaoli---Tongluo-Taiwan/MGR--OMT-TECHNOLOGY-PI3-CELL-1_JR113067",
@@ -20545,6 +20549,7 @@
   "009dc18b-26a3-4fac-a773-c60d742cf840",
   "0378cc97-de79-42f9-8401-d301c678f4d7",
   "03e2d4e1-73ad-4f09-a058-2eb9ce34c2bc",
+  "0775bf66-8524-412b-906b-6e51695d8fdb",
   "081dbe29-8a06-4cb2-bda5-4b0bfb35c2e8",
   "09a9381c-677b-40a5-9ff1-027bd4302c13",
   "0cf79980-4cb6-4001-8bea-635f3b22914f",
@@ -29963,7 +29968,8 @@
    "/job/Spring-Texas-United-States-of-America/HR-Compensation-Intern_1212388": "2026-10-02",
    "/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393": "2026-10-02",
    "/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1": "2026-10-02",
-   "/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634": "2026-10-02"
+   "/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634": "2026-10-02",
+   "/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034": "2026-10-13"
   },
   "Hewlett Packard Enterprise (2)": {
    "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-3": "2026-10-02",
@@ -31031,7 +31037,8 @@
    "/job/Spring-Texas-United-States-of-America/Finance-Intern_1213639": false,
    "/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627": false,
    "/job/Spring-Texas-United-States-of-America/HR-Compensation-Intern_1212388": false,
-   "/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393": false
+   "/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393": false,
+   "/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034": false
   },
   "Hewlett Packard Enterprise (2)": {
    "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-3": false,
