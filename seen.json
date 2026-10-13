@@ -137,6 +137,7 @@
   "/job/Bengaluru/GN-I-E---Retail-SAP---Consultant_R00345770",
   "/job/Bengaluru/GN-I-E--Life-Science-SAP-Analyst_R00344938",
   "/job/Bengaluru/IT-Internal-Audit-Senior-Analyst_R00284934",
+  "/job/Bengaluru/Int-Controls---Compliance-Analyst_AIOC-S01586026-1",
   "/job/Bengaluru/Internal-Audit-Specialist_R00354494",
   "/job/Bengaluru/Internal-Audit-Specialist_R00354504",
   "/job/Bengaluru/XMLNAME--ACN-GN---SONG---Service---CE-Google---Analyst_R00331612",
@@ -848,7 +849,8 @@
   "10576619",
   "10576777",
   "10576778",
-  "10577611"
+  "10577611",
+  "10578090"
  ],
  "Amgen": [
   "/job/Algeria---Algiers/CW---Senior-Finance-Manager_R-225698",
@@ -1766,6 +1768,7 @@
   "5163565007",
   "5163624007",
   "5163635007",
+  "5163958007",
   "5164802007",
   "5164821007",
   "5164952007",
@@ -2265,6 +2268,7 @@
   "5204068007",
   "5204131007",
   "5204204007",
+  "5204368007",
   "5204505007",
   "5204659007",
   "5204711007",
@@ -2677,6 +2681,7 @@
   "5228032007",
   "5228068007",
   "5228071007",
+  "5228075007",
   "5228141007",
   "5228212007",
   "5228337007",
@@ -3733,7 +3738,8 @@
   "5265088007",
   "5265097007",
   "5265139007",
-  "5265158007"
+  "5265158007",
+  "5265196007"
  ],
  "Anthropic": [
   "4017331008",
@@ -6482,6 +6488,8 @@
   "/job/Field-Ohio/Care-Management-Coordinator--OhioRISE--Field---Must-reside-in-West-Region-of-Ohio_R1068740",
   "/job/Field-Ohio/Care-Management-Coordinator-OhioRISE---Field-----Northeast-Northwest-Region-Ohio_R1037806",
   "/job/Field-Ohio/Care-Management-Coordinator-OhioRISE---Field---Central-SE-Ohio_R1019175",
+  "/job/Field-Ohio/Care-Management-Coordinator-OhioRISE---Field---Central-SE-Ohio_R1063082",
+  "/job/Field-Ohio/Care-Management-Coordinator-OhioRISE---Field---Central-SE-Ohio_R1063221",
   "/job/Field-Ohio/Care-Management-Coordinator-OhioRISE---Field---Central-and-SE-Region-of-Ohio_R0994115",
   "/job/Field-Ohio/Care-Management-Coordinator-OhioRISE---Field---Must-reside-West-Region-of-Ohio_R1037773",
   "/job/Field-Ohio/Case-Management-Coordinator---Field---OhioRISE-Northeast-Northwest-Ohio_R1034448",
@@ -12916,6 +12924,7 @@
   "8257115",
   "8260095",
   "8268021",
+  "8275011",
   "8275021",
   "8275441"
  ],
@@ -15114,6 +15123,7 @@
   "/job/Boise-ID---North-Office/Intern---Procurement-Cost-Analyst_JR112690",
   "/job/Boise-ID---North-Office/Senior-Engineer--OCT-CPEE-Central-Mask-Tape-out_JR110642",
   "/job/Boise-ID---North-Office/Staff-Principal-Capital-Supplier-Manager_JR104118",
+  "/job/Boise-ID---SIG-Building/ENGINEER--SIG-ELECTRICAL-DESIGN_JR106977",
   "/job/Boise-ID---SIG-Building/Embedded-Software-Lead_JR92305",
   "/job/Boise-ID---SIG-Building/Senior-Embedded-Firmware-Engineer_JR105209",
   "/job/California---Remote-E/Executive-Search-Recruiting-Sourcing-Specialist--Contract--_JR114197",
@@ -15327,6 +15337,7 @@
   "/job/Jalisco-Mexico/NCG-Eng-Remote-Operations-Center--EROC-_JR114200-1",
   "/job/Jalisco-Mexico/OPC-Production-Engineer_JR107628",
   "/job/Jalisco-Mexico/Oracle-Database-Engineer_JR69871",
+  "/job/Jalisco-Mexico/SENIOR-ENGINEER---HBM-VERIFICATION_JR114655",
   "/job/Jalisco-Mexico/STAFF-ENGINEER---HBM-VERIFICATION_JR113253",
   "/job/Jalisco-Mexico/Sr-Engineer--Memory-CAD--Guadalajara_JR86164",
   "/job/Jalisco-Mexico/Staff-DRAM-Semiconductor-Design-Engineer_JR110633",
@@ -21148,6 +21159,7 @@
   "/job/US-NY-REMOTE/AI-Governance-Product-Manager_01859636",
   "/job/US-OH-TROY-101--101-Waco-St--WACO/Associate-Director--SIOP---Materials-Management-Landing-Systems--Onsite-_01876895",
   "/job/US-OH-TROY-101--101-Waco-St--WACO/Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01879477",
+  "/job/US-OH-TROY-101--101-Waco-St--WACO/Sr-Transportation-Specialist_01881842",
   "/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Electrical-Engineer-1--Onsite-_01865398-1",
   "/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Mechanical-Design-Engineering-Co-op--Spring-2027-_01874486",
   "/job/US-OH-UNIONTOWN-1555--1555-Corporate-Woods-Pkwy--CORP-WOODS/Test---Validation-Engineering-Co-op--Spring-2027-_01872857",
@@ -21253,11 +21265,13 @@
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Senior-System-Administrator_01879839",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineering-Intern--Summer-2027-_01879520",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/System-Administrator_01878695",
+  "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-Intern--Onsite-_01880586",
   "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037",
   "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Field-Engineering-Supervisor---Coyote-UAS-KuRFS---Tucson---Arizona---OCONUS-_01867311",
   "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Mechanical-Engineer-I--Onsite-_01878377",
   "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Mechanical-Engineer-II--Onsite-_01878379",
   "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Principal-Specialist-Field-Service_01881116-1",
+  "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/RF-Systems-Engineer-Intern--Onsite-_01880592",
   "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Senior-Principal-Electrical-Engineer_01881231",
   "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Sr-Program-Planner-Scheduler-I---Onsite_01858740-1",
   "/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Electrical-Engineer-Intern--Summer2027--Onsite-_01880018",
@@ -23027,7 +23041,8 @@
   "8275248",
   "8275253",
   "8279080",
-  "8280137"
+  "8280137",
+  "8280158"
  ],
  "Scale AI": [
   "4282118005",
@@ -23835,6 +23850,7 @@
   "896f250b-b553-458d-b0d4-80ea9ceee826",
   "8a6365f5-454f-4a9e-b72f-29b09c02d55b",
   "8a7ee5cf-d7fb-4f44-8b6f-588af882af9a",
+  "8bbbd764-cdd6-4f53-8a3f-096902f2d966",
   "8db8d9ae-e35c-4e1d-9bd0-078627de3bd1",
   "8e68b4f3-04bc-4da8-b8db-7731a9100c7f",
   "8e88251e-e77e-428e-bccf-dc1ccadc22ef",
@@ -26992,7 +27008,8 @@
   "8886488002",
   "8886499002",
   "8886509002",
-  "8886523002"
+  "8886523002",
+  "8886649002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -28712,7 +28729,9 @@
   "8276321",
   "8278246",
   "8279405",
-  "8279768"
+  "8279768",
+  "8280188",
+  "8280190"
  ],
  "Twilio": [
   "6372770",
@@ -29144,6 +29163,7 @@
   "/job/SG---Singapore/Sr-Data-Engineer_REF088913W",
   "/job/SG---Singapore/Sr-Director--Head-of-Products---Solutions--Singapore---Brunei_REF088914W-1",
   "/job/SG---Singapore/Sr-Director--Sponsorships-Commercialization_REF087455W",
+  "/job/SG---Singapore/Sr-Product-Manager--Fleet-and-Mobility_REF083176W-1",
   "/job/SG---Singapore/Sr-Risk-Management-Manager_REF089133W-1",
   "/job/SG---Singapore/Sr-SW-Test-Engineer_REF088800W",
   "/job/TH---Bangkok-Thailand/Manager--Client-Consulting---Technology_REF088953W",
@@ -31304,7 +31324,9 @@
    "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Project-Engineer-Intern--Summer-2027---Onsite-_01879858": "2026-10-07",
    "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Repair-Design-Engineer-Intern--Summer-2027---Onsite-_01880133": "2026-10-07",
    "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineering-Intern--Summer-2027-_01879520": "2026-10-06",
+   "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-Intern--Onsite-_01880586": "2026-10-13",
    "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037": "2026-10-06",
+   "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/RF-Systems-Engineer-Intern--Onsite-_01880592": "2026-10-13",
    "/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Electrical-Engineer-Intern--Summer2027--Onsite-_01880018": "2026-10-07",
    "/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/Mechanical-Automation-Engineering-Intern--Summer-2027-_01881162": "2026-10-13",
    "/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Internship--June-2027---Hybrid-_01881487": "2026-10-12",
@@ -32375,7 +32397,9 @@
    "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Project-Engineer-Intern--Summer-2027---Onsite-_01879858": false,
    "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Repair-Design-Engineer-Intern--Summer-2027---Onsite-_01880133": false,
    "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineering-Intern--Summer-2027-_01879520": false,
+   "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-Intern--Onsite-_01880586": false,
    "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037": false,
+   "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/RF-Systems-Engineer-Intern--Onsite-_01880592": false,
    "/job/US-TX-MCKINNEY-513WH--2501-W-University-Dr--WING-H-BLDG/Electrical-Engineer-Intern--Summer2027--Onsite-_01880018": false,
    "/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/Mechanical-Automation-Engineering-Intern--Summer-2027-_01881162": false,
    "/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Internship--June-2027---Hybrid-_01881487": false,
