@@ -1,6 +1,6 @@
-# Open matching jobs (420)
+# Open matching jobs (429)
 
-Updated 2026-10-13 09:40 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-13 09:59 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -113,7 +113,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (319)
+## Other internships (328)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -130,12 +130,12 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-14 | Abbott | [Field Technical Engineer- Intern - Paris - 6 Months](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/France---Issy-les-Moulineaux/Field-Technical-Engineer--Intern---Paris---6-Months_31162067) | 2 Locations |
 | 2026-09-13 (30+ days) | Accenture | [Adobe Experience Cloud Intern Analyst / MarTech & Digital Experience Internship Program (He/She/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Functional-Analyst---MarTech-Trainee--Adobe-Experience-Cloud----Internship-Program--She-He-They-_R00335218) |  |
 | 2026-09-13 (30+ days) | Accenture | [Business Analyst - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Stage-in-area-Consulting_R00279776) |  |
-| 2026-10-09 | Accenture | [Consulting Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Consulting-Intern_R00359291) |  |
 | 2026-09-25 | Accenture | [Data & AI Intern - Accenture Internship Program -Athens](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Athens-Arcadias/Global-S-C-Networks-Internship-Program---Athens_R00284676) |  |
 | 2026-09-13 (30+ days) | Accenture | [Digital Engineering Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) |  |
 | 2026-09-13 (30+ days) | Accenture | [Digital transformation intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Digital-transformation-intern_R00354466) |  |
 | 2026-09-15 | Accenture | [Finance Transformation Analyst - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Finance-Transformation-Analyst---Intern_R00356849) |  |
 | 2026-09-13 (30+ days) | Accenture | [Financial Services - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago/Banking-and-Financial-Regulation-Intern_R00279783) |  |
+| 2026-09-13 (30+ days) | Accenture | [Industrial Design Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Eindhoven/Internship---Industrial-Design-IX_R00343384) |  |
 | 2026-09-17 | Accenture | [Internship - Management Consulting Intern -Song Services - As of February 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Internship---Management-Consulting-Intern--Song-Services---As-of-February-2027_R00357681) |  |
 | 2026-09-14 | Accenture | [Talent Transformation Analyst - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Talent-Transformation-Analyst---Intern_R00356463) |  |
 | 2026-09-13 (30+ days) | Accenture | [Tech Intern - Accenture Customer Innovation Network](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Accenture-Customer-Innovation-Network---Innovation-Intern_R00279814) |  |
@@ -341,6 +341,15 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-13 (30+ days) | NVIDIA | [Software Engineering Intern, NCCL - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645) | 2 Locations |
 | 2026-09-13 (30+ days) | Oliver Wyman | [Insurance Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Lincoln---Pine/Insurance-Intern_R_364734) | Lincoln - Pine |
 | 2026-09-13 (30+ days) | Oliver Wyman | [Insurance Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Omaha---Southport/Insurance-Intern_R_364740) | Omaha - Southport |
+| 2025-12-11 | Palantir | [Deployment Strategist, Internship - US Government](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) | Honolulu, HI |
+| 2026-07-10 | Palantir | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | Washington, D.C. |
+| 2026-07-10 | Palantir | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | Palo Alto, CA |
+| 2026-07-10 | Palantir | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) | New York, NY |
+| 2022-08-03 | Palantir | [Information Security Engineer, Internship](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) | New York, NY |
+| 2019-10-10 | Palantir | [Product Designer, Internship](https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6) | New York, NY |
+| 2025-08-12 | Palantir | [Product Designer, Internship - US Government](https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d) | New York, NY |
+| 2026-07-31 | Palantir | [Product Designer, Internship - US Government](https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a) | Palo Alto, CA |
+| 2024-08-19 | Palantir | [Product Designer, Internship - US Government](https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5) | Washington, D.C. |
 | 2026-07-01 | Perplexity | [Internship - Search Backend Infra Engineer](https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92) | Belgrade |
 | 2026-01-13 | Perplexity | [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2) | Belgrade |
 | 2026-09-13 (30+ days) | Philips | [CMM intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Milano/CMM-intern_591022) | Milano |

@@ -1,6 +1,6 @@
-# Open matching jobs (420)
+# Open matching jobs (429)
 
-Updated 2026-10-13 09:40 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-13 09:59 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -113,7 +113,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (319)
+## Other internships (328)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -170,7 +170,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-09 | Amazon | [General Marketing Specialist Intern – Summer 2027](https://www.amazon.jobs/en/jobs/10575256/general-marketing-specialist-intern-summer-2027) | Seattle, Washington, USA |
 | 2026-10-09 | Amazon | [Program Manager Intern – Summer 2027](https://www.amazon.jobs/en/jobs/10575248/program-manager-intern-summer-2027) | Seattle, Washington, USA |
 | 2026-10-09 | Affirm | [IT Engineer Intern (Early Careers Summer 2027)](https://job-boards.greenhouse.io/affirm/jobs/8011375003) | San Francisco, California, United States |
-| 2026-10-09 | Accenture | [Consulting Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Consulting-Intern_R00359291) |  |
 | 2026-10-09 | Abbott | [2027 IT Intern](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432) | United States - Illinois - Waukegan |
 | 2026-10-08 | PwC (2) | [Philadelphia - Tax - Intern - Winter 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Philadelphia/Philadelphia---Tax-CPA---Intern---Winter-2027_756463WD) | PA-Philadelphia |
 | 2026-10-08 | Pinterest | [Solutions Engineer Intern 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8214788) | San Francisco, CA, US; Remote, US |
@@ -365,6 +364,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-13 (30+ days) | Accenture | [Tech Intern - Accenture Customer Innovation Network](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Accenture-Customer-Innovation-Network---Innovation-Intern_R00279814) |  |
 | 2026-09-13 (30+ days) | Accenture | [Adobe Experience Cloud Intern Analyst / MarTech & Digital Experience Internship Program (He/She/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Functional-Analyst---MarTech-Trainee--Adobe-Experience-Cloud----Internship-Program--She-He-They-_R00335218) |  |
 | 2026-09-13 (30+ days) | Accenture | [Digital Engineering Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Engineering-Internship_R00327505) |  |
+| 2026-09-13 (30+ days) | Accenture | [Industrial Design Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Eindhoven/Internship---Industrial-Design-IX_R00343384) |  |
 | 2026-09-13 (30+ days) | Abbott | [CRM Clinical Field Intern - Summer 2027](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Abbott-Park/CRM-Clinical-Field-Intern---Summer-2027_31160750) | United States - Illinois - Abbott Park |
 | 2026-09-11 | Qualtrics | [Professional Sales Skillbridge Intern](https://www.qualtrics.com/careers/us/en/job/8193457?gh_jid=8193457) | Dallas, Texas, United States |
 | 2026-09-11 | Lyft | [Data Analyst Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | New York, NY |
@@ -426,6 +426,10 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-08-03 | SpaceX | [Spring 2027 Civil Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002) | Flexible - Any SpaceX Site |
 | 2026-08-03 | SpaceX | [Summer 2027 Civil Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002) | Flexible - Any SpaceX Site |
 | 2026-08-03 | Samsara | [Software Engineering Internship - San Francisco ](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) | San Francisco - SF9 |
+| 2026-07-31 | Palantir | [Product Designer, Internship - US Government](https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a) | Palo Alto, CA |
+| 2026-07-10 | Palantir | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | Washington, D.C. |
+| 2026-07-10 | Palantir | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | Palo Alto, CA |
+| 2026-07-10 | Palantir | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) | New York, NY |
 | 2026-07-01 | Perplexity | [Internship - Search Backend Infra Engineer](https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92) | Belgrade |
 | 2026-06-11 | Anduril | [2027 Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States |
 | 2026-06-11 | Anduril | [2027 Manufacturing Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Seattle, Washington, United States |
@@ -436,5 +440,10 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-02-13 | Applied Materials | [Research Intern - Reinforcement Learning, Robotics](https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902) | Sunnyvale |
 | 2026-02-13 | Applied Materials | [Research Intern - World-Action Foundation Model, Robotics](https://jobs.ashbyhq.com/applied/edc2528d-6e6c-4a67-b871-bfe7d9c890b4) | Sunnyvale |
 | 2026-01-13 | Perplexity | [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2) | Belgrade |
+| 2025-12-11 | Palantir | [Deployment Strategist, Internship - US Government](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) | Honolulu, HI |
+| 2025-08-12 | Palantir | [Product Designer, Internship - US Government](https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d) | New York, NY |
 | 2024-09-21 | Applied Materials | [Research Intern - Reinforcement Learning, Self-Driving](https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526) | Sunnyvale |
+| 2024-08-19 | Palantir | [Product Designer, Internship - US Government](https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5) | Washington, D.C. |
 | 2023-08-17 | Databricks | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
+| 2022-08-03 | Palantir | [Information Security Engineer, Internship](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) | New York, NY |
+| 2019-10-10 | Palantir | [Product Designer, Internship](https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6) | New York, NY |
