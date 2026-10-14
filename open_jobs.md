@@ -1,6 +1,6 @@
 # Open matching jobs (412)
 
-Updated 2026-10-14 23:02 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-14 23:43 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -168,10 +168,10 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-12 | Nordstrom | [Supply Chain Operations Industrial Engineer - Corporate Internship - Summer 2027 - Riverside, CA](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Riverside-CA/Supply-Chain-Operations-Industrial-Engineer---Corporate-Internship---Summer-2027---Riverside--CA_R-886446) | Riverside, CA |
 | 2026-10-12 | Nordstrom | [Supply Chain Operations Industrial Engineer - Corporate Internship - Summer 2027 - Dubuque, IA](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Dubuque-IA/Supply-Chain-Operations-Industrial-Engineer---Corporate-Internship---Summer-2027---Dubuque--IA_R-886442) | Dubuque, IA |
 | 2026-10-12 | Nordstrom | [Finance - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Finance---Corporate-Internship---Summer-2027_R-886463-1) | Seattle, WA |
-| 2026-10-12 | Nordstrom | [Merchandising - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Merchandising---Corporate-Internship---Summer-2027_R-886408) | Seattle, WA |
-| 2026-10-12 | Nordstrom | [Fashion Design - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Fashion-Design---Corporate-Internship---Summer-2027_R-886422) | Seattle, WA |
 | 2026-10-12 | Nordstrom | [Technical Apparel Design - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Technical-Apparel-Design---Corporate-Internship---Summer-2027_R-886419) | Seattle, WA |
 | 2026-10-12 | Nordstrom | [Supply Chain Operations - Corporate Internship - Summer 2027 - Seattle, WA](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Supply-Chain-Operations---Corporate-Internship---Summer-2027---Seattle--WA_R-886519) | Seattle, WA |
+| 2026-10-12 | Nordstrom | [Merchandising - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Merchandising---Corporate-Internship---Summer-2027_R-886408) | Seattle, WA |
+| 2026-10-12 | Nordstrom | [Fashion Design - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Fashion-Design---Corporate-Internship---Summer-2027_R-886422) | Seattle, WA |
 | 2026-10-12 | Hewlett Packard Enterprise | [ASIC Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034) | Sunnyvale, California, United States of America |
 | 2026-10-12 | Caterpillar | [EHS Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wuxi-Jiangsu/EHS-Intern_R0000386931) | Wuxi, Jiangsu |
 | 2026-10-12 | Caterpillar | [Welder Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wujiang-Jiangsu/Welder-Intern_R0000396237) | Wujiang, Jiangsu |

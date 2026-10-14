@@ -3415,8 +3415,10 @@
   "5250656007",
   "5250658007",
   "5250749007",
+  "5250777007",
   "5250779007",
   "5250781007",
+  "5250783007",
   "5250888007",
   "5250964007",
   "5250997007",
@@ -3817,7 +3819,8 @@
   "5266126007",
   "5266144007",
   "5266145007",
-  "5266146007"
+  "5266146007",
+  "5266201007"
  ],
  "Anthropic": [
   "4017331008",
@@ -6224,6 +6227,7 @@
   "/job/JPN-Tokyo-Tamachi-Station/Filed-Application-Engineer---Industrial---Automotive_R027276",
   "/job/JPN-Tokyo-Tamachi-Station/Industrial-Sales_R027275-7",
   "/job/Singapore-Senoko/Senior-Epi---Fab-Process-Engineer_R027200-5",
+  "/job/Taiwan-Hsinchu-Puding-Road/Substrate-Engineer_R027366",
   "/job/USA-AL-Remote-Location/Technical-Consulting-Senior-Project-Manager_R026578",
   "/job/USA-AZ-Chandler-North-Juniper-Drive/ESD---CAD-Design-Engineer_R027157-1",
   "/job/USA-CA---Hilltop-Bld-G/Senior-Manager--International-Tax_R027238",
@@ -7447,7 +7451,8 @@
   "6000000001473183",
   "6000000001479285",
   "6000000001487172",
-  "6000000001487237"
+  "6000000001487237",
+  "6000000001488524"
  ],
  "Capital One": [
   "/job/Alabang-Muntinlupa-City/Principal-Risk-Specialist--Control-Testing_R243928",
@@ -8048,6 +8053,7 @@
   "/job/San-Jose-CA/Full-stack-Engineer-5--Cyber-Identity_R1001536-1",
   "/job/Toronto-ON/Director--Data-Science_R1003071-1",
   "/job/Toronto-ON/Director--Sales--Discover-Payment-Network_R1003496-1",
+  "/job/Toronto-ON/Distinguished-Engineer_R1003518-1",
   "/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1",
   "/job/Toronto-ON/Intern--Data-Scientist---Winter-2027_R999619-1",
   "/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Summer-2027_R1003143",
@@ -22139,6 +22145,7 @@
   "/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Program-Operations---Control-Manager---McKinney--TX_01879380-1",
   "/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Senior-Manager-Electrical-Engineering--Onsite-_01877871",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Material-Program-Manager_01878248",
+  "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Materials-and-Process-Design-Engineer_01871771",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Procurement-Intern--Summer-2027-_01879140",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Quality-Engineering-Intern--Summer-2027-_01879147",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/RF---Microwave-Electrical-Engineer-I---Onsite_01879483",
@@ -31096,6 +31103,7 @@
   "5196227007",
   "5196229007",
   "5196231007",
+  "5196239007",
   "5196417007",
   "5196907007",
   "5196909007",
