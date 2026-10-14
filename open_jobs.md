@@ -1,17 +1,16 @@
-# Open matching jobs (399)
+# Open matching jobs (402)
 
-Updated 2026-10-14 15:08 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-14 15:57 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (102)
+## MBA-level (101)
 
 Title or job description mentions an MBA.
 
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
-| 2026-10-14 | Micron | [Intern - Micron Ventures](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---Micron-Ventures_JR114649) | San Jose, CA |
 | 2026-10-13 | Philips | [Intern - Health Systems Marketing-Cambridge, MA-Summer 2027](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Health-Systems-Marketing-Cambridge--MA-Summer-2027_593616) | Cambridge (US), Massachusetts, United States |
 | 2026-10-13 | NVIDIA | [Product Management MBA Intern, Data Center GPU - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) | US, CA, Santa Clara |
 | 2026-10-13 | Medtronic | [Summer 2027 Corporate Development Intern (MBA)](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Corporate-Development-Intern--MBA-_R79679-1) | Minneapolis, Minnesota, United States of America |
@@ -114,21 +113,25 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (297)
+## Other internships (301)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
 | 2026-10-14 | RTX | [Systems Engineer Intern -Portsmouth, RI](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Systems-Engineer-Intern--Portsmouth--RI_01872094) | US-RI-PORTSMOUTH-PS1 ~ 1847 W Main Rd ~ NIMITZ BLDG |
-| 2026-10-14 | RTX | [24K Customer Technical Service Engineering Intern (Summer 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/XMLNAME-24K-Customer-Technical-Service-Engineering-Intern--Summer-2027--Onsite-_01875003) | US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG |
-| 2026-10-14 | RTX | [Intern: Manufacturing Engineering (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Manufacturing-Engineering--Summer-2027-_01869903) | US-CT-EAST HARTFORD-J ~ 400 Main St ~ BLDG J |
 | 2026-10-14 | Morgan Stanley | [Intern - Bilingual English/Mandarin](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Beverly-Hills-California-United-States-of-America/Intern---Bilingual-English-Mandarin_JR045320) | Beverly Hills, California, United States of America |
 | 2026-10-14 | Mondelez | [Logistics Operations Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Business-Unit-Head-Office---East-Hanover-USA/Customer-Service-and-Logistics-Intern-_R-175412) | 6 Locations |
-| 2026-10-14 | Micron | [Intern - Dry Etch Equipment Development Engineering](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Dry-Etch-Equipment-Development-Engineering_JR109987) | Boise, ID - Main Site |
 | 2026-10-14 | Guidehouse | [Intern - Energy Providers - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---GA-Atlanta/Intern---Energy-Providers---Campus-2027_44256) | 9 Locations |
 | 2026-10-14 | Guidehouse | [Intern – State and Local Government – Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MA-Boston/Intern---State-and-Local-Government---Campus-2027_44623) | 8 Locations |
 | 2026-10-14 | GE Aerospace | [HR Intern](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Queretaro/HR-Intern_R5041204-1) | Queretaro |
+| 2026-10-14 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Salinas/Pharmacy-Intern_R1005811) | CA - Salinas |
+| 2026-10-14 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Palm-Desert/Pharmacy-Intern_R1005812) | CA - Palm Desert |
+| 2026-10-14 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Palm-Springs/Pharmacy-Intern_R1005814) | CA - Palm Springs |
+| 2026-10-14 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Monterey/Pharmacy-Intern_R1005816) | CA - Monterey |
+| 2026-10-14 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Watsonville/Pharmacy-Intern_R1005813) | CA - Watsonville |
+| 2026-10-14 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Salinas/Pharmacy-Intern_R1005815) | CA - Salinas |
+| 2026-10-14 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NE---Omaha/Pharmacy-Intern_R1075249-1) | NE - Omaha |
 | 2026-10-14 | Caterpillar | [Students & Graduates Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Chennai-Tamil-Nadu/Students---Graduates-Intern_R0000400270) | 5 Locations |
 | 2026-10-14 | Accenture | [Accenture Construct Intern - Talent pool](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest-Millennium-Gardens/Construction---Infrastructure-Engineering-Intern_R00310637) |  |
 | 2026-10-14 | Accenture | [Cybersecurity Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331) |  |
