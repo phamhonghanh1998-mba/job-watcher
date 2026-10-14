@@ -730,6 +730,7 @@
   "8279422"
  ],
  "Airtable": [
+  "8368711002",
   "8403107002",
   "8403127002",
   "8425211002",
@@ -4427,6 +4428,7 @@
   "5439391008",
   "5439499008",
   "5439524008",
+  "5439526008",
   "5439804008",
   "5439830008",
   "5439844008",
@@ -7829,6 +7831,7 @@
   "/job/Bangalore-Karnataka/Manager-Transportation--Senior-Finance-Analyst-_R0000398232",
   "/job/Bangalore-Karnataka/Senior-IT-Analyst-Applications--The-Warehousing---Distribution-Centre--DC--Business-Analyst-_R0000366234",
   "/job/Beijing-Beijing/Project-Manager_R0000383000-1",
+  "/job/Chennai-Tamil-Nadu/Students---Graduates-Intern_R0000400270",
   "/job/Chhatrapati-Sambhaji-Nagar--Maharashtra/Business-Manager_R0000395727-1",
   "/job/Chhatrapati-Sambhaji-Nagar--Maharashtra/Labour-Relations-Manager_R0000395218",
   "/job/Chicago-Illinois/SR-Data-Scientist--Rental_R0000387100-1",
@@ -8605,6 +8608,7 @@
   "8275434",
   "8275611",
   "8276155",
+  "8278383",
   "8278702",
   "8279346"
  ],
@@ -12379,6 +12383,7 @@
  ],
  "Genentech": [
   "/job/Alberta/Healthcare-System-Partner---HSP----West_202609-122986",
+  "/job/Algeria/Patient-Journey-Partner--Est-_202610-126027",
   "/job/Almaty/Legal-Counsel_202609-123401",
   "/job/Amadora/Internship---License-to-Operate-Chapter--1-Year--Full-Time-_202610-125035",
   "/job/Argentina/Patient-Journey-Partner-Oncologa--Crdoba-_202609-124510",
@@ -12713,6 +12718,7 @@
   "/job/Sao-Paulo/Medical-Manager---CVRM_202609-124422-1",
   "/job/Sao-Paulo/Medical-Manager--Immunology----So-Paulo_202609-124852-1",
   "/job/Seoul/Bioinformatics-Application-Consultant_202609-124780",
+  "/job/Seoul/Communications-Specialist_202610-125881",
   "/job/Shanghai/AM--Lab-Support---ASAT--Biologics_202609-123373",
   "/job/Shanghai/Applied-AI-Head---Roche-Information-Solutions-China_202609-124729-1",
   "/job/Shanghai/Associate-Manager-Packaging-and-Production-_202610-125906",
@@ -16328,7 +16334,8 @@
   "8273899",
   "8274765",
   "8274968",
-  "8280948"
+  "8280948",
+  "8280979"
  ],
  "Morgan Stanley": [
   "/job/1-New-York-Plaza/Stock-Plan-Project-Operations--Manager--AVP-_PT-JR043977-1",
@@ -16531,6 +16538,7 @@
   "/job/Purchase-New-York-United-States-of-America/Wealth-Management-Privacy-Risk-Specialist_PT-JR045294",
   "/job/RMZ-Ecoworld---Campus-6A/Institutional-Equity-Division----Associate--Investor-Services--Bangalore-_JR044812",
   "/job/RMZ-Ecoworld---Campus-6A/Institutional-Equity-Division----Manager--Investor-Services--Bangalore-_JR044816",
+  "/job/RMZ-Ecoworld---Campus-6A/Institutional-Equity-Division---Associate--Fund-Accounting--Bangalore-_JR043472",
   "/job/RMZ-Ecoworld---Campus-6A/Institutional-Equity-Division---Associate--Product-Development--UI-Path--Bangalore-_JR044498",
   "/job/RMZ-Ecoworld---Campus-6A/Institutional-Equity-Division---Senior-Manager--Investor-Services--Bangalore-_JR044817",
   "/job/RMZ-Ecoworld---Campus-6A/Institutional-Equity-Divsion----Manager--Fund-Accounting--Bangalore-_JR044830-1",
@@ -17423,6 +17431,7 @@
   "8275286",
   "8275287",
   "8276264",
+  "8278232",
   "8278594"
  ],
  "Oliver Wyman": [
@@ -19572,6 +19581,7 @@
   "/job/BA---Rio-de-Janeiro/Auditor-Snior---Senior-Associate_725910WD-1",
   "/job/Bangalore-SDC---Table-Space-Towers---Bangalore/Payroll-Accounting---Associate_766575WD-1",
   "/job/Bangalore-SDC---Table-Space-Towers---Bangalore/Workday-HR-Admin--Associate_764835WD-1",
+  "/job/Bangkok/Associate-Cyber-Security-Consultant--Data-Privacy---GRC-_751760WD",
   "/job/Bangkok/Cyber-Security-Manager_566182WD",
   "/job/Barueri/Analista-de-PMO---Senior-Associate_762329WD",
   "/job/Barueri/Assistente-de-Impostos-Indiretos---Associate_759246WD-1",
@@ -19582,6 +19592,7 @@
   "/job/Bengaluru-Millenia/IN--Senior-Associate-AWS-Data-Engineer--Data-Analytics--Advisory--Bangalore_717700WD-1",
   "/job/Bengaluru-Millenia/IN--Senior-Associate-Java-Full-Stack-Developer-GCC-Advisory-Bangalore_742524WD-1",
   "/job/Bengaluru-Millenia/IN-Associate-GenAI-and-Agentic-AI-Engineer--GCC-Advisory-Bangalore_738718WD-1",
+  "/job/Bengaluru-Millenia/IN-Associate-GenAI-and-Agentic-AI-Engineer--GCC-Advisory-Bangalore_738719WD-1",
   "/job/Bengaluru-Millenia/IN-Associate-Internal-Audit-Managed-Services-Advisory-Bangalore_754570WD-1",
   "/job/Bengaluru-Millenia/IN-Associate-SAP-Opentext-SAP-Advisory-Kolkata_757736WD-1",
   "/job/Bengaluru-Millenia/IN-Associate-SAP-PPQM-SAP-Advisory-Gurgaon_741762WD-1",
@@ -22664,6 +22675,7 @@
   "/job/Georgia---Remote/Engagement-Delivery-Director_JR346225",
   "/job/Germany---Berlin/Senior-Architect-Technical-Consulting---Enterprise-Security---AI-driven_JR361404",
   "/job/Germany---Frankfurt/Enterprise-Account-Executive---Germany---Healthcare---Life-Sciences_JR351919",
+  "/job/Germany---Frankfurt/Senior-Technical-Architect---German-Speaking_JR361403",
   "/job/Germany---Munich/AI-Builder--Emerging-Talent---EMEA-Central-Market_JR360059",
   "/job/Germany---Munich/Account-Executive---Agentforce-Service-Platform_JR361182",
   "/job/Germany---Munich/Enterprise-Account-Executive---HLS_JR359655",
@@ -23689,7 +23701,8 @@
   "744000155444854",
   "744000155446384",
   "744000155447650",
-  "744000155470169"
+  "744000155470169",
+  "744000155472964"
  ],
  "Smartsheet": [
   "3426405",
@@ -28125,6 +28138,7 @@
   "8230758",
   "8230952",
   "8231145",
+  "8231178",
   "8231202",
   "8231223",
   "8231234",
@@ -29339,6 +29353,7 @@
   "/job/IN---Bengaluru-India/Sr-Manager--Finance-Operations--Accounts-Payable-_REF089035W",
   "/job/IN---Bengaluru-India/Sr-Product-Manager_REF089127W",
   "/job/IN---Bengaluru-India/Sr-SW-Engineer---SDET---Automation--GenAI-tooling--API-Testing_REF080993W",
+  "/job/IN---Bengaluru-India/Sr-SW-Engineer--3-5-years--GenAI--Java-Python-full-stack-_REF087773W",
   "/job/IN---Bengaluru-India/Sr-SW-Engineer-1_REF080502W",
   "/job/IN---Bengaluru-India/Sr-SW-Engineer_REF088954W-1",
   "/job/IN---Bengaluru-India/Sr-Software-Engineer---Full-Stack---ServiceNow--React--Nodejs--Python--ITSM--4-6-years-_REF089018W-1",
@@ -31045,6 +31060,7 @@
    "/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1": "2026-10-02"
   },
   "Caterpillar": {
+   "/job/Chennai-Tamil-Nadu/Students---Graduates-Intern_R0000400270": "2026-10-14",
    "/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454": "2026-10-07",
    "/job/Irving-Texas/XMLNAME-2027-Summer-Corporate-Intern---Finance_R0000380161": "2026-10-06",
    "/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650": "2026-10-07",
@@ -32205,6 +32221,7 @@
   },
   "Capital One": {},
   "Caterpillar": {
+   "/job/Chennai-Tamil-Nadu/Students---Graduates-Intern_R0000400270": false,
    "/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454": false,
    "/job/Irving-Texas/XMLNAME-2027-Summer-Corporate-Intern---Finance_R0000380161": false,
    "/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650": false,
