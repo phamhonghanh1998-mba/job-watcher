@@ -1,6 +1,6 @@
 # Open matching jobs (401)
 
-Updated 2026-10-14 09:10 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-14 09:53 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -132,6 +132,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-14 (30+ days) | Accenture | [Adobe Experience Cloud Intern Analyst / MarTech & Digital Experience Internship Program (He/She/They)](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Functional-Analyst---MarTech-Trainee--Adobe-Experience-Cloud----Internship-Program--She-He-They-_R00335218) |  |
 | 2026-10-13 | Accenture | [Analista Junior Tecnico/Funzionale - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Verona/Analista-Junior-Tecnico-Funzionale---Ambito-Financial-Services_R00278795) |  |
 | 2026-09-14 (30+ days) | Accenture | [Business Analyst - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Stage-in-area-Consulting_R00279776) |  |
+| 2026-10-14 | Accenture | [Cybersecurity Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331) |  |
 | 2026-09-25 | Accenture | [Data & AI Intern - Accenture Internship Program -Athens](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Athens-Arcadias/Global-S-C-Networks-Internship-Program---Athens_R00284676) |  |
 | 2026-09-14 (30+ days) | Accenture | [Digital transformation intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Digital-transformation-intern_R00354466) |  |
 | 2026-09-15 | Accenture | [Finance Transformation Analyst - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Finance-Transformation-Analyst---Intern_R00356849) |  |
@@ -390,7 +391,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-08-03 | SpaceX | [Spring 2027 Civil Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002) | Flexible - Any SpaceX Site |
 | 2026-08-03 | SpaceX | [Summer 2027 Civil Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002) | Flexible - Any SpaceX Site |
 | 2026-10-01 | Stripe | [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291) | New York, Seattle, South San Francisco HQ |
-| 2026-09-14 (30+ days) | Stryker | [Advanced Operations Summer Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732) | Weston, Florida |
 | 2026-10-06 | Stryker | [Customer Service Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Roma-Rome-Via-Alexandre-Gustave-Eiffel-1315/Customer-Service-Intern_R574587) | Roma, Rome Via Alexandre Gustave Eiffel 13/15 |
 | 2026-09-14 (30+ days) | Stryker | [Manufacturing Engineering Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846) | Redmond, Washington |
 | 2026-09-14 (30+ days) | Stryker | [Manufacturing Engineering Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Manufacturing-Engineering-Intern_R572922) | Cary, Illinois |

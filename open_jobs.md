@@ -1,6 +1,6 @@
 # Open matching jobs (401)
 
-Updated 2026-10-14 09:10 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-14 09:53 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -123,6 +123,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-14 | RTX | [Intern: Quality Core Lab (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Core-Lab--Summer-2027-_01868899) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC |
 | 2026-10-14 | RTX | [Intern: Quality Engineering (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Engineering--Summer-2027-_01868898) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC |
 | 2026-10-14 | Accenture | [Accenture Construct Intern - Talent pool](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest-Millennium-Gardens/Construction---Infrastructure-Engineering-Intern_R00310637) |  |
+| 2026-10-14 | Accenture | [Cybersecurity Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331) |  |
 | 2026-10-13 | RTX | [Mechanical Design Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702) | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 |
 | 2026-10-13 | RTX | [Mechanical Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01880524) | US-MN-BURNSVILLE-MEMS ~ 14300 Judicial Rd ~ MEMS BLDG |
 | 2026-10-13 | Remitly | [People Operations Intern](https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Managua-Nicaragua/People-Operations-Intern_R_107018) | Managua, Nicaragua |
@@ -278,7 +279,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-14 (30+ days) | Stryker | [R&D Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fremont-California/R-D-Intern_R572862) | Fremont, California |
 | 2026-09-14 (30+ days) | Stryker | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936) | Arlington, Tennessee |
 | 2026-09-14 (30+ days) | Stryker | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937) | Arlington, Tennessee |
-| 2026-09-14 (30+ days) | Stryker | [Advanced Operations Summer Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732) | Weston, Florida |
 | 2026-09-14 (30+ days) | S&P Global | [Agribusiness Intern (Early Careers)](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2) | Virtual, BR |
 | 2026-09-14 (30+ days) | S&P Global | [Machine Learning Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1) | 2 Locations |
 | 2026-09-14 | Robinhood | [Fraud Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241) | Denver, CO |
