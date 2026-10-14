@@ -3788,6 +3788,7 @@
   "5265052007",
   "5265088007",
   "5265097007",
+  "5265127007",
   "5265139007",
   "5265141007",
   "5265158007",
@@ -3809,7 +3810,8 @@
   "5265969007",
   "5265970007",
   "5266024007",
-  "5266084007"
+  "5266084007",
+  "5266126007"
  ],
  "Anthropic": [
   "4017331008",
@@ -4700,6 +4702,7 @@
   "56c1ddc9-b0e4-40ec-a4aa-10b2ed6430a3",
   "57a640e8-f4b2-46f7-9743-16c6dfe1eb19",
   "59466c8f-a1ff-42b6-9a60-3eeedc95de07",
+  "59f81862-2d47-45eb-be8d-c14ae34b6f39",
   "5a3658a5-39e3-42ad-9c2a-f5e4bfc23da3",
   "5abdcdab-5526-4998-8ef1-55473aa40068",
   "5bb0567a-8d07-4cc4-be7c-c06b31361883",
@@ -7113,6 +7116,7 @@
   "/job/PA---Work-from-home/Case-Management-Coordinator---Transition-of-Care-Team_R0971217",
   "/job/PA---Work-from-home/Case-Manager-RN_R1054485",
   "/job/PA---Work-from-home/Case-Manager-Registered-Nurse---Medicare--Remote-_R1066282",
+  "/job/PA---Work-from-home/Case-Manager-Registered-Nurse_R1066214",
   "/job/PA---Work-from-home/FP-A-Analyst_R1055036",
   "/job/PA---Work-from-home/Health-Advocate--Call-Coordinator--Healthy-Outcomes-Team---Remote_R1044824-1",
   "/job/PA---Work-from-home/In-Home-Physician----Part-Time---Lancaster-PA_R1074216",
@@ -7488,6 +7492,7 @@
   "/job/Chicago-IL/Manager--Project-Management---Card-Partnerships_R1003345-2",
   "/job/Chicago-IL/Product-Manager---Card-Integrations_R999403-1",
   "/job/Chicago-IL/Product-Manager---Partnerships_R1002921-1",
+  "/job/Chicago-IL/Senior-Associate---Card-Partnership-Marketing--Hybrid-_R1003601-1",
   "/job/Chicago-IL/Senior-Associate--Product-Management---Card-Decisioning-Platforms_R1002609-1",
   "/job/Chicago-IL/Senior-Manager--Data-Science---Model-Risk-Office_R1002933-1",
   "/job/Chicago-IL/Senior-Manager--Full-Stack-Engineer_R1001704-2",
@@ -7791,6 +7796,7 @@
   "/job/McLean-VA/Sr-Director--Product-Management---Enterprise-Data-Storage-and-Consumption_R1003727-1",
   "/job/McLean-VA/Sr-Director--Product-Management--Customer-Core---Identity-Restrictions_R1003088-2",
   "/job/McLean-VA/Sr-Director--Product-Management_R999708",
+  "/job/McLean-VA/Sr-Manager--Product-Management---HR-Products---Data_R1003479-1",
   "/job/McLean-VA/Sr-Manager--Product-Management_R1003221-2",
   "/job/McLean-VA/Sr-Manager--Product-Manager--AI-Enablement--GPN_R1002871-2",
   "/job/McLean-VA/Sr-Manager--Technical-Program-Management_R1002236-1",
@@ -7953,6 +7959,7 @@
   "/job/Richmond-VA/Director--Product-Management---Anti-Money-Laundering_R999252",
   "/job/Richmond-VA/Director--Product-Management--Capital-One-Software--Remote-_R247133-1",
   "/job/Richmond-VA/Full-Stack-Engineer-4--Java--AWS-_R1002590-1",
+  "/job/Richmond-VA/Full-Stack-Engineer-4--Manager-IC----Operational-Risk_R1003754-1",
   "/job/Richmond-VA/Full-Stack-Engineer-4_R1001200-1",
   "/job/Richmond-VA/Full-Stack-Engineer-4_R1001376",
   "/job/Richmond-VA/Full-Stack-Engineer-4_R1003306-1",
@@ -10427,6 +10434,7 @@
   "8883827002",
   "8884753002",
   "8885667002",
+  "8885966002",
   "8886384002",
   "8886386002"
  ],
@@ -11588,7 +11596,8 @@
   "8279569",
   "8281249",
   "8281762",
-  "8281853"
+  "8281853",
+  "8282757"
  ],
  "Dropbox": [
   "6330377",
@@ -12815,6 +12824,7 @@
   "/job/Hyderabad/Lead-Analyst--Analytical-Products-_202606-115419",
   "/job/Hyderabad/Marketing-Partner_202610-125593",
   "/job/Hyderabad/Senior-Medical-Writer_202610-125493",
+  "/job/Indianapolis/Category-Manager---Semiconductors_202606-115849-2",
   "/job/Indianapolis/Digital-Consultant_202610-124987-1",
   "/job/Indianapolis/Digital-Support-Team-Manager_202608-121236-2",
   "/job/Indianapolis/Director--Strategic-Customer-Solutions---Women-s-Health_202609-124230-1",
@@ -13893,7 +13903,11 @@
   "8275403",
   "8281405",
   "8281407",
-  "8281965"
+  "8281965",
+  "8282526",
+  "8282591",
+  "8282600",
+  "8282656"
  ],
  "Intel": [
   "/job/Costa-Rica-San-Jose/Information-Technology-Intern_JR0287837-1",
@@ -14299,7 +14313,8 @@
   "8880840002",
   "8881573002",
   "8881575002",
-  "8883515002"
+  "8883515002",
+  "8888403002"
  ],
  "Mastercard": [
   "/job/Abidjan-Cote-divoire/Senior-Managing-Consultant--Business-Development--Services--Francophone-Africa_R-289538",
@@ -14495,6 +14510,9 @@
   "/job/Mexico-City-Mexico/Lead-Software-Engineer_R-280100-1",
   "/job/Mexico-City-Mexico/Manager--Legal-Compliance_R-291935-1",
   "/job/Mexico-City-Mexico/Principal--Services-Business-Development_R-292699",
+  "/job/Mexico-City-Mexico/Senior-Managing-Consultant--Advisors---Consulting-Services--AI-Strategy--Data-Governance---Data-Management--and-AI-Data-Solution-Architecture_R-292877",
+  "/job/Mexico-City-Mexico/Senior-Managing-Consultant--Advisors---Consulting-Services--Acquiring-Subject-Matter-Expert_R-292878",
+  "/job/Mexico-City-Mexico/Senior-Managing-Consultant--Advisors---Consulting-Services--Chargeback-and-Payment-Operations-Expert--Advisors-Client-Services--Data---Services_R-292884",
   "/job/Mexico-City-Mexico/Senior-Software-Engineer_R-281205",
   "/job/Mexico-City-Mexico/Senior-Specialist--Product-Management_R-289466",
   "/job/Mexico-City-Mexico/Software-Integration-Engineer_R-277533",
@@ -14967,6 +14985,7 @@
   "/job/GBR---London---London-Moorgate-WeWork/Student-Placement---Regulatory-Affairs-CMC_R418439",
   "/job/GBR---London---London-Moorgate-WeWork/Vaccines-Account-Manager---South-East---South-West-England_R420770",
   "/job/GRC---Attica---Alimos/XMLNAME--Associate--Clinical-Operations-Manager_R418100-1",
+  "/job/GRC---Attica---Alimos/XMLNAME--Associate--Clinical-Operations-Manager_R422006-1",
   "/job/HRV---Croatia-Proper---Zagreb-Eurotower/Brand---Customer-Manager---Cardiovascular-Diseases_R421710-2",
   "/job/HUN---Central-Hungary---Budapest-Millennium-Gardens/Key-Account-Manager-Vaccines_R406022-1",
   "/job/HUN---Central-Hungary---Budapest-Millennium-Gardens/Regional-Technical-Manager-Ruminants_R410019",
@@ -15148,6 +15167,7 @@
   "/job/TWN---Taipei---Taipei-City/Clinical-Research-Associate_R422346-1",
   "/job/USA---California---California/Associate-Director--Urology---Oncology-Key-Accounts--West-_R413629-1",
   "/job/USA---California---California/Regional-Cardiovascular-Manager---West-District_R422076-1",
+  "/job/USA---California---San-Diego-Science-Park-Road/Associate-Principal-Scientist--Immunology-Discovery_R417161-1",
   "/job/USA---California---San-Diego-Science-Park-Road/Associate-Principal-Scientist--Immunology-Discovery_R418940-1",
   "/job/USA---California---San-Diego-Science-Park-Road/Executive-Director--Immunology-Discovery_R417353-2",
   "/job/USA---California---South-San-Francisco-Grand-Ave/Associate-Scientist--Post-Doc-Fellow--Ophthalmology_R419156",
@@ -15159,6 +15179,7 @@
   "/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Drug-Metabolism-and-Pharmacokinetics---Co-op_R412928",
   "/job/USA---Colorado---Denver/Rare-Disease-Account-Specialist--PAH---Colorado_R418726-1",
   "/job/USA---Delaware---De-Millsboro/Specialist--Bioprocess-Engineer_R416272-1",
+  "/job/USA---Delaware---Millsboro-Intervet/Manager--Operations_R421522-1",
   "/job/USA---Delaware---Wilmington-Biotech/Associate-Director--Drug-Product--Quality-Assurance_R421375-1",
   "/job/USA---Delaware---Wilmington-Biotech/Director--Engineering---Project-Control_R422270-1",
   "/job/USA---Delaware---Wilmington-Biotech/Senior-Specialist--Manufacturing-Data-Engineering---Digital-Integration_R420015-1",
@@ -15271,6 +15292,7 @@
   "/job/USA---New-Jersey---Rahway/Senior-Scientist---Supply-Analytical-Sciences--SAS-_R421752-1",
   "/job/USA---New-Jersey---Rahway/Senior-Specialist--Capital-Project-Management---Global-Engineering-Solutions_R420427-1",
   "/job/USA---New-Jersey---Rahway/Senior-Specialist--Drug-Safety---Animal-Health_R421052",
+  "/job/USA---New-Jersey---Rahway/Senior-Specialist--Project-Management---Value---Implementation--VIPM---Hybrid-_R422069-1",
   "/job/USA---New-Jersey---Rahway/Senior-Specialist--Quality-Assurance_R422004-1",
   "/job/USA---New-Jersey---Rahway/Senior-Specialist-Engineering--Onsite-_R421165-1",
   "/job/USA---New-Jersey---Rahway/Specialist--Clinical-Data-Management---Hybrid_R421847-1",
@@ -16801,6 +16823,7 @@
   "/job/Beverly-Hills-California-United-States-of-America/Intern---Bilingual-English-Mandarin_JR045320",
   "/job/Beverly-Hills-California-United-States-of-America/Private-Wealth-Management-Chief-of-Staff_JR036591",
   "/job/Boston-Massachusetts-United-States-of-America/Analyst---Fund-Services-Operations-Representative_JR045250",
+  "/job/Boston-Massachusetts-United-States-of-America/Associate--Consultant-Relations---Parametric_PT-JR043918-1",
   "/job/Boston-Massachusetts-United-States-of-America/Associate--Wealth-Strategies-Group_JR043987-1",
   "/job/Boston-Massachusetts-United-States-of-America/Portfolio-Management-Associate_JR037563",
   "/job/Boston-Massachusetts-United-States-of-America/Portfolio-Manager---Parametric_PT-JR040911-1",
@@ -16963,6 +16986,7 @@
   "/job/New-York-New-York-United-States-of-America/MSIM---Private-Credit---Finance---Liability---Associate-Senior-Associate_JR043152",
   "/job/New-York-New-York-United-States-of-America/Model-Risk--Rates---Risk-Management----Job-Level---Vice-President_PT-JR045032",
   "/job/New-York-New-York-United-States-of-America/NFR-Framework-Program-Support-Professional_PT-JR044636",
+  "/job/New-York-New-York-United-States-of-America/Office-Manager---Parametric_PT-JR041921-1",
   "/job/New-York-New-York-United-States-of-America/Principal-Software-Engineer---AI-Platform----Parametric_PT-JR043021",
   "/job/New-York-New-York-United-States-of-America/Technical-Financial-Program-Manager---Vice-President_PT-JR041991",
   "/job/New-York-New-York-United-States-of-America/UMA-Portfolio-Manager_PT-JR045222",
@@ -17891,7 +17915,9 @@
   "8276264",
   "8278232",
   "8278594",
-  "8281740"
+  "8281740",
+  "8282692",
+  "8282705"
  ],
  "Oliver Wyman": [
   "/job/Atlanta---Northside/Client-Executive---Single-Parent-Captives_R_356704",
@@ -21537,6 +21563,7 @@
   "/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Material-Program-Manager--Onsite-_01878777",
   "/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Principal-Systems-Engineer---Cross-Product-Team-Lead----Onsite_01879352",
   "/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951",
+  "/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Systems-Engineer-II--Onsite-_01882271",
   "/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Analyst--Program-Cost-Controls_01878409-1",
   "/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Assistant-Facility-Security-Officer--AFSO---Onsite-_01881847",
   "/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Information-Systems-Security-Officer--Onsite-_01881312",
@@ -21548,6 +21575,7 @@
   "/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Senior-Analyst--Engineering-Services---Configuration-and-Data-Management--Onsite-_01878998-1",
   "/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Senior-Manager--Program-Management--Onsite-_01880199",
   "/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Sr-Manager--Material-Program-Management-for-Development-Programs--onsite-_01873301",
+  "/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/XMLNAME-01880199-Senior-Manager--Program-Management--Onsite-_01881986",
   "/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Project-Engineering-Co-op--Summer-Fall-2027-_01879937",
   "/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Senior-Electrical-Engineer---Avionics-Test-Engineering--Onsite-_01871351",
   "/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Systems-Engineering-Intern---CNS-Onsite_01876809",
@@ -22180,6 +22208,7 @@
   "/job/US-VA-STERLING-STERLING-DATA-CTR--43290-Old-Ox-Rd--STERLING-DATA-CTR/Digital-Technology-Program-Engagement-Lead--Hybrid--_01882333",
   "/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Finishing-Operator-I_01879078-1",
   "/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Finishing-Operator-I_01879557-1",
+  "/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01882373",
   "/job/US-WV-BRIDGEPORT-1525--1525-Midway-Park-Rd--MIDWAY-BLDG-A/Facilities-Supervisor--Onsite-_01868748",
   "/job/Warminster-Wiltshire/Principal-Specialist-Subcontract---OMNIA_01844532",
   "/job/Warminster-Wiltshire/Subcontract-Manager_01881538-1",
@@ -22222,6 +22251,7 @@
   "30323399-3039-499d-a0b6-a891ced89e1e",
   "314d4881-e8f2-4e61-a102-3469f9566759",
   "32fb4396-1976-45de-8137-79e6eecf40b3",
+  "331dbcfd-3faf-4357-a7d8-3acd854b4b42",
   "34413f8d-26bf-4bbc-8ade-eb309a0e2245",
   "397d2098-59c4-4987-9ca9-ec019c37000e",
   "3c43dea1-3cd7-45ab-96f1-4054cfa875ff",
@@ -22541,7 +22571,8 @@
   "8275143",
   "8275952",
   "8275964",
-  "8276095"
+  "8276095",
+  "8282760"
  ],
  "Remitly": [
   "/job/Abu-Dhabi-United-Arab-Emirates/Lead-Auditor--UAE_R_106785",
@@ -23907,6 +23938,7 @@
   "8231364",
   "8231949",
   "8232932",
+  "8233947",
   "8236004",
   "8237131",
   "8237134",
@@ -25071,6 +25103,7 @@
   "8034148003"
  ],
  "SpaceX": [
+  "8339587002",
   "8377056002",
   "8377562002",
   "8378521002",
@@ -27972,7 +28005,9 @@
   "8888740002",
   "8888957002",
   "8889105002",
-  "8889891002"
+  "8889168002",
+  "8889891002",
+  "8890012002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -30755,6 +30790,7 @@
   "8268204",
   "8274710",
   "8275413",
+  "8275507",
   "8279506",
   "8279620",
   "8279903"
@@ -30860,6 +30896,7 @@
   "/job/Remote--US/AMER-Field-Marketing-Manager---Workvivo_R19538-1",
   "/job/Remote--US/Content-Marketing-Specialist_R19709",
   "/job/Remote--US/Digital-Experience-Specialist_R19708-1",
+  "/job/Remote--US/Lead-Product-Manager---ZRA_R19571",
   "/job/Remote--US/Lead-Technical-SEO-Manager_R19605",
   "/job/Remote--US/Partner-Marketing-Coordinator_R19703-1",
   "/job/Remote--US/Program-Manager--Customer-Advocacy_R19723-2",
@@ -32484,7 +32521,8 @@
    "/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/Mechanical-Automation-Engineering-Intern--Summer-2027-_01881162": "2026-10-13",
    "/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Internship--June-2027---Hybrid-_01881487": "2026-10-12",
    "/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Internship--June-2027-_01879348": "2026-10-02",
-   "/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01877890": "2026-10-08"
+   "/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01877890": "2026-10-08",
+   "/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01882373": "2026-10-14"
   },
   "Ramp": {
    "acf6b28d-767f-483f-8ff2-114620cd7e04": "2026-10-02",
@@ -33658,7 +33696,8 @@
    "/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/Mechanical-Automation-Engineering-Intern--Summer-2027-_01881162": false,
    "/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Internship--June-2027---Hybrid-_01881487": false,
    "/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Human-Resources-Internship--June-2027-_01879348": false,
-   "/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01877890": false
+   "/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01877890": false,
+   "/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01882373": false
   },
   "Ramp": {
    "acf6b28d-767f-483f-8ff2-114620cd7e04": false,
