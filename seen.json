@@ -468,6 +468,7 @@
   "8010615003",
   "8010617003",
   "8011038003",
+  "8011040003",
   "8011375003",
   "8011590003",
   "8011718003",
@@ -3744,7 +3745,8 @@
   "5265097007",
   "5265139007",
   "5265158007",
-  "5265196007"
+  "5265196007",
+  "5265279007"
  ],
  "Anthropic": [
   "4017331008",
@@ -4965,7 +4967,8 @@
   "8260059",
   "8260901",
   "8264089",
-  "8264096"
+  "8264096",
+  "8275152"
  ],
  "Autodesk": [
   "/job/AMER---United-States---California---San-Francisco---One-Market/Director--Chief-of-Staff_26WD101007-2",
@@ -10641,6 +10644,7 @@
   "8262004",
   "8263113",
   "8263146",
+  "8263526",
   "8267437",
   "8267546",
   "8267561",
@@ -12991,6 +12995,7 @@
   "/job/Spring-Texas-United-States-of-America/HR-Compensation-Intern_1212388",
   "/job/Spring-Texas-United-States-of-America/Hardware-Engineering-Intern_1213408",
   "/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213359",
+  "/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213364",
   "/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393",
   "/job/Spring-Texas-United-States-of-America/NA-Networking-Sales-Finance-Business-Controller_1213875-2",
   "/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1",
@@ -15185,8 +15190,10 @@
   "/job/Fab-10NX-Singapore/F10-Robotics---Automation-Technician_JR114168",
   "/job/Fab-10NX-Singapore/Fab-10-DAST-Production-Control-Technologist_JR114126",
   "/job/Fab-10NX-Singapore/GLOBAL-EHS-SENIOR-CONSTRUCTION-PROGRAM-MANAGER_JR112468",
+  "/job/Fab-10NX-Singapore/Intern---ATE-PTO_JR114131",
   "/job/Fab-10NX-Singapore/Intern---Chemical-Mechanical-Planarization-Process-Engineering_JR109884",
   "/job/Fab-10NX-Singapore/Intern---F10-HVM-Photo-PEE_JR110525",
+  "/job/Fab-10NX-Singapore/Intern---F10-MFG-Implant--Bench-_JR112626",
   "/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979",
   "/job/Fab-10NX-Singapore/Intern---NAND-Probe-Product-Engineering--Test-Mode-Integration-_JR113345",
   "/job/Fab-10NX-Singapore/Intern---NAND-Process-and-Equipment-Engineer_JR114294",
@@ -15593,6 +15600,7 @@
   "/job/Taichung---Fab-16-Taiwan/TECHNICIAN--OMT-MQC-CHEMLAB-TC_JR98420",
   "/job/Taichung---Fab-16-Taiwan/Tactical-Capacity-Engineer_JR106405",
   "/job/Taichung---Fab-16-Taiwan/XMLNAME---Micron-Opportunities-for-Talents-with-Disabilities_JR114376",
+  "/job/Taichung---Fab-16-Taiwan/YE-Engineer_JR114583",
   "/job/Taichung---Fab-16-Taiwan/_JR113986",
   "/job/Taichung---Fab-16-Taiwan/_JR113987",
   "/job/Taichung---MTB-Taiwan/ASSMBLY-EQUIPMENT-ENGINEER_JR114026",
@@ -18651,6 +18659,7 @@
   "/job/Mexico-City-Ciudad-de-Mexico-Mexico/Sr-Audit-Manager_R0137953",
   "/job/Milan-Milano-Italy/Consumer-Partnerships-Marketing-Manager_R0137310",
   "/job/New-York-City-New-York-United-States-of-America/Director--Enterprise-Quality-team_R0137774",
+  "/job/New-York-City-New-York-United-States-of-America/Director--Enterprise-Quality-team_R0137899",
   "/job/New-York-City-New-York-United-States-of-America/Manager--Sales-Specialist---Payouts_R0138367",
   "/job/New-York-City-New-York-United-States-of-America/Manager--Staff---Operations_R0137817",
   "/job/New-York-City-New-York-United-States-of-America/Senior-Manager_R0137760",
@@ -27044,7 +27053,11 @@
   "8886649002",
   "8886722002",
   "8886723002",
-  "8886724002"
+  "8886724002",
+  "8886926002",
+  "8886927002",
+  "8886929002",
+  "8886930002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -30331,6 +30344,7 @@
   "5261842007",
   "5262054007",
   "5262092007",
+  "5262887007",
   "5263610007"
  ],
  "_first_seen": {
@@ -31013,6 +31027,7 @@
    "/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627": "2026-10-02",
    "/job/Spring-Texas-United-States-of-America/HR-Compensation-Intern_1212388": "2026-10-02",
    "/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213359": "2026-10-14",
+   "/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213364": "2026-10-14",
    "/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393": "2026-10-02",
    "/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1": "2026-10-02",
    "/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634": "2026-10-02",
@@ -32146,6 +32161,7 @@
    "/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627": false,
    "/job/Spring-Texas-United-States-of-America/HR-Compensation-Intern_1212388": false,
    "/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213359": false,
+   "/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213364": false,
    "/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393": false,
    "/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034": false
   },
