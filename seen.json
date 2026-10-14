@@ -4486,7 +4486,8 @@
   "5450099008",
   "5450479008",
   "5451081008",
-  "5451134008"
+  "5451134008",
+  "5451889008"
  ],
  "Applied Materials": [
   "00eaa332-f855-4963-886c-909ac78bce6d",
@@ -6952,6 +6953,7 @@
   "/job/RI---Woonsocket/Senior-Manager---Visual-Merchandising-Signage---Seasonal-Design_R1006964",
   "/job/RI---Woonsocket/Senior-Manager--Category-Marketing---CVS-Media-Exchange--CMX-_R1036875",
   "/job/RI---Woonsocket/Senior-Manager--Omnichannel-Commercialized-Solutions_R1055635",
+  "/job/RI---Woonsocket/Senior-Manager--Pricing---Forecasting-Analytics_R1061471",
   "/job/RI---Woonsocket/Senior-Manager--Retail-Planning-and-Analytics_R1036486",
   "/job/RI---Woonsocket/Senior-Manager--Synthetic-Research---Platform-Growth_R1025466",
   "/job/RI---Woonsocket/Sr-Mgr-Strat-Marketing--IC-_R1052985",
@@ -11773,7 +11775,8 @@
   "6216211004",
   "6218349004",
   "6219995004",
-  "6220093004"
+  "6220093004",
+  "6221563004"
  ],
  "GE Aerospace": [
   "/job/Arkansas-City/Lead-Services-Specialist-1---Customer-Order-and-Fulfillment_R5041383-1",
@@ -12939,6 +12942,7 @@
   "8248245",
   "8250243",
   "8257115",
+  "8257877",
   "8260095",
   "8268021",
   "8275011",
@@ -12996,6 +13000,7 @@
   "/job/Spring-Texas-United-States-of-America/HR-Compensation-Intern_1212388",
   "/job/Spring-Texas-United-States-of-America/Hardware-Engineering-Intern_1213408",
   "/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213359",
+  "/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213360",
   "/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213364",
   "/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393",
   "/job/Spring-Texas-United-States-of-America/NA-Networking-Sales-Finance-Business-Controller_1213875-2",
@@ -21138,6 +21143,7 @@
   "/job/US-MI-HOLT-PLANT-5--1781-Holloway-Dr--PLANT-5/Senior-Design-Engineer--Onsite-_01877866",
   "/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Electrical-Engineering-Intern--Summer-2027-_01876591",
   "/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Manufacturing-Engineering-Manager---NPI--Onsite-_01880562",
+  "/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01880524",
   "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Product-Quality-Engineering-Intern--Summer-2027-_01871830",
   "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Quality-Inspection-Technician-II---2nd-Shift_01879646-1",
   "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Senior-Principal-Project-Chief-Engineer---AISD-Non-Safety-Routers--ONSITE-_01879700",
@@ -21304,6 +21310,7 @@
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Senior-System-Administrator_01879839",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineering-Intern--Summer-2027-_01879520",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/System-Administrator_01878695",
+  "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Terrain-Following-Radar-Program-Manger_01880849",
   "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-Intern--Onsite-_01880586",
   "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037",
   "/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Field-Engineering-Supervisor---Coyote-UAS-KuRFS---Tucson---Arizona---OCONUS-_01867311",
@@ -31036,6 +31043,7 @@
    "/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627": "2026-10-02",
    "/job/Spring-Texas-United-States-of-America/HR-Compensation-Intern_1212388": "2026-10-02",
    "/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213359": "2026-10-14",
+   "/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213360": "2026-10-14",
    "/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213364": "2026-10-14",
    "/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393": "2026-10-02",
    "/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1": "2026-10-02",
@@ -31375,6 +31383,7 @@
    "/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern---Test-Solutions_01881321": "2026-10-08",
    "/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895": "2026-10-08",
    "/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Electrical-Engineering-Intern--Summer-2027-_01876591": "2026-10-08",
+   "/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01880524": "2026-10-14",
    "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Product-Quality-Engineering-Intern--Summer-2027-_01871830": "2026-10-12",
    "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977": "2026-10-07",
    "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Systems-Engineering-Intern_01876483": "2026-10-05",
@@ -32170,6 +32179,7 @@
    "/job/Spring-Texas-United-States-of-America/Firmware-Engineer-Intern_1213627": false,
    "/job/Spring-Texas-United-States-of-America/HR-Compensation-Intern_1212388": false,
    "/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213359": false,
+   "/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213360": false,
    "/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213364": false,
    "/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393": false,
    "/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034": false
@@ -32451,6 +32461,7 @@
    "/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern---Test-Solutions_01881321": false,
    "/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895": false,
    "/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Electrical-Engineering-Intern--Summer-2027-_01876591": false,
+   "/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01880524": false,
    "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Product-Quality-Engineering-Intern--Summer-2027-_01871830": false,
    "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977": false,
    "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Systems-Engineering-Intern_01876483": false,
