@@ -1,6 +1,6 @@
-# Open matching jobs (425)
+# Open matching jobs (427)
 
-Updated 2026-10-14 05:07 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-14 05:50 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -113,18 +113,20 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (324)
+## Other internships (326)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
+| 2026-10-14 | RTX | [Intern: Quality Metrology Lab (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-AUSTIN-1909--1909-Kramer-Ln-Braker-E--BLDG-E-300/Intern--Quality-Metrology-Lab--Summer-2027-_01868876) | US-TX-AUSTIN-1909 ~ 1909 Kramer Ln Braker E ~ BLDG E-300 |
+| 2026-10-14 | RTX | [Intern: Quality Core Lab (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Core-Lab--Summer-2027-_01868899) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC |
+| 2026-10-14 | RTX | [Intern: Quality Engineering (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Engineering--Summer-2027-_01868898) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC |
 | 2026-10-14 | RTX | [Mechanical Design Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702) | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 |
 | 2026-10-14 | RTX | [Mechanical Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01880524) | US-MN-BURNSVILLE-MEMS ~ 14300 Judicial Rd ~ MEMS BLDG |
 | 2026-10-14 | RTX | [Systems Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Systems-Engineering-Intern--Summer-2027-_01870304) | US-AZ-TUCSON-848 ~ 1151 E Hermans Rd ~ BLDG 848 |
 | 2026-10-14 | RTX | [RF Systems Engineer Intern (Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/RF-Systems-Engineer-Intern--Onsite-_01880592) | US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG |
 | 2026-10-14 | RTX | [Electro-Optics Systems Engineer Intern (Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-Intern--Onsite-_01880586) | US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG |
-| 2026-10-14 | RTX | [Vision Systems - Summer Intern (Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Vision-Systems---Summer-Intern--Onsite-_01880505) | US-CA-GOLETA-B01 ~ 6825 Cortona Dr ~ BLDG B01 |
 | 2026-10-14 | Remitly | [People Operations Intern](https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Managua-Nicaragua/People-Operations-Intern_R_107018) | Managua, Nicaragua |
 | 2026-10-14 | PwC (2) | [Philadelphia - Digital Assurance & Transparency (DAT) - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Philadelphia/Philadelphia---Digital-Assurance---Transparency--DAT----Intern---Summer-2028_757383WD) | PA-Philadelphia |
 | 2026-10-14 | PwC (2) | [Washington DC - Digital Assurance & Transparency (DAT) - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/DC-Washington/Washington-DC---Digital-Assurance---Transparency--DAT----Intern---Summer-2028_757381WD) | DC-Washington |
@@ -150,8 +152,8 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-13 | Nordstrom | [Supply Chain Operations Industrial Engineer - Corporate Internship - Summer 2027 - Dubuque, IA](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Dubuque-IA/Supply-Chain-Operations-Industrial-Engineer---Corporate-Internship---Summer-2027---Dubuque--IA_R-886442) | Dubuque, IA |
 | 2026-10-13 | Nordstrom | [Finance - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Finance---Corporate-Internship---Summer-2027_R-886463-1) | Seattle, WA |
 | 2026-10-13 | Nordstrom | [Technical Apparel Design - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Technical-Apparel-Design---Corporate-Internship---Summer-2027_R-886419) | Seattle, WA |
-| 2026-10-13 | Nordstrom | [Supply Chain Operations - Corporate Internship - Summer 2027 - Seattle, WA](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Supply-Chain-Operations---Corporate-Internship---Summer-2027---Seattle--WA_R-886519) | Seattle, WA |
 | 2026-10-13 | Nordstrom | [Merchandising - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Merchandising---Corporate-Internship---Summer-2027_R-886408) | Seattle, WA |
+| 2026-10-13 | Nordstrom | [Supply Chain Operations - Corporate Internship - Summer 2027 - Seattle, WA](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Supply-Chain-Operations---Corporate-Internship---Summer-2027---Seattle--WA_R-886519) | Seattle, WA |
 | 2026-10-13 | Nordstrom | [Fashion Design - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Fashion-Design---Corporate-Internship---Summer-2027_R-886422) | Seattle, WA |
 | 2026-10-13 | Hewlett Packard Enterprise | [ASIC Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034) | Sunnyvale, California, United States of America |
 | 2026-10-13 | Gusto | [Finance Intern (Summer 2027)](https://job-boards.greenhouse.io/gusto/jobs/8257115) | New York, NY - Hybrid |

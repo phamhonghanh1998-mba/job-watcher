@@ -1,6 +1,6 @@
-# Open matching jobs (425)
+# Open matching jobs (427)
 
-Updated 2026-10-14 05:07 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-14 05:50 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -113,7 +113,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (324)
+## Other internships (326)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -396,11 +396,13 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-02 | Roblox | [[Summer 2027] Product Design Intern](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) | San Mateo, CA, United States |
 | 2026-09-02 | Roblox | [[Summer 2027] Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA, United States |
 | 2026-10-14 | RTX | [Electro-Optics Systems Engineer Intern (Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-Intern--Onsite-_01880586) | US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG |
+| 2026-10-14 | RTX | [Intern: Quality Core Lab (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Core-Lab--Summer-2027-_01868899) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC |
+| 2026-10-14 | RTX | [Intern: Quality Engineering (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Engineering--Summer-2027-_01868898) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC |
+| 2026-10-14 | RTX | [Intern: Quality Metrology Lab (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-AUSTIN-1909--1909-Kramer-Ln-Braker-E--BLDG-E-300/Intern--Quality-Metrology-Lab--Summer-2027-_01868876) | US-TX-AUSTIN-1909 ~ 1909 Kramer Ln Braker E ~ BLDG E-300 |
 | 2026-10-14 | RTX | [Mechanical Design Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702) | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 |
 | 2026-10-14 | RTX | [Mechanical Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-MEMS--14300-Judicial-Rd--MEMS-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01880524) | US-MN-BURNSVILLE-MEMS ~ 14300 Judicial Rd ~ MEMS BLDG |
 | 2026-10-14 | RTX | [RF Systems Engineer Intern (Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/RF-Systems-Engineer-Intern--Onsite-_01880592) | US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG |
 | 2026-10-14 | RTX | [Systems Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Systems-Engineering-Intern--Summer-2027-_01870304) | US-AZ-TUCSON-848 ~ 1151 E Hermans Rd ~ BLDG 848 |
-| 2026-10-14 | RTX | [Vision Systems - Summer Intern (Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Vision-Systems---Summer-Intern--Onsite-_01880505) | US-CA-GOLETA-B01 ~ 6825 Cortona Dr ~ BLDG B01 |
 | 2026-09-14 (30+ days) | S&P Global | [Agribusiness Intern (Early Careers)](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2) | Virtual, BR |
 | 2026-09-14 (30+ days) | S&P Global | [Machine Learning Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1) | 2 Locations |
 | 2026-10-06 | S&P Global | [Market Intelligence Revenue Associate Internship](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Central-HK/Market-Intelligence-Revenue-Associate-Internship_332059-1) | Central, HK |
