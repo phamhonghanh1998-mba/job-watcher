@@ -1,10 +1,10 @@
-# Open matching jobs (412)
+# Open matching jobs (407)
 
-Updated 2026-10-15 07:20 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-15 07:58 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (102)
+## MBA-level (99)
 
 Title or job description mentions an MBA.
 
@@ -46,7 +46,6 @@ Title or job description mentions an MBA.
 | 2026-10-01 | Salesforce | [Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1) | New York - New York |
 | 2026-10-01 | Pinterest | [Master's Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US |
 | 2026-10-01 | Pinterest | [Master's Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US |
-| 2026-10-01 | Oliver Wyman | [Workforce and Rewards Summer Associate (MBA or Master's Track) - Chicago - MBA Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Chicago---155-Wacker/Workforce-and-Rewards-Summer-Associate--MBA-or-Master-s-Track----Chicago---MBA-Program-2027_R_367574-1) | Chicago - 155 Wacker |
 | 2026-09-30 | Adobe | [2027 MBA Intern – Product Marketing Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Marketing-Manager_R172262) | 2 Locations |
 | 2026-09-30 | Adobe | [2027 MBA Intern – Product Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261) | 2 Locations |
 | 2026-09-28 | Medtronic | [MBA Internship - Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/MBA-Internship---Summer-2027_R78587-1) | Minneapolis, Minnesota, United States of America |
@@ -70,8 +69,6 @@ Title or job description mentions an MBA.
 | 2026-09-15 (30+ days) | Pfizer | [MBA Marketing Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Marketing-Summer-Associate_4960967) | United States - New York - New York City |
 | 2026-09-15 (30+ days) | Pfizer | [MBA Finance Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Finance-Summer-Associate_4960971) | United States - New York - New York City |
 | 2026-09-15 (30+ days) | Pfizer | [MBA Strategy & Consulting Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Strategy---Consulting-Summer-Associate_4960972) | United States - New York - New York City |
-| 2026-09-15 (30+ days) | Oliver Wyman | [Workforce and Rewards Summer Associate (MBA or Master's Track) - Los Angeles - MBA Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Los-Angeles---West-5th/Career-Consulting-Summer-Associate--MBA-or-Master-s-Track----Los-Angeles---MBA-Program-2027_R_365103-1) | Los Angeles - West 5th |
-| 2026-09-15 (30+ days) | Oliver Wyman | [Oliver Wyman - 2027 MBA Summer Associate - Health & Life Sciences](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Oliver-Wyman---2027-MBA-Summer-Associate---Health---Life-Sciences_R_363378) | 4 Locations |
 | 2026-09-15 | Nike | [Converse Strategic Planning Graduate Internship](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Boston-Massachusetts/Converse-Strategic-Planning-Graduate-Internship_R-92185) | Boston, Massachusetts |
 | 2026-09-15 (30+ days) | Nike | [NIKE, Inc. Digital Growth Graduate Internship](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Digital-Growth-Graduate-Internship_R-92073-1) | Beaverton, Oregon |
 | 2026-09-15 (30+ days) | Nike | [NIKE, Inc. Product Supply Chain (PSC) Footwear & Apparel Graduate Internship](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Product-Supply-Chain--PSC--Footwear---Apparel-Graduate-Internship_R-91695-1) | Beaverton, Oregon |
@@ -114,7 +111,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (310)
+## Other internships (308)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -123,6 +120,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-15 | RTX | [System Administrator Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/System-Administrator-Intern--Summer-2027-_01879679) | US-RI-MIDDLETOWN-201 ~ 127 John Clarke Rd ~ BBN MIDDLETOWN, Ste 3 |
 | 2026-10-15 | RTX | [Summer 2027 RF Systems Engineer Intern - Onsite](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963) | US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A |
 | 2026-10-15 | Philips | [HR Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/HR-Intern_593784-1) | Suzhou |
+| 2026-10-15 | Philips | [Marketing Intern (all genders)](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Warszawa/Marketing-Intern--all-genders-_592892) | Warszawa |
 | 2026-10-14 | Snap | [2027 Generative Media Research Intern](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179) | Los Angeles, California |
 | 2026-10-14 | ServiceNow | [Finance Intern - Undergrad Summer 2027](https://jobs.smartrecruiters.com/ServiceNow/744000155588309) | Santa Clara, CALIFORNIA, us |
 | 2026-10-14 | ServiceNow | [Finance Intern - Undergrad Summer 2027](https://jobs.smartrecruiters.com/ServiceNow/744000155587276) | West Palm Beach, Florida, us |
@@ -203,7 +201,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-06 | Mondelez | [Intern Sales Modern Trade](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Quito-Ecuador/Intern-Sales-Modern-Trade_R-177811) | Quito, Ecuador |
 | 2026-10-06 | Huron | [IT Contact Support Intern, Chicago, IL - Onsite Opportunity](https://huron.wd1.myworkdayjobs.com/en-US/HuronCareers/job/Chicago---550-Van-Buren/IT-Contact-Support-Intern--Chicago--IL---Onsite-Opportunity_JR-0016772) | Chicago - 550 Van Buren |
 | 2026-10-05 | S&P Global | [Market Intelligence Revenue Associate Internship](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Central-HK/Market-Intelligence-Revenue-Associate-Internship_332059-1) | Central, HK |
-| 2026-10-05 | Philips | [Customer Care Intern (all genders)](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Warszawa/Customer-Care-Intern--all-genders-_589601) | Warszawa |
 | 2026-10-05 | Guidehouse | [Intern - Centers for Disease Control and Prevention, Federal Health Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---GA-Atlanta/Intern---Centers-for-Disease-Control-and-Prevention--Federal-Health-Advisory---Campus-2027_45239) | US - GA, Atlanta |
 | 2026-10-05 | Duolingo | [Illustrator, Intern](https://careers.duolingo.com/jobs/8863967002?gh_jid=8863967002) | Detroit, MI |
 | 2026-10-05 | Anduril | [2027 Quality & Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007) | Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States |
@@ -295,8 +292,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-15 (30+ days) | Philips | [Intern of equipment](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/Intern-of-equipment_588627) | Suzhou |
 | 2026-09-15 (30+ days) | Philips | [Manufacturing Engineering Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/Manufacturing-Engineering-Intern_590507) | Suzhou |
 | 2026-09-15 (30+ days) | Philips | [Sustainability Operations Intern (all genders)](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Lodz/Sustainability-Operations-Intern--all-genders-_588795) | Lodz |
-| 2026-09-15 (30+ days) | Oliver Wyman | [Insurance Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Lincoln---Pine/Insurance-Intern_R_364734) | Lincoln - Pine |
-| 2026-09-15 (30+ days) | Oliver Wyman | [Insurance Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Omaha---Southport/Insurance-Intern_R_364740) | Omaha - Southport |
 | 2026-09-15 (30+ days) | NVIDIA | [Software Engineering Intern, NCCL - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645) | 2 Locations |
 | 2026-09-15 (30+ days) | Mondelez | [Corporate Finance Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1) | East Hanover, New Jersey, United States |
 | 2026-09-15 (30+ days) | Mondelez | [Research & Development Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Research---Development-Intern_R-175411) | East Hanover, New Jersey, United States |

@@ -1,10 +1,10 @@
-# Open matching jobs (412)
+# Open matching jobs (407)
 
-Updated 2026-10-15 07:20 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-15 07:58 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (102)
+## MBA-level (99)
 
 Title or job description mentions an MBA.
 
@@ -75,9 +75,6 @@ Title or job description mentions an MBA.
 | 2026-09-15 (30+ days) | Nike | [NIKE, Inc. Strategic Planning Graduate Internship](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Strategic-Planning-Graduate-Internship_R-91142) | Beaverton, Oregon |
 | 2026-09-17 | Nike | [NIKE, Inc. Supply Chain Planning Graduate Internship](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Supply-Chain-Planning-Graduate-Internship_R-92368-1) | Beaverton, Oregon |
 | 2026-10-13 | NVIDIA | [Product Management MBA Intern, Data Center GPU - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) | US, CA, Santa Clara |
-| 2026-09-15 (30+ days) | Oliver Wyman | [Oliver Wyman - 2027 MBA Summer Associate - Health & Life Sciences](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Oliver-Wyman---2027-MBA-Summer-Associate---Health---Life-Sciences_R_363378) | 4 Locations |
-| 2026-10-01 | Oliver Wyman | [Workforce and Rewards Summer Associate (MBA or Master's Track) - Chicago - MBA Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Chicago---155-Wacker/Workforce-and-Rewards-Summer-Associate--MBA-or-Master-s-Track----Chicago---MBA-Program-2027_R_367574-1) | Chicago - 155 Wacker |
-| 2026-09-15 (30+ days) | Oliver Wyman | [Workforce and Rewards Summer Associate (MBA or Master's Track) - Los Angeles - MBA Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Los-Angeles---West-5th/Career-Consulting-Summer-Associate--MBA-or-Master-s-Track----Los-Angeles---MBA-Program-2027_R_365103-1) | Los Angeles - West 5th |
 | 2026-09-15 (30+ days) | Pfizer | [MBA Finance Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Finance-Summer-Associate_4960971) | United States - New York - New York City |
 | 2026-09-15 (30+ days) | Pfizer | [MBA Marketing Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Marketing-Summer-Associate_4960967) | United States - New York - New York City |
 | 2026-09-15 (30+ days) | Pfizer | [MBA Strategy & Consulting Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Strategy---Consulting-Summer-Associate_4960972) | United States - New York - New York City |
@@ -114,7 +111,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (310)
+## Other internships (308)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -336,8 +333,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-12 | Nordstrom | [Technical Apparel Design - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Technical-Apparel-Design---Corporate-Internship---Summer-2027_R-886419) | Seattle, WA |
 | 2026-10-12 | NVIDIA | [Accelerated Computing Research Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Sweden-Remote/Accelerated-Computing-Research-Intern_JR2027378) | 2 Locations |
 | 2026-09-15 (30+ days) | NVIDIA | [Software Engineering Intern, NCCL - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645) | 2 Locations |
-| 2026-09-15 (30+ days) | Oliver Wyman | [Insurance Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Lincoln---Pine/Insurance-Intern_R_364734) | Lincoln - Pine |
-| 2026-09-15 (30+ days) | Oliver Wyman | [Insurance Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Omaha---Southport/Insurance-Intern_R_364740) | Omaha - Southport |
 | 2025-12-11 | Palantir | [Deployment Strategist, Internship - US Government](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) | Honolulu, HI |
 | 2026-07-10 | Palantir | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | Washington, D.C. |
 | 2026-07-10 | Palantir | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | Palo Alto, CA |
@@ -350,7 +345,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-07-01 | Perplexity | [Internship - Search Backend Infra Engineer](https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92) | Belgrade |
 | 2026-01-13 | Perplexity | [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2) | Belgrade |
 | 2026-09-15 (30+ days) | Philips | [CMM intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Milano/CMM-intern_591022) | Milano |
-| 2026-10-05 | Philips | [Customer Care Intern (all genders)](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Warszawa/Customer-Care-Intern--all-genders-_589601) | Warszawa |
 | 2026-10-15 | Philips | [HR Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/HR-Intern_593784-1) | Suzhou |
 | 2026-09-30 | Philips | [Indirect Procurement Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/Indirect-Procurement-Intern_592336-1) | Suzhou |
 | 2026-09-24 | Philips | [Intern - R&D NPI Intern, Disposables – San Diego, CA – 2027](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/San-Diego-California-United-States/Intern---R-D-NPI-Intern--Disposables---San-Diego--CA---2027_590830) | San Diego, California, United States |
@@ -359,6 +353,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-29 | Philips | [Intern Service Enablement Team](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Best/Intern-Service-Enablement-Team_591964) | Best |
 | 2026-09-22 | Philips | [IT Infrastructure Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Ciudad-de-Panama/IT-Infrastructure-Intern_586528) | Ciudad de Panama |
 | 2026-09-15 (30+ days) | Philips | [Manufacturing Engineering Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/Manufacturing-Engineering-Intern_590507) | Suzhou |
+| 2026-10-15 | Philips | [Marketing Intern (all genders)](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Warszawa/Marketing-Intern--all-genders-_592892) | Warszawa |
 | 2026-09-22 | Philips | [Product Industrialization Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/Product-Industrialization-Intern_588379-1) | Suzhou |
 | 2026-10-02 | Philips | [Sales Operations Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Varginha/Sales-Operations-Intern_589725) | Varginha |
 | 2026-09-30 | Philips | [Strategic Solution Architect Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Genoa/Strategic-Solution-Architect-Interm_587651) | Genoa |
