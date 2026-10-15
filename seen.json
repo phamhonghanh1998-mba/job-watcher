@@ -3415,6 +3415,7 @@
   "5250656007",
   "5250658007",
   "5250749007",
+  "5250775007",
   "5250777007",
   "5250779007",
   "5250781007",
@@ -4572,7 +4573,8 @@
   "5451134008",
   "5451889008",
   "5452403008",
-  "5452909008"
+  "5452909008",
+  "5453262008"
  ],
  "Applied Materials": [
   "00eaa332-f855-4963-886c-909ac78bce6d",
@@ -7638,6 +7640,7 @@
   "/job/McLean-VA/Full-stack-Engineer-4--Manager-IC-_R1001258-1",
   "/job/McLean-VA/Full-stack-Engineer-4--Node--TypeScript--AWS-_R1002012-1",
   "/job/McLean-VA/Full-stack-Engineer-4--Python--AWS-_R1001336-2",
+  "/job/McLean-VA/Full-stack-Engineer-4_R1002477-1",
   "/job/McLean-VA/Full-stack-Engineer-4_R1002521-1",
   "/job/McLean-VA/Full-stack-Engineer-4_R1002543-1",
   "/job/McLean-VA/Full-stack-Engineer-4_R1002701-1",
@@ -8907,6 +8910,7 @@
   "/job/Japan---Tokyo/Senior-Director--Customer-Marketing--North-Asia_R-142312",
   "/job/Japan---Tokyo/Senior-Director--Financial-Planning-and-Analysis_R-144074",
   "/job/Japan---Tokyo/Senior-Manager--Employee-and-Labor-Relations_R-147396",
+  "/job/Philippines---Taguig-City/Director--Franchise-Finance-Operations---Philippines_R-147642-2",
   "/job/Philippines---Taguig-City/Marketing-Director--Sprite---Philippines_R-145209",
   "/job/Poland---Warsaw/Trainee-Lawyer_R-144627",
   "/job/Romania---Bucharest/Coca-Cola-Ignite-Intern---Marketing_R-139298",
@@ -11617,7 +11621,8 @@
   "8281249",
   "8281762",
   "8281853",
-  "8282757"
+  "8282757",
+  "8283735"
  ],
  "Dropbox": [
   "6330377",
@@ -11860,6 +11865,7 @@
   "/job/UK---London/Sr-Manager--Commercial-Incentives---Revenue-Operations_R-109410",
   "/job/USA---California---San-Francisco/Associate-Account-Manager_R-106691",
   "/job/USA---California---San-Francisco/Director---Principal-Motion-Designer--Expedia-Design_R-110430-1",
+  "/job/USA---California---San-Jose/Job-Posting-Title-Senior-Analyst--Workforce-and-Portfolio-Insights_R-109783-1",
   "/job/USA---California---San-Jose/Machine-Learning-Engineer-III_R-109254-1",
   "/job/USA---California---San-Jose/Machine-Learning-Engineer-II_R-108871-1",
   "/job/USA---California---San-Jose/Principal-Product-Manager--Comms---Intelligence_R-110450",
@@ -13325,6 +13331,7 @@
   "8167750",
   "8167933",
   "8168028",
+  "8168216",
   "8168848",
   "8168903",
   "8168907",
@@ -16049,6 +16056,7 @@
   "/job/Penang-Malaysia---Grande/Sr-Supply-Manager-II--ATSM-Capital_JR108686",
   "/job/Penang-Malaysia---Grande/Supply-Manager--ATSM-Capital_JR108685",
   "/job/Penang-Malaysia---Grande/Test-Development-Engineer_JR109684",
+  "/job/Penang-Malaysia---Mini-Grande/TSE-SIG--Principal-Logistics---Warehouse-Analyst_JR114006",
   "/job/Richardson-TX/CAD-Engineer_JR114437",
   "/job/Richardson-TX/Design-Lead--HBM-Advanced-Memory-Design-_JR113294",
   "/job/Richardson-TX/Director--Custom-HBM-Design-and-Architecture_JR113804",
@@ -16144,6 +16152,7 @@
   "/job/Taichung---AATT-Taiwan/SR-Data-Engineer--Smart-MFG---AI_JR112591-1",
   "/job/Taichung---AATT-Taiwan/Sr-AI-Engineer--Platform_JR112178",
   "/job/Taichung---Fab-16-Taiwan/ADT-Wet-Process-Engineer_JR113081",
+  "/job/Taichung---Fab-16-Taiwan/Advanced-Package-Technology-Development-Engineer---Staff-Engineer_JR115040",
   "/job/Taichung---Fab-16-Taiwan/CMP-PROCESS-ENGINEER_JR114493",
   "/job/Taichung---Fab-16-Taiwan/CPEE-PRINCIPLE-SENIOR-ENGINEER--DIFF-_JR114078",
   "/job/Taichung---Fab-16-Taiwan/DRAM-Design-Development-Quality-Engineer_JR109422",
@@ -22619,7 +22628,8 @@
   "8275952",
   "8275964",
   "8276095",
-  "8282760"
+  "8282760",
+  "8283770"
  ],
  "Remitly": [
   "/job/Abu-Dhabi-United-Arab-Emirates/Lead-Auditor--UAE_R_106785",
@@ -23605,6 +23615,7 @@
   "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Financial-Services-_JR362508-1",
   "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1",
   "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant_JR362509-1",
+  "/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1",
   "/job/New-York---Remote/Retail-Cloud-Enterprise-Account-Executive_JR298937",
   "/job/New-York---Remote/Strategic-Partner-Account-Sr-Manager_JR361738",
   "/job/New-Zealand---Auckland/Commercial-Account-Executive_JR361168",
@@ -28068,8 +28079,10 @@
   "8889168002",
   "8889422002",
   "8889891002",
+  "8890001002",
   "8890012002",
-  "8890337002"
+  "8890337002",
+  "8890398002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -32645,7 +32658,8 @@
    "/job/Indiana---Indianapolis/Summer-2027-Intern---Finance-Operations-Associate_JR359638-2": "2026-10-02",
    "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Financial-Services-_JR362508-1": "2026-10-02",
    "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1": "2026-10-02",
-   "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant_JR362509-1": "2026-10-02"
+   "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant_JR362509-1": "2026-10-02",
+   "/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1": "2026-10-15"
   },
   "Samsara": {
    "8082091": "2026-10-02",
@@ -33818,7 +33832,8 @@
    "/job/California---San-Francisco/Summer-2027-Intern---Product-GTM-Strategy_JR362217-1": false,
    "/job/California---San-Francisco/Summer-2027-Internship---Content-Design_JR363232-1": false,
    "/job/India---Hyderabad/Summer-2027-Intern---UI-UX-Designer_JR363342": false,
-   "/job/Indiana---Indianapolis/Summer-2027-Intern---Finance-Operations-Associate_JR359638-2": false
+   "/job/Indiana---Indianapolis/Summer-2027-Intern---Finance-Operations-Associate_JR359638-2": false,
+   "/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1": false
   },
   "Samsara": {
    "8082091": false,
