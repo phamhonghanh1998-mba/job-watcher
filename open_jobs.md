@@ -1,6 +1,6 @@
-# Open matching jobs (410)
+# Open matching jobs (409)
 
-Updated 2026-10-15 22:23 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-15 23:00 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -121,7 +121,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (301)
+## Other internships (300)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -129,7 +129,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 |---|---|---|---|
 | 2026-10-15 | RTX | [Quality Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-FAIRFIELD-3530--3530-Branscombe-Rd--BRANSCOMBE/Quality-Engineering-Intern--Summer-2027-_01882706) | US-CA-FAIRFIELD-3530 ~ 3530 Branscombe Rd ~ BRANSCOMBE |
 | 2026-10-15 | RTX | [Quality Assurance Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-CHESHIRE-250--250-Knotter-Dr--GOODRICH-CORP/Quality-Assurance-Intern--Summer-2027-_01882553) | US-CT-CHESHIRE-250 ~ 250 Knotter Dr ~ GOODRICH CORP |
-| 2026-10-15 | RTX | [Quality Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Quality-Engineering-Intern--Summer-2027-_01882452) | US-CT-WINDSOR LOCKS-B1A ~ 1 Hamilton Rd ~ BLDG 1A |
 | 2026-10-15 | Philips | [HR Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/HR-Intern_593784-1) | Suzhou |
 | 2026-10-15 | Philips | [System Engineer-Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/System-Engineer-Intern_593772) | Suzhou |
 | 2026-10-15 | Philips | [Marketing Intern (all genders)](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Warszawa/Marketing-Intern--all-genders-_592892) | Warszawa |
@@ -179,9 +178,9 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-12 | Nordstrom | [Supply Chain Operations Industrial Engineer - Corporate Internship - Summer 2027 - Dubuque, IA](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Dubuque-IA/Supply-Chain-Operations-Industrial-Engineer---Corporate-Internship---Summer-2027---Dubuque--IA_R-886442) | Dubuque, IA |
 | 2026-10-12 | Nordstrom | [Finance - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Finance---Corporate-Internship---Summer-2027_R-886463-1) | Seattle, WA |
 | 2026-10-12 | Nordstrom | [Technical Apparel Design - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Technical-Apparel-Design---Corporate-Internship---Summer-2027_R-886419) | Seattle, WA |
-| 2026-10-12 | Nordstrom | [Supply Chain Operations - Corporate Internship - Summer 2027 - Seattle, WA](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Supply-Chain-Operations---Corporate-Internship---Summer-2027---Seattle--WA_R-886519) | Seattle, WA |
 | 2026-10-12 | Nordstrom | [Merchandising - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Merchandising---Corporate-Internship---Summer-2027_R-886408) | Seattle, WA |
 | 2026-10-12 | Nordstrom | [Fashion Design - Corporate Internship - Summer 2027](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Fashion-Design---Corporate-Internship---Summer-2027_R-886422) | Seattle, WA |
+| 2026-10-12 | Nordstrom | [Supply Chain Operations - Corporate Internship - Summer 2027 - Seattle, WA](https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Supply-Chain-Operations---Corporate-Internship---Summer-2027---Seattle--WA_R-886519) | Seattle, WA |
 | 2026-10-12 | Hewlett Packard Enterprise | [ASIC Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034) | Sunnyvale, California, United States of America |
 | 2026-10-12 | Caterpillar | [EHS Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wuxi-Jiangsu/EHS-Intern_R0000386931) | Wuxi, Jiangsu |
 | 2026-10-12 | Caterpillar | [Welder Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wujiang-Jiangsu/Welder-Intern_R0000396237) | Wujiang, Jiangsu |

@@ -1698,6 +1698,7 @@
   "5148720007",
   "5149055007",
   "5149344007",
+  "5149580007",
   "5149623007",
   "5150089007",
   "5150350007",
@@ -3890,7 +3891,8 @@
   "5266884007",
   "5266886007",
   "5266894007",
-  "5266897007"
+  "5266897007",
+  "5267096007"
  ],
  "Anthropic": [
   "4017331008",
@@ -4648,7 +4650,9 @@
   "5452922008",
   "5453262008",
   "5453548008",
-  "5453550008"
+  "5453550008",
+  "5454650008",
+  "5454673008"
  ],
  "Applied Materials": [
   "00eaa332-f855-4963-886c-909ac78bce6d",
@@ -8612,6 +8616,7 @@
   "/job/Oakland-CA---USA/Brand-Management-Intern--MBA---Summer-2027-_JR23316",
   "/job/Oakland-CA---USA/Director-of-Real-Estate--Workplace---Security_JR23432",
   "/job/Oakland-CA---USA/MBA-Finance-Intern--Summer-2027-_JR23493",
+  "/job/Oakland-CA---USA/Senior-Director--Finance----SBU-CFO-_JR23734",
   "/job/Oakland-CA---USA/Senior-Manager--Consumer---Market-Insights_JR23616",
   "/job/Pleasanton-CA---USA/Assistant-Finance-Manager_JR23349",
   "/job/Pleasanton-CA---USA/R-D-Intern--Summer-2027-_JR23320",
@@ -17760,6 +17765,7 @@
   "/job/Beaverton-Oregon/Director--Footwear-Product-Line-Management--Local-Creation-North-America_R-93750",
   "/job/Beaverton-Oregon/Director--Global-Jordan-Streetwear-Art-Direction---Design_R-94856",
   "/job/Beaverton-Oregon/Director--Olympics-Apparel-Product-Design_R-87932-1",
+  "/job/Beaverton-Oregon/Distinguished-Engineer---GaME--Geographies---Marketplace-Experiences-_R-95302",
   "/job/Beaverton-Oregon/Executive-Assistant---GaME-Technology_R-95315",
   "/job/Beaverton-Oregon/Executive-Assistant---Nike-Direct_R-94850",
   "/job/Beaverton-Oregon/Expert-Designer--Speed-Footwear-Product-Design_R-95018",
@@ -19969,6 +19975,7 @@
   "/job/New-York-City-New-York-United-States-of-America/SrManager--Product-Sales_R0138024",
   "/job/New-York-City-New-York-United-States-of-America/VP--Controller_R0137276-1",
   "/job/New-York-City-New-York-United-States-of-America/VP--Legal-Counsel--CFS--Credit---Venmo_R0136965",
+  "/job/San-Jose-California-United-States-of-America/Executive-Assistant-Business-Partner_R0138394",
   "/job/San-Jose-California-United-States-of-America/Legal-Counsel--XO---PayPal_R0138005",
   "/job/San-Jose-California-United-States-of-America/Manager--Corporate-Strategy_R0137882",
   "/job/San-Jose-California-United-States-of-America/Sr-Legal-Counsel---Checkout-and-PayPal_R0138251",
@@ -25369,7 +25376,9 @@
   "744000155831265",
   "744000155845349",
   "744000155849869",
-  "744000155862349"
+  "744000155862349",
+  "744000155864280",
+  "744000155866849"
  ],
  "Smartsheet": [
   "3426405",
@@ -27052,6 +27061,7 @@
   "8624867002",
   "8624890002",
   "8625464002",
+  "8625551002",
   "8625574002",
   "8625576002",
   "8625580002",
@@ -28525,6 +28535,7 @@
   "8827680002",
   "8827682002",
   "8827691002",
+  "8827702002",
   "8827724002",
   "8827756002",
   "8827827002",
@@ -28998,11 +29009,14 @@
   "8890337002",
   "8890398002",
   "8892051002",
+  "8892605002",
   "8892801002",
   "8893008002",
   "8893016002",
   "8893104002",
-  "8893292002"
+  "8893292002",
+  "8893577002",
+  "8893579002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
