@@ -1,10 +1,10 @@
-# Open matching jobs (417)
+# Open matching jobs (412)
 
-Updated 2026-10-15 17:25 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-15 18:06 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (105)
+## MBA-level (106)
 
 Title or job description mentions an MBA.
 
@@ -53,6 +53,7 @@ Title or job description mentions an MBA.
 | 2026-09-23 | Clorox | [Brand Management Intern (MBA - Summer 2027)](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Oakland-CA---USA/Brand-Management-Intern--MBA---Summer-2027-_JR23316) | Oakland, CA - USA |
 | 2026-09-22 | Clorox | [MBA Finance Intern (Summer 2027)](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Oakland-CA---USA/MBA-Finance-Intern--Summer-2027-_JR23493) | Oakland, CA - USA |
 | 2026-09-21 | Clorox | [Sales Analyst (Recent Grad - Summer 2027 Start)](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Mason-OH---USA/Sales-Analyst--Recent-Grad---Summer-2027-Start-_JR23352-1) | 4 Locations |
+| 2026-10-15 | CVS Health | [Finance Corporate Internship - Summer 2027](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Finance-Corporate-Internship---Summer-2027_R1037710-1) | 3 Locations |
 | 2026-09-23 | DoorDash | [Machine Learning Intern (Masters) - Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA |
 | 2026-10-06 | Guidehouse | [Intern - Life Sciences Advisory, Health Segment - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---NY-New-York/Intern---Life-Sciences-Advisory--Health-Segment---Campus-2027_43306) | 4 Locations |
 | 2026-09-15 (30+ days) | Hewlett Packard Enterprise | [Product Management Graduate (Master's/MBA)](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1) | 10 Locations |
@@ -117,7 +118,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (312)
+## Other internships (306)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -268,11 +269,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Walled-Lake/Pharmacy-Intern_R1076646) | MI - Walled Lake |
 | 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Port-Huron/Pharmacy-Intern_R1076639) | MI - Port Huron |
 | 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Detroit/Pharmacy-Intern_R1076636) | MI - Detroit |
-| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Chesterfield/Pharmacy-Intern_R1076633) | MI - Chesterfield |
-| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Detroit/Pharmacy-Intern_R1076627) | MI - Detroit |
-| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Northville/Pharmacy-Intern_R1076624) | MI - Northville |
-| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Sylvan-Lake/Pharmacy-Intern_R1076618) | MI - Sylvan Lake |
-| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Detroit/Pharmacy-Intern_R1076613) | MI - Detroit |
 | 2026-10-09 | Databricks | [Product Design Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002) | San Francisco, California; Seattle, Washington |
 | 2023-08-17 | Databricks | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 2026-08-20 | Databricks | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
@@ -391,8 +387,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-14 | Robinhood | [Fraud Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241) | Denver, CO |
 | 2026-09-02 | Roblox | [[Summer 2027] Product Design Intern](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) | San Mateo, CA, United States |
 | 2026-09-02 | Roblox | [[Summer 2027] Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA, United States |
-| 2026-10-15 | RTX | [Electrical Engineering Intern (Summer 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705) | US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1 |
-| 2026-10-15 | RTX | [Structures Intern (Summer 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Structures-Intern--Summer-2027--Onsite-_01880522) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC |
+| 2026-10-15 | RTX | [Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437) | US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG |
 | 2026-09-15 (30+ days) | S&P Global | [Agribusiness Intern (Early Careers)](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2) | Virtual, BR |
 | 2026-09-15 (30+ days) | S&P Global | [Machine Learning Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1) | 2 Locations |
 | 2026-10-05 | S&P Global | [Market Intelligence Revenue Associate Internship](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Central-HK/Market-Intelligence-Revenue-Associate-Internship_332059-1) | Central, HK |
