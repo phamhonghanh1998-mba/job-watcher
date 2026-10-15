@@ -1,10 +1,10 @@
-# Open matching jobs (421)
+# Open matching jobs (419)
 
-Updated 2026-10-15 16:09 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-15 16:55 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (105)
+## MBA-level (104)
 
 Title or job description mentions an MBA.
 
@@ -17,7 +17,6 @@ Title or job description mentions an MBA.
 | 2026-10-15 | Airbnb | [Strategic Finance & Analytics Intern](https://careers.airbnb.com/positions/8285171?gh_jid=8285171) | United States |
 | 2026-10-14 | Philips | [Intern-Insights and Analytics (Health Systems Marketing) Cambridge, MA - Summer 2027](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454) | Cambridge (US), Massachusetts, United States |
 | 2026-10-14 | Micron | [Intern - Micron Ventures](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---Micron-Ventures_JR114649) | San Jose, CA |
-| 2026-10-14 | Cisco | [FLEX- Rising Leaders II (Intern) United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Chicago-Illinois-US/FLEX--Rising-Leaders-II--Intern--United-States_2027808) | Chicago, Illinois, US |
 | 2026-10-13 | Philips | [Intern - Health Systems Marketing-Cambridge, MA-Summer 2027](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Health-Systems-Marketing-Cambridge--MA-Summer-2027_593616) | Cambridge (US), Massachusetts, United States |
 | 2026-10-13 | NVIDIA | [Product Management MBA Intern, Data Center GPU - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) | US, CA, Santa Clara |
 | 2026-10-08 | Adobe | [2027 MBA University Graduate - Product Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-MBA-University-Graduate---Product-Manager_R171900) | 2 Locations |
@@ -117,14 +116,14 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (316)
+## Other internships (315)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
+| 2026-10-15 | RTX | [Structures Intern (Summer 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Structures-Intern--Summer-2027--Onsite-_01880522) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC |
 | 2026-10-15 | RTX | [Electrical Engineering Intern (Summer 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705) | US-MA-MARLBOROUGH-MA1 ~ 1001 Boston Post Rd ~ BLDG 1 |
-| 2026-10-15 | RTX | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01882317) | US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS |
 | 2026-10-15 | Philips | [HR Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/HR-Intern_593784-1) | Suzhou |
 | 2026-10-15 | Philips | [System Engineer-Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/System-Engineer-Intern_593772) | Suzhou |
 | 2026-10-15 | Philips | [Marketing Intern (all genders)](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Warszawa/Marketing-Intern--all-genders-_592892) | Warszawa |
@@ -132,8 +131,13 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-15 | Medtronic | [Sales Intern](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bloemfontein-Free-State-South-Africa/Sales-Intern_R78059-1) | 3 Locations |
 | 2026-10-15 | Medtronic | [Intern Business Analytics & Product Allocation](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Intern-Business-Analytics---Product-Allocation_R78095-1) | 2 Locations |
 | 2026-10-15 | Medtronic | [Sales Operations Intern](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ankara-Ankara-Trkiye/Sales-Operations-Intern_R78959-1) | Ankara, Ankara, Türkiye |
-| 2026-10-15 | Genentech | [Gain Marketing Experience as Marketing Support Intern (part-time role)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Bratislava/Marketing-Support--Working-Student-_202606-115114-1) | Bratislava |
 | 2026-10-15 | GE Aerospace | [LEAN Assistant Intern](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Veresegyhaz/LEAN-Assistant-Intern_R5041439-1) | Veresegyhaz |
+| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/17651---Tennessee-CVS-Pharmacy-LLC/Pharmacy-Intern_R1076690) | 17651 - Tennessee CVS Pharmacy, L.L.C. |
+| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/17431---Tennessee-CVS-Pharmacy-LLC/Pharmacy-Intern_R1076658) | 17431 - Tennessee CVS Pharmacy, L.L.C. |
+| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/16709---Tennessee-CVS-Pharmacy-LLC/Pharmacy-Intern_R1076655) | 16709 - Tennessee CVS Pharmacy, L.L.C. |
+| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Macomb/Pharmacy-Intern_R1076651) | MI - Macomb |
+| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/07698---Tennessee-CVS-Pharmacy-LLC/Pharmacy-Intern_R1076640) | 07698 - Tennessee CVS Pharmacy, L.L.C. |
+| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Walled-Lake/Pharmacy-Intern_R1076646) | MI - Walled Lake |
 | 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Port-Huron/Pharmacy-Intern_R1076639) | MI - Port Huron |
 | 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Detroit/Pharmacy-Intern_R1076636) | MI - Detroit |
 | 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Chesterfield/Pharmacy-Intern_R1076633) | MI - Chesterfield |
@@ -144,12 +148,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Sterling-Heights/Pharmacy-Intern_R1076607) | MI - Sterling Heights |
 | 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Shelby-Township/Pharmacy-Intern_R1076600) | MI - Shelby Township |
 | 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Clawson/Pharmacy-Intern_R1076593) | MI - Clawson |
-| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Macomb/Pharmacy-Intern_R1076590) | MI - Macomb |
-| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Clarkston/Pharmacy-Intern_R1076587) | MI - Clarkston |
-| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Shelby-Township/Pharmacy-Intern_R1076579) | MI - Shelby Township |
-| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Southfield/Pharmacy-Intern_R1076571) | MI - Southfield |
-| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---Livonia/Pharmacy-Intern_R1076562) | MI - Livonia |
-| 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MI---West-Bloomfield/Pharmacy-Intern_R1076556) | MI - West Bloomfield |
 | 2026-10-15 | Caterpillar | [Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Minerbio-Bologna/Intern_R0000399549) | Minerbio, Bologna |
 | 2026-10-15 | Boeing | [Data Science Intern](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1) | 2 Locations |
 | 2026-10-15 | Boeing | [Analytics Business Operations Intern (Government Services)](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Analytics-Business-Operations-Intern--Government-Services-_JR2026526163-1) | 2 Locations |
