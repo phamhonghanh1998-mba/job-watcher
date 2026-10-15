@@ -5636,6 +5636,7 @@
   "5427789008",
   "5427795008",
   "5427849008",
+  "5427855008",
   "5427880008",
   "5428149008",
   "5428275008",
@@ -9556,6 +9557,7 @@
   "/job/USA---Remote-MN/Services-Sales-Manager---Complete--Remote-_R30251",
   "/job/USA---Remote-OR/Sr-AI-SDLC-Engineer--Remote-_R30192",
   "/job/USA---Remote-TX/Manager---Customer-Sales--Remote-_R29989",
+  "/job/USA---Remote/Analyst-I--Falcon-Complete--Remote-_R29479",
   "/job/USA---Remote/Associate-Analyst--Falcon-Complete_R30082",
   "/job/USA---Remote/Cyber-Business-Operations-Manager--Remote-_R30293",
   "/job/USA---Remote/Engagement-Lead--Incident-Response-Partner-Services--Remote-_R30300",
@@ -13813,6 +13815,7 @@
  "Hewlett Packard Enterprise": [
   "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1",
   "/job/Aguadilla-Puerto-Rico/Intermediate-Supply-Planner_1216931-2",
+  "/job/Aguadilla-Puerto-Rico/Supply-Planner_1216915-5",
   "/job/Barcelona-Barcelona-Spain/WW-Instant-On-RTM-Sales-Program-Manager--HPE-Networking_1201966-2",
   "/job/Bengaluru-Karntaka-India/College-Intern_1211843-2",
   "/job/Bengaluru-Karntaka-India/DevOps-Engineer_1213661-2",
@@ -18268,6 +18271,7 @@
   "8080748",
   "8080906",
   "8081016",
+  "8081048",
   "8081732",
   "8082028",
   "8087739",
@@ -20229,6 +20233,7 @@
   "/job/China---Shanghai---Shanghai/_4964160",
   "/job/China---Zhejiang---Hangzhou/AI-Transformation-Strategy---Operation-Lead_4959846",
   "/job/Colombia---Bogota---Suba/Aprendiz-Profesional-de-Marketing_4964266-1",
+  "/job/Colombia---Bogota/Estudiante-en-prctica---Portafolio-Oncologa_4965863",
   "/job/Colombia---Medellin/Health-Representative-Medicina-Interna_4964238",
   "/job/France---Rives-de-Paris/Integrated-Insights---Strategy--IIS--France---Stage-6-mois_4964066",
   "/job/Germany---Berlin/Pharmazeut-in--m-w-d--im-Praktikum-Regulatory-Affairs_4959973-1",
@@ -25904,6 +25909,7 @@
   "d1427a35-3a5c-409a-9068-668c1921bf6c",
   "d1823395-6522-4b35-bfbf-365ad939529f",
   "d1fe51bc-42b1-4f24-9e19-69eecfed06ae",
+  "d23bc607-27d8-48a9-8c12-a455b3c6a820",
   "d297d07c-eaa7-4896-946d-df2879c8cde3",
   "d37ea59f-e077-427a-9839-44cee182f1f7",
   "d3fe6098-dd01-4be4-837d-0d958a34a9f7",
@@ -28946,6 +28952,7 @@
   "8882642002",
   "8882893002",
   "8883355002",
+  "8883356002",
   "8883358002",
   "8883500002",
   "8883760002",
@@ -29016,7 +29023,8 @@
   "8893104002",
   "8893292002",
   "8893577002",
-  "8893579002"
+  "8893579002",
+  "8893666002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -30157,6 +30165,7 @@
   "/job/Bellevue-Washington/Sr-Corporate-Strategy-Manager_REQ360743-1",
   "/job/Bellevue-Washington/Sr-Manager--Technical-Product-Management--GenAI-Platforms---Adoption_REQ376162",
   "/job/Bellevue-Washington/Sr-Product-Managers_REQ373650",
+  "/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322",
   "/job/Caguas-Puerto-Rico/P-Mobile-Associate---Retail-Sales_REQ377732-1",
   "/job/Carolina-Puerto-Rico/P-Mobile-Associate---Retail-Sales_REQ377651-1",
   "/job/Carolina-Puerto-Rico/P-Mobile-Associate---Retail-Sales_REQ377694-1",
@@ -33823,7 +33832,9 @@
   "Synchrony": {
    "/job/Stamford-Hub/BLP-Intern---Sales_2601694": "2026-10-02"
   },
-  "T-Mobile": {},
+  "T-Mobile": {
+   "/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322": "2026-10-15"
+  },
   "Target": {
    "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Inventory-Analyst-Intern---Minneapolis--MN--Starting-Summer--2027-_R0000450965": "2026-10-02",
    "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/MBA-Intern--Finance-Leadership-Development-Program--FLDP--Internship----Summer-2027-_R0000451066": "2026-10-02",
@@ -35088,6 +35099,9 @@
   },
   "Synchrony": {
    "/job/Stamford-Hub/BLP-Intern---Sales_2601694": false
+  },
+  "T-Mobile": {
+   "/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322": false
   },
   "Target": {
    "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Inventory-Analyst-Intern---Minneapolis--MN--Starting-Summer--2027-_R0000450965": false,
