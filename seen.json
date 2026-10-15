@@ -3823,7 +3823,8 @@
   "5266145007",
   "5266146007",
   "5266201007",
-  "5266209007"
+  "5266209007",
+  "5266256007"
  ],
  "Anthropic": [
   "4017331008",
@@ -6363,6 +6364,7 @@
   "/job/17114---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0997012",
   "/job/17116---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0997013",
   "/job/17209---Tennessee-CVS-Pharmacy-LLC/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1073454",
+  "/job/17267---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R1076149",
   "/job/17436---Alaska-CVS-Pharmacy-LLC/Pharmacy-Intern---Grad_R0997027",
   "/job/17603---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0997041",
   "/job/17961---CVS-Pharmacy-Inc/Pharmacy-Intern_R1068021-1",
@@ -7261,6 +7263,7 @@
   "/job/TX---Rockwall/Pharmacy-Intern_R1065479-1",
   "/job/TX---Rockwall/Pharmacy-Intern_R1073802",
   "/job/TX---Saginaw/Pharmacy-Intern_R1065431",
+  "/job/TX---San-Antonio/Pharmacy-Intern---Grad_R1076161",
   "/job/TX---Sunnyvale/Pharmacy-Intern_R1065468",
   "/job/TX---Tyler/Pharmacy-Intern_R1025511",
   "/job/TX---Westlake/Pharmacy-Intern_R1065452",
@@ -13420,6 +13423,7 @@
   "/job/Milpitas-California-United-States-of-America/PhD-Research-Intern_1213426",
   "/job/Pune-Maharashtra-India/External-Intern_1214672-3",
   "/job/San-Jose-California-United-States-of-America/Marketing-Intern_1213358",
+  "/job/San-Jose-California-United-States-of-America/Marketing-Intern_1213365",
   "/job/San-Juan-Puerto-Rico-Puerto-Rico/Principal-Product-Manager---AI-DRIVEN-NETWORK-TROUBLESHOOTING-PLATFORM---_1212248-1",
   "/job/San-Juan-Puerto-Rico-Puerto-Rico/Principal-Product-Manager--Certifications-PLM_1212250-4",
   "/job/Singapore-Central-Singapore-Singapore/Supply-Chain-Intern_1213572",
@@ -15982,6 +15986,7 @@
   "/job/MSB-Singapore/SR-ATSM-NETWORK-SUPPLY-MGR-II_JR109719-1",
   "/job/MSB-Singapore/SR-ENGINEER--STPG-PE-SYSTEM_JR113329",
   "/job/MSB-Singapore/STPG-NAND-Product-Development-Engineer_JR100883",
+  "/job/MSB-Singapore/Senior-Engineer--STPG-PE-NAND_JR113739",
   "/job/MSB-Singapore/Senior-Product-Owner--SMAI_JR114803",
   "/job/MSB-Singapore/Senior-Staff-Engineer---STPG-PE-SYSTEM_JR113606",
   "/job/MSB-Singapore/Staff-Principal-Business-Analyst_JR110918",
@@ -17219,6 +17224,7 @@
   "/job/Beaverton-Oregon/Senior-Planner--NA_R-94475",
   "/job/Beaverton-Oregon/Senior-Product-Engineer---NikeSKIMS-Footwear_R-86293",
   "/job/Beaverton-Oregon/Sr-Analyst--Product-Finance_R-91389",
+  "/job/Beaverton-Oregon/Supply-Chain-Specialist-II--NA_R-95309",
   "/job/Berlin-Germany/Field-Sales-Representative_R-90539",
   "/job/Berlin-Germany/Integrated-Retail-Marketing-Specialist--Austria--Germany--Switzerland--AGS-_R-92458",
   "/job/Bhiwandi-Mumbai/Retail-Supervisor---Nike--Bhiwandi--Mumbai-_R-92474",
@@ -24477,7 +24483,8 @@
   "744000155587276",
   "744000155588309",
   "744000155597390",
-  "744000155611259"
+  "744000155611259",
+  "744000155643596"
  ],
  "Smartsheet": [
   "3426405",
@@ -31723,6 +31730,7 @@
    "/job/17114---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0997012": "2026-10-12",
    "/job/17116---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0997013": "2026-10-12",
    "/job/17209---Tennessee-CVS-Pharmacy-LLC/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1073454": "2026-10-12",
+   "/job/17267---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R1076149": "2026-10-15",
    "/job/17436---Alaska-CVS-Pharmacy-LLC/Pharmacy-Intern---Grad_R0997027": "2026-10-12",
    "/job/17603---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0997041": "2026-10-12",
    "/job/17961---CVS-Pharmacy-Inc/Pharmacy-Intern_R1068021-1": "2026-10-06",
@@ -31991,6 +31999,7 @@
    "/job/TX---Rockwall/Pharmacy-Intern_R1065479-1": "2026-10-04",
    "/job/TX---Rockwall/Pharmacy-Intern_R1073802": "2026-10-13",
    "/job/TX---Saginaw/Pharmacy-Intern_R1065431": "2026-10-04",
+   "/job/TX---San-Antonio/Pharmacy-Intern---Grad_R1076161": "2026-10-15",
    "/job/TX---Sunnyvale/Pharmacy-Intern_R1065468": "2026-10-04",
    "/job/TX---Tyler/Pharmacy-Intern_R1025511": "2026-10-09",
    "/job/TX---Westlake/Pharmacy-Intern_R1065452": "2026-10-04",
@@ -32209,6 +32218,7 @@
   "Hewlett Packard Enterprise": {
    "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1": "2026-10-02",
    "/job/San-Jose-California-United-States-of-America/Marketing-Intern_1213358": "2026-10-14",
+   "/job/San-Jose-California-United-States-of-America/Marketing-Intern_1213365": "2026-10-15",
    "/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1213629": "2026-10-02",
    "/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632": "2026-10-02",
    "/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Intern_1213423": "2026-10-02",
@@ -32979,6 +32989,7 @@
    "/job/17114---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0997012": false,
    "/job/17116---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0997013": false,
    "/job/17209---Tennessee-CVS-Pharmacy-LLC/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1073454": false,
+   "/job/17267---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R1076149": false,
    "/job/17436---Alaska-CVS-Pharmacy-LLC/Pharmacy-Intern---Grad_R0997027": false,
    "/job/17603---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0997041": false,
    "/job/17961---CVS-Pharmacy-Inc/Pharmacy-Intern_R1068021-1": false,
@@ -33247,6 +33258,7 @@
    "/job/TX---Rockwall/Pharmacy-Intern_R1065479-1": false,
    "/job/TX---Rockwall/Pharmacy-Intern_R1073802": false,
    "/job/TX---Saginaw/Pharmacy-Intern_R1065431": false,
+   "/job/TX---San-Antonio/Pharmacy-Intern---Grad_R1076161": false,
    "/job/TX---Sunnyvale/Pharmacy-Intern_R1065468": false,
    "/job/TX---Tyler/Pharmacy-Intern_R1025511": false,
    "/job/TX---Westlake/Pharmacy-Intern_R1065452": false,
@@ -33445,6 +33457,7 @@
   "Hewlett Packard Enterprise": {
    "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1": false,
    "/job/San-Jose-California-United-States-of-America/Marketing-Intern_1213358": false,
+   "/job/San-Jose-California-United-States-of-America/Marketing-Intern_1213365": false,
    "/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1213629": false,
    "/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632": false,
    "/job/Spring-Texas-United-States-of-America/Electrical-Engineering-Intern_1213423": false,
