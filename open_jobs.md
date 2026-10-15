@@ -1,6 +1,6 @@
-# Open matching jobs (412)
+# Open matching jobs (411)
 
-Updated 2026-10-15 21:08 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-15 21:51 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -120,7 +120,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (304)
+## Other internships (303)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -131,8 +131,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-15 | RTX | [Quality Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1A--1-Hamilton-Rd--BLDG-1A/Quality-Engineering-Intern--Summer-2027-_01882452) | US-CT-WINDSOR LOCKS-B1A ~ 1 Hamilton Rd ~ BLDG 1A |
 | 2026-10-15 | RTX | [Product Quality Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Product-Quality-Engineering-Intern--Summer-2027-_01882574) | US-FL-LARGO-382SS ~ 7887 Bryan Dairy Rd. ~ BLDG 100 |
 | 2026-10-15 | RTX | [Quality Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-NH-DURHAM-121--121-Technology-Dr--BLDG-125/Quality-Engineering-Intern--Summer-2027-_01882570) | US-NH-DURHAM-121 ~ 121 Technology Dr ~ BLDG 125 |
-| 2026-10-15 | RTX | [Quality Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CORALVILLE-155--2855-Heartland-Dr--HEARTLAND-BLDG-155/Quality-Engineering-Intern--Summer-2027-_01882628) | US-IA-CORALVILLE-155 ~ 2855 Heartland Dr ~ HEARTLAND BLDG 155 |
-| 2026-10-15 | RTX | [Metrology Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-123--350-Collins-Rd-NE--BLDG-123/Metrology-Engineering-Intern--Summer-2027-_01882625) | US-IA-CEDAR RAPIDS-123 ~ 350 Collins Rd NE ~ BLDG 123 |
 | 2026-10-15 | Philips | [HR Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/HR-Intern_593784-1) | Suzhou |
 | 2026-10-15 | Philips | [System Engineer-Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/System-Engineer-Intern_593772) | Suzhou |
 | 2026-10-15 | Philips | [Marketing Intern (all genders)](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Warszawa/Marketing-Intern--all-genders-_592892) | Warszawa |
@@ -140,6 +138,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-15 | Medtronic | [Sales Intern](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bloemfontein-Free-State-South-Africa/Sales-Intern_R78059-1) | 3 Locations |
 | 2026-10-15 | Medtronic | [Intern Business Analytics & Product Allocation](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Intern-Business-Analytics---Product-Allocation_R78095-1) | 2 Locations |
 | 2026-10-15 | Medtronic | [Sales Operations Intern](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ankara-Ankara-Trkiye/Sales-Operations-Intern_R78959-1) | Ankara, Ankara, Türkiye |
+| 2026-10-15 | GE HealthCare | [Sourcing Intern for Radio Pharmacy](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Uppsala/Sourcing-Intern-for-Radio-Pharmacy_R4047507-1) | Uppsala |
 | 2026-10-15 | GE Aerospace | [Data Science and AI Digital Technology Intern](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Queretaro/Data-Science-and-AI-Digital-Technology-Intern_R5041604-1) | Queretaro |
 | 2026-10-15 | GE Aerospace | [LEAN Assistant Intern](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Veresegyhaz/LEAN-Assistant-Intern_R5041439-1) | Veresegyhaz |
 | 2026-10-15 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IA---Des-Moines/Pharmacy-Intern_R1077066) | IA - Des Moines |
