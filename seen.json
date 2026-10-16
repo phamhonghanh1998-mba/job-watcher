@@ -506,7 +506,9 @@
   "8017342003",
   "8020318003",
   "8031364003",
-  "8031366003"
+  "8031366003",
+  "8032173003",
+  "8032175003"
  ],
  "Airbnb": [
   "6757302",
@@ -751,6 +753,7 @@
   "8278729",
   "8278753",
   "8279422",
+  "8280719",
   "8282333",
   "8282758",
   "8282839",
@@ -3893,7 +3896,8 @@
   "5266894007",
   "5266897007",
   "5267096007",
-  "5267122007"
+  "5267122007",
+  "5267150007"
  ],
  "Anthropic": [
   "4017331008",
@@ -4905,6 +4909,7 @@
   "ae5031f6-c041-47e4-961c-7ff138bb3108",
   "ae6e9474-e4e2-4297-b91e-ae406c7deb2d",
   "b010aa97-edba-461d-9bf0-1ba3b2fe0fe9",
+  "b0b6325d-98b3-44fa-a7c4-956639fe54a8",
   "b2238f05-63b3-407f-b24b-2c8e5c7a8ef8",
   "b2258b1e-336f-4412-aafb-7e5f4e612c7e",
   "b352b349-8300-4f41-817d-952d044fb38a",
@@ -12213,6 +12218,7 @@
   "/job/USA---California---San-Jose/Job-Posting-Title-Senior-Analyst--Workforce-and-Portfolio-Insights_R-109783-1",
   "/job/USA---California---San-Jose/Machine-Learning-Engineer-III_R-109254-1",
   "/job/USA---California---San-Jose/Machine-Learning-Engineer-II_R-108871-1",
+  "/job/USA---California---San-Jose/Principal-Data---AI-Engineer--Reporting-and-Insights_R-107931",
   "/job/USA---California---San-Jose/Principal-Product-Manager--Comms---Intelligence_R-110450",
   "/job/USA---California---San-Jose/Principal-Software-Development-Engineer--Loyalty-_R-109548",
   "/job/USA---California---San-Jose/Principal-Software-Development-Engineer_R-102791-1",
@@ -12286,6 +12292,7 @@
   "/job/Washington---Seattle-Campus/Software-Development-Engineer-III_R-102690-1",
   "/job/Washington---Seattle-Campus/Software-Development-Engineer-III_R-109776",
   "/job/Washington---Seattle-Campus/Software-Development-Engineer-II_R-107932-1",
+  "/job/Washington---Seattle-Campus/Software-Development-Engineer-II_R-109774",
   "/job/Washington---Seattle-Campus/Software-Development-Engineer-II_R-110488",
   "/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311-1",
   "/job/Washington---Seattle-Campus/Sr-Director-Engineering---Experience-Platform_R-109663-1",
@@ -16625,6 +16632,7 @@
   "/job/Richardson-TX/CAD-Engineer_JR114437",
   "/job/Richardson-TX/Design-Lead--HBM-Advanced-Memory-Design-_JR113294",
   "/job/Richardson-TX/Director--Custom-HBM-Design-and-Architecture_JR113804",
+  "/job/Richardson-TX/Foundry-PDK---Collateral-Integration-Engineer--CAD-EDA-_JR103824",
   "/job/Richardson-TX/HBM-SIPI--Principal-Engineer_JR111361",
   "/job/Richardson-TX/Interface-Design-Architect--HBM---DMTS_JR113802",
   "/job/Richardson-TX/Intern---Design-Architecture--HBM_JR114300",
@@ -18590,7 +18598,8 @@
   "8284518",
   "8284930",
   "8285002",
-  "8285012"
+  "8285012",
+  "8287689"
  ],
  "Oliver Wyman": [
   "/job/Atlanta---Northside/Client-Executive---Single-Parent-Captives_R_356704",
@@ -21448,6 +21457,7 @@
   "/job/Toronto/Senior-Associate--Workflows-and-Automation--Sr-ServiceNow-Developer-_754605WD",
   "/job/Toronto/Senior-Associate-Financial-Crime-and-AML_755249WD-1",
   "/job/Toronto/Transaction-Services--Manager_760661WD",
+  "/job/Toronto/Transaction-Services-Manager----Financial-Services_734286WD",
   "/job/Toronto/Transfer-Pricing---Financial-Transactions--Manager_763109WD",
   "/job/Toronto/Valuations-Financial-Instruments--Senior-Manager_765280WD",
   "/job/Toronto/Valuations-Senior-Manager_732092WD",
@@ -29017,6 +29027,8 @@
   "8887128002",
   "8888682002",
   "8888740002",
+  "8888839002",
+  "8888860002",
   "8888957002",
   "8889105002",
   "8889168002",
