@@ -644,6 +644,7 @@
   "8152721",
   "8153094",
   "8154477",
+  "8154705",
   "8154749",
   "8155005",
   "8158133",
@@ -4981,6 +4982,7 @@
   "ab036590-eae9-45ea-9edc-8d7528cdde9d",
   "ab279e98-7ff7-4a66-b6e8-3721572e762a",
   "ab5710d5-6511-4282-971d-74e7b99c1e95",
+  "abd1e4ff-345c-4bf6-9f46-901e0e35a633",
   "ac63bfed-de2e-47e5-8f20-fb7e7854795c",
   "ad48ec73-2f2e-4e11-8322-5f68624d18ab",
   "ae5031f6-c041-47e4-961c-7ff138bb3108",
@@ -6109,6 +6111,7 @@
   "8262078",
   "8262931",
   "8263583",
+  "8265442",
   "8265833",
   "8268267",
   "8278436",
@@ -7638,6 +7641,7 @@
   "/job/TX---Work-from-home/Analyst--Plan-Sponsor-Services-Technical_R1060042",
   "/job/TX---Work-from-home/Care-Management-Associate_R1051519",
   "/job/TX---Work-from-home/Care-Management-Associate_R1052564",
+  "/job/TX---Work-from-home/Case-Manager--Registered-Nurse--Remote-_R1063663",
   "/job/TX---Work-from-home/Case-Manager-Registered-Nurse---Compact-RN-Licensure-Required_R1068755",
   "/job/TX---Work-from-home/Case-Manager-Registered-Nurse_R1052361",
   "/job/TX---Work-from-home/Case-Manager-Registered-Nurse_R1059301",
@@ -8783,6 +8787,7 @@
   "/job/San-Jose-California-US/Product-Manager--SASE-Platform_2023445",
   "/job/San-Jose-California-US/Product-Marketing-Manager--AI-Infrastructure---Software-Ecosystem_2025726",
   "/job/San-Jose-California-US/Real-Estate-Lead--Americas_2023822",
+  "/job/San-Jose-California-US/Sales-Business-Development-Manager_2028156-1",
   "/job/San-Jose-California-US/Senior-Hardware-Engineering-Program-Manager_2025031",
   "/job/San-Jose-California-US/Silicon-NPI-Business-Process-Manager_2024973",
   "/job/San-Jose-California-US/Strategy---Planning-Manager_2024954",
@@ -9458,6 +9463,7 @@
   "7629141",
   "7652048",
   "7701642",
+  "7701645",
   "7711287",
   "7724777",
   "7739592",
@@ -9710,7 +9716,8 @@
   "8280209",
   "8285182",
   "8287662",
-  "8287668"
+  "8287668",
+  "8292793"
  ],
  "CrowdStrike": [
   "/job/Australia---Remote-NW/Associate-Analyst--Falcon-Complete_R30052",
@@ -11015,7 +11022,8 @@
   "8892965002",
   "8892968002",
   "8892970002",
-  "8892971002"
+  "8892971002",
+  "8893763002"
  ],
  "Datadog": [
   "1497543",
@@ -11532,6 +11540,7 @@
   "8263060",
   "8263113",
   "8263146",
+  "8263229",
   "8263526",
   "8267437",
   "8267546",
@@ -18218,6 +18227,7 @@
   "/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522",
   "/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1",
   "/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905",
+  "/job/US-CA-Santa-Clara/Product-Marketing-Management-MBA-Intern---Summer-2027_JR2025672",
   "/job/US-CA-Santa-Clara/Senior-AI-Infrastructure-Business-Development-Manager---Service-Providers-and-Telco_JR2022938-1",
   "/job/US-CA-Santa-Clara/Senior-Commodity-Manager---PCB_JR2023078",
   "/job/US-CA-Santa-Clara/Senior-Director--Boards-and-Systems-Supply-Planning_JR2020393",
@@ -18444,6 +18454,7 @@
   "297b4ece-765f-4eea-b1b8-46057cb6501f",
   "2b587e66-deac-421a-a824-9415ba78b5a7",
   "2f7589e1-b08d-49b1-83aa-2ea2454550db",
+  "30a5c739-185f-4a55-8a63-85974d687444",
   "3129e7bd-f717-47d3-9fdd-c4df026bbf20",
   "3339493a-ee21-49f3-ab09-e1f8ba8f1b92",
   "33ca1c55-e2e4-49a2-a09f-68c83cb540e3",
@@ -19074,6 +19085,7 @@
   "8288308",
   "8288348",
   "8289109",
+  "8289127",
   "8289576",
   "8289582",
   "8289589",
@@ -19565,6 +19577,7 @@
   "6d8facff-ce1d-4069-884b-dc1177cc1a06",
   "6d9925f4-3d0a-4710-8304-032d0080d12d",
   "6de1fad0-a69d-4d81-9d3a-2a3c5512b940",
+  "6e9ac42a-c42a-46e0-98fe-ba00c9cb5455",
   "6eb386ac-9056-4795-aa79-a27e105faf5c",
   "6fbb72e6-1d69-4863-aaf3-3c5830e49e8a",
   "6fd50ace-941b-4559-992f-e53f9b76c9a0",
@@ -26344,6 +26357,7 @@
   "452349cf-7114-4234-9fa5-1b5d0e8e7ce6",
   "453c015f-5266-4d88-844e-51934405f263",
   "4557ced6-d472-45c7-ab02-15c2024e8936",
+  "45f2aa43-731d-4bab-a02b-9ef979f2c86e",
   "45fd2192-852d-4cf4-bffe-b0fcc46b7426",
   "467250b0-43bc-47aa-91d5-6312687e4097",
   "472ec137-a049-4f78-92eb-997d1a63bf7f",
@@ -29705,6 +29719,8 @@
   "8888860002",
   "8888957002",
   "8889105002",
+  "8889136002",
+  "8889164002",
   "8889168002",
   "8889420002",
   "8889422002",
@@ -29720,6 +29736,7 @@
   "8892607002",
   "8892801002",
   "8892830002",
+  "8892848002",
   "8893008002",
   "8893016002",
   "8893104002",
@@ -32141,6 +32158,7 @@
   "/job/US---Denver-CO/Senior-Sales-Executive--Risk-and-Security-Solutions_REF088059W",
   "/job/US---Denver-CO/Software-Development-Engineer--Product-Reliability-Engineering_REF089580W",
   "/job/US---Denver-CO/Sr-Manager--VIP-Coverage-Authorization-Systems_REF089038W",
+  "/job/US---Denver-CO/Sr-Product-Manager--Global-Loyalty-Rewards_REF089519W",
   "/job/US---Denver-CO/Sr-SW-Engineer_REF088937W",
   "/job/US---Denver-CO/Staff-Software-Engineer--AI-Solutions_REF087977W-1",
   "/job/US---Foster-City-CA/AI-Observatory-Product-Sr-Manager_REF089393W",
@@ -32815,6 +32833,7 @@
   "4946624007",
   "4959956007",
   "4964557007",
+  "5009817007",
   "5014895007",
   "5015984007",
   "5029669007",
@@ -34284,7 +34303,8 @@
    "/job/Sweden-Remote/Accelerated-Computing-Research-Intern_JR2027378": "2026-10-12",
    "/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488": "2026-10-02",
    "/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1": "2026-10-13",
-   "/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905": "2026-10-15"
+   "/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905": "2026-10-15",
+   "/job/US-CA-Santa-Clara/Product-Marketing-Management-MBA-Intern---Summer-2027_JR2025672": "2026-10-16"
   },
   "Nike": {
    "/job/Beaverton-Oregon/NIKE--Inc-Digital-Growth-Graduate-Internship_R-92073-1": "2026-10-02",
@@ -34644,7 +34664,9 @@
   "Snap": {
    "/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179": "2026-10-14"
   },
-  "Snowflake": {},
+  "Snowflake": {
+   "45f2aa43-731d-4bab-a02b-9ef979f2c86e": "2026-10-16"
+  },
   "SoFi": {},
   "SpaceX": {
    "8636143002": "2026-10-02",
@@ -35954,6 +35976,9 @@
   },
   "Snap": {
    "/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179": false
+  },
+  "Snowflake": {
+   "45f2aa43-731d-4bab-a02b-9ef979f2c86e": true
   },
   "SpaceX": {
    "8636143002": false,
