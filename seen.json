@@ -5865,7 +5865,8 @@
   "/job/Space-Coast-FL/Systems-Engineer-III---New-Glenn-Customer-Certification_R72037",
   "/job/Space-Coast-FL/Technical-Program-Manager-III---New-Glenn_R72029",
   "/job/Space-Coast-FL/Technical-Project-Manager-III---Fluids_R71883",
-  "/job/Space-Coast-FL/Technical-Project-Manager-Sr---Vertical-Integration-Strategy-and-Execution_R72876"
+  "/job/Space-Coast-FL/Technical-Project-Manager-Sr---Vertical-Integration-Strategy-and-Execution_R72876",
+  "/job/Van-Horn-TX/Senior-Technical-Program-Manager_R74365"
  ],
  "Boeing": [
   "/job/AUS---Port-Melbourne-Australia/Intern---Information-Technology_JR2026525809-1",
@@ -7093,6 +7094,7 @@
   "/job/LA---Work-from-home/Utilization-Management-Clinical-Consultant--Tuesday---Saturday-_R1045766",
   "/job/LA---Work-from-home/Utilization-Management-Clinical-Consultant_R1016247",
   "/job/LA---Youngsville/Pharmacy-Intern_R1065369",
+  "/job/MA---Boston/Assistant-Vice-President--CFO---Health-100_R1069361",
   "/job/MA---Boston/Digital-Implementation-Manager_R1011174-1",
   "/job/MA---Boston/Pharmacy-Intern_R1070763",
   "/job/MA---Boston/Pharmacy-Intern_R1071793",
@@ -7223,6 +7225,9 @@
   "/job/NE---Omaha/Pharmacy-Intern_R1075249-1",
   "/job/NH---Londonderry/Delivery-Driver-Full-Time_R1069383",
   "/job/NH---Londonderry/Pharmacy-Technician-Front-End_R0991513",
+  "/job/NJ---Carteret/Pharmacy-Intern_R1078146",
+  "/job/NJ---Clark/Pharmacy-Intern_R1078164-1",
+  "/job/NJ---Edison/Pharmacy-Intern_R1078139-1",
   "/job/NJ---Elizabeth/Oak-Street-Health-Regional-Director--Operations-and-Population-Health--New-Jersey_R1062221",
   "/job/NJ---Garwood/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1042948",
   "/job/NJ---Garwood/Pharmacy-Intern_R1042423",
@@ -8388,6 +8393,7 @@
   "/job/Plano-TX/Full-stack-Engineer-4--Java--TypeScript--AWS-_R1003281-1",
   "/job/Plano-TX/Full-stack-Engineer-4--Manager--IC-_R1001942-1",
   "/job/Plano-TX/Full-stack-Engineer-4--Tech-College-Engineering_R1001831",
+  "/job/Plano-TX/Full-stack-Engineer-4_R1001712-1",
   "/job/Plano-TX/Full-stack-Engineer-4_R1002594-1",
   "/job/Plano-TX/Full-stack-Engineer-4_R1002665-1",
   "/job/Plano-TX/Full-stack-Engineer-4_R1003192-1",
@@ -11541,7 +11547,9 @@
   "8282140",
   "8282504",
   "8282552",
-  "8286919"
+  "8286919",
+  "8292620",
+  "8292699"
  ],
  "Discord": [
   "8214127002",
@@ -12194,7 +12202,8 @@
   "8289169",
   "8289292",
   "8289376",
-  "8289498"
+  "8289498",
+  "8292690"
  ],
  "Dropbox": [
   "6330377",
@@ -15372,6 +15381,7 @@
   "/job/New-York-City-New-York/Regional-Director--Digital-Assets-Sales---Commercialization--North-America_R-293971",
   "/job/New-York-City-New-York/Senior-Specialist--Commercial-Solutions-Business-Development---Sales-Support_R-292089",
   "/job/New-York-City-New-York/VP--Advertiser-Sales-Lead_R-290826-1",
+  "/job/New-York-City-New-York/Vice-President--Account-Management---Commercial-Issuers_R-292632-1",
   "/job/New-York-City-New-York/Vice-President--Data-Scientist--Open-Finance-_R-292482",
   "/job/New-York-City-New-York/Vice-President--Product-Management--Agentic-Commerce_R-286708",
   "/job/New-York-City-New-York/Vice-President--Strategy---Operations_R-293467",
@@ -19063,15 +19073,21 @@
   "8288022",
   "8288308",
   "8288348",
+  "8289109",
   "8289576",
   "8289582",
   "8289589",
   "8289602",
   "8289604",
+  "8289745",
   "8289804",
+  "8289869",
   "8289887",
   "8289910",
-  "8289915"
+  "8289915",
+  "8292594",
+  "8292612",
+  "8292623"
  ],
  "Oliver Wyman": [
   "/job/Atlanta---Northside/Client-Executive---Single-Parent-Captives_R_356704",
@@ -23044,6 +23060,7 @@
   "/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/Senior-Project-Engineer--Onsite-_01876286-1",
   "/job/US-GA-REMOTE/Associate-Director--Supplier-Quality---Development---Forging---Raw-Materials-Commodity--remote-_01880739",
   "/job/US-IA-BELLEVUE-186--1500-State-St--STATE/Electrical-Engineering-for-Manufacturing-Co-op--Spring-Summer-2027-_01876808",
+  "/job/US-IA-BELLEVUE-186--1500-State-St--STATE/Test-Technician-II---2nd-Shift--Onsite-_01882840",
   "/job/US-IA-CARROLL-426--426-Bella-Vista-Dr--BELLA-VISTA-PO-Box-826/XMLNAME-2nd-Shift--Mechanical-Manufacturing-Technician--Onsite_01879692",
   "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473",
   "/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Modernization-Marketing-Co-Op--Spring-Summer-2027-_01873900",
@@ -23599,6 +23616,7 @@
   "/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Advanced-Products-and-Solutions--APS--Design-for-Excellence--DFX--Lead_01880040",
   "/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Principal-Electrical-Engineer---HW-Value-Stream-CPTL_01880927",
   "/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Program-Operations---Control-Manager---McKinney--TX_01879380-1",
+  "/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Senior-Electrical-Engineer--Onsite-_01882040",
   "/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Senior-Manager-Electrical-Engineering--Onsite-_01877871",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Material-Program-Manager_01878248",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Materials-and-Process-Design-Engineer_01871771",
@@ -23828,6 +23846,7 @@
   "aa433e44-f095-484b-a46a-a330583d84b0",
   "aa5512b1-d973-4d74-9d10-d56446ecf803",
   "ab74a687-4545-47c9-870d-bfd7e7cde576",
+  "abd1360f-bd9d-4649-ac02-9af2a437ff98",
   "ac7edc29-103a-420f-9002-5d4d43afb159",
   "acf6b28d-767f-483f-8ff2-114620cd7e04",
   "ad9d3118-1ab4-488a-a6e8-3784082f92a4",
@@ -29709,6 +29728,7 @@
   "8893406002",
   "8893577002",
   "8893579002",
+  "8893617002",
   "8893666002",
   "8893683002",
   "8893724002",
@@ -29733,7 +29753,8 @@
   "8895444002",
   "8895546002",
   "8895603002",
-  "8895669002"
+  "8895669002",
+  "8895695002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -32204,6 +32225,7 @@
   "/job/US---San-Francisco-CA/Sr-Consultant--Client-Success_REF088772W-1",
   "/job/US---San-Francisco-CA/Sr-Consultant--Client-Success_REF088799W-1",
   "/job/US---San-Francisco-CA/Sr-Director--Global-CMS-Lead--Marketing-Services_REF089334W",
+  "/job/US---San-Francisco-CA/Sr-Manager--SMB-Premium_REF089477W-1",
   "/job/US---San-Francisco-CA/Sr-Marketing-Manager_REF088939W",
   "/job/US---San-Francisco-CA/Vice-President--Global-Brand---Consumer-Product---Growth-Marketing_REF089089W",
   "/job/UZ---Tashkent-Uzbekistan/Manager--Ethics-and-Compliance-Officer_REF089011W-1",
@@ -33704,6 +33726,9 @@
    "/job/NE---Lincoln/Pharmacy-Intern_R1063759-1": "2026-10-02",
    "/job/NE---Omaha/Pharmacy-Intern_R1063739-1": "2026-10-02",
    "/job/NE---Omaha/Pharmacy-Intern_R1075249-1": "2026-10-14",
+   "/job/NJ---Carteret/Pharmacy-Intern_R1078146": "2026-10-16",
+   "/job/NJ---Clark/Pharmacy-Intern_R1078164-1": "2026-10-16",
+   "/job/NJ---Edison/Pharmacy-Intern_R1078139-1": "2026-10-16",
    "/job/NJ---Garwood/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1042948": "2026-10-16",
    "/job/NJ---Garwood/Pharmacy-Intern_R1042423": "2026-10-16",
    "/job/NJ---Lawrenceville/Pharmacy-Intern_R1065835": "2026-10-05",
@@ -35099,6 +35124,9 @@
    "/job/NE---Lincoln/Pharmacy-Intern_R1063759-1": false,
    "/job/NE---Omaha/Pharmacy-Intern_R1063739-1": false,
    "/job/NE---Omaha/Pharmacy-Intern_R1075249-1": false,
+   "/job/NJ---Carteret/Pharmacy-Intern_R1078146": false,
+   "/job/NJ---Clark/Pharmacy-Intern_R1078164-1": false,
+   "/job/NJ---Edison/Pharmacy-Intern_R1078139-1": false,
    "/job/NJ---Garwood/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1042948": false,
    "/job/NJ---Garwood/Pharmacy-Intern_R1042423": false,
    "/job/NJ---Lawrenceville/Pharmacy-Intern_R1065835": false,
