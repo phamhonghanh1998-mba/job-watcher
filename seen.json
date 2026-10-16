@@ -4788,6 +4788,7 @@
   "23c60c30-8329-443a-8297-73cfc529c103",
   "24616fbc-fc96-4e32-b73c-2fc8ac092207",
   "246337d2-264c-4cd7-a87e-9b105e5094f1",
+  "2476335e-87e7-4e1e-80d0-d5082bce17d8",
   "24f1a371-7cb1-4bb1-91bf-ff39e1fba8e0",
   "250080bd-10a8-4e5f-82b8-506029292d19",
   "2548bb56-b66c-4dc0-9385-27ea0c964d34",
@@ -4905,6 +4906,7 @@
   "67e5d3ca-e02c-4adc-9064-426d26e3c522",
   "685c7a54-8eeb-47d9-bb95-9f66e714d57c",
   "6971d533-1536-448b-96b8-544ad5383f44",
+  "6ab280d6-417a-4788-8c61-9c12fa0e2529",
   "6ad5c953-a251-4204-82f3-184bb6227513",
   "6b7aacaa-32e3-4d58-93e6-7d7068f44617",
   "6cce20b1-2250-4350-9952-9691f58fb074",
@@ -11035,7 +11037,8 @@
   "8892970002",
   "8892971002",
   "8893763002",
-  "8895982002"
+  "8895982002",
+  "8896139002"
  ],
  "Datadog": [
   "1497543",
@@ -14719,7 +14722,11 @@
   "8282526",
   "8282591",
   "8282600",
-  "8282656"
+  "8282656",
+  "8292764",
+  "8292786",
+  "8292802",
+  "8292840"
  ],
  "Intel": [
   "/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934",
@@ -19213,6 +19220,7 @@
   "079ba35a-b4fa-42a3-92bb-dc31de99d9e3",
   "07fb9365-8e80-48fe-86df-08d60dd46f43",
   "082f4d82-499f-4150-892f-0b0d1105fffe",
+  "0867dab4-ed8e-46d5-92ce-a769ebda7c03",
   "0875c19f-3f37-403e-81e9-7bf2429f1e4e",
   "08e8d03a-df94-46af-8664-cd9aab1af445",
   "0916f210-e851-493c-b8ec-51cf00152be1",
@@ -24744,6 +24752,7 @@
   "/job/Tokyo-JP/Senior-Reporter_328430-1",
   "/job/Toronto-CAN/Credit-Product-Specialist_330792",
   "/job/Toronto-CAN/Exclusive-S-P-Global-Ratings-Early-Careers-Virtual-Networking-Event_332073-1",
+  "/job/US---NY-NYC---55-WATER-ST/VP--Global-Energy-FP-A-and-Finance-Business-Partner_332310-1",
   "/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2"
  ],
  "Salesforce": [
@@ -29800,7 +29809,9 @@
   "8895603002",
   "8895669002",
   "8895695002",
-  "8895973002"
+  "8895875002",
+  "8895973002",
+  "8896018002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -32246,6 +32257,7 @@
   "/job/US---San-Francisco-CA/Business-Consultant_REF089321W",
   "/job/US---San-Francisco-CA/Director--Business-Development--US-Fintech-Partnerships_REF089279W",
   "/job/US---San-Francisco-CA/Director--CMS-Business-Planning-and-Management_REF088665W-1",
+  "/job/US---San-Francisco-CA/Director--North-America-BizOps-Initiatives_REF089510W",
   "/job/US---San-Francisco-CA/Director--Sales-Incentive-Planning---Performance-Management_REF087524W",
   "/job/US---San-Francisco-CA/Director--US-Merchant-Business-Development_REF088831W-1",
   "/job/US---San-Francisco-CA/Director--VSP-Payment-Orchestration_REF089351W",
