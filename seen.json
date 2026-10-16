@@ -853,6 +853,7 @@
   "10504617",
   "10509639",
   "10510811",
+  "10524468",
   "10532282",
   "10532290",
   "10532293",
@@ -5697,6 +5698,7 @@
   "5445956008",
   "5446157008",
   "5447957008",
+  "5448037008",
   "5448295008",
   "5449108008",
   "5449163008",
@@ -7688,7 +7690,9 @@
   "6000000001487172",
   "6000000001487237",
   "6000000001488524",
-  "6000000001488765"
+  "6000000001488765",
+  "6000000001495153",
+  "6000000001495215"
  ],
  "Capital One": [
   "/job/Alabang-Muntinlupa-City/Principal-Risk-Specialist--Control-Testing_R243928",
@@ -9503,6 +9507,7 @@
   "8279479",
   "8280149",
   "8280209",
+  "8287662",
   "8287668"
  ],
  "CrowdStrike": [
@@ -12696,6 +12701,7 @@
   "/job/Pune/Junior-Engineer_R5041012",
   "/job/Pune/Lead-HRBP_R5039042-1",
   "/job/Pune/Manufacturing-Engineering-Development-Program---Pune-2027_R5040002-1",
+  "/job/Pune/NAS410-CR-Level-2---Assistant-Engineer_R5034233",
   "/job/Queretaro/Data-Science-and-AI-Digital-Technology-Intern_R5041604-1",
   "/job/Queretaro/EID-Intern---Fluids-Systems_R5038310-1",
   "/job/Queretaro/EID-Intern---Systems-Engineer-Intern_R5040963",
@@ -15742,6 +15748,7 @@
   "/job/TWN---Taipei---Taipei-City/Associate-Director--Cluster-Commercial-Service---Transformation-Lead_R421537-1",
   "/job/TWN---Taipei---Taipei-City/Associate-Product-Manager---Vaccine_R415763",
   "/job/TWN---Taipei---Taipei-City/Clinical-Research-Associate_R422346-1",
+  "/job/TWN---Taipei---Taipei-City/Sr-Spclst--Business-Insights---Analytics---TW-HK_R422384-1",
   "/job/USA---California---California/Associate-Director--Urology---Oncology-Key-Accounts--West-_R413629-1",
   "/job/USA---California---California/Regional-Cardiovascular-Manager---West-District_R422076-1",
   "/job/USA---California---San-Diego-Science-Park-Road/Associate-Principal-Scientist--Immunology-Discovery_R417161-1",
@@ -16647,6 +16654,7 @@
   "/job/Penang-Malaysia---Grande/PDE-CEM-Engineer_JR114344",
   "/job/Penang-Malaysia---Grande/Quality---Reliability-Engineer--NAND-_JR113746",
   "/job/Penang-Malaysia---Grande/SR-ATSM-PROC-OPS-MANAGER-I--EMS_JR113853",
+  "/job/Penang-Malaysia---Grande/Senior-Engineer-CE-PYE--Physical-Failure-Analysis-_JR114687-1",
   "/job/Penang-Malaysia---Grande/Senior-Engineer-Engineer--NVM-QRA_JR105123",
   "/job/Penang-Malaysia---Grande/Senior-Manager--Global-People-Services---Solutions-Asia_JR114127",
   "/job/Penang-Malaysia---Grande/Sr-Engineer--IT_JR112477",
@@ -18595,6 +18603,7 @@
   "8261644",
   "8262246",
   "8262963",
+  "8263827",
   "8263916",
   "8263918",
   "8264443",
@@ -18634,7 +18643,11 @@
   "8284930",
   "8285002",
   "8285012",
-  "8287689"
+  "8287689",
+  "8287817",
+  "8288022",
+  "8288308",
+  "8288348"
  ],
  "Oliver Wyman": [
   "/job/Atlanta---Northside/Client-Executive---Single-Parent-Captives_R_356704",
@@ -20859,6 +20872,7 @@
   "/job/Bengaluru-Brigade-Magnum/IN-Senior-Manager---FS---Internal-audit-Services--Advisory---Bangalore_DB_006220-1",
   "/job/Bengaluru-Millenia/IN--Senior-Associate-AWS-Data-Engineer--Data-Analytics--Advisory--Bangalore_717700WD-1",
   "/job/Bengaluru-Millenia/IN--Senior-Associate-Java-Full-Stack-Developer-GCC-Advisory-Bangalore_742524WD-1",
+  "/job/Bengaluru-Millenia/IN--Senior-Associate-Java-GCC-Advisory-Bangalore_744170WD-1",
   "/job/Bengaluru-Millenia/IN-Associate--GTM-Strategy---Advisory-Gurgaon_735673WD-1",
   "/job/Bengaluru-Millenia/IN-Associate-GenAI-and-Agentic-AI-Engineer--GCC-Advisory-Bangalore_738718WD-1",
   "/job/Bengaluru-Millenia/IN-Associate-GenAI-and-Agentic-AI-Engineer--GCC-Advisory-Bangalore_738719WD-1",
@@ -20906,6 +20920,7 @@
   "/job/Bengaluru-Millenia/IN-Senior-Associate-Big-Data-Engineer-Data-Analytics-Advisory-Bangalore_729232WD-1",
   "/job/Bengaluru-Millenia/IN-Senior-Associate-Big-Data-Engineer-Data-Analytics-Advisory-Bangalore_729236WD-2",
   "/job/Bengaluru-Millenia/IN-Senior-Associate-D365-F-O-GCC-Advisory-Bangalore_757993WD-1",
+  "/job/Bengaluru-Millenia/IN-Senior-Associate-DevOps-Engineer--GCC--One-Consulting--Bangalore_746737WD-1",
   "/job/Bengaluru-Millenia/IN-Senior-Associate-DevOps-Engineer-GCC-Advisory-Bangalore_746421WD-1",
   "/job/Bengaluru-Millenia/IN-Senior-Associate-DevOps-SRE-GCC-Advisory-Bangalore_730582WD-1",
   "/job/Bengaluru-Millenia/IN-Senior-Associate-DevOps-SRE-GCC-Advisory-Hyderabad_730636WD-1",
@@ -20983,6 +20998,7 @@
   "/job/Brussels/Manager-or-Senior-Consultant-in-Risk-Management-Infrastructure-and-Construction_755603WD",
   "/job/Brussels/Senior-AI-Consultant--AI-Trust---Governance_768257WD",
   "/job/Bucharest/Accounting-Manager_766672WD",
+  "/job/Bucharest/Business-Process-Specialist-with-German_768346WD-1",
   "/job/Bucharest/Contracts---Process-Specialist_765992WD",
   "/job/Bucharest/Junior-Internal-Audit_750636WD",
   "/job/Bucharest/Manager-Transfer-Pricing_750712WD",
@@ -21142,10 +21158,12 @@
   "/job/Hyderabad---Salarpuria/IN-Manager-SAP-VIM-Enterprise-Apps-SAP-Advisory-Kolkata_755653WD-1",
   "/job/Hyderabad---Salarpuria/IN-Sebior-Associate-Oracle-Fusion-Finance-Functional-GCC-Advisory-Hyderabad_740384WD-1",
   "/job/Hyderabad---Salarpuria/IN-Senior-Associate--Oracle-fusion-Finance-Oracle-Advisory-Bangalore_757986WD-1",
+  "/job/Hyderabad---Salarpuria/IN-Senior-Associate--SAP-FSCM-FICO-SAP-Advisory-Bangalore_746575WD-1",
   "/job/Hyderabad---Salarpuria/IN-Senior-Associate-GCP-Agentic-AI-SME-AI-50-Advisory-Bangalore_758215WD-1",
   "/job/Hyderabad---Salarpuria/IN-Senior-Associate-GCP-Agentic-AI-SME-AI-50-Advisory-Bangalore_758221WD-1",
   "/job/Hyderabad---Salarpuria/IN-Senior-Associate-SAP-ABAP-Enterprise-Apps-SAP-Advisory-Gurugram_744265WD-1",
   "/job/Hyderabad---Salarpuria/IN-Senior-Associate-SAP-Ariba-Enterprise-Apps-SAP-Advisory-Bangalore_748364WD-1",
+  "/job/Hyderabad---Salarpuria/IN-Senior-Associate-SAP-FICO-SAP-Advisory-Gurgaon_748138WD-1",
   "/job/Hyderabad---Salarpuria/IN-Senior-Associate-SAP-MM-Enterprise-Apps-SAP-Advisory-Mumbai_710076WD-2",
   "/job/Hyderabad---Salarpuria/IN-Senior-Associate-SAP-PP-SAP-Advisory-Hyderabad_739700WD-1",
   "/job/Hyderabad---Salarpuria/IN-Senior-Associates-SAP-SD-Enterprise-Apps-SAP-Advisory--Pan-India_759117WD-1",
@@ -30928,7 +30946,9 @@
   "8285897",
   "8285950",
   "8286584",
-  "8286589"
+  "8286589",
+  "8288350",
+  "8288358"
  ],
  "Twilio": [
   "6372770",
