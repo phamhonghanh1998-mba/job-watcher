@@ -1,6 +1,6 @@
-# Open matching jobs (416)
+# Open matching jobs (413)
 
-Updated 2026-10-16 17:49 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-16 18:24 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -121,7 +121,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (307)
+## Other internships (304)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -265,11 +265,9 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-16 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Westerville/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1077620) | OH - Westerville |
 | 2026-10-16 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Upper-Arlington/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1077613) | OH - Upper Arlington |
 | 2026-10-16 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Delaware/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1077610) | OH - Delaware |
-| 2026-10-16 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Columbus/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1077607-1) | OH - Columbus |
 | 2026-10-16 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NV---Las-Vegas/Pharmacy-Intern_R1077813) | NV - Las Vegas |
 | 2026-10-16 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Yuma/Pharmacy-Intern---Grad_R1062585-1) | AZ - Yuma |
 | 2026-10-16 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Greenville/Pharmacy-Intern---Grad_R0996651) | TX - Greenville |
-| 2026-10-16 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/VA---Rocky-Mount/Pharmacy-Intern---Grad_R1077577) | VA - Rocky Mount |
 | 2026-10-09 | Databricks | [Product Design Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002) | San Francisco, California; Seattle, Washington |
 | 2023-08-17 | Databricks | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 2026-08-20 | Databricks | [Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
@@ -280,7 +278,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-23 | Figma | [Data Engineer Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | San Francisco, CA • New York, NY |
-| 2026-10-15 | GE Aerospace | [Data Science and AI Digital Technology Intern](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Queretaro/Data-Science-and-AI-Digital-Technology-Intern_R5041604-1) | Queretaro |
 | 2026-10-15 | GE HealthCare | [Sourcing Intern for Radio Pharmacy](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Uppsala/Sourcing-Intern-for-Radio-Pharmacy_R4047507-1) | Uppsala |
 | 2026-10-14 | Guidehouse | [Intern - Energy Providers - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---GA-Atlanta/Intern---Energy-Providers---Campus-2027_44256) | 9 Locations |
 | 2026-09-28 | Guidehouse | [Intern - Federal Civilian Agencies - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Intern---Federal-Civilian-Agencies---Campus-2027_44923) | 2 Locations |
