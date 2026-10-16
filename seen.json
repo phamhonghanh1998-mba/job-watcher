@@ -18329,6 +18329,7 @@
   "/job/Beaverton-Oregon/Senior-Expert--Brand-Initiatives-Brand-Marketing-NA_R-90261",
   "/job/Beaverton-Oregon/Senior-Expert--Retail-Execution-Partners-Design-NA_R-88898",
   "/job/Beaverton-Oregon/Senior-Innovation-Engineer---Space-Kitchen--Multiple-Openings-_R-95002",
+  "/job/Beaverton-Oregon/Senior-Manager--FBAT---Golf-Footwear-Color-Design--Global-Jordan_R-94651",
   "/job/Beaverton-Oregon/Senior-Manager--Material-Development_R-94891",
   "/job/Beaverton-Oregon/Senior-Manager-Apparel-Materials---Trims-Development--Local-Creation_R-92825",
   "/job/Beaverton-Oregon/Senior-Manager-Apparel-Technical-Design--Local-Creation_R-92823",
@@ -19107,6 +19108,7 @@
   "8285002",
   "8285012",
   "8286405",
+  "8287639",
   "8287689",
   "8287817",
   "8288022",
@@ -19127,7 +19129,8 @@
   "8289915",
   "8292594",
   "8292612",
-  "8292623"
+  "8292623",
+  "8293675"
  ],
  "Oliver Wyman": [
   "/job/Atlanta---Northside/Client-Executive---Single-Parent-Captives_R_356704",
@@ -24173,7 +24176,8 @@
   "/job/Seattle-Washington-United-States/Senior-Manager--Global-License-and-Examination-Management_R_106841",
   "/job/Seattle-Washington-United-States/Senior-Manager-Global-Payroll_R_106821-1",
   "/job/Seattle-Washington-United-States/Senior-People-Compliance-Manager_R_106907",
-  "/job/Seattle-Washington-United-States/Senior-Product-Designer_R_106913-1"
+  "/job/Seattle-Washington-United-States/Senior-Product-Designer_R_106913-1",
+  "/job/Tokyo-Japan/Deputy-MLRO--Japan_R_107034"
  ],
  "Robinhood": [
   "4738660",
@@ -29811,7 +29815,10 @@
   "8895695002",
   "8895875002",
   "8895973002",
-  "8896018002"
+  "8896018002",
+  "8896157002",
+  "8896166002",
+  "8896168002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -34301,6 +34308,7 @@
    "/job/Boise-ID---ID1/Intern---Yield-Enhancement--Engineer_JR114471": "2026-10-12",
    "/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521": "2026-10-16",
    "/job/Boise-ID---Main-Site/Intern---Dry-Etch-Equipment-Development-Engineering_JR109987": "2026-10-14",
+   "/job/Boise-ID---Main-Site/Intern---SDR_JR112775": "2026-10-16",
    "/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991": "2026-10-05",
    "/job/Boise-ID---Main-Site/Intern---SSD-Architecture-Modeling_JR113803": "2026-10-05",
    "/job/Boise-ID---Main-Site/TSE-R-D-Equipment-Project-Manager--Intern-_JR114087": "2026-10-05",
@@ -35668,6 +35676,7 @@
    "/job/Boise-ID---ID1/Intern---Yield-Enhancement--Engineer_JR114471": false,
    "/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521": false,
    "/job/Boise-ID---Main-Site/Intern---Dry-Etch-Equipment-Development-Engineering_JR109987": false,
+   "/job/Boise-ID---Main-Site/Intern---SDR_JR112775": false,
    "/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991": false,
    "/job/Boise-ID---Main-Site/Intern---SSD-Architecture-Modeling_JR113803": false,
    "/job/Boise-ID---Main-Site/TSE-R-D-Equipment-Project-Manager--Intern-_JR114087": false,
