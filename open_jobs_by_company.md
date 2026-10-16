@@ -1,6 +1,6 @@
-# Open matching jobs (419)
+# Open matching jobs (421)
 
-Updated 2026-10-16 20:20 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-16 20:53 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -121,7 +121,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (310)
+## Other internships (312)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -186,6 +186,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-08-21 | Amazon | [Workplace Health and Safety Specialist Intern - Summer 2027 (Nationwide)](https://www.amazon.jobs/en/jobs/10510811/workplace-health-and-safety-specialist-intern-summer-2027-nationwide) | Detroit, Michigan, USA |
 | 2026-09-16 (30+ days) | Amgen | [Undergrad Intern - Operations – Cambridge, MA (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---Massachusetts---Cambridge/Undergrad-Intern---Operations---Cambridge--MA--Summer-2027-_R-254515) | US - Massachusetts - Cambridge |
 | 2026-09-16 (30+ days) | Amgen | [Undergrad Intern - Operations – Engineering (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Engineering--Summer-2027-_R-255335) | US - California - Thousand Oaks |
+| 2026-09-16 (30+ days) | Amgen | [Undergrad Intern - Operations – Process Development (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Process-Development--Summer-2027-_R-254516) | US - California - Thousand Oaks |
 | 2026-09-16 (30+ days) | Amgen | [Undergrad intern - U.S. Value & Access (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Undergrad-intern---US-Value---Access--Summer-2027-_R-253424) | United States - Remote |
 | 2026-09-16 (30+ days) | Amgen | [Undergrad Intern – Finance (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Undergrad-Intern---Finance--Summer-2027-_R-254668) | United States - Remote |
 | 2026-06-11 | Anduril | [2027 Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States |
@@ -262,14 +263,15 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-21 | Coinbase | [Tax Information Reporting Intern](https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [Tax Operations Intern](https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [User Research Intern](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) | Hybrid - San Francisco, CA |
+| 2026-10-16 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Garwood/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1042948) | NJ - Garwood |
 | 2026-10-16 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---South-Plainfield/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1042890) | NJ - South Plainfield |
+| 2026-10-16 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Garwood/Pharmacy-Intern_R1042423) | NJ - Garwood |
+| 2026-10-16 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Rahway/Pharmacy-Intern_R1078120) | NJ - Rahway |
 | 2026-10-16 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---South-Plainfield/Pharmacy-Intern_R1078031) | NJ - South Plainfield |
 | 2026-10-16 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Middlesex/Pharmacy-Intern_R1078016) | NJ - Middlesex |
 | 2026-10-16 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MO---Joplin/Pharmacy-Intern_R1077995) | MO - Joplin |
 | 2026-10-16 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Westfield/Pharmacy-Intern_R1028181) | NJ - Westfield |
 | 2026-10-16 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---South-Plainfield/Pharmacy-Intern_R1028175) | NJ - South Plainfield |
-| 2026-10-16 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Woodbridge/Pharmacy-Intern_R1052773) | NJ - Woodbridge |
-| 2026-10-16 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---North-Plainfield/Pharmacy-Intern_R1028134) | NJ - North Plainfield |
 | 2026-10-16 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Orlando/Pharmacy-Intern---Grad_R1078056) | FL - Orlando |
 | 2026-10-16 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Orlando/Pharmacy-Intern---Grad_R1078043) | FL - Orlando |
 | 2026-10-16 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Orlando/Pharmacy-Intern---Grad_R1078025) | FL - Orlando |
@@ -326,7 +328,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-15 | Medtronic | [Sales Operations Intern](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ankara-Ankara-Trkiye/Sales-Operations-Intern_R78959-1) | Ankara, Ankara, Türkiye |
 | 2026-10-16 | Medtronic | [Software Engineering Intern – Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) | 21 Locations |
 | 2026-10-16 | Merck | [2027 Future Talent Program - Environmental Compliance, Sustainability & Stewardship  - Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Environmental-Compliance--Sustainability---Stewardship----Intern_R413358) | USA - New Jersey - Rahway |
-| 2026-10-16 | Micron | [Intern - Memory Design Engineer, HBM](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Memory-Design-Engineer--HBM_JR112529) | Richardson, TX |
 | 2026-09-16 (30+ days) | Mondelez | [Corporate Finance Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1) | East Hanover, New Jersey, United States |
 | 2026-10-07 | Mondelez | [HSE Intern Colombia](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Cali-Colombia/HSE-Intern-Colombia_R-178636) | 2 Locations |
 | 2026-10-06 | Mondelez | [Intern Sales Modern Trade](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Quito-Ecuador/Intern-Sales-Modern-Trade_R-177811) | Quito, Ecuador |
@@ -375,7 +376,8 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-01 | Pinterest | [UX Quantitative Research Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) | Remote, US |
 | 2026-10-06 | PwC (2) | [Audit - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Audit---Japanese-Business-Network---Intern---Summer-2027_757086WD) | 3 Locations |
 | 2026-10-06 | PwC (2) | [Audit - Japanese Business Network (JBN) - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Audit---Japanese-Business-Network---Intern---Summer-2028_757478WD) | 7 Locations |
-| 2026-10-14 | PwC (2) | [Oklahoma City - Audit - Intern - Winter 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/OK-Oklahoma-City/Oklahoma-City---Audit---Intern---Winter-2027_757034WD) | OK-Oklahoma City |
+| 2026-10-16 | PwC (2) | [Baltimore - Audit - Intern - Winter 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/MD-Baltimore/Baltimore---Audit---Intern---Winter-2027_756968WD) | MD-Baltimore |
+| 2026-10-16 | PwC (2) | [Oklahoma City - Audit - Intern - Winter 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/OK-Oklahoma-City/Oklahoma-City---Audit---Intern---Winter-2027_757034WD) | OK-Oklahoma City |
 | 2026-10-13 | PwC (2) | [Philadelphia - Digital Assurance & Transparency (DAT) - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Philadelphia/Philadelphia---Digital-Assurance---Transparency--DAT----Intern---Summer-2028_757383WD) | PA-Philadelphia |
 | 2026-10-14 | PwC (2) | [Philadelphia - Tax JD - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Philadelphia/Philadelphia---Tax-JD---Intern---Summer-2027_763735WD) | PA-Philadelphia |
 | 2026-10-16 | PwC (2) | [Rochester - Tax - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/NY-Rochester/Rochester---Tax-CPA---Intern---Summer-2027_756471WD) | NY-Rochester |
