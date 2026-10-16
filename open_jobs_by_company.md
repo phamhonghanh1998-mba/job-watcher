@@ -1,10 +1,10 @@
-# Open matching jobs (391)
+# Open matching jobs (395)
 
-Updated 2026-10-16 08:29 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-16 09:10 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (105)
+## MBA-level (106)
 
 Title or job description mentions an MBA.
 
@@ -58,6 +58,7 @@ Title or job description mentions an MBA.
 | 2026-10-06 | Guidehouse | [Intern - Life Sciences Advisory, Health Segment - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---NY-New-York/Intern---Life-Sciences-Advisory--Health-Segment---Campus-2027_43306) | 4 Locations |
 | 2026-09-16 (30+ days) | Hewlett Packard Enterprise | [Product Management Graduate (Master's/MBA)](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633-1) | 10 Locations |
 | 2026-09-16 (30+ days) | Hewlett Packard Enterprise | [Product Management Intern (Master's/MBA)](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Product-Management-Intern--Master-s-MBA-_1213634) | 10 Locations |
+| 2026-09-16 (30+ days) | Hewlett Packard Enterprise (2) | [Product Management Graduate (Master's/MBA)](https://hpe.wd5.myworkdayjobs.com/en-US/ACJobSite/job/Spring-Texas-United-States-of-America/Product-Management-Graduate--Master-s-MBA-_1213633) | 10 Locations |
 | 2026-09-16 (30+ days) | Intel | [Software Engineering - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) | 5 Locations |
 | 2026-09-16 (30+ days) | Intel | [Technical Sales - Intern, Graduate](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Technical-Sales---Intern--Graduate_JR0286831) | 4 Locations |
 | 2026-10-15 | Medtronic | [Intern: MBA/Graduate](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Gurgaon-Haryana-India/Intern--MBA-Graduate_R78863-1) | 2 Locations |
@@ -117,7 +118,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (286)
+## Other internships (289)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -204,6 +205,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-22 | Booz Allen Hamilton | [University, Summer 2027 - Accounting Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Summer-2027---Accounting-Intern_R0250271) | McLean, VA |
 | 2026-09-16 (30+ days) | Caterpillar | [2027 Summer Corporate Intern - Communications](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Communications_R0000380423) | 2 Locations |
 | 2026-09-16 (30+ days) | Caterpillar | [2027 Summer Corporate Intern - Engineering](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650) | 27 Locations |
+| 2026-09-16 (30+ days) | Caterpillar | [2027 Summer Corporate Intern - Marketing](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Marketing_R0000391407) | 7 Locations |
 | 2026-09-16 (30+ days) | Caterpillar | [2027 Summer Corporate Intern - Procurement](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Procurement_R0000380151) | 6 Locations |
 | 2026-09-16 (30+ days) | Caterpillar | [2027 Summer Corporate Intern- Manufacturing](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454) | 11 Locations |
 | 2026-09-16 (30+ days) | Caterpillar | [2027 Summer Intern - Finance](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Nashville-Tennessee/XMLNAME-2027-Summer-Intern---Finance_R0000387781) | Nashville, Tennessee |
@@ -211,7 +213,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-12 | Caterpillar | [EHS Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wuxi-Jiangsu/EHS-Intern_R0000386931) | Wuxi, Jiangsu |
 | 2026-10-15 | Caterpillar | [Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Minerbio-Bologna/Intern_R0000399549) | Minerbio, Bologna |
 | 2026-10-13 | Caterpillar | [Intern-Machinist III-2](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wuxi-Jiangsu/Intern-Machinist-III-2_R0000394461) | Wuxi, Jiangsu |
-| 2026-10-16 | Caterpillar | [Students & Graduates Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Chennai-Tamil-Nadu/Students---Graduates-Intern_R0000400270) | 5 Locations |
 | 2026-09-29 | Caterpillar | [Transportation Analyst Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Suzhou-Jiangsu/Transportation-Analyst-Intern_R0000393515) | Suzhou, Jiangsu |
 | 2026-10-12 | Caterpillar | [Welder Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wujiang-Jiangsu/Welder-Intern_R0000396237) | Wujiang, Jiangsu |
 | 2026-09-22 | Clorox | [Enterprise Data  & Technology (EDT) Intern ( Summer 2027)](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Durham-NC---USA-Strickland-Bldg/Enterprise-Data----Technology--EDT--Intern---Summer-2027-_JR23483) | 2 Locations |
@@ -274,6 +275,8 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-13 | Hewlett Packard Enterprise | [Marketing Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Marketing-Intern_1213358) | San Jose, California, United States of America |
 | 2026-10-14 | Hewlett Packard Enterprise | [Marketing Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Marketing-Intern_1213365) | San Jose, California, United States of America |
 | 2026-09-23 | Hewlett Packard Enterprise | [Software Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1) | 2 Locations |
+| 2026-09-23 | Hewlett Packard Enterprise (2) | [Cloud Developer Intern](https://hpe.wd5.myworkdayjobs.com/en-US/ACJobSite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-3) | 2 Locations |
+| 2026-09-23 | Hewlett Packard Enterprise (2) | [Software Intern](https://hpe.wd5.myworkdayjobs.com/en-US/ACJobSite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-3) | 2 Locations |
 | 2026-09-16 (30+ days) | Home Depot | [2027 Summer Internship - Business Operations & Management](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Business-Operations---Management_Req191941) | STORE SUPPORT CENTER, ATLANTA - 9090 |
 | 2026-09-16 (30+ days) | Home Depot | [2027 Summer Internship - Cybersecurity](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Cybersecurity_Req191938) | STORE SUPPORT CENTER, ATLANTA - 9090 |
 | 2026-09-16 (30+ days) | Home Depot | [2027 Summer Internship - Data Science & Analytics](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968) | STORE SUPPORT CENTER, ATLANTA - 9090 |
@@ -379,6 +382,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-08-03 | SpaceX | [Spring 2027 Civil Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002) | Flexible - Any SpaceX Site |
 | 2026-08-03 | SpaceX | [Summer 2027 Civil Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002) | Flexible - Any SpaceX Site |
 | 2026-10-01 | Stripe | [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291) | New York, Seattle, South San Francisco HQ |
+| 2026-09-16 (30+ days) | Stryker | [Advanced Operations Summer Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732) | Weston, Florida |
 | 2026-10-06 | Stryker | [Customer Service Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Roma-Rome-Via-Alexandre-Gustave-Eiffel-1315/Customer-Service-Intern_R574587) | Roma, Rome Via Alexandre Gustave Eiffel 13/15 |
 | 2026-09-16 (30+ days) | Stryker | [Manufacturing Engineering Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846) | Redmond, Washington |
 | 2026-09-16 (30+ days) | Stryker | [Manufacturing Engineering Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Manufacturing-Engineering-Intern_R572922) | Cary, Illinois |
