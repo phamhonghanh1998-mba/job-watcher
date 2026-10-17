@@ -1,10 +1,10 @@
-# Open matching jobs (362)
+# Open matching jobs (382)
 
-Updated 2026-10-17 09:20 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-17 09:49 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (85)
+## MBA-level (90)
 
 Title or job description mentions an MBA.
 
@@ -12,13 +12,18 @@ Title or job description mentions an MBA.
 | Posted | Company | Role | Location |
 |---|---|---|---|
 | 2026-10-16 | Snowflake | [Product Marketing, AI-Powered Data Engineering Intern (Spring 2027)](https://jobs.ashbyhq.com/snowflake/45f2aa43-731d-4bab-a02b-9ef979f2c86e) | US-CA-Menlo Park |
+| 2026-10-16 | NVIDIA | [Product Marketing Management MBA Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Management-MBA-Intern---Summer-2027_JR2025672) | US, CA, Santa Clara |
 | 2026-10-16 | Nike | [Converse Social Community Impact Graduate Internship](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Boston-Massachusetts/Converse-Social-Community-Impact-Graduate-Internship_R-95789-1) | Boston, Massachusetts |
+| 2026-10-15 | NVIDIA | [Product Management MBA Intern, Laptop - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) | US, CA, Santa Clara |
 | 2026-10-15 | Medtronic | [Intern: MBA/Graduate](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Gurgaon-Haryana-India/Intern--MBA-Graduate_R78863-1) | 2 Locations |
 | 2026-10-15 | Medtronic | [Summer 2027 Corporate Development Intern (MBA)](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Corporate-Development-Intern--MBA-_R79679-1) | Minneapolis, Minnesota, United States of America |
 | 2026-10-15 | Duolingo | [Product Manager, MBA Intern](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) | Pittsburgh, PA |
+| 2026-10-15 | Blue Origin | [Summer 2027 Terawave Product Management Internship - MBA](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200) | 2 Locations |
 | 2026-10-15 | Airbnb | [Strategic Finance & Analytics Intern (MBA)](https://careers.airbnb.com/positions/8285171?gh_jid=8285171) | United States |
 | 2026-10-14 | Micron | [Intern - Micron Ventures](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---Micron-Ventures_JR114649) | San Jose, CA |
+| 2026-10-14 | Cisco | [FLEX- Rising Leaders II (Intern) United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Chicago-Illinois-US/FLEX--Rising-Leaders-II--Intern--United-States_2027808) | Chicago, Illinois, US |
 | 2026-10-13 | Philips | [Intern - Health Systems Marketing-Cambridge, MA-Summer 2027](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Health-Systems-Marketing-Cambridge--MA-Summer-2027_593616) | Cambridge (US), Massachusetts, United States |
+| 2026-10-13 | NVIDIA | [Product Management MBA Intern, Data Center GPU - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) | US, CA, Santa Clara |
 | 2026-10-08 | Adobe | [2027 MBA University Graduate - Product Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-MBA-University-Graduate---Product-Manager_R171900) | 2 Locations |
 | 2026-10-07 | Philips | [Internship: Enabling Execution of 2030 Impact Ambitions](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Amsterdam/Internship--Enabling-Execution-of-2030-Impact-Ambitions_591183) | 2 Locations |
 | 2026-10-06 | Guidehouse | [Intern - Life Sciences Advisory, Health Segment - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---NY-New-York/Intern---Life-Sciences-Advisory--Health-Segment---Campus-2027_43306) | 4 Locations |
@@ -97,12 +102,14 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (277)
+## Other internships (292)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
+| 2026-10-17 | RTX | [Materials Management & Logistics Internship Program (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials-Management---Logistics-Internship-Program--Summer-2027-_01862953-1) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC |
+| 2026-10-16 | RTX | [Stage - Hiver 2027 - Étudiant en génie des matériaux (8 Mois) / Internship - Winter 2027 - Materials Engineering (8 Months)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage---Hiver-2027---tudiant-en-gnie-des-matriaux--8-Mois----Internship---Winter-2027---Materials-Engineering--8-Months-_01868778-1) | CA-QC-LONGUEUIL-AY ~ 1000 Blvd Marie-Victorin ~ AY BLDG |
 | 2026-10-16 | Micron | [Intern - SDR](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SDR_JR112775) | Boise, ID - Main Site |
 | 2026-10-16 | Medtronic | [Engineering Intern – Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Engineering-Intern---Summer-2027_R73623-1) | 21 Locations |
 | 2026-10-16 | Medtronic | [Software Engineering Intern – Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1) | 21 Locations |
@@ -123,6 +130,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-15 | Medtronic | [Intern Business Analytics & Product Allocation](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Warsaw-Mazowieckie-Poland/Intern-Business-Analytics---Product-Allocation_R78095-1) | 2 Locations |
 | 2026-10-15 | Medtronic | [Sales Operations Intern](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ankara-Ankara-Trkiye/Sales-Operations-Intern_R78959-1) | Ankara, Ankara, Türkiye |
 | 2026-10-15 | GE HealthCare | [Sourcing Intern for Radio Pharmacy](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Uppsala/Sourcing-Intern-for-Radio-Pharmacy_R4047507-1) | Uppsala |
+| 2026-10-15 | Caterpillar | [Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Minerbio-Bologna/Intern_R0000399549) | Minerbio, Bologna |
 | 2026-10-15 | Booz Allen Hamilton | [University, Digital Transformation Analyst Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251716) | Arlington, VA |
 | 2026-10-15 | Booz Allen Hamilton | [University, Digital Transformation Analyst Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251721) | Arlington, VA |
 | 2026-10-15 | Boeing | [Data Science Intern](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1) | 2 Locations |
@@ -145,12 +153,15 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-13 | Hewlett Packard Enterprise | [Marketing Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213364) | 2 Locations |
 | 2026-10-13 | Hewlett Packard Enterprise | [Marketing Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Marketing-Intern_1213358) | San Jose, California, United States of America |
 | 2026-10-13 | Gusto | [Finance Intern (Summer 2027)](https://job-boards.greenhouse.io/gusto/jobs/8257115) | New York, NY - Hybrid |
+| 2026-10-13 | Caterpillar | [Intern-Machinist III-2](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wuxi-Jiangsu/Intern-Machinist-III-2_R0000394461) | Wuxi, Jiangsu |
 | 2026-10-13 | Anduril | [2027 Firmware Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) | Costa Mesa, California, United States |
 | 2026-10-13 | Anduril | [2027 Product Designer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) | Costa Mesa, California, United States |
 | 2026-10-13 | Amazon | [ASIC Engineer Intern, Summer 2027](https://www.amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027) | Sunnyvale, California, USA |
 | 2026-10-13 | Accenture | [Analista Junior Tecnico/Funzionale - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Verona/Analista-Junior-Tecnico-Funzionale---Ambito-Financial-Services_R00278795) |  |
 | 2026-10-12 | Hewlett Packard Enterprise | [ASIC Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034) | Sunnyvale, California, United States of America |
 | 2026-10-12 | DoorDash | [Electrical Engineer, Intern - Labs (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8274095) | Oakland, CA |
+| 2026-10-12 | Caterpillar | [EHS Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wuxi-Jiangsu/EHS-Intern_R0000386931) | Wuxi, Jiangsu |
+| 2026-10-12 | Caterpillar | [Welder Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wujiang-Jiangsu/Welder-Intern_R0000396237) | Wujiang, Jiangsu |
 | 2026-10-09 | Databricks | [Product Design Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002) | San Francisco, California; Seattle, Washington |
 | 2026-10-09 | Coinbase | [Forward Deployed Engineer Intern (HR Technology)](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) | Hybrid - New York, NY |
 | 2026-10-09 | Amazon | [Supply Chain Manager Intern - Summer 2027](https://www.amazon.jobs/en/jobs/10575291/supply-chain-manager-intern-summer-2027) | Seattle, Washington, USA |
@@ -193,6 +204,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-30 | Philips | [Strategic Solution Architect Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Genoa/Strategic-Solution-Architect-Interm_587651) | Genoa |
 | 2026-09-30 | Booz Allen Hamilton | [Product Engineering Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Product-Engineering-Intern_R0250655) | McLean, VA |
 | 2026-09-29 | Philips | [Intern Service Enablement Team](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Best/Intern-Service-Enablement-Team_591964) | Best |
+| 2026-09-29 | Caterpillar | [Transportation Analyst Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Suzhou-Jiangsu/Transportation-Analyst-Intern_R0000393515) | Suzhou, Jiangsu |
 | 2026-09-29 | Booz Allen Hamilton | [AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869) | McLean, VA |
 | 2026-09-28 | Waymo | [2027 Summer Intern, BS, Depot Automation](https://careers.withwaymo.com/jobs?gh_jid=8234553) | San Francisco, California |
 | 2026-09-28 | Hewlett Packard Enterprise | [Finance Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Finance-Intern_1213639) | Spring, Texas, United States of America |
@@ -257,6 +269,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-17 (30+ days) | Philips | [Manufacturing Engineering Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Suzhou/Manufacturing-Engineering-Intern_590507) | Suzhou |
 | 2026-09-17 (30+ days) | Oliver Wyman | [Insurance Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Lincoln---Pine/Insurance-Intern_R_364734) | Lincoln - Pine |
 | 2026-09-17 (30+ days) | Oliver Wyman | [Insurance Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Omaha---Southport/Insurance-Intern_R_364740) | Omaha - Southport |
+| 2026-09-17 (30+ days) | NVIDIA | [Software Engineering Intern, NCCL - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645) | 2 Locations |
 | 2026-09-17 (30+ days) | Mondelez | [Corporate Finance Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1) | East Hanover, New Jersey, United States |
 | 2026-09-17 (30+ days) | Mondelez | [Research & Development Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Research---Development-Intern_R-175411) | East Hanover, New Jersey, United States |
 | 2026-09-17 (30+ days) | Mondelez | [Manufacturing Intern– Process Engineering](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Business-Unit-Head-Office---East-Hanover-USA/Manufacturing-Intern--Process-Engineering_R-175409) | 7 Locations |
@@ -274,6 +287,13 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-17 (30+ days) | Home Depot | [2027 Summer Internship - User Experience](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---User-Experience_Req192109) | STORE SUPPORT CENTER, ATLANTA - 9090 |
 | 2026-09-17 (30+ days) | Clorox | [Supply Chain Intern - Technical Track (June 2027)](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Alpharetta-GA---USA/Supply-Chain-Intern---Technical-Track--June-2027-_JR23438-1) | Alpharetta, GA - USA |
 | 2026-09-17 (30+ days) | Clorox | [Supply Chain Intern - Business Track (June 2027)](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Alpharetta-GA---USA/Supply-Chain-Intern---Business-Track--June-2027-_JR23439) | Alpharetta, GA - USA |
+| 2026-09-17 (30+ days) | Caterpillar | [2027 Summer Intern - Finance](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Nashville-Tennessee/XMLNAME-2027-Summer-Intern---Finance_R0000387781) | Nashville, Tennessee |
+| 2026-09-17 (30+ days) | Caterpillar | [2027 Summer Corporate Intern - Procurement](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Procurement_R0000380151) | 6 Locations |
+| 2026-09-17 (30+ days) | Caterpillar | [2027 Summer Corporate Intern - Communications](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Communications_R0000380423) | 2 Locations |
+| 2026-09-17 (30+ days) | Caterpillar | [2027 Summer Corporate Intern- Manufacturing](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454) | 11 Locations |
+| 2026-09-17 (30+ days) | Caterpillar | [2027 Summer Corporate Intern - Engineering](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650) | 27 Locations |
+| 2026-09-17 (30+ days) | Caterpillar | [2027 Summer Intern - Information Technology](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Nashville-Tennessee/XMLNAME-2027-Summer-Intern---Information-Technology_R0000387802) | Nashville, Tennessee |
+| 2026-09-17 (30+ days) | Caterpillar | [2027 Summer Corporate Intern - Marketing](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Marketing_R0000391407) | 7 Locations |
 | 2026-09-17 (30+ days) | Booz Allen Hamilton | [Systems Administrator Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249565) | Annapolis Junction, MD |
 | 2026-09-17 (30+ days) | Booz Allen Hamilton | [Systems Administrator Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249566) | Annapolis Junction, MD |
 | 2026-09-17 (30+ days) | Booz Allen Hamilton | [University - Summer 27, Contracts Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249252) | McLean, VA |
@@ -303,8 +323,8 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-14 | Figma | [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | San Francisco, CA • New York, NY |
 | 2026-09-11 | Lyft | [Data Analyst Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | New York, NY |
-| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
 | 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
+| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
 | 2026-09-09 | Amazon | [Startup Project Manager (Execution) Intern Spring and Summer 2027 (CA, CT, TX) ](https://www.amazon.jobs/en/jobs/10534584/startup-project-manager-execution-intern-spring-and-summer-2027-ca-ct-tx) | Cleburne, Texas, USA |
 | 2026-09-09 | Amazon | [Startup Project Manager (Support) Intern Spring and Summer 2027 (Bellevue, WA),  ](https://www.amazon.jobs/en/jobs/10534582/startup-project-manager-support-intern-spring-and-summer-2027-bellevue-wa) | Bellevue, Washington, USA |
 | 2026-09-08 | Datadog | [Software Engineering Intern (Summer)](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) | Boston, Massachusetts, USA; New York, New York, USA |
