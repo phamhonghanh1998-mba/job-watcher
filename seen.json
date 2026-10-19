@@ -968,6 +968,7 @@
   "10577611",
   "10578090",
   "10578771",
+  "10580807",
   "10581365"
  ],
  "Amgen": [
@@ -4056,7 +4057,8 @@
   "5268864007",
   "5268883007",
   "5268886007",
-  "5268991007"
+  "5268991007",
+  "5269031007"
  ],
  "Anthropic": [
   "4017331008",
@@ -8504,6 +8506,7 @@
   "/job/McLean-VA/Senior-Manager--Full-stack-Engineer-People-Leader_R1001224-1",
   "/job/McLean-VA/Senior-Manager--GEA-Risk-Guide----Business-Risk_R999599-1",
   "/job/McLean-VA/Senior-Manager--Product-Design--GEA---Accelerator_R1003475-1",
+  "/job/McLean-VA/Senior-Manager--Product-Management---Business-Cards---Payments_R246490-1",
   "/job/McLean-VA/Senior-Manager--Product-Management---Chat-Servicing-Expansion_R248725-2",
   "/job/McLean-VA/Senior-Manager--Product-Management---Consumer---Developer-Experience_R1000872-1",
   "/job/McLean-VA/Senior-Manager--Product-Management---Machine-Learning-and-AI_R1002611-1",
@@ -13082,6 +13085,7 @@
   "6134908004",
   "6135656004",
   "6135721004",
+  "6138981004",
   "6139275004",
   "6141213004",
   "6141591004",
@@ -14431,6 +14435,7 @@
   "/job/US---AL-Huntsville/Business-Process-Improvement-and-Internal-Control-Specialist_44565",
   "/job/US---AL-Huntsville/Department-of-Justice-Associate-Director_44290",
   "/job/US---AL-Huntsville/Supply-Chain-Optimization-Consultant-II_42929-1",
+  "/job/US---AL-Huntsville/Supply-Chain-Optimization-Senior-Consultant_42925",
   "/job/US---CA-Sacramento/State-and-Local-Government---Senior-Consultant--Sacramento--CA_40446",
   "/job/US---DC-Washington/Federal-Audit-Readiness-and-Internal-Control-Consultant_44770",
   "/job/US---DC-Washington/Internal-Controls-Senior-Consultant_45418",
@@ -17271,6 +17276,7 @@
   "/job/Boise-ID---Main-Site/Senior-PCVD-Equipment-Engineer_JR101248",
   "/job/Boise-ID---Main-Site/Senior-PCVD-Process-Engineer_JR101250",
   "/job/Boise-ID---Main-Site/Senior-Package-Design-Engineer_JR102229",
+  "/job/Boise-ID---Main-Site/Senior-Reticle-Pattern-Inspection-Process-Engineer_JR114310-1",
   "/job/Boise-ID---Main-Site/Senior-Sales-Development-Representative_JR106810",
   "/job/Boise-ID---Main-Site/Senior-Technical-Program-Leader--AI-Strategic-Initiatives_JR113292",
   "/job/Boise-ID---Main-Site/ServiceNow-Solution-Architect_JR114311",
@@ -20893,6 +20899,7 @@
  ],
  "Palantir": [
   "00c2c97b-8514-4617-9883-e53e486b6dcd",
+  "0492e9c4-9ba9-4da0-896f-75be5151bae9",
   "09846827-b931-4a9f-bd64-c3bb8860187b",
   "0a0d2db2-75a5-48e4-b0a0-81baa6588e36",
   "0a838e66-1ab0-4fc4-b4d3-4671c0352278",
@@ -21076,6 +21083,7 @@
   "8f308f3e-43d2-49c9-accd-cc7af0f1565c",
   "8f362a1f-1eff-4327-94c1-ff46e2101c69",
   "8f7bbffa-92aa-4d25-9586-943b3322a27d",
+  "90329118-d9b7-4b96-acdf-13377e3196ac",
   "909875b4-1940-41bd-b08d-a269c7235100",
   "90aa8748-3fef-4e2b-9ea9-c4dc5f37f0d2",
   "91117724-9389-48dc-912f-98e48d4d45d8",
@@ -21179,6 +21187,7 @@
   "d770616f-1422-4420-972c-f95c31ca58e7",
   "d83fac1c-353e-4b77-a586-3276b1090b6e",
   "d879b190-b6a1-41e1-9eca-bf94d36037e1",
+  "da774f81-c98c-4dcf-9b9c-949fd7d90a13",
   "dab396d4-2f14-4796-aac0-0d82883dccf0",
   "dc02f308-bbcc-4163-b4fb-3f68efb2ce24",
   "def1573d-c2b6-42a7-963b-e13c3587b5e9",
@@ -21896,6 +21905,7 @@
   "8258175",
   "8259517",
   "8260075",
+  "8263122",
   "8265119",
   "8267930",
   "8268325",
@@ -30607,6 +30617,7 @@
   "8877232002",
   "8877391002",
   "8877633002",
+  "8877821002",
   "8877827002",
   "8877846002",
   "8877857002",
@@ -30741,6 +30752,8 @@
   "8893292002",
   "8893314002",
   "8893406002",
+  "8893521002",
+  "8893540002",
   "8893577002",
   "8893579002",
   "8893617002",
@@ -30784,12 +30797,16 @@
   "8899128002",
   "8899482002",
   "8899810002",
+  "8900309002",
+  "8900388002",
   "8900641002",
   "8900987002",
   "8901004002",
   "8901106002",
   "8901124002",
-  "8901133002"
+  "8901126002",
+  "8901133002",
+  "8901356002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -32008,6 +32025,7 @@
  "Target": [
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Account-Executive--Roundel---Food---Beverage--Accelerate-New---Emerging-Brands-_R0000477151",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Account-Manager--Roundel---Target-Product-Ads--MSP-or-NYC-_R0000446770",
+  "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Designer--A-New-Day-Knits-and-Sweaters_R0000478173",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Designer--Intimates-and-Sleepwear_R0000446514",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Designer---Store-Design_R0000475522",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Director--Marketing-Transformation_R0000476852",
@@ -32054,6 +32072,7 @@
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Manager-Supply-Chain-Safety---Upstream_R0000476165-1",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Marketing-Project-Manager--Store-Experience_R0000476971",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Product-Designer--A-New-Day-Sweaters_R0000450821",
+  "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Product-Designer--Denim_R0000476706",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Store-Operations-Sr-Business-Partner_R0000453903",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Textile-Graphic-Designer--Baby_R0000475620",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Textile-Graphic-Designer--Baby_R0000476521",
@@ -33305,6 +33324,7 @@
   "/job/US---New-York-NY/Director--Social-Strategy--Community-Insights_REF089054W",
   "/job/US---New-York-NY/Director--Working-Capital-Marketing_REF089600W",
   "/job/US---New-York-NY/Senior-Manager--US-Merchant-Partnerships--Services-Vertical---Automotives-_REF089224W",
+  "/job/US---Remote---Illinois/Director--Account-Executive_REF089483W",
   "/job/US---Remote---Illinois/Senior-Consultant--Client-Success_REF089281W",
   "/job/US---Remote---Ohio/Director--Account-Executive_REF088946W",
   "/job/US---San-Francisco-CA/Analyst---Blockchain-Technology---Analytics_REF089356W",
@@ -34548,7 +34568,8 @@
    "10575256": "2026-10-09",
    "10575291": "2026-10-09",
    "10576619": "2026-10-13",
-   "10578771": "2026-10-14"
+   "10578771": "2026-10-14",
+   "10580807": "2026-10-19"
   },
   "Amgen": {
    "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349": "2026-10-02",
@@ -36097,7 +36118,8 @@
    "10575256": false,
    "10575291": false,
    "10576619": false,
-   "10578771": false
+   "10578771": false,
+   "10580807": false
   },
   "Amgen": {
    "/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Engineering--Summer-2027-_R-255349": true,

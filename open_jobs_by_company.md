@@ -1,6 +1,6 @@
 # Open matching jobs (419)
 
-Updated 2026-10-19 23:04 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-19 23:48 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -155,6 +155,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-08 | Amazon | [Business Strategy & Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA )](https://www.amazon.jobs/en/jobs/10532290/business-strategy-execution-operations-engineering-intern-spring-and-summer-2027-bellevue-wa) | Bellevue, Washington, USA |
 | 2026-10-14 | Amazon | [Communications Assistant Summer Intern – Summer 2027 ](https://www.amazon.jobs/en/jobs/10578771/communications-assistant-summer-intern-summer-2027) | Seattle, Washington, USA |
 | 2026-09-08 | Amazon | [Construction Manager Internship Spring and Summer 2027 (Bellevue, WA)](https://www.amazon.jobs/en/jobs/10532293/construction-manager-internship-spring-and-summer-2027-bellevue-wa) | Bellevue, Washington, USA |
+| 2026-10-19 | Amazon | [Customer Acquisition Representative Intern – Summer 2027](https://www.amazon.jobs/en/jobs/10580807/customer-acquisition-representative-intern-summer-2027) | Arlington, Virginia, USA |
 | 2026-09-18 | Amazon | [Data Engineer Internship - 2027 (US)](https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us) | Seattle, Washington, USA |
 | 2026-10-09 | Amazon | [General Marketing Specialist Intern – Summer 2027](https://www.amazon.jobs/en/jobs/10575256/general-marketing-specialist-intern-summer-2027) | Seattle, Washington, USA |
 | 2026-08-14 | Amazon | [Loss Prevention Specialist Intern 2027](https://www.amazon.jobs/en/jobs/10502807/loss-prevention-specialist-intern-2027) | Fort Worth, Texas, USA |
@@ -313,8 +314,8 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-19 (30+ days) | Intel | [Parametric Test Module Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Parametric-Test-Module-Intern_JR0286719) | US, Oregon, Hillsboro |
 | 2026-09-19 (30+ days) | Kraft Heinz | [Operations Intern](https://heinz.wd1.myworkdayjobs.com/en-US/KraftHeinz_Careers/job/Operations-Intern_R-53383) |  |
 | 2026-09-11 | Lyft | [Data Analyst Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | New York, NY |
-| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
+| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-25 | Medtronic | [Associate Clinical Experience (ACE) Intern – Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1) | 50 Locations |
 | 2026-09-21 | Medtronic | [Clinical Technologist Intern - Cardiovascular](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958) | 4 Locations |
 | 2026-09-19 (30+ days) | Medtronic | [Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309) | 15 Locations |
@@ -323,7 +324,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-15 | Medtronic | [Sales Intern](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Bloemfontein-Free-State-South-Africa/Sales-Intern_R78059-1) | 3 Locations |
 | 2026-10-15 | Medtronic | [Sales Operations Intern](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ankara-Ankara-Trkiye/Sales-Operations-Intern_R78959-1) | Ankara, Ankara, Türkiye |
 | 2026-10-19 | Merck | [2027 Future Talent Program – Companion Animal Sales – Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Companion-Animal-Sales---Intern_R422298) | USA - New Jersey - Rahway |
-| 2026-10-19 | Micron | [Intern - Design Engineer, HBM](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452) | Richardson, TX |
 | 2026-10-19 | Micron | [Intern - Sales Development](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SDR_JR112775) | Boise, ID - Main Site |
 | 2026-09-19 (30+ days) | Mondelez | [Corporate Finance Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1) | East Hanover, New Jersey, United States |
 | 2026-10-07 | Mondelez | [HSE Intern Colombia](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Cali-Colombia/HSE-Intern-Colombia_R-178636) | 2 Locations |
