@@ -4052,7 +4052,8 @@
   "5268689007",
   "5268704007",
   "5268736007",
-  "5268752007"
+  "5268752007",
+  "5268864007"
  ],
  "Anthropic": [
   "4017331008",
@@ -5916,7 +5917,8 @@
   "5449163008",
   "5451225008",
   "5452864008",
-  "5453137008"
+  "5453137008",
+  "5457599008"
  ],
  "Blue Origin": [
   "/job/Arlington-WA/Manufacturing-Engineer-III----Castings-Engines_R71538",
@@ -6718,10 +6720,12 @@
   "/job/09671---Longs-Drug-Stores-California-LLC/Pharmacy-Intern---Grad_R0996803",
   "/job/09890---Longs-Drug-Stores-California-LLC/Pharmacy-Intern---Grad_R0996820",
   "/job/10949---Tennessee-CVS-Pharmacy-LLC/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1073439",
+  "/job/11013---New-Jersey-CVS-Pharmacy-LLC/Pharmacy-Intern_R1080278",
   "/job/11338---ProCare-Pharmacy-LLC/Pharmacy-Technician---No-Nights-or-Weekends_R1067820",
   "/job/11462---Holiday-CVS-LLC/Pharmacy-Intern_R1072730-1",
   "/job/11507---CVS-Pharmacy-Inc/Central-Fill-Pharmacy-Technician_R1073540",
   "/job/16081---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996951",
+  "/job/16513---New-Jersey-CVS-Pharmacy-LLC/Pharmacy-Intern_R1079351",
   "/job/16667---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996981",
   "/job/16709---Tennessee-CVS-Pharmacy-LLC/Pharmacy-Intern_R1076655",
   "/job/16881---Utah-CVS-Pharmacy-LLC/Pharmacy-Intern---Grad_R0996998",
@@ -6933,6 +6937,7 @@
   "/job/CT---Hartford/Senior-Program-Manager---Healthcare-Business_R0998998",
   "/job/CT---Hartford/Software-Development-Engineer---Operational-Analytics_R0944066-1",
   "/job/CT---Hartford/Sr-Analyst--Pharmacy-Underwriter_R1021400-1",
+  "/job/CT---Hartford/Sr-Manager---Corporate-Audit_R1034504",
   "/job/CT---Hartford/Sr-Manager-Business-Analysis---Medicare---Medicaid_R1019199",
   "/job/CT---Hartford/Underwriting-Sr-Associate_R1014271",
   "/job/CT---Hartford/VP--Medicaid---Aetna-Technology_R0903838",
@@ -7419,6 +7424,7 @@
   "/job/NJ---Elizabeth/Oak-Street-Health-Regional-Director--Operations-and-Population-Health--New-Jersey_R1062221",
   "/job/NJ---Elizabeth/Pharmacy-Intern_R1028183-1",
   "/job/NJ---Elizabeth/Pharmacy-Intern_R1080007",
+  "/job/NJ---Ewing/Pharmacy-Intern_R1080290",
   "/job/NJ---Fairfield/Fulfillment-Packaging-Assistant_R1026404",
   "/job/NJ---Garwood/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1042948",
   "/job/NJ---Garwood/Pharmacy-Intern_R1042423",
@@ -11246,6 +11252,7 @@
   "8823191002",
   "8823193002",
   "8823880002",
+  "8824168002",
   "8824173002",
   "8824179002",
   "8826668002",
@@ -13711,6 +13718,7 @@
   "/job/Remote/MR-Product-Manager--Canada_R4046310-1",
   "/job/Remote/MSL-Cardiology_R4044113-1",
   "/job/Remote/MSL-Cardiology_R4044116-1",
+  "/job/Remote/Manager--Digital-Platforms_R4047865-1",
   "/job/Remote/Market-Vice-President---New-York_R4047468-1",
   "/job/Remote/Medical-Monitor_R4047391-1",
   "/job/Remote/Medical-Technology-Advanced-Services--Sales-Director_R4044701-2",
@@ -13757,6 +13765,7 @@
   "/job/Salt-Lake-City/Electronics-Technician--2nd-Shift---M-F-3-30-PM---12-00-AM-_R4042918-1",
   "/job/Salt-Lake-City/Electronics-Technician--2nd-Shift---M-F-3-30-PM---12-00-AM-_R4045620-1",
   "/job/Salt-Lake-City/Summer-2027-Data-Analytics-Intern_R4046487-1",
+  "/job/Sao-Paulo/Account-Manager-Pharmaceutical-Diagnostics-Brazil_R4048135-1",
   "/job/Sao-Paulo/Commercial-Controller-LatAm_R4046834",
   "/job/Sao-Paulo/Estagirio-em-Controladoria_R4045989-2",
   "/job/Sao-Paulo/Estgio-em-Controladoria-Comercial_R4046477-1",
@@ -15628,6 +15637,7 @@
   "/job/Arlington-Virginia/Senior-Software-Engineer_R-293188",
   "/job/Arlington-Virginia/Software-Engineer-II_R-288574",
   "/job/Arlington-Virginia/Software-Engineer-II_R-291095",
+  "/job/Arlington-Virginia/Software-Engineer-II_R-293167",
   "/job/Arlington-Virginia/Specialist--Product-Management_R-291788",
   "/job/Arlington-Virginia/Specialist-Sales-Manager--Test---Learn-Solution_R-282820",
   "/job/Atlanta-Georgia-675-Ponce-De-Leon-Ave-NE/Manager--B2B-Marketing-Operations---Partner-Marketing-Platforms_R-292581",
@@ -15953,6 +15963,7 @@
   "/job/OFallon-Missouri/Software-Engineer-II_R-288896",
   "/job/OFallon-Missouri/Software-Engineer-II_R-292491",
   "/job/OFallon-Missouri/Software-Engineer-II_R-292582-1",
+  "/job/OFallon-Missouri/Software-Engineer-II_R-293589",
   "/job/OFallon-Missouri/Software-Engineer-II_R-293662",
   "/job/OFallon-Missouri/Software-Engineer-I_R-291661",
   "/job/OFallon-Missouri/Software-Engineer-I_R-292618-1",
@@ -16153,6 +16164,8 @@
   "/job/Toronto-Canada/Consultant--Advisors---Consulting-Services--Strategy---Transformation_R-274557",
   "/job/Toronto-Canada/Director--Global-AI-Thought-Leadership_R-293477",
   "/job/Toronto-Canada/Manager--Analytics---Metrics_R-293543",
+  "/job/Toronto-Canada/Manager--Product-Development--Business-Identity-_R-293805",
+  "/job/Toronto-Canada/Manager--Product-Management--Business-Identity-_R-293335",
   "/job/Toronto-Canada/Manager--Responsible-AI_R-293880",
   "/job/Toronto-Canada/Product-Manager--Payment-Threat-Intelligence_R-282406-1",
   "/job/Toronto-Canada/Senior-Analyst--Customer-Performance--Brand-1_R-290824-1",
@@ -17259,6 +17272,7 @@
   "/job/Boise-ID---North-Office/Intern---Category-Supplier-Management_JR110910",
   "/job/Boise-ID---North-Office/Intern---Procurement-Cost-Analyst_JR112690",
   "/job/Boise-ID---North-Office/Principal--Program-Manager-Source-to-Pay---AI-Workflow_JR114438",
+  "/job/Boise-ID---North-Office/Program-Manager-II--Source-to-Pay---Value-Optimization_JR114669-1",
   "/job/Boise-ID---North-Office/Senior-Engineer--OCT-CPEE-Central-Mask-Tape-out_JR110642",
   "/job/Boise-ID---North-Office/Staff-Principal-Capital-Supplier-Manager_JR104118",
   "/job/Boise-ID---SIG-Building/ENGINEER--SIG-ELECTRICAL-DESIGN_JR106977",
@@ -19765,7 +19779,8 @@
   "8292623",
   "8293642",
   "8293675",
-  "8299819"
+  "8299819",
+  "8301808"
  ],
  "Oliver Wyman": [
   "/job/Atlanta---Northside/Client-Executive---Single-Parent-Captives_R_356704",
@@ -21288,7 +21303,10 @@
   "8256694",
   "8261289",
   "8265883",
-  "8282143"
+  "8282143",
+  "8289880",
+  "8289904",
+  "8289906"
  ],
  "Perplexity": [
   "0190699f-010b-44f2-8399-278899fef018",
@@ -23442,6 +23460,7 @@
   "/job/US-AZ-TUCSON-842--1151-E-Hermans-Rd--BLDG-842/Senior-Information-System-Security-Officer--ISSO--II---Tucson--AZ_01882643",
   "/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/AMRAAM-C9-D4-Execution-Chief-Engineer_01880916",
   "/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Finance-Analyst---AIM-9X-Dev---Integration_01872271",
+  "/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Integrated-Planning-Lead_01883532-1",
   "/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Material-Program-Manager_01880521",
   "/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Senior-System-Administrator_01873905",
   "/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/SkillBridge--Systems-Engineer_01868456",
@@ -23540,6 +23559,7 @@
   "/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/RF-Systems-Engineer-Intern--Summer-2027-_01880552",
   "/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Senior-Analyst--Mission-Quality-Assurance_01882909",
   "/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Senior-Inventory-Analyst_01882297",
+  "/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Senior-System-Safety-Engineer_01883512",
   "/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Senior-Systems-Security-Engineer---P3--Onsite-El-Segundo--CA-_01881189",
   "/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Systems-Engineer-I--Onsite-_01877801",
   "/job/US-CA-EL-SEGUNDO-E03--2004-E-El-Segundo-Blvd--BLDG-E03/Principal-Specialist--Supply-Chain-Management--Remote-_01879381",
@@ -24340,6 +24360,7 @@
   "/job/US-OK-LAWTON-711--1-Sw-11Th-St--BLDG-111-Ste-290/XMLNAME-01855472-Electronics-Test---Integration-Field-Technician--Fort-Sill--OK-_01866753",
   "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Engineer-I--Associate-Production-Engineer_01866626",
   "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/F135-Supply-Chain-CONUS-Warehousing--Manager----On-site-_01874105",
+  "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Maintenance-Repair---Overhaul-Intern--Summer-2027---Onsite-_01879923",
   "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Project-Engineer-Intern--Summer-2027---Onsite-_01879858",
   "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Repair-Design-Engineer-Intern--Summer-2027---Onsite-_01880133",
   "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Senior-Manager--Military-Engines-Sustainment---Supplier-Quality-Manager--Onsite-_01881079",
@@ -25441,6 +25462,7 @@
   "8205219",
   "8209006",
   "8209010",
+  "8209048",
   "8211271",
   "8211305",
   "8211694",
@@ -26488,9 +26510,11 @@
   "8281491",
   "8281636",
   "8281650",
+  "8287417",
   "8287656",
   "8288474",
-  "8288505"
+  "8288505",
+  "8302004"
  ],
  "Scale AI": [
   "4282118005",
@@ -30686,7 +30710,8 @@
   "8896660002",
   "8899128002",
   "8899482002",
-  "8899810002"
+  "8899810002",
+  "8901004002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -31672,6 +31697,8 @@
   "8267519",
   "8267684",
   "8267736",
+  "8267839",
+  "8267841",
   "8267851",
   "8267857",
   "8268059",
@@ -31952,6 +31979,7 @@
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Textile-Graphic-Designer--Baby_R0000475620",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Textile-Graphic-Designer--Baby_R0000476521",
   "/job/1000-Site-Pkwy-HamptonGA-30228/Senior-Target-Security-Specialist---Flow-Center---Hampton--GA_R0000475801",
+  "/job/105-Blazier-Dr-PittsburghPA-15237-6039/Assets-Protection-Team-Leader_R0000478100",
   "/job/1090-73rd-Ave-NE-FridleyMN-55432-3407/Maintenance-Technician-3---Regional-Distribution-Center---Fridley--MN_R0000478011",
   "/job/1090-73rd-Ave-NE-FridleyMN-55432-3407/Sr-HR-Specialist-GSCL_R0000476969",
   "/job/1111-Macom-Dr-DekalbIL-60115-8709/Sr-HR-Specialist-GSCL_R0000444809",
@@ -32008,6 +32036,7 @@
   "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Engineer---US_R0000454091",
   "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Engineer---AI-Security_R0000440740",
   "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Engineer---Targetcom-Web-Enablement_R0000477102",
+  "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Engineer-AI-Security---Security-Architecture_R0000442410",
   "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Engineer-Cyber-AI---AI-Expert_R0000441295",
   "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-ML-Engineer---Advance-AI--applied-ML--LLM-s--ML-Ops-_R0000476991",
   "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Machine-Learning-Engineer---Merchandising-AI--ML-Ops-_R0000451054",
@@ -32561,7 +32590,9 @@
   "8301812",
   "8301813",
   "8301834",
-  "8301851"
+  "8301851",
+  "8301866",
+  "8301875"
  ],
  "Twilio": [
   "6372770",
@@ -32994,6 +33025,7 @@
   "/job/MN---Ulaanbaatar-Mongolia/Analyst--Client-Relationship-Management---Mongolia_REF088957W",
   "/job/MX---Mexico-City-Mexico/Analyst--Commercial-Sales-Executive_REF089292W",
   "/job/MX---Mexico-City-Mexico/Head-of-Visa-Consulting---Analytics--VCA----Mexico_REF089287W",
+  "/job/MX---Mexico-City-Mexico/Software-Solutions-Architect---AI---Software-Architecture--Visa-Consulting-and-Analytics--VCA----Tech-Practice_REF089347W",
   "/job/MX---Mexico-City-Mexico/Sr-Manager--Commercial-Solutions-Lead--Sales----Mexico_REF089389W",
   "/job/MY---Kuala-Lumpur-Malaysia/Director--Client-Consulting---Technology_REF088951W",
   "/job/MY---Kuala-Lumpur-Malaysia/Manager--Client-Consulting_REF088952W",
@@ -33107,6 +33139,7 @@
   "/job/US---Austin-TX/Lead-SW-Engineer_REF089196W",
   "/job/US---Austin-TX/Lead-Technical-Program-Manager_REF089119W",
   "/job/US---Austin-TX/ML-Engineer--Sr-Consultant_REF088834W",
+  "/job/US---Austin-TX/Manager--Research_REF089539W-1",
   "/job/US---Austin-TX/Marketing-Analyst--Demand-Generation-and-Nurture_REF089161W",
   "/job/US---Austin-TX/People-Solutions-Analyst_REF089505W",
   "/job/US---Austin-TX/Product-Manager--Embedded-Experience-Platform_REF089328W",
@@ -33255,7 +33288,8 @@
   "3743990015937216",
   "3743990016185486",
   "3743990016229285",
-  "3743990016229455"
+  "3743990016229455",
+  "3743990016242696"
  ],
  "Wayfair": [],
  "Waymo": [
@@ -33687,7 +33721,9 @@
   "8289592",
   "8289816",
   "8292367",
-  "8301577"
+  "8301577",
+  "8301804",
+  "8301854"
  ],
  "Workday": [
   "/job/Costa-Rica/Technical-Support-Delivery-Intern_JR-0110629-1",
@@ -33943,6 +33979,7 @@
   "5184114007",
   "5186928007",
   "5187284007",
+  "5187339007",
   "5187974007",
   "5188451007",
   "5189009007",
@@ -34457,7 +34494,8 @@
    "5265158007": "2026-10-13",
    "5268689007": "2026-10-19",
    "5268736007": "2026-10-19",
-   "5268752007": "2026-10-19"
+   "5268752007": "2026-10-19",
+   "5268864007": "2026-10-19"
   },
   "Anthropic": {},
   "Applied Materials": {
@@ -34586,8 +34624,10 @@
    "/job/09671---Longs-Drug-Stores-California-LLC/Pharmacy-Intern---Grad_R0996803": "2026-10-12",
    "/job/09890---Longs-Drug-Stores-California-LLC/Pharmacy-Intern---Grad_R0996820": "2026-10-12",
    "/job/10949---Tennessee-CVS-Pharmacy-LLC/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1073439": "2026-10-12",
+   "/job/11013---New-Jersey-CVS-Pharmacy-LLC/Pharmacy-Intern_R1080278": "2026-10-19",
    "/job/11462---Holiday-CVS-LLC/Pharmacy-Intern_R1072730-1": "2026-10-12",
    "/job/16081---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996951": "2026-10-12",
+   "/job/16513---New-Jersey-CVS-Pharmacy-LLC/Pharmacy-Intern_R1079351": "2026-10-19",
    "/job/16667---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996981": "2026-10-12",
    "/job/16709---Tennessee-CVS-Pharmacy-LLC/Pharmacy-Intern_R1076655": "2026-10-15",
    "/job/16881---Utah-CVS-Pharmacy-LLC/Pharmacy-Intern---Grad_R0996998": "2026-10-12",
@@ -34784,6 +34824,7 @@
    "/job/NJ---Edison/Pharmacy-Intern_R1078139-1": "2026-10-16",
    "/job/NJ---Elizabeth/Pharmacy-Intern_R1028183-1": "2026-10-19",
    "/job/NJ---Elizabeth/Pharmacy-Intern_R1080007": "2026-10-19",
+   "/job/NJ---Ewing/Pharmacy-Intern_R1080290": "2026-10-19",
    "/job/NJ---Garwood/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1042948": "2026-10-16",
    "/job/NJ---Garwood/Pharmacy-Intern_R1042423": "2026-10-16",
    "/job/NJ---Hamilton/Pharmacy-Intern_R1080218": "2026-10-19",
@@ -35674,6 +35715,7 @@
    "/job/US-NH-DURHAM-121--121-Technology-Dr--BLDG-125/Quality-Engineering-Intern--Summer-2027-_01882570": "2026-10-15",
    "/job/US-NY-BOHEMIA-355--355-Knickerbocker-Ave--KNICKERBOCKER/Supply-Chain-Management-Intern--Summer-2027-_01876930": "2026-10-13",
    "/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596": "2026-10-08",
+   "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Maintenance-Repair---Overhaul-Intern--Summer-2027---Onsite-_01879923": "2026-10-19",
    "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Project-Engineer-Intern--Summer-2027---Onsite-_01879858": "2026-10-07",
    "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Repair-Design-Engineer-Intern--Summer-2027---Onsite-_01880133": "2026-10-07",
    "/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/System-Administrator-Intern--Summer-2027-_01879679": "2026-10-15",
@@ -35986,7 +36028,8 @@
    "5265158007": false,
    "5268689007": false,
    "5268736007": false,
-   "5268752007": false
+   "5268752007": false,
+   "5268864007": false
   },
   "Applied Materials": {
    "91e0686e-272a-4780-b33d-d7860b94a7b4": false,
@@ -36091,8 +36134,10 @@
    "/job/09671---Longs-Drug-Stores-California-LLC/Pharmacy-Intern---Grad_R0996803": false,
    "/job/09890---Longs-Drug-Stores-California-LLC/Pharmacy-Intern---Grad_R0996820": false,
    "/job/10949---Tennessee-CVS-Pharmacy-LLC/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1073439": false,
+   "/job/11013---New-Jersey-CVS-Pharmacy-LLC/Pharmacy-Intern_R1080278": false,
    "/job/11462---Holiday-CVS-LLC/Pharmacy-Intern_R1072730-1": false,
    "/job/16081---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996951": false,
+   "/job/16513---New-Jersey-CVS-Pharmacy-LLC/Pharmacy-Intern_R1079351": false,
    "/job/16667---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996981": false,
    "/job/16709---Tennessee-CVS-Pharmacy-LLC/Pharmacy-Intern_R1076655": false,
    "/job/16881---Utah-CVS-Pharmacy-LLC/Pharmacy-Intern---Grad_R0996998": false,
@@ -36289,6 +36334,7 @@
    "/job/NJ---Edison/Pharmacy-Intern_R1078139-1": false,
    "/job/NJ---Elizabeth/Pharmacy-Intern_R1028183-1": false,
    "/job/NJ---Elizabeth/Pharmacy-Intern_R1080007": false,
+   "/job/NJ---Ewing/Pharmacy-Intern_R1080290": false,
    "/job/NJ---Garwood/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1042948": false,
    "/job/NJ---Garwood/Pharmacy-Intern_R1042423": false,
    "/job/NJ---Hamilton/Pharmacy-Intern_R1080218": false,
@@ -37095,6 +37141,7 @@
    "/job/US-NH-DURHAM-121--121-Technology-Dr--BLDG-125/Quality-Engineering-Intern--Summer-2027-_01882570": false,
    "/job/US-NY-BOHEMIA-355--355-Knickerbocker-Ave--KNICKERBOCKER/Supply-Chain-Management-Intern--Summer-2027-_01876930": false,
    "/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596": false,
+   "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Maintenance-Repair---Overhaul-Intern--Summer-2027---Onsite-_01879923": false,
    "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Project-Engineer-Intern--Summer-2027---Onsite-_01879858": false,
    "/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Military-Engines-Repair-Design-Engineer-Intern--Summer-2027---Onsite-_01880133": false,
    "/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/System-Administrator-Intern--Summer-2027-_01879679": false,

@@ -1,10 +1,10 @@
-# Open matching jobs (410)
+# Open matching jobs (412)
 
-Updated 2026-10-19 20:25 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-19 21:06 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (105)
+## MBA-level (102)
 
 Title or job description mentions an MBA.
 
@@ -46,9 +46,6 @@ Title or job description mentions an MBA.
 | 2026-10-02 | PwC (2) | [Sustainability Strategy - Senior Associate Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Sustainability-Strategy---Senior-Associate-Intern---Summer-2027_765703WD) | IL-Rosemont |
 | 2026-10-02 | PwC (2) | [Technology Consulting Senior Associate Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Technology-Consulting-Senior-Associate-Intern---Summer-2027_765627WD) | IL-Rosemont |
 | 2026-10-01 | Vanguard | [MBA Internship – General Management:](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/MBA-Internship---General-Management-_180420) | Malvern, PA |
-| 2026-10-01 | Salesforce | [Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant_JR362509-1) | New York - New York |
-| 2026-10-01 | Salesforce | [Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Financial Services)](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Financial-Services-_JR362508-1) | New York - New York |
-| 2026-10-01 | Salesforce | [Summer 2027 Intern - MBA Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1) | New York - New York |
 | 2026-10-01 | Pinterest | [Master's Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US |
 | 2026-10-01 | Pinterest | [Master's Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US |
 | 2026-10-01 | Oliver Wyman | [Workforce and Rewards Summer Associate (MBA or Master's Track) - Chicago - MBA Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Chicago---155-Wacker/Workforce-and-Rewards-Summer-Associate--MBA-or-Master-s-Track----Chicago---MBA-Program-2027_R_367574-1) | Chicago - 155 Wacker |
@@ -117,7 +114,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (305)
+## Other internships (310)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -125,6 +122,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 |---|---|---|---|
 | 2026-10-19 | Target | [Store Executive Intern (Store Leadership Intern) – Greater Pasadena, CA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/777-E-Colorado-Blvd-PasadenaCA-91101-2104/Store-Executive-Intern--Store-Leadership-Intern----Greater-Pasadena--CA--Starting-Summer-2027-_R0000449492) | 4 Locations |
 | 2026-10-19 | Scale AI | [Machine Learning Research Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | New York, NY; San Francisco, CA |
+| 2026-10-19 | RTX | [Maintenance Repair & Overhaul Intern (Summer 2027) (Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Maintenance-Repair---Overhaul-Intern--Summer-2027---Onsite-_01879923) | US-OK-OKLAHOMA CITY-8120SC ~ 8120 S Air Depot Blvd ~ SUSTAINMENT CTR, Dock 18 |
 | 2026-10-19 | RTX | [Electro-Optics Systems Engineer Intern (Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Electro-Optics-Systems-Engineer-Intern--Onsite-_01880586) | US-TX-MCKINNEY-513WD ~ 2501 W University Dr ~ WING D BLDG |
 | 2026-10-19 | RTX | [Structures Intern (Summer 2027) (Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Structures-Intern--Summer-2027---Onsite-_01872690) | US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, Rte 9 |
 | 2026-10-19 | RTX | [Mechanical Design Intern (Summer 2027) (Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Mechanical-Design-Intern--Summer-2027---Onsite-_01864899) | US-ME-NORTH BERWICK-113 ~ 113 Wells St ~ WELLS, Rte 9 |
@@ -147,6 +145,9 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-19 | GE HealthCare | [University Internship Program - Diagnostic Imaging](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Riyadh/University-Internship-Program---Diagnostic-Imaging_R4048064-1) | Riyadh |
 | 2026-10-19 | GE HealthCare | [University Internship Program - Diagnostic Imaging](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Riyadh/University-Internship-Program---Diagnostic-Imaging_R4048065-1) | Riyadh |
 | 2026-10-19 | GE Aerospace | [Site Security Operations Intern](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Queretaro/Security-Intern_R5040750) | Queretaro |
+| 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/16513---New-Jersey-CVS-Pharmacy-LLC/Pharmacy-Intern_R1079351) | 16513 - New Jersey CVS Pharmacy, L.L.C. |
+| 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Ewing/Pharmacy-Intern_R1080290) | NJ - Ewing |
+| 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/11013---New-Jersey-CVS-Pharmacy-LLC/Pharmacy-Intern_R1080278) | 11013 - New Jersey CVS Pharmacy, L.L.C. |
 | 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Hamilton/Pharmacy-Intern_R1080218) | NJ - Hamilton |
 | 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Burlington-Township/Pharmacy-Intern_R1052833-1) | NJ - Burlington Township |
 | 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Eatontown/Pharmacy-Intern_R1080197) | NJ - Eatontown |
@@ -157,6 +158,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-19 | Anduril | [2027 Field Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007) | Costa Mesa, California, United States; Quincy, Massachusetts, United States |
 | 2026-10-19 | Anduril | [2027 Guidance, Navigation, & Control Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007) | Costa Mesa, California, United States |
 | 2026-10-19 | Anduril | [2027 Low Observables Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) | Costa Mesa, California, United States |
+| 2026-10-19 | Anduril | [2027 Technical Program Manager Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) | Costa Mesa, California, United States; Honolulu, Hawaii, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States |
 | 2026-10-19 | Adobe | [2027 Intern - AI & Architecture](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) | San Jose |
 | 2026-10-19 | Adobe | [2027 Intern - Experience Researcher](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Experience-Researcher_R172996) | San Jose |
 | 2026-10-19 | Adobe | [2027 Intern - Security Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000) | Lehi |
