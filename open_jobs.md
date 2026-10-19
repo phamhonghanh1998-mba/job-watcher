@@ -1,6 +1,6 @@
-# Open matching jobs (401)
+# Open matching jobs (397)
 
-Updated 2026-10-19 15:00 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-19 15:35 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -114,7 +114,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (299)
+## Other internships (295)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -122,8 +122,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 |---|---|---|---|
 | 2026-10-19 | RTX | [Stage - Hiver 2027 - Génie mécanique – Installations d’essais / Internship - Winter 2027 - Mechanical Engineering – Test Facilities](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gnie-mcanique---Installations-d-essais---Internship---Winter-2027---Mechanical-Engineering---Test-Facilities_01872695) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG |
 | 2026-10-19 | RTX | [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499) | US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121 |
-| 2026-10-19 | RTX | [Material/Process Engineering Intern (Summer 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-WA-SPOKANE-11135--11135-W-Westbow-Ln--WESTBOW/Material-Process-Engineering-Intern--Summer-2027--Onsite-_01882373) | US-WA-SPOKANE-11135 ~ 11135 W Westbow Ln ~ WESTBOW |
-| 2026-10-19 | RTX | [ERP Systems Transformations Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-NC-CHARLOTTE-2730--2730-W-Tyvola-Rd--TYVOLA/ERP-Systems-Transformations-Intern--Summer-2027-_01879765) | US-NC-CHARLOTTE-2730 ~ 2730 W Tyvola Rd ~ TYVOLA |
 | 2026-10-19 | Genentech | [Project Support Intern - Roche Global Citizenship (d/f/m)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Project-Support-Intern---Roche-Global-Citizenship--d-f-m-_202610-125779) | Basel |
 | 2026-10-19 | Genentech | [Field Service Assistant Engineer Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Kuwait/Field-Service-Assistant-Engineer-Intern_202610-126627) | Kuwait |
 | 2026-10-19 | GE HealthCare | [University Internship (6 month) – ULS/PCS FSE](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Riyadh/University-Internship--6-month----ULS-PCS-FSE_R4047306-1) | Riyadh |
@@ -132,18 +130,16 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-19 | GE HealthCare | [University Internship – Connectivity Intern](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Riyadh/University-Internship---Connectivity-Intern_R4047319-1) | Riyadh |
 | 2026-10-19 | GE HealthCare | [University Internship Program - Diagnostic Imaging](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Riyadh/University-Internship-Program---Diagnostic-Imaging_R4048064-1) | Riyadh |
 | 2026-10-19 | GE HealthCare | [University Internship Program - Diagnostic Imaging](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Riyadh/University-Internship-Program---Diagnostic-Imaging_R4048065-1) | Riyadh |
+| 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Mahwah/Pharmacy-Intern_R1079688) | NJ - Mahwah |
+| 2026-10-19 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Hialeah/Pharmacy-Intern---Grad_R1079681) | FL - Hialeah |
+| 2026-10-19 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Hazle-Township/Pharmacy-Intern---Grad_R1022223-1) | PA - Hazle Township |
+| 2026-10-19 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Wilkes-Barre/Pharmacy-Intern---Grad_R1022214-1) | PA - Wilkes-Barre |
+| 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Wayne/Pharmacy-Intern_R1079666) | NJ - Wayne |
 | 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Houston/Pharmacy-Intern_R0993420) | TX - Houston |
 | 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richmond/Pharmacy-Intern_R0991829) | TX - Richmond |
 | 2026-10-19 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/09540---Garfield-Beach-CVS-LLC/Pharmacy-Intern---Grad_R0996791) | 09540 - Garfield Beach CVS, L.L.C. |
 | 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA-Oceanside/Pharmacy-Intern_R1079540) | CA-Oceanside |
 | 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Strongsville/Pharmacy-Intern_R1079527) | OH - Strongsville |
-| 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Monroeville/Pharmacy-Intern_R1079536) | PA - Monroeville |
-| 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Philadelphia/Pharmacy-Intern_R1079537) | PA - Philadelphia |
-| 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CA---Huntington-Beach/Pharmacy-Intern_R1079539) | CA - Huntington Beach |
-| 2026-10-19 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Lebanon/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1079532) | PA - Lebanon |
-| 2026-10-19 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Glendale/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1079534) | AZ - Glendale |
-| 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Orange-Park/Pharmacy-Intern_R1079520-1) | FL - Orange Park |
-| 2026-10-19 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/OH---Columbus/Pharmacy-Intern_R1079525) | OH - Columbus |
 | 2026-10-19 | CrowdStrike | [Professional Services Red Team Intern - Summer 2027 (Remote, GBR)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---London/Professional-Services-Red-Team-Intern---Summer-2027--Remote--GBR-_R30404) | 3 Locations |
 | 2026-10-19 | Caterpillar | [Tax Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Tianjin-Tianjin/Tax-Intern_R0000399969) | Tianjin, Tianjin |
 | 2026-10-18 | Caterpillar | [Communications Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Wuxi-Jiangsu/Communications-Intern_R0000395692) | Wuxi, Jiangsu |
@@ -272,6 +268,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-19 (30+ days) | Vanguard | [College to Corporate IT Internship - Application Development  (TX)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Application-Development---TX-_181846) | Dallas/Ft. Worth, TX |
 | 2026-09-19 (30+ days) | Vanguard | [College to Corporate IT Internship - Risk & Security - Analyst  (PA)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Analyst---PA-_181762) | Malvern, PA |
 | 2026-09-19 (30+ days) | Vanguard | [College to Corporate IT Internship - Risk & Security - Analyst  (NC)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Charlotte-NC/College-to-Corporate-IT-Internship---Risk---Security---Analyst---NC-_181764) | Charlotte, NC |
+| 2026-09-19 (30+ days) | Synchrony | [BLP Intern – Sales](https://synchronyfinancial.wd5.myworkdayjobs.com/en-US/careers/job/Stamford-Hub/BLP-Intern---Sales_2601694) | Stamford Hub |
 | 2026-09-19 (30+ days) | Stryker | [Mechanical Engineering Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Mechanical-Engineering-Intern_R572728) | Redmond, Washington |
 | 2026-09-19 (30+ days) | Stryker | [Quality Engineering Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Quality-Engineering-Intern_R572886) | Flower Mound, Texas |
 | 2026-09-19 (30+ days) | Stryker | [Manufacturing Engineering Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846) | Redmond, Washington |
@@ -320,7 +317,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-19 (30+ days) | Booz Allen Hamilton | [University - Summer 27, Contracts Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249253) | McLean, VA |
 | 2026-09-19 (30+ days) | Booz Allen Hamilton | [University - Summer 27, Pricing Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Pricing-Intern_R0249254) | McLean, VA |
 | 2026-09-19 (30+ days) | Amgen | [Undergrad Intern – Finance (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Undergrad-Intern---Finance--Summer-2027-_R-254668) | United States - Remote |
-| 2026-09-19 (30+ days) | Amgen | [Undergrad intern - U.S. Value & Access (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Undergrad-intern---US-Value---Access--Summer-2027-_R-253424) | United States - Remote |
 | 2026-09-19 (30+ days) | Amgen | [Undergrad Intern - Operations – Cambridge, MA (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---Massachusetts---Cambridge/Undergrad-Intern---Operations---Cambridge--MA--Summer-2027-_R-254515) | US - Massachusetts - Cambridge |
 | 2026-09-19 (30+ days) | Amgen | [Undergrad Intern - Operations – Process Development (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Process-Development--Summer-2027-_R-254516) | US - California - Thousand Oaks |
 | 2026-09-19 (30+ days) | Adobe | [2027 Intern - Solutions Consulting Analyst](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/XMLNAME-2027-Intern---Solutions-Consulting-Analyst_R171696) | New York |
@@ -342,8 +338,8 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-14 | Figma | [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | San Francisco, CA • New York, NY |
 | 2026-09-11 | Lyft | [Data Analyst Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | New York, NY |
-| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
 | 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
+| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
 | 2026-09-09 | Amazon | [Startup Project Manager (Execution) Intern Spring and Summer 2027 (CA, CT, TX) ](https://www.amazon.jobs/en/jobs/10534584/startup-project-manager-execution-intern-spring-and-summer-2027-ca-ct-tx) | Cleburne, Texas, USA |
 | 2026-09-09 | Amazon | [Startup Project Manager (Support) Intern Spring and Summer 2027 (Bellevue, WA),  ](https://www.amazon.jobs/en/jobs/10534582/startup-project-manager-support-intern-spring-and-summer-2027-bellevue-wa) | Bellevue, Washington, USA |
 | 2026-09-08 | Datadog | [Software Engineering Intern (Summer)](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) | Boston, Massachusetts, USA; New York, New York, USA |
