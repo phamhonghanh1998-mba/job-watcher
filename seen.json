@@ -3998,6 +3998,7 @@
   "5267797007",
   "5267816007",
   "5267986007",
+  "5268157007",
   "5268176007",
   "5268178007"
  ],
@@ -4777,7 +4778,8 @@
   "5456016008",
   "5456039008",
   "5456405008",
-  "5456406008"
+  "5456406008",
+  "5456453008"
  ],
  "Applied Materials": [
   "00eaa332-f855-4963-886c-909ac78bce6d",
@@ -9032,6 +9034,7 @@
   "8000779",
   "8007032",
   "8007189",
+  "8012884",
   "8014902",
   "8015719",
   "8016162",
@@ -9815,6 +9818,7 @@
   "/job/India---Remote/Corporate-Account-Executive--Remote--IND-_R27406",
   "/job/India---Remote/Corporate-Account-Executive_R27404-1",
   "/job/India---Remote/Regional-Sales-Manager--Chennai--Remote--IND-_R30339",
+  "/job/Ireland---Dublin/Sr-Engineer---Risk-Platform--Remote--IRE-_R30346",
   "/job/Israel---Tel-Aviv-Kremenetski/Senior-Engineer---Cloud_R30260",
   "/job/Israel---Tel-Aviv/Director---Product-management_R30280",
   "/job/Israel---Tel-Aviv/Manager--Workplaces-Services_R30048",
@@ -9916,6 +9920,7 @@
   "/job/USA---Sunnyvale-CA/Sr-Windows-Sensor-Engineer_R29553",
   "/job/USA---Sunnyvale-CA/Technology-Support-Specialist_R29882",
   "/job/United-Kingdom---London/Incident-Response-Internship---Professional-Services---Summer-2027--Remote--UK-_R30403",
+  "/job/United-Kingdom---London/Professional-Services-Red-Team-Intern---Summer-2027--Remote--GBR-_R30404",
   "/job/United-Kingdom---London/Sr-Engineer---Cloud--Remote-_R24136",
   "/job/United-Kingdom---London/Sr-Engineer--Frontend---Data-Platform-Experiences--Hybrid--London-_R30313",
   "/job/United-Kingdom---Reading/Corporate-Sales-Engineer_R29922",
@@ -11067,7 +11072,9 @@
   "8874892002",
   "8876388002",
   "8876599002",
+  "8876613002",
   "8876675002",
+  "8876680002",
   "8877962002",
   "8877968002",
   "8878095002",
@@ -16460,6 +16467,7 @@
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Associate-Director-US-Oncology-Marketing--Patient-Engagement-Strategy---Individualized-Neoantigen-therapy_R422766",
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Associate-Director-US-Oncology-Payer-Market-Access_R421987-1",
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Associate-Principal-Scientist--Global-Vaccines-Chemistry--Manufacturing-and-Control_R419069",
+  "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Clinical-Systems-Implementation-Team-Lead_R422188-1",
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Director--AI---Cybersecurity-Legal_R417977",
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Director--Commercial-Operations--DCO---US-HIV---West-Region_R419875-1",
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Director--Customer-Engagement-Planning---Measurement--CEP-M-_R418857-1",
@@ -18516,6 +18524,7 @@
   "/job/Karnataka-India/Manager--Software-Engineering--ITC_R-94476",
   "/job/Karnataka-India/Principal-Technical-Product-Manager--ITC_R-94486",
   "/job/Karnataka-India/Senior-Audit---Compliance-Analyst--ITC_R-95684",
+  "/job/Karnataka-India/Senior-Data-Engineer--ITC_R-89039",
   "/job/Karnataka-India/Senior-Software-Engineer--ITC_R-95682",
   "/job/Karnataka-India/Software-Engineer--III--ITC_R-49969-1",
   "/job/Karnataka-India/Software-Engineer-I--ITC_R-86257-1",
@@ -19643,6 +19652,7 @@
   "4ef5bf23-cf0e-4b97-a639-11f963c99b88",
   "4f0d64b8-bfa7-4c30-9972-a10d74b49075",
   "4f6be73e-9a1d-4ec6-8b0e-b2af0b4becfb",
+  "502fcf97-75b2-4e54-9957-a29cee8eb1ca",
   "51977acc-b1f8-48af-bde6-95ddba936d65",
   "51b17595-3a70-43be-a333-3a3952303284",
   "51f1d6a0-2e53-4554-8abe-a100da87978b",
@@ -21815,6 +21825,7 @@
   "/job/Gurugram-Downtown-4/IN-Senior-Associate-Java--Python-Advisory-Corporate-Advisory-Bangalore_755054WD-1",
   "/job/Gurugram-Downtown-4/IN-Senior-Associate-Java-Developer-Data-and-Analytics-Advisory-Bangalore_742375WD-1",
   "/job/Gurugram-Downtown-4/IN-Senior-Associate-SAP-SD-GCC-Advisory-Gurgaon_760119WD-1",
+  "/job/Gurugram-Downtown-4/IN-Specialist-3-Internal-Audit-GCC-Advisory-Gurgaon_DB_007901-1",
   "/job/Gurugram-Downtown-4/IN-Specialist-3-Python-developer-GCC-Advisory-Gurgaon_DB_007734-1",
   "/job/Gurugram-Downtown-4/IN-Specialist-3-Python-developer-GCC-Advisory-Gurgaon_DB_007735-1",
   "/job/Gurugram-Downtown-4/IN-Specialist-Y1-Internal-Audit-Internal-audit-services-Advisory-Gurgaon_DB_007632",
@@ -22129,6 +22140,7 @@
   "/job/Prague/Senior-Data-Engineer_764154WD",
   "/job/Prague/Senior-Finance-Transformation-Consultant_766120WD",
   "/job/Prague/Senior-konzultant-pm-dan_768145WD",
+  "/job/Pune/IN-Associate--SAP-CPI-Enterprise-Apps-SAP-Advisory-Pune_728493WD-1",
   "/job/Pune/IN-Associate-IA-Internal-Audit-Services-Advisory-Mumbai_751155WD-2",
   "/job/Pune/IN-Associate-SAP-PS-SAP-Advisory-Mumbai_741719WD-2",
   "/job/Pune/IN-Manager--SAP-BW-Hana-GCC-Advisory-Hyderabad_757734WD-1",
@@ -33119,6 +33131,7 @@
   "5118252007",
   "5119845007",
   "5119847007",
+  "5122174007",
   "5122180007",
   "5122280007",
   "5124965007",
@@ -33505,6 +33518,7 @@
   "5249661007",
   "5249895007",
   "5250686007",
+  "5250690007",
   "5250694007",
   "5250700007",
   "5250702007",
@@ -34286,7 +34300,8 @@
   "CrowdStrike": {
    "/job/USA---Arlington-VA/Professional-Services-Explorer-Intern---Summer-2027--Arlington--VA-_R30155": "2026-10-02",
    "/job/USA---Austin-TX/Global-Sales-Programs-Intern--Summer-2027-_R30217": "2026-10-02",
-   "/job/United-Kingdom---London/Incident-Response-Internship---Professional-Services---Summer-2027--Remote--UK-_R30403": "2026-10-14"
+   "/job/United-Kingdom---London/Incident-Response-Internship---Professional-Services---Summer-2027--Remote--UK-_R30403": "2026-10-14",
+   "/job/United-Kingdom---London/Professional-Services-Red-Team-Intern---Summer-2027--Remote--GBR-_R30404": "2026-10-19"
   },
   "Danaher": {},
   "Databricks": {
@@ -35687,7 +35702,8 @@
   "CrowdStrike": {
    "/job/USA---Arlington-VA/Professional-Services-Explorer-Intern---Summer-2027--Arlington--VA-_R30155": false,
    "/job/USA---Austin-TX/Global-Sales-Programs-Intern--Summer-2027-_R30217": false,
-   "/job/United-Kingdom---London/Incident-Response-Internship---Professional-Services---Summer-2027--Remote--UK-_R30403": false
+   "/job/United-Kingdom---London/Incident-Response-Internship---Professional-Services---Summer-2027--Remote--UK-_R30403": false,
+   "/job/United-Kingdom---London/Professional-Services-Red-Team-Intern---Summer-2027--Remote--GBR-_R30404": false
   },
   "Databricks": {
    "6883068002": false,
