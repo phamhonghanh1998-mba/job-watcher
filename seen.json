@@ -13111,6 +13111,7 @@
   "/job/Saint-George-UT-US-1/Site-Quality-Leader--Intergalactic--St-George--UT-_R5041694-1",
   "/job/Saint-George-UT-US-1/Tooling-Engineer_R5038330-1",
   "/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Co-op---US---Spring-2027_R5040016",
+  "/job/Shanghai/Contract-Operation-Intern_R5041792",
   "/job/Singapore/Component-Repair-Technician--Production-Control-_R5041170-2",
   "/job/Singapore/Component-Repair-Technician--Welding-_R5038295-1",
   "/job/Singapore/Lead-Manufacturing-Engineer---NPI_R5039805-2",
@@ -13932,6 +13933,7 @@
   "/job/Shanghai/Visual-Inspection---Packaging-Lead_202509-124322",
   "/job/Shanghai/XMLNAME--Senior--Medical-Science-Manager--Hematology-_202608-120080",
   "/job/Shanghai/XMLNAME--Senior--Medical-Science-Manager--Immunology-_202609-124020-1",
+  "/job/Shanghai/XMLNAME--Senior--Medical-Science-Manager-LC-GI--Shanghai-_202609-124138-1",
   "/job/Shanghai/_202609-124660",
   "/job/Shanghai/_202610-125723",
   "/job/Shanghai/_202610-125761",
@@ -17171,6 +17173,8 @@
   "/job/Miaoli---Tongluo-Taiwan/PI-Engineer_JR111338-1",
   "/job/Miaoli---Tongluo-Taiwan/PI-Engineer_JR112631",
   "/job/Miaoli---Tongluo-Taiwan/PIE-PI1-MB-ESPEC-Engineer_JR111931",
+  "/job/Miaoli---Tongluo-Taiwan/RDA-Application-Engineer_JR113106",
+  "/job/Miaoli---Tongluo-Taiwan/RDA-Application-Engineer_JR113107",
   "/job/Miaoli---Tongluo-Taiwan/SR-EQUIPMENT-ENGINEER--Tongluo-_JR113841",
   "/job/Miaoli---Tongluo-Taiwan/SR-MGR--IE-LAYOUT_JR114636",
   "/job/Miaoli---Tongluo-Taiwan/Sr-Electricity-Engineer_JR112833",
@@ -17294,6 +17298,7 @@
   "/job/Sanand---303C---FacilitiesConstruction-India/Senior-Engineer-Mechanical_JR106794",
   "/job/Sanand---303C---FacilitiesConstruction-India/Sr-Engineer--Civil---Structure_JR111949",
   "/job/Sanand---303C---FacilitiesConstruction-India/Sr-Engineer--Mechanical---HVAC_JR111947",
+  "/job/Sanand---303C---FacilitiesConstruction-India/Staff-Engineer--Projects-Mechanical_JR113756",
   "/job/Sanand---303C---FacilitiesConstruction-India/Staff-Engineer-Electrical-Design_JR106798",
   "/job/Sanand---MIB---Mini-Pioneer-India/Director--India-Government---Public-Affairs_JR87184",
   "/job/Seoul-South-Korea/Staff-ESD-Latch-up-Engineer--HBM-Design-Architecture-Organization_JR114484",
@@ -21040,6 +21045,7 @@
   "/job/Lodz/Services-Intern--all-genders-_591443",
   "/job/Lodz/Sustainability-Operations-Intern--all-genders-_588795",
   "/job/Lodz/Transport-Management-Intern--all-genders-_588205",
+  "/job/Madrid/Internship--Customer-Care-Support-Intern_593156",
   "/job/Madrid/Internship--Demand-Planner-Intern_588383-1",
   "/job/Madrid/Internship--Finance-Intern_580575",
   "/job/Malvern-Pennsylvania-United-States/Global-Product-Manager--Sustaining-Hardware_589440-1",
@@ -21072,6 +21078,7 @@
   "/job/Varginha/EHS-Intern_589946",
   "/job/Varginha/Sales-Operations-Intern_589725",
   "/job/Warszawa/Customer-Care-Intern--all-genders-_589601",
+  "/job/Warszawa/Key-Account-Intern--all-genders-_592831",
   "/job/Warszawa/Marketing-Intern--all-genders-_592892"
  ],
  "Pinterest": [
@@ -26824,6 +26831,7 @@
   "d23bc607-27d8-48a9-8c12-a455b3c6a820",
   "d297d07c-eaa7-4896-946d-df2879c8cde3",
   "d37ea59f-e077-427a-9839-44cee182f1f7",
+  "d3d801b9-74a5-4e58-9d8f-1e2a79b22890",
   "d3fe6098-dd01-4be4-837d-0d958a34a9f7",
   "d576a5a4-1409-45fa-b710-db8d52041551",
   "d5aa496c-cd9b-4af0-be4d-76ed8bf38ba3",
@@ -34631,6 +34639,7 @@
    "/job/Varginha/EHS-Intern_589946": "2026-10-02",
    "/job/Varginha/Sales-Operations-Intern_589725": "2026-10-02",
    "/job/Warszawa/Customer-Care-Intern--all-genders-_589601": "2026-10-14",
+   "/job/Warszawa/Key-Account-Intern--all-genders-_592831": "2026-10-19",
    "/job/Warszawa/Marketing-Intern--all-genders-_592892": "2026-10-15"
   },
   "Pinterest": {
@@ -35974,6 +35983,7 @@
    "/job/Varginha/EHS-Intern_589946": false,
    "/job/Varginha/Sales-Operations-Intern_589725": false,
    "/job/Warszawa/Customer-Care-Intern--all-genders-_589601": false,
+   "/job/Warszawa/Key-Account-Intern--all-genders-_592831": false,
    "/job/Warszawa/Marketing-Intern--all-genders-_592892": false
   },
   "Pinterest": {
