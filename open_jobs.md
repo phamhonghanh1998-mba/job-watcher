@@ -1,6 +1,6 @@
-# Open matching jobs (392)
+# Open matching jobs (401)
 
-Updated 2026-10-20 14:32 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-20 15:13 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -116,23 +116,31 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (288)
+## Other internships (297)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
+| 2026-10-20 | RTX | [Systems Engineering Intern, Weather Radar](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Systems-Engineering-Intern--Weather-Radar_01876489) | US-FL-MELBOURNE-307 ~ 1100 W Hibiscus Blvd ~ BLDG 307 |
 | 2026-10-20 | Merck | [Internship in Process & Support Operations (12 months)](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/CHE---Lucerne---Schachen-Werthenstein/Internship-in-Process---Support-Operations--12-months-_R392847-2) | CHE - Lucerne - Schachen (Werthenstein) |
 | 2026-10-20 | Merck | [2027 Future Talent Program – Translational Sciences and Outsourcing – Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Translational-Sciences-and-Outsourcing---Intern_R413062) | USA - California - South San Francisco (Grand Ave) |
+| 2026-10-20 | Genentech | [Internship – Agentic AI for Environmental Regulatory Compliance](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819) | Basel |
 | 2026-10-20 | Genentech | [Regulatory Affairs Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Abidjan/Regulatory-Affairs-Intern_202604-109141) | Abidjan |
 | 2026-10-20 | Genentech | [Roche Next-Generation Sequencing (NGS) & Agentic AI Engineering Support Internship](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Cape-Town/Roche-Next-Generation-Sequencing--NGS----Agentic-AI-Engineering-Support-Internship_202610-126801-1) | Cape Town |
-| 2026-10-20 | Genentech | [Internship: Digital & OE Support for Performance Excellence Delivery (6 Months)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Internship--Digital---OE-Support-for-Performance-Excellence-Delivery--6-Months-_202610-126546) | Basel |
+| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/05193---New-Jersey-CVS-Pharmacy-LLC/Pharmacy-Intern_R1080952) | 05193 - New Jersey CVS Pharmacy, L.L.C. |
+| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Evesham-Township/Pharmacy-Intern_R1080950) | NJ - Evesham Township |
+| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Medford/Pharmacy-Intern_R1080948) | NJ - Medford |
+| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00837---New-Jersey-CVS-Pharmacy-LLC/Pharmacy-Intern_R1080918-1) | 00837 - New Jersey CVS Pharmacy, L.L.C. |
+| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Tabernacle/Pharmacy-Intern_R1080900) | NJ - Tabernacle |
+| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Stratford/Pharmacy-Intern_R1080878) | NJ - Stratford |
+| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Gibbsboro/Pharmacy-Intern_R1080865) | NJ - Gibbsboro |
+| 2026-10-20 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Voorhees/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1042453) | NJ - Voorhees |
+| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Voorhees/Pharmacy-Intern_R1080854) | NJ - Voorhees |
 | 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Maple-Shade/Pharmacy-Intern_R1080834) | NJ - Maple Shade |
 | 2026-10-20 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/07503---Virginia-CVS-Pharmacy-LLC/Pharmacy-Intern---Grad_R1080817) | 07503 - Virginia CVS Pharmacy, L.L.C. |
 | 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Haddon-Heights/Pharmacy-Intern_R1058122-1) | NJ - Haddon Heights |
 | 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Gloucester-City/Pharmacy-Intern_R1080793) | NJ - Gloucester City |
-| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Delran/Pharmacy-Intern_R1080779) | NJ - Delran |
-| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Haddonfield/Pharmacy-Intern_R1080769) | NJ - Haddonfield |
 | 2026-10-19 | Target | [Store Executive Intern (Store Leadership Intern) – Greater Pasadena, CA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/777-E-Colorado-Blvd-PasadenaCA-91101-2104/Store-Executive-Intern--Store-Leadership-Intern----Greater-Pasadena--CA--Starting-Summer-2027-_R0000449492) | 4 Locations |
 | 2026-10-19 | T-Mobile | [2027 Summer Human Resources & Workplace Experience Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/XMLNAME-2027-Summer-Human-Resources---Workplace-Experience-Internship_REQ375880) | 3 Locations |
 | 2026-10-19 | Scale AI | [Machine Learning Research Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | New York, NY; San Francisco, CA |
@@ -281,6 +289,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-20 (30+ days) | Stryker | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936) | Arlington, Tennessee |
 | 2026-09-20 (30+ days) | Stryker | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937) | Arlington, Tennessee |
 | 2026-09-20 (30+ days) | Stryker | [Advanced Operations Summer Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732) | Weston, Florida |
+| 2026-09-20 (30+ days) | Stryker | [R&D Operations Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768) | Salt Lake City, Utah |
 | 2026-09-20 (30+ days) | S&P Global | [Agribusiness Intern (Early Careers)](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2) | Virtual, BR |
 | 2026-09-20 (30+ days) | S&P Global | [Machine Learning Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1) | 2 Locations |
 | 2026-09-20 (30+ days) | Philips | [CMM intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Milano/CMM-intern_591022) | Milano |
@@ -334,8 +343,8 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-14 | Figma | [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | San Francisco, CA • New York, NY |
 | 2026-09-11 | Lyft | [Data Analyst Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | New York, NY |
-| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
+| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-09 | Amazon | [Startup Project Manager (Execution) Intern Spring and Summer 2027 (CA, CT, TX) ](https://www.amazon.jobs/en/jobs/10534584/startup-project-manager-execution-intern-spring-and-summer-2027-ca-ct-tx) | Cleburne, Texas, USA |
 | 2026-09-09 | Amazon | [Startup Project Manager (Support) Intern Spring and Summer 2027 (Bellevue, WA),  ](https://www.amazon.jobs/en/jobs/10534582/startup-project-manager-support-intern-spring-and-summer-2027-bellevue-wa) | Bellevue, Washington, USA |
 | 2026-09-08 | Datadog | [Software Engineering Intern (Summer)](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) | Boston, Massachusetts, USA; New York, New York, USA |

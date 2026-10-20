@@ -1,6 +1,6 @@
-# Open matching jobs (392)
+# Open matching jobs (401)
 
-Updated 2026-10-20 14:32 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-20 15:13 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -116,7 +116,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (288)
+## Other internships (297)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -246,11 +246,18 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-08 | Coinbase | [Tax Operations Intern](https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [User Research Intern](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) | Hybrid - San Francisco, CA |
 | 2026-10-19 | CrowdStrike | [Professional Services Explorer Intern - Summer 2027 (Arlington, VA)](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Professional-Services-Explorer-Intern---Summer-2027--Arlington--VA-_R30155) | USA - Arlington, VA |
+| 2026-10-20 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Voorhees/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1042453) | NJ - Voorhees |
+| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/05193---New-Jersey-CVS-Pharmacy-LLC/Pharmacy-Intern_R1080952) | 05193 - New Jersey CVS Pharmacy, L.L.C. |
+| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Evesham-Township/Pharmacy-Intern_R1080950) | NJ - Evesham Township |
+| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Medford/Pharmacy-Intern_R1080948) | NJ - Medford |
+| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/00837---New-Jersey-CVS-Pharmacy-LLC/Pharmacy-Intern_R1080918-1) | 00837 - New Jersey CVS Pharmacy, L.L.C. |
+| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Tabernacle/Pharmacy-Intern_R1080900) | NJ - Tabernacle |
+| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Stratford/Pharmacy-Intern_R1080878) | NJ - Stratford |
+| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Gibbsboro/Pharmacy-Intern_R1080865) | NJ - Gibbsboro |
+| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Voorhees/Pharmacy-Intern_R1080854) | NJ - Voorhees |
 | 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Maple-Shade/Pharmacy-Intern_R1080834) | NJ - Maple Shade |
 | 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Haddon-Heights/Pharmacy-Intern_R1058122-1) | NJ - Haddon Heights |
 | 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Gloucester-City/Pharmacy-Intern_R1080793) | NJ - Gloucester City |
-| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Delran/Pharmacy-Intern_R1080779) | NJ - Delran |
-| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NJ---Haddonfield/Pharmacy-Intern_R1080769) | NJ - Haddonfield |
 | 2026-10-20 | CVS Health | [Pharmacy Intern - Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/07503---Virginia-CVS-Pharmacy-LLC/Pharmacy-Intern---Grad_R1080817) | 07503 - Virginia CVS Pharmacy, L.L.C. |
 | 2026-10-09 | Databricks | [Product Design Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002) | San Francisco, California; Seattle, Washington |
 | 2023-08-17 | Databricks | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
@@ -265,7 +272,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-14 | Figma | [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | San Francisco, CA • New York, NY |
 | 2026-10-19 | GE Aerospace | [Site Security Operations Intern](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Queretaro/Security-Intern_R5040750) | Queretaro |
 | 2026-10-19 | GE HealthCare | [HR Intern](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Monterrey/HR-Intern_R4047087-1) | Monterrey |
-| 2026-10-20 | Genentech | [Internship: Digital & OE Support for Performance Excellence Delivery (6 Months)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Internship--Digital---OE-Support-for-Performance-Excellence-Delivery--6-Months-_202610-126546) | Basel |
+| 2026-10-20 | Genentech | [Internship – Agentic AI for Environmental Regulatory Compliance](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819) | Basel |
 | 2026-10-20 | Genentech | [Regulatory Affairs Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Abidjan/Regulatory-Affairs-Intern_202604-109141) | Abidjan |
 | 2026-10-20 | Genentech | [Roche Next-Generation Sequencing (NGS) & Agentic AI Engineering Support Internship](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Cape-Town/Roche-Next-Generation-Sequencing--NGS----Agentic-AI-Engineering-Support-Internship_202610-126801-1) | Cape Town |
 | 2026-10-13 | Gusto | [Finance Intern (Summer 2027)](https://job-boards.greenhouse.io/gusto/jobs/8257115) | New York, NY - Hybrid |
@@ -296,8 +303,8 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-08 | Intel | [Operations Research Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/PRC-Shanghai/Operations-Research-Engineer-Intern_JR0286945) | 2 Locations |
 | 2026-09-20 (30+ days) | Kraft Heinz | [Operations Intern](https://heinz.wd1.myworkdayjobs.com/en-US/KraftHeinz_Careers/job/Operations-Intern_R-53383) |  |
 | 2026-09-11 | Lyft | [Data Analyst Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | New York, NY |
-| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
+| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-25 | Medtronic | [Associate Clinical Experience (ACE) Intern – Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1) | 50 Locations |
 | 2026-09-21 | Medtronic | [Clinical Technologist Intern - Cardiovascular](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958) | 4 Locations |
 | 2026-09-20 (30+ days) | Medtronic | [Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309) | 15 Locations |
@@ -364,6 +371,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-14 | Robinhood | [Fraud Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241) | Denver, CO |
 | 2026-09-02 | Roblox | [[Summer 2027] Product Design Intern](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) | San Mateo, CA, United States |
 | 2026-09-02 | Roblox | [[Summer 2027] Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA, United States |
+| 2026-10-20 | RTX | [Systems Engineering Intern, Weather Radar](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Systems-Engineering-Intern--Weather-Radar_01876489) | US-FL-MELBOURNE-307 ~ 1100 W Hibiscus Blvd ~ BLDG 307 |
 | 2026-09-20 (30+ days) | S&P Global | [Agribusiness Intern (Early Careers)](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2) | Virtual, BR |
 | 2026-09-20 (30+ days) | S&P Global | [Machine Learning Engineer - Summer Intern 2027](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1) | 2 Locations |
 | 2026-09-23 | S&P Global | [Ratings Analytical Intern - Americas](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Ratings-Analytical-Intern---Americas_331833-1) | New York, NY |
@@ -388,6 +396,7 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-20 (30+ days) | Stryker | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936) | Arlington, Tennessee |
 | 2026-09-20 (30+ days) | Stryker | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937) | Arlington, Tennessee |
 | 2026-09-20 (30+ days) | Stryker | [R&D Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fremont-California/R-D-Intern_R572862) | Fremont, California |
+| 2026-09-20 (30+ days) | Stryker | [R&D Operations Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768) | Salt Lake City, Utah |
 | 2026-09-20 (30+ days) | Synchrony | [BLP Intern – Sales](https://synchronyfinancial.wd5.myworkdayjobs.com/en-US/careers/job/Stamford-Hub/BLP-Intern---Sales_2601694) | Stamford Hub |
 | 2026-10-19 | T-Mobile | [2027 Summer Human Resources & Workplace Experience Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/XMLNAME-2027-Summer-Human-Resources---Workplace-Experience-Internship_REQ375880) | 3 Locations |
 | 2026-10-15 | T-Mobile | [Summer 2027 Software Engineering Intern](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322) | Bellevue, Washington |
