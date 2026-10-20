@@ -4058,7 +4058,10 @@
   "5268883007",
   "5268886007",
   "5268991007",
-  "5269031007"
+  "5269031007",
+  "5269048007",
+  "5269054007",
+  "5269058007"
  ],
  "Anthropic": [
   "4017331008",
@@ -5871,6 +5874,7 @@
   "5427855008",
   "5427880008",
   "5428149008",
+  "5428171008",
   "5428275008",
   "5428281008",
   "5428287008",
@@ -6613,6 +6617,7 @@
   "/job/USA-CA-Remote-Location/Marketing-Operations-Manager_R026976",
   "/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Chip-Lead_R027095",
   "/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Implementation-Engineer-PD_R026204",
+  "/job/USA-CA-San-Jose-Innovation-Drive/ASIC-Package-Design-Engineer_R027439",
   "/job/USA-CA-San-Jose-Innovation-Drive/Emulation-Engineer_R027117",
   "/job/USA-CA-San-Jose-Innovation-Drive/Package-Design-Engineer_R026631",
   "/job/USA-CA-San-Jose-Innovation-Drive/Platforms---Lab-Operations-engineer_R027354",
@@ -8570,6 +8575,7 @@
   "/job/McLean-VA/Sr-Product-Manager-GRCx_R247779-1",
   "/job/McLean-VA/Sr-Staff-Data-Engineer--Remote--Eligible-_R1002715-1",
   "/job/McLean-VA/Staff-Engineer_R1002714-1",
+  "/job/McLean-VA/Staff-Full-Stack-Engineer_R1003999-1",
   "/job/McLean-VA/Staff-Full-stack-Engineer---Global-Payment-Network_R1003079-1",
   "/job/McLean-VA/Staff-Full-stack-Engineer--Remote-Eligible----Global-Payment-Network_R1002390-2",
   "/job/McLean-VA/iOS-Mobile-Engineer-4_R1002627-2",
@@ -17417,6 +17423,7 @@
   "/job/Fab-10NX-Singapore/Operational-Excellence---TPM-Engineer---Global-Facilities-Standardization_JR102850",
   "/job/Fab-10NX-Singapore/PRINCIPAL-ENGINEER--NAND-PI_JR103251",
   "/job/Fab-10NX-Singapore/PROBE-Equipment-Technician_JR114775",
+  "/job/Fab-10NX-Singapore/Physical-Security-Specialist_JR114964",
   "/job/Fab-10NX-Singapore/Principal-Engineer---CMP-Advanced-NAND_JR113570",
   "/job/Fab-10NX-Singapore/Principal-Engineer---PD-Adv-Dry-Etch_JR113887",
   "/job/Fab-10NX-Singapore/Principal-Engineer--PD-Adv-NAND-Cell-Film_JR113556",
@@ -17433,6 +17440,7 @@
   "/job/Fab-10NX-Singapore/SR-ENGINEER-CVD-ADV-NAND-PD_JR112060-1",
   "/job/Fab-10NX-Singapore/STAFF-ENGINEER---CVD-ADV-NAND-PD_JR111529",
   "/job/Fab-10NX-Singapore/STPG-Product-Engineering-Industrial-Engineer_JR114522",
+  "/job/Fab-10NX-Singapore/Security-Specialist---Physical-Security-Technology_JR113468",
   "/job/Fab-10NX-Singapore/Senior-Eng-Engineer--Global-Front-End-Planning-SG-Satellite-Scenario-and-Capital_JR113913",
   "/job/Fab-10NX-Singapore/Senior-Engineer---Process-Development--Thin-Films--CVD-Diffusion--NAND_JR107414-1",
   "/job/Fab-10NX-Singapore/Senior-Engineer--Adv-PD-Photolithography_JR113562",
@@ -17619,6 +17627,7 @@
   "/job/Longmont-MAX--Office-CO/Sr-Engineer--FW---Product-Test-Eng_JR108951",
   "/job/Longmont-MAX--Office-CO/Staff-Validation-Engineer_JR114330",
   "/job/MIL---Israel-Hadera---Home/AI-Engineering-Manager--Infrastructure-and-Security-team----remote-Tel-Aviv-office_JR110492",
+  "/job/MSA---ARC-Wework---Office/PRINCIPAL-GSM--SATPRO-GLOBAL-CAPITAL_JR110271",
   "/job/MSB-Singapore/Director--ATTP-Inventory----Central-NPM_JR111530",
   "/job/MSB-Singapore/ENGINEER--NAND-SILICON-DESIGN-VALIDATION_JR104738",
   "/job/MSB-Singapore/Engineer--GQ-OPS-REL-PROCESS_JR104842",
@@ -17640,6 +17649,7 @@
   "/job/MSB-Singapore/Senior-Engineer--STPG-PE-NAND_JR113739",
   "/job/MSB-Singapore/Senior-Product-Owner--SMAI_JR114803",
   "/job/MSB-Singapore/Senior-Staff-Engineer---STPG-PE-SYSTEM_JR113606",
+  "/job/MSB-Singapore/Staff-Logistics-Analyst_JR115001",
   "/job/MSB-Singapore/Staff-Principal-Business-Analyst_JR110918",
   "/job/MSB-Singapore/Staff-Principal-PDE-APACT--Adv-Pkg---Central-Team--Prog-Ops-Engineer_JR112111",
   "/job/MSB-Singapore/Technician--Metrology---RealTime-Defects-Analysis--MRDA-_JR114253",
@@ -20904,6 +20914,7 @@
   "0a0d2db2-75a5-48e4-b0a0-81baa6588e36",
   "0a838e66-1ab0-4fc4-b4d3-4671c0352278",
   "0edf7365-49f0-4263-818a-19409ec4f430",
+  "0f7d1e01-1f74-4786-944d-910208d390fa",
   "0fccbe95-2520-4df3-8600-7897656c06a2",
   "10dfc8bc-99ad-4ca2-ab76-853cb90a92c2",
   "1124402c-2088-40c6-b6aa-b9ef7777519b",
@@ -20984,6 +20995,7 @@
   "3d0d9d92-0321-4459-a17d-fa1a76636a43",
   "3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
   "3e53ec44-d8f3-4b0b-b77f-c481e9cd06fd",
+  "3e59369e-1392-42f2-8d03-86648e87e963",
   "3f662628-2877-42fb-8866-a2b709de17ca",
   "4056c8f6-0e6a-43f7-b387-4a97bd3dbb19",
   "40d0499b-e2ec-42cc-8a19-c454ed510195",
@@ -22915,6 +22927,7 @@
   "/job/Warszawa/Workday-Extend-Developer_718790WD",
   "/job/Warszawa/Working-Capital-and-Liquidity-Manager----CEE-Treasury-Team_767125WD",
   "/job/Waterloo/Financial-Reporting---Tax-Compliance--Manager_766182WD",
+  "/job/Wellington---NZL/Finance--Economics-and-Analytics---Senior-Analyst_768839WD",
   "/job/Wien---Donau-City-Strae-7/Controller-in--w-m-d-_759505WD",
   "/job/Wien---Donau-City-Strae-7/IT-Netzwerktechniker-in-mit-Schwerpunkt-Medientechnik_738549WD",
   "/job/Wien---Donau-City-Strae-7/Manager--w-m-d--in-der-Unternehmensberatung--Bereich-Digitalisierung-Enterprise-Architecture_681392WD-1",
@@ -24296,6 +24309,7 @@
   "/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/LADS-RLPM-Digital-Transformation-PM_01881916",
   "/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/Life-Cycle-Engineer-I--Onsite_01876940",
   "/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/Material-Program-Manager---Global-Patriot---Tewksbury-or-Andover--MA_01881057-1",
+  "/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/NSPA---Patriot-Ground-Program-Integrator_01882908",
   "/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/Talent-Strategy---Development--CORE----Communications-Lead_01883005",
   "/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Operations-Analyst_01880882",
   "/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Program-Management-Manager_01871318",
@@ -25623,6 +25637,7 @@
   "/job/Hyderabad-Telangana/Apprentice_329143-1",
   "/job/Hyderabad-Telangana/IT-Lead--Internal-Audit_331586-1",
   "/job/Hyderabad-Telangana/Sr-Data-Researcher-I--Data-Content-Management_332199-2",
+  "/job/London-UK/Associate-Director--Sales-Specialist_332236",
   "/job/London-UK/Exclusive-S-P-Global-Ratings-Early-Careers-Networking-Event_331511-1",
   "/job/London-UK/Intern-Research-Analyst--European-LNG_331032-1",
   "/job/London-UK/Market-Intelligence-Revenue-Associate-Internship_331786-1",
@@ -27072,6 +27087,7 @@
  ],
  "Smartsheet": [
   "3426405",
+  "3694512",
   "4732518",
   "4923056",
   "5118912",
@@ -32010,6 +32026,7 @@
   "/job/Overland-Park-Kansas/Senior-Analyst--MSC-Record-to-Report--Internal-Use-Software_REQ375014-1",
   "/job/Overland-Park-Kansas/Sr-Analysts--Credit-Risk-Mgmt_REQ371824",
   "/job/Overland-Park-Kansas/Sr-Manager--Fiber-Market-Development---JV-Partnerships_REQ376132",
+  "/job/Overland-Park-Kansas/XMLNAME-2027-Summer-Human-Resources---Workplace-Experience-Internship_REQ375880",
   "/job/Ponce-Puerto-Rico/P-Mobile-Associate---Retail-Sales_REQ377758",
   "/job/Ponce-Puerto-Rico/P-Mobile-Associate---Retail-Sales_REQ377776-1",
   "/job/Remote-Massachusetts/Principal-Client-Partner--Enterprise-Sales---New-England_REQ360757",
@@ -32691,7 +32708,8 @@
   "8301834",
   "8301851",
   "8301866",
-  "8301875"
+  "8301875",
+  "8302422"
  ],
  "Twilio": [
   "6372770",
@@ -32978,6 +32996,7 @@
   "/job/AE---Dubai-United-Arab-Emirates/Sr-Marketing-Manager_REF089155W",
   "/job/AU---Melbourne-Australia/Manager---Account-Executive---Personal-Bank-Enablement_REF088373W-1",
   "/job/AU---Melbourne-Australia/Senior-Manager--Expense-Management--CMS----Melbourne-or-Sydney_REF087916W",
+  "/job/AU---Sydney-Australia/Senior-Manager---Business-Development_REF089589W",
   "/job/BD---Dhaka-Bangladesh/Manager_REF087352W",
   "/job/BR---Brasilia-Brazil/Sr-Manager--Visa-Consulting-and-Analytics--VCA---Digital-Practice_REF088934W",
   "/job/BR---Remote---Brazil/Senior-Red-Team-Analyst_REF088302W",
@@ -33317,6 +33336,7 @@
   "/job/US---Miami-FL/Senior-Manager--Consumer-Payments-Marketing---Debit--Next-Gen--eCommerce---New-Digital-Payments_REF089219W",
   "/job/US---Miami-FL/Sr-Consultant-Acceptance-Network-Solutions_REF088709W",
   "/job/US---Miami-FL/Sr-Manager--Entertainment---Lifestyle_REF089217W",
+  "/job/US---Miami-FL/Sr-Manager--SMB-Product---Benefits-Strategy_REF089602W",
   "/job/US---Miami-FL/Sr-Marketing-Manager_REF089378W",
   "/job/US---New-York-NY/Analyst--US-Merchant-Partnerships--Services-Vertical_REF089226W",
   "/job/US---New-York-NY/Analyst--US-Merchant-Partnerships--Travel-Vertical_REF089227W",
@@ -35961,7 +35981,8 @@
    "/job/Stamford-Hub/BLP-Intern---Sales_2601694": "2026-10-02"
   },
   "T-Mobile": {
-   "/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322": "2026-10-15"
+   "/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322": "2026-10-15",
+   "/job/Overland-Park-Kansas/XMLNAME-2027-Summer-Human-Resources---Workplace-Experience-Internship_REQ375880": "2026-10-20"
   },
   "Target": {
    "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Inventory-Analyst-Intern---Minneapolis--MN--Starting-Summer--2027-_R0000450965": "2026-10-02",
@@ -37394,7 +37415,8 @@
    "/job/Stamford-Hub/BLP-Intern---Sales_2601694": false
   },
   "T-Mobile": {
-   "/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322": false
+   "/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322": false,
+   "/job/Overland-Park-Kansas/XMLNAME-2027-Summer-Human-Resources---Workplace-Experience-Internship_REQ375880": false
   },
   "Target": {
    "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Inventory-Analyst-Intern---Minneapolis--MN--Starting-Summer--2027-_R0000450965": false,
