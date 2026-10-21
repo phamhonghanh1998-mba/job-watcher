@@ -2689,6 +2689,7 @@
   "5218065007",
   "5218190007",
   "5218194007",
+  "5218287007",
   "5218289007",
   "5218291007",
   "5218586007",
@@ -7214,6 +7215,7 @@
   "/job/CT---Hartford/VP--Medicaid---Aetna-Technology_R0903838",
   "/job/CT---Waterbury/Float-Medical-Scribe---Connecticut_R1069405",
   "/job/CT---Work-from-home/Appeals-Nurse-Consultant--Remote-_R1031953",
+  "/job/CT---Work-from-home/Appeals-Nurse-Consultant--Remote-_R1032659",
   "/job/CT---Work-from-home/Employee-Assistance-Program-Clinical-Counselor_R1047053-1",
   "/job/CT---Work-from-home/Executive-Director--Enterprise-Strategy_R1066551",
   "/job/CT---Work-from-home/Lead-Director--Agile-Practice-Management_R1063951",
@@ -7452,6 +7454,7 @@
   "/job/IL---Rockford/Case-Management-Coordinator---Field--Winnebago--Boone-and-Jo-Daviess-Counties--IL--_R1039575",
   "/job/IL---Rockford/Case-Management-Coordinator---Field--Winnebago--Boone-and-Jo-Daviess-Counties--IL-_R1068833",
   "/job/IL---Rockford/Pharmacy-Intern_R1012353",
+  "/job/IL---Rockford/Pharmacy-Intern_R1082886",
   "/job/IL---Tinley-Park/Case-Management-Coordinator---Field-Illinois--Will--Kankakee-and-Grundy-Counties--_R1039552",
   "/job/IL---Waukegan/Medical-Scribe--Spanish-Bilingual-_R1026731",
   "/job/IL---Work-from-home/Analyst---Medicaid-Network-Operations_R0990859",
@@ -7508,6 +7511,7 @@
   "/job/IN---Indianapolis/Primary-Care-Physician_R1051652",
   "/job/IN---Lafayette/Pharmacy-Intern_R1062787",
   "/job/IN---Lafayette/Pharmacy-Intern_R1063124",
+  "/job/IN---Lafayette/Pharmacy-Intern_R1082907-1",
   "/job/IN---West-Lafayette/Pharmacy-Intern_R1064402",
   "/job/IN---Work-from-home/Customer-Service-Representative_R1012363",
   "/job/IN---Work-from-home/Employee-Assistance-Program-Work-life-Customer-Support-Associate_R1041152",
@@ -7604,6 +7608,7 @@
   "/job/MA---Wellesley/Sr-Mgr--Research-Programs-and-Governance_R1061110-1",
   "/job/MA---Wellesley/Strategic-Account-Manager---CVS-Media-Exchange--CMX-_R1077686",
   "/job/MA---Wellesley/Strategic-Account-Manager---CVS-Media-Exchange-CMX-_R0907966",
+  "/job/MA---Work-from-home/Appeals-Nurse-Consultant--Remote-_R1047065",
   "/job/MA---Work-from-home/Director-Product-Management---Health-Data-Interoperability_R1022539",
   "/job/MA---Work-from-home/Lead-Director--Corporate-Communications--Pharmacy-Services_R1041091",
   "/job/MA---Work-from-home/Lead-Director--Digital-Product---Admission-Prevention_R1050201",
@@ -9501,6 +9506,7 @@
   "8875914002",
   "8877396002",
   "8879659002",
+  "8879740002",
   "8881989002",
   "8882463002",
   "8892857002",
@@ -13222,7 +13228,8 @@
   "8305750",
   "8305939",
   "8306624",
-  "8306636"
+  "8306636",
+  "8310956"
  ],
  "Dropbox": [
   "6330377",
@@ -14989,6 +14996,7 @@
   "/job/San-Diego/Field-Engineering-Specialist---San-Diego--CA_202608-121219-1",
   "/job/San-Jose-Costa-Rica/Analytics---Intelligence---Lead-Analyst_202609-123679-1",
   "/job/San-Jose-Costa-Rica/Content-Review-Operations-Coordinator_202609-123348",
+  "/job/San-Jose-Costa-Rica/Content-Review-Operations-Specialist_202610-127168",
   "/job/San-Jose-Costa-Rica/Diagnostics-Regulatory-Project-Manager_202610-125012",
   "/job/San-Jose-Costa-Rica/Employee-Experience-Senior-IT-Specialist_202609-124867-1",
   "/job/San-Jose-Costa-Rica/HTA-Specialist_202609-124004",
@@ -17638,6 +17646,7 @@
   "/job/USA---California---South-San-Francisco-Grand-Ave/Scientist--Clinical-Services_R421432-2",
   "/job/USA---California---South-San-Francisco-Grand-Ave/Senior-Director--Pharmacokinetics_R409670-1",
   "/job/USA---California---South-San-Francisco-Grand-Ave/Senior-Principal-Scientist--Pharmacokinetics_R410391-1",
+  "/job/USA---California---South-San-Francisco-Grand-Ave/Senior-Scientist--Molecular-Interactions_R423153-2",
   "/job/USA---California---South-San-Francisco-Grand-Ave/Senior-Scientist--Respiratory-Biology--Discovery-Research-_R407396",
   "/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Drug-Metabolism-and-Pharmacokinetics---Co-op_R412928",
   "/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Translational-Sciences-and-Outsourcing---Intern_R413062",
@@ -26549,7 +26558,8 @@
   "8302227",
   "8303790",
   "8303798",
-  "8304463"
+  "8304463",
+  "8311209"
  ],
  "Remitly": [
   "/job/Abu-Dhabi-United-Arab-Emirates/Lead-Auditor--UAE_R_106785",
@@ -35052,6 +35062,7 @@
   "/job/US---Ashburn-VA/Staff-Network-Engineer_REF085289W",
   "/job/US---Atlanta-GA/Analyst--Global-Social-Impact-Programs_REF089398W",
   "/job/US---Atlanta-GA/Analyst--Payment-Ecosystem-Risk---Compliance_REF088672W",
+  "/job/US---Atlanta-GA/Client-Care---Elite-Care-Consultant_REF088103W-1",
   "/job/US---Atlanta-GA/Consulting-Senior-Manager--VIS---Technology_REF088985W",
   "/job/US---Atlanta-GA/Counsel--Global-Regulatory-Affairs_REF088308W",
   "/job/US---Atlanta-GA/Digital-Sales-Representative_REF089387W",
@@ -35242,7 +35253,8 @@
   "3743990016229285",
   "3743990016229455",
   "3743990016242696",
-  "3743990016281036"
+  "3743990016281036",
+  "3743990016321096"
  ],
  "Wayfair": [],
  "Waymo": [
@@ -36343,6 +36355,7 @@
   "5268023007",
   "5268702007",
   "5269992007",
+  "5270703007",
   "5270709007"
  ],
  "_first_seen": {
@@ -36757,8 +36770,10 @@
    "/job/IL---Chicago/Pharmacy-Intern_R1073193": "2026-10-12",
    "/job/IL---Chicago/Pharmacy-Intern_R1082833-1": "2026-10-21",
    "/job/IL---Rockford/Pharmacy-Intern_R1012353": "2026-10-12",
+   "/job/IL---Rockford/Pharmacy-Intern_R1082886": "2026-10-21",
    "/job/IN---Crown-Point/Pharmacy-Intern_R1065837": "2026-10-05",
    "/job/IN---Lafayette/Pharmacy-Intern_R1063124": "2026-10-02",
+   "/job/IN---Lafayette/Pharmacy-Intern_R1082907-1": "2026-10-21",
    "/job/IN---West-Lafayette/Pharmacy-Intern_R1064402": "2026-10-02",
    "/job/KS---Derby/Pharmacy-Intern_R1079503": "2026-10-19",
    "/job/KS---Junction-City/Pharmacy-Intern_R1079528": "2026-10-19",
@@ -38422,8 +38437,10 @@
    "/job/IL---Chicago/Pharmacy-Intern_R1073193": false,
    "/job/IL---Chicago/Pharmacy-Intern_R1082833-1": false,
    "/job/IL---Rockford/Pharmacy-Intern_R1012353": false,
+   "/job/IL---Rockford/Pharmacy-Intern_R1082886": false,
    "/job/IN---Crown-Point/Pharmacy-Intern_R1065837": false,
    "/job/IN---Lafayette/Pharmacy-Intern_R1063124": false,
+   "/job/IN---Lafayette/Pharmacy-Intern_R1082907-1": false,
    "/job/IN---West-Lafayette/Pharmacy-Intern_R1064402": false,
    "/job/KS---Derby/Pharmacy-Intern_R1079503": false,
    "/job/KS---Junction-City/Pharmacy-Intern_R1079528": false,
