@@ -572,7 +572,9 @@
   "8033589003",
   "8034649003",
   "8034651003",
-  "8034821003"
+  "8034821003",
+  "8037635003",
+  "8039471003"
  ],
  "Airbnb": [
   "6757302",
@@ -4194,7 +4196,14 @@
   "5271285007",
   "5271608007",
   "5271609007",
-  "5271672007"
+  "5271672007",
+  "5271686007",
+  "5271811007",
+  "5271821007",
+  "5271824007",
+  "5271825007",
+  "5271826007",
+  "5271842007"
  ],
  "Anthropic": [
   "4017331008",
@@ -6450,6 +6459,7 @@
   "8241313",
   "8241768",
   "8245697",
+  "8248145",
   "8250406",
   "8256310",
   "8256440",
@@ -6801,7 +6811,9 @@
   "8904121002",
   "8907499002",
   "8907553002",
-  "8907563002"
+  "8907563002",
+  "8907584002",
+  "8907623002"
  ],
  "Broadcom": [
   "/job/BGR-Sofia-Garitage-Park---Bldg-2/PD-engineer_R027051",
@@ -7417,6 +7429,7 @@
   "/job/IL---Chicago/Medical-Scribe_R1069494",
   "/job/IL---Chicago/Pharmacy-Intern_R1072715",
   "/job/IL---Chicago/Pharmacy-Intern_R1073193",
+  "/job/IL---Chicago/Pharmacy-Intern_R1082833-1",
   "/job/IL---Cicero/Care-Manager-Registered-Nurse---Field--Westside-Chicago-_R1039600",
   "/job/IL---Cicero/Float-Medical-Scribe--Bilingual-Spanish_R1055563",
   "/job/IL---Des-Plaines/Care-Manager-Registered-Nurse---Field--Chicago-Northwest-Side-_R1039606",
@@ -7715,6 +7728,7 @@
   "/job/ND---Work-from-home/Clinical-Claims-Review-Nurse_R1039578",
   "/job/ND---Work-from-home/Clinical-Claims-Review-Nurse_R1040898",
   "/job/ND---Work-from-home/Medical-Claim-Analyst_R1071218",
+  "/job/ND---Work-from-home/Medical-Claims-Analyst_R1071060",
   "/job/NE---Lincoln/Pharmacy-Intern_R1063723",
   "/job/NE---Lincoln/Pharmacy-Intern_R1063759-1",
   "/job/NE---Omaha/Pharmacy-Intern_R1063739-1",
@@ -8214,6 +8228,7 @@
   "/job/SC---Charleston/Pharmacy-Intern---Grad_R1074301",
   "/job/SC---Greenville/Medical-Scribe_R1076550",
   "/job/SC---Greenville/Nurse-Practitioner--Advanced-Practice-Provider_R1015799-1",
+  "/job/SC---Lake-City/Pharmacy-Intern_R1080011",
   "/job/SC---Santee/Pharmacy-Intern---Grad_R1080204-1",
   "/job/SC---Spartanburg/Delivery-Driver-Full-Time_R1052245",
   "/job/SC---Spartanburg/Delivery-Driver-and-Customer-Service-Representative_R1039817-1",
@@ -15397,8 +15412,10 @@
   "6230229004"
  ],
  "Hewlett Packard Enterprise": [
+  "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Intermediate-Supply-Planner_1216922-3",
   "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Intermediate-Supply-Planner_1216931-2",
   "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1",
+  "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Supply-Planner_1216908-3",
   "/job/Aguadilla-Puerto-Rico/Intermediate-Supply-Planner_1216931-2",
   "/job/Aguadilla-Puerto-Rico/Supply-Planner_1216915-5",
   "/job/Barcelona-Barcelona-Spain/WW-Instant-On-RTM-Sales-Program-Manager--HPE-Networking_1201966-2",
@@ -18171,6 +18188,7 @@
   "/job/Boise-ID---Main-Site/Intern---SSD-Architecture-Modeling_JR113803",
   "/job/Boise-ID---Main-Site/Intern---SSD-Firmware_JR115210",
   "/job/Boise-ID---Main-Site/Internal-Recruiter--Contract-_JR112388",
+  "/job/Boise-ID---Main-Site/Manager--Supply-Chain-Planning-Intelligence_JR103443",
   "/job/Boise-ID---Main-Site/Manufacturing-Process-Engineer_JR114940",
   "/job/Boise-ID---Main-Site/Market-Intelligence-Manager_JR114678",
   "/job/Boise-ID---Main-Site/Materials-Supervisor_JR112367",
@@ -18687,6 +18705,7 @@
   "/job/Manassas-VA----Fab-6/Sr-Dry-Etch-Equipment-Engineer_JR93934",
   "/job/Manassas-VA----Fab-6/Sr-Facilities-Gas-Engineer_JR88224",
   "/job/Manassas-VA----Fab-6/Superintendent_JR111590",
+  "/job/Manassas-VA----Fab-6/Thin-Films-Equipment-Engineer_JR115599",
   "/job/Miaoli---Tongluo-Taiwan/Banyan-ChemLab-SR-Engineer_JR104959",
   "/job/Miaoli---Tongluo-Taiwan/ENGINEER--OMT-RAM-METRO-OPERATION_JR113130",
   "/job/Miaoli---Tongluo-Taiwan/Engineer--IE-AMHS_JR113063",
@@ -18715,6 +18734,7 @@
   "/job/Munich-MDC-Germany/CAD-Engineer---Electronic-Design---Munich--m-f-d-_JR113542",
   "/job/Munich-MDC-Germany/Principal-CAD---Munich_JR114433",
   "/job/Munich-MDC-Germany/Senior-Staff-CAD-Engineer----Munich--m-f-d-_JR114431",
+  "/job/Novi-MI/Senior-Systems-Design-Engineer_JR115604",
   "/job/Penang-Malaysia---Grande/Accountant-II---Accounts-Payable_JR114520",
   "/job/Penang-Malaysia---Grande/CTO-Test-Equipment-Technician_JR111480",
   "/job/Penang-Malaysia---Grande/Engineer--NVM-QRA_JR114365",
@@ -20118,6 +20138,7 @@
   "/job/Beaverton-Oregon/Senior-Auditor--Global-Audit-and-Risk-Management_R-89190",
   "/job/Beaverton-Oregon/Senior-Auditor--Global-Audit-and-Risk-Management_R-95120",
   "/job/Beaverton-Oregon/Senior-Data-Modeler---MAC-BI--Activity-Intelligence_R-91806",
+  "/job/Beaverton-Oregon/Senior-Designer--Field-Sports-Footwear-Graphic-Design_R-89248",
   "/job/Beaverton-Oregon/Senior-Digital-Designer--Systems_R-94956",
   "/job/Beaverton-Oregon/Senior-Director--Sport-Brand-Marketing-NA_R-95026-1",
   "/job/Beaverton-Oregon/Senior-Expert--Brand-Initiatives-Brand-Marketing-NA_R-90261",
@@ -20980,7 +21001,8 @@
   "8305257",
   "8305392",
   "8305423",
-  "8306330"
+  "8306330",
+  "8311034"
  ],
  "Oliver Wyman": [
   "/job/Atlanta---Lenox/Pharmacy-Audit-Lead-Consultant_R_360737",
@@ -23334,6 +23356,7 @@
   "/job/Barueri/Analista-de-GRC-e-Auditoria-Interna--Senior-Associate-2_765310WD-1",
   "/job/Barueri/Analista-de-Governana-de-Dados-Pleno---Associate-2--tag01-_753073WD",
   "/job/Barueri/Analista-de-PMO---Senior-Associate_762329WD",
+  "/job/Barueri/Analista-de-Segurana-Ciberntica--OT----Senior-Associate-2--tag01-_681707WD",
   "/job/Barueri/Assistente-de-Impostos-Indiretos---Associate_759246WD-1",
   "/job/Barueri/Consultor-Cyber-Security--Senior-Associate-2--tag01-_681702WD",
   "/job/Barueri/XMLNAME---Associate--tag01-_760546WD-1",
@@ -24295,6 +24318,7 @@
   "/job/TX-Dallas/Dallas---Audit---Associate---Winter-2027_52926142EIB-1",
   "/job/TX-Houston/Houston---Audit---Associate---Winter-2027_764772WD",
   "/job/UT-Salt-Lake-City/Salt-Lake-City---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_764775WD",
+  "/job/VT-Montpelier/Montpelier---Audit---Associate---Summer-Fall-2027_52926209EIB-1",
   "/job/WA-Seattle/Seattle---Audit---Associate---Winter-2027_764785WD"
  ],
  "Qualtrics": [
@@ -24837,6 +24861,7 @@
   "/job/US-AZ-TUCSON-807A--1151-E-Hermans-Rd--BLDG-807A/Section-Lead-Thermal-Analysis_01878534",
   "/job/US-AZ-TUCSON-807A--1151-E-Hermans-Rd--BLDG-807A/Shipboard-Missiles-Critical-Munitions-Associate-Director_01876787",
   "/job/US-AZ-TUCSON-807A--1151-E-Hermans-Rd--BLDG-807A/Software-Quality-Engineer_01882495",
+  "/job/US-AZ-TUCSON-807A--1151-E-Hermans-Rd--BLDG-807A/Thermal-Analysis-Section-Leader_01878528",
   "/job/US-AZ-TUCSON-808--1151-E-Hermans-Rd--BLDG-808/Principal-Project-Engineer--Offensive-Systems-Engineering--OSE--Program-Manager--Onsite-_01881469",
   "/job/US-AZ-TUCSON-808--1151-E-Hermans-Rd--BLDG-808/Principle-Specialist--Material-Program-Manager_01879751",
   "/job/US-AZ-TUCSON-808--1151-E-Hermans-Rd--BLDG-808/Program-Planner-II---Onsite_01851575",
@@ -24892,9 +24917,12 @@
   "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-I--Onsite-_01874328",
   "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-II--Onsite-_01874326",
   "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Mechanical-Engineer-Intern--2027-Summer-_01874513",
+  "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Program-Supplier-Quality-Engineer---Hybrid-from-Tucson--AZ_01883697",
   "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Program-Supplier-Quality-Engineer_01881257",
   "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Senior-Analyst--COMSEC-Special-Programs----Tucson--AZ_01876961",
+  "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Senior-Analyst--Contracts--Onsite-_01881715",
   "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Senior-Principal-Lead-Systems-Engineer--Onsite-_01880154",
+  "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Sr-Principal-Mechanical-Engineer--High-Temp-Materials_01869951",
   "/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/System-Administrators-Apprentices---Must-be-a-Arizona-resident_01878067",
   "/job/US-AZ-TUCSON-930--1151-E-Hermans-Rd--ETF-930/Principal-Environmental-Test-Engineer_01877704",
   "/job/US-AZ-TUCSON-930--1151-E-Hermans-Rd--ETF-930/Principal-Environmental-Test-Engineer_01880834-1",
@@ -25180,6 +25208,7 @@
   "/job/US-CT-EAST-HARTFORD-OBF2--400-Main-St--BLDG-OBF2/Engine-Control-Laws-and-Fuel-System-Control-Design-Sr-Engineer-P3--Onsite-_01879391",
   "/job/US-CT-EAST-HARTFORD-OBF2--400-Main-St--BLDG-OBF2/Senior-Principal-Integrated-Product-Team-Lead--Onsite-_01858571-1",
   "/job/US-CT-EAST-HARTFORD-OBF2--400-Main-St--BLDG-OBF2/Specialist--Earned-Value-Program-Analyst-EVM--Onsite-_01869251",
+  "/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Chief-Engineer---PW4000-100--Onsite-_01883761",
   "/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Customer-Technical-Service-Engineer-II--Onsite-_01877308",
   "/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Customer-Technical-Service-Engineer-II--Onsite-_01878617",
   "/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Engine-Test-Engineer--Engine-Overhaul-MRO--Onsite-_01879897-1",
@@ -25369,6 +25398,7 @@
   "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-Op---Summer-Fall-Systems-Engineer---Onsite_01871438",
   "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/XMLNAME-2027-Co-op-Spring-Summer-Systems-Engineer---Onsite_01871432",
   "/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Senior-Principal-Project-Engineer--Deputy-Program-Chief--DPC----Future-Systems-Product-Line--ONSITE-_01883479",
+  "/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684",
   "/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01875919",
   "/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineering-Co-op--Fall-Spring-2027-_01872683",
   "/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Associate-Director--Product-Quality--onsite-_01878567",
@@ -25799,6 +25829,7 @@
   "/job/US-MS-FOREST-425--19859-Hwy-80--BLDG-425/Senior-Information-System-Security-Officer--ISSO----Forest--MS--Sponsor-Clearance-_01877132-1",
   "/job/US-MS-FOREST-431--19859-Hwy-80--BLDG-431/Scheduling-Analyst--Onsite-_01879471",
   "/job/US-MS-PASCAGOULA-1000-CUST--1000-Access-Rd--ACCESS-External-Site/Principle-Linux-VMware-Systems-Administrator--Must-have-a-TS-SCI-Poly-clearance_01880101",
+  "/job/US-MS-REMOTE/Senior-Analyst--Procurement_01884158-1",
   "/job/US-NC-ASHEVILLE-330--330-Pratt-Whitney-Blvd--PRATT-WHITNEY/EHS-Senior-Manager_01880671",
   "/job/US-NC-ASHEVILLE-330--330-Pratt-Whitney-Blvd--PRATT-WHITNEY/Financial-Controller---Asheville-Machining--Onsite-_01882599",
   "/job/US-NC-ASHEVILLE-330--330-Pratt-Whitney-Blvd--PRATT-WHITNEY/Maintenance-Manager_01880693",
@@ -26043,6 +26074,7 @@
   "/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Operations-Quality-Engineer-II-onsite-McKinney--TX_01879360",
   "/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Program-Controls-Analyst--EVMS----P3----HYBRID_01873796",
   "/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Program-Manager_01882024-1",
+  "/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Sr-Material-and-Process-Engineer_01877027",
   "/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/Eng-II--Product-Engineer_01843853",
   "/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/Maintenance-Tech-Support---2nd-Shift---McKinney--TX_01881950",
   "/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/Manufacturing-Process-Engineer--Epoxy----2nd-Shift_01878036",
@@ -27287,6 +27319,7 @@
   "/job/California---San-Francisco/Senior-Director--Business-Value-Services_JR362116",
   "/job/California---San-Francisco/Senior-Director--Data-Engineering---Slack_JR361288-1",
   "/job/California---San-Francisco/Senior-Director--Monetization-Strategy_JR364057-1",
+  "/job/California---San-Francisco/Senior-Director--Performance-Engineering_JR364776",
   "/job/California---San-Francisco/Senior-Director--Platform-GTM-Strategy_JR360134",
   "/job/California---San-Francisco/Senior-Director--Sales-Programs_JR355927-1",
   "/job/California---San-Francisco/Senior-Director--Tax_JR364098-1",
@@ -27321,6 +27354,7 @@
   "/job/California---San-Francisco/Sr-Director-Enterprise-Architect---Product-Strategy_JR359240",
   "/job/California---San-Francisco/Sr-Director-of-Product-Management--Data-360_JR361847",
   "/job/California---San-Francisco/Sr-Executive-Assistant_JR363037",
+  "/job/California---San-Francisco/Sr-Executive-Assistant_JR363968",
   "/job/California---San-Francisco/Sr-Manager--Enterprise-Technical-Resilience_JR360074",
   "/job/California---San-Francisco/Sr-Manager-Director-Sr-Director-of-Product-Management--Life-Sciences-Cloud--Evergreen-_JR363047",
   "/job/California---San-Francisco/Sr-Product-Manager--Customer-Health-Platform_JR342997",
@@ -32409,6 +32443,7 @@
   "8893008002",
   "8893016002",
   "8893104002",
+  "8893131002",
   "8893292002",
   "8893314002",
   "8893406002",
@@ -32497,7 +32532,9 @@
   "8904735002",
   "8904755002",
   "8905802002",
-  "8906243002"
+  "8906243002",
+  "8907194002",
+  "8907598002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -34786,6 +34823,7 @@
   "/job/CO---Bogota-Colombia/Analyst--Software-Test-Engineering_REF089077W",
   "/job/CO---Bogota-Colombia/Andean-Marketing-Consumer-Director_REF087037W",
   "/job/CO---Bogota-Colombia/Associate-Help-Desk-Analyst_REF088974W",
+  "/job/CO---Bogota-Colombia/Client-Care-Consultant---Technical-Solutions_REF089650W",
   "/job/CO---Bogota-Colombia/Consultant--Learning---Development-Client-Services_REF088990W",
   "/job/CO---Bogota-Colombia/Director--Client-Services-Implementations_REF089211W",
   "/job/CO---Bogota-Colombia/Director--Visa-Consulting-and-Analytics---VCA---Core-Consulting-Practice_REF087185W",
@@ -34799,6 +34837,7 @@
   "/job/CO---Bogota-Colombia/Sr-Client-Care-Consultant_REF089083W",
   "/job/CO---Bogota-Colombia/Sr-Manager--LAC-Accounts-Payable_REF089129W",
   "/job/CO---Bogota-Colombia/Sr-Tech-Support-Analyst_REF089221W",
+  "/job/CO---Bogota-Colombia/Trilingual-Client-Care-Consultant--Technical-Solutions--ES---ENG---PORT-_REF089643W",
   "/job/CO---Bogota-Colombia/Vendor-Mgmt-Consultant_REF089025W",
   "/job/CO---Bogota-Colombia/Workforce-Management-Command-Center-Manager_REF089137W-1",
   "/job/CR---San-Jose-Costa-Rica/Analyst--Visa-Consulting-and-Analytics--VCA---Core-Consulting_REF088227W",
@@ -36303,6 +36342,7 @@
   "5267171007",
   "5268023007",
   "5268702007",
+  "5269992007",
   "5270709007"
  ],
  "_first_seen": {
@@ -36453,7 +36493,8 @@
    "5268864007": "2026-10-19",
    "5269977007": "2026-10-20",
    "5271285007": "2026-10-21",
-   "5271672007": "2026-10-21"
+   "5271672007": "2026-10-21",
+   "5271826007": "2026-10-21"
   },
   "Anthropic": {},
   "Applied Materials": {
@@ -36714,6 +36755,7 @@
    "/job/IA---Urbandale/Pharmacy-Intern_R1064396": "2026-10-02",
    "/job/IL---Chicago/Pharmacy-Intern_R1072715": "2026-10-12",
    "/job/IL---Chicago/Pharmacy-Intern_R1073193": "2026-10-12",
+   "/job/IL---Chicago/Pharmacy-Intern_R1082833-1": "2026-10-21",
    "/job/IL---Rockford/Pharmacy-Intern_R1012353": "2026-10-12",
    "/job/IN---Crown-Point/Pharmacy-Intern_R1065837": "2026-10-05",
    "/job/IN---Lafayette/Pharmacy-Intern_R1063124": "2026-10-02",
@@ -37048,6 +37090,7 @@
    "/job/PA---Wilkes-Barre/Pharmacy-Intern---Grad_R1022214-1": "2026-10-19",
    "/job/Pharmacy-Intern_R1075893": "2026-10-14",
    "/job/SC---Charleston/Pharmacy-Intern---Grad_R1074301": "2026-10-13",
+   "/job/SC---Lake-City/Pharmacy-Intern_R1080011": "2026-10-21",
    "/job/SC---Santee/Pharmacy-Intern---Grad_R1080204-1": "2026-10-19",
    "/job/TX---Addison/Pharmacy-Intern_R1065506": "2026-10-04",
    "/job/TX---Allen/Pharmacy-Intern_R1066911-1": "2026-10-05",
@@ -38139,7 +38182,8 @@
    "5268864007": false,
    "5269977007": false,
    "5271285007": false,
-   "5271672007": false
+   "5271672007": false,
+   "5271826007": false
   },
   "Applied Materials": {
    "91e0686e-272a-4780-b33d-d7860b94a7b4": false,
@@ -38376,6 +38420,7 @@
    "/job/IA---Urbandale/Pharmacy-Intern_R1064396": false,
    "/job/IL---Chicago/Pharmacy-Intern_R1072715": false,
    "/job/IL---Chicago/Pharmacy-Intern_R1073193": false,
+   "/job/IL---Chicago/Pharmacy-Intern_R1082833-1": false,
    "/job/IL---Rockford/Pharmacy-Intern_R1012353": false,
    "/job/IN---Crown-Point/Pharmacy-Intern_R1065837": false,
    "/job/IN---Lafayette/Pharmacy-Intern_R1063124": false,
@@ -38710,6 +38755,7 @@
    "/job/PA---Wilkes-Barre/Pharmacy-Intern---Grad_R1022214-1": false,
    "/job/Pharmacy-Intern_R1075893": false,
    "/job/SC---Charleston/Pharmacy-Intern---Grad_R1074301": false,
+   "/job/SC---Lake-City/Pharmacy-Intern_R1080011": false,
    "/job/SC---Santee/Pharmacy-Intern---Grad_R1080204-1": false,
    "/job/TX---Addison/Pharmacy-Intern_R1065506": false,
    "/job/TX---Allen/Pharmacy-Intern_R1066911-1": false,
