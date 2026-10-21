@@ -842,6 +842,7 @@
   "8299396",
   "8300839",
   "8301515",
+  "8302846",
   "8303135",
   "8303742",
   "8304030"
@@ -4141,7 +4142,8 @@
   "5270428007",
   "5270576007",
   "5270612007",
-  "5270613007"
+  "5270613007",
+  "5270680007"
  ],
  "Anthropic": [
   "4017331008",
@@ -4947,7 +4949,8 @@
   "5458322008",
   "5458420008",
   "5458794008",
-  "5459016008"
+  "5459016008",
+  "5459274008"
  ],
  "Applied Materials": [
   "00eaa332-f855-4963-886c-909ac78bce6d",
@@ -5467,11 +5470,14 @@
   "8303385"
  ],
  "Autodesk": [
+  "/job/AMER---Canada---British-Columbia---Remote/Principal-Software-Developer---Databases_26WD99177-2",
+  "/job/AMER---Canada---British-Columbia---Vancouver---Bentall-Centre/Senior-Software-Developer---Admin_26WD100707-1",
   "/job/AMER---Canada---Ontario---Toronto---University-Ave/Senior-Finance-Business-Partner--AOS-Finance_26WD101464",
   "/job/AMER---United-States---California---San-Francisco---One-Market/Director--Chief-of-Staff_26WD101007-2",
   "/job/AMER---United-States---Colorado---OffsiteHome/Enterprise-Principal-Sales-Specialist--Emerging-Technologies---Construction_26WD100308-1",
   "/job/AMER---United-States---Massachusetts---Boston---Drydock/Industry-Strategy-Manager--AEC---Digital-Project-Delivery_26WD100755",
   "/job/AMER---United-States---Texas---OffsiteHome/Finance-Business-Partner--Expansion-Sales--Spanish-Speaker-_26WD100154-1",
+  "/job/APAC---Australia---VIC---Melbourne---257-Collins-Street/Senior-Associate-Sales-Development-Representative_26WD101165",
   "/job/Bangkok-THA/Licensing-Compliance-Inside-Sales-Representative--Thailand-_26WD99969",
   "/job/Barcelona-ESP/Global-Mobility-Specialist_26WD101654-2",
   "/job/Bengaluru-IND/Executive-Assistant_26WD101029",
@@ -5481,12 +5487,15 @@
   "/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433-1",
   "/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430-1",
   "/job/Cambridge-GBR/Intern--Software-Engineer_26WD101105",
+  "/job/Colombia---Remote/Strategic-Territory-Sales-Executive--Spanish---English-_26WD100899-1",
+  "/job/Denver-CO-USA/Deal-Development-Executive_26WD100888-1",
   "/job/Denver-CO-USA/Head-of-Forma-Solution-Marketing_26WD101325-2",
   "/job/EMEA---Germany---Munich---Balanstrasse/Account-Technical-Lead_26WD99267-1",
   "/job/EMEA---United-Kingdom---London---Agar-St/Industry-Strategy-Manager--AEC---Digital-Project-Delivery_26WD100652",
   "/job/Krakw-POL/Intern--Software-Engineer_26WD101095-1",
   "/job/Kuala-Lumpur-MYS/Corporate-Paralegal_26WD100842",
   "/job/Milano-ITA/Pre-Sales---Senior-Account-Technical-Lead---Italy_26WD101022-1",
+  "/job/Montreal-QC-CAN/Customer-Success-Advisor--AEC---French-Speaking_26WD100110",
   "/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2",
   "/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2",
   "/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1",
@@ -5535,6 +5544,7 @@
   "/job/Toronto-ON-CAN/Senior-Financial-Analyst--COO-Finance-WWS-SPM_26WD97533",
   "/job/Toronto-ON-CAN/Senior-Global-Immigration-Specialist_26WD101644",
   "/job/Toronto-ON-CAN/Senior-Manager--Content-Production--Learning-Solutions_26WD99638",
+  "/job/Toronto-ON-CAN/Senior-People-Business-Partner--PDMS_26WD100578-1",
   "/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436-1",
   "/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435-1",
   "/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-2",
@@ -12296,6 +12306,7 @@
   "8282537",
   "8282552",
   "8286919",
+  "8287316",
   "8289036",
   "8289964",
   "8292620",
@@ -16915,6 +16926,7 @@
   "/job/CZE---Central-Bohemian---Prague-Five/Senior-Technical-Product-Manager---Integration-Platform_R418107",
   "/job/CZE---Central-Bohemian---Prague-Five/Senior-Workday-Configuration-Specialist--Recruiting---Talent--_R419762-1",
   "/job/CZE---Central-Bohemian---Prague-Five/Software-Engineering-Lead--Clinical-Data-Services_R410789-1",
+  "/job/CZE---Central-Bohemian---Prague-Five/Technical-Lead--External-and-Scientific-Engagement_R394097-1",
   "/job/CZE---Central-Bohemian---Prague-IT-Riverview/Associate-Director---Delivery-Assurance--Learning-Creation_R421512-1",
   "/job/CZE---Central-Bohemian---Prague-IT-Riverview/Associate-Director---Product-Manager--PV-Reporting-and-Surveillance_R409222-1",
   "/job/CZE---Central-Bohemian---Prague-IT-Riverview/Business-Analyst_R420712",
@@ -19703,6 +19715,7 @@
   "/job/Perry-Bar-Birmingham-United-Kingdom/Floor-Manager--Service-Coach----Birmingham-One-Stop_R-95049",
   "/job/Piding-Germany/Nike-Abteilungsleiter--Coach---w-m-d----375H--NFS-Piding_R-92506",
   "/job/Seoul-Korea/Korea-Social---Community-Impact--Professional--1-Year-Fixed-Term-Contract-_R-95609-1",
+  "/job/Seoul-Korea/Lead--Stores-Operations-Excellence---Converse_R-96031",
   "/job/Seoul-Korea/Merchant-II--Marketplace-Merchandising---Converse_R-95165",
   "/job/Seoul-Korea/Specialist-II--Digital-Consumer-Services-Korea_R-94478-1",
   "/job/Shanghai-China-Mainland/Lead--Incubate-Marketing--GC---Converse_R-95840",
@@ -22021,6 +22034,7 @@
   "8279011",
   "8282143",
   "8289880",
+  "8289898",
   "8289904",
   "8289906",
   "8301421",
@@ -24054,6 +24068,7 @@
   "/job/MY-10-SUBANG-001--Mukim-Damansara-Daerah-Petaling--JALAN-LAPANGAN-TERBANG-SUBANG/Logistics-Intern_01879181",
   "/job/Malvern-Worcestershire/Graduate-Integrated-Product-Support-Engineer_01881548",
   "/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Production-Support_01877380-1",
+  "/job/NZ-CAN-CHRISTCHURCH-115-1--115-Orchard-Rd--V2500-WORKSHOP/Workscope-Support-Engineer_01883634",
   "/job/NZ-CAN-CHRISTCHURCH-115-3--115-Orchard-Rd--OFFICETRAINING/Maintenance-Tradesperson_01854578",
   "/job/PH-BTG-TANAUAN-CITY-018--Lot-18-3rd-St--LOT-18-1/Principal-Specialist--Procurement---Mid-Shift-or-Night-Shift_01879974",
   "/job/PH-BTG-TANAUAN-CITY-BQ4--First-Philippine-Industrial-Park--BLDG-Q4/Analyst--Logistics_01879537",
@@ -25101,6 +25116,7 @@
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Systems-Engineer-II--Radar-Test-Engineer---Ground-Based-Radar-Systems_01882649",
   "/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Technical-Documentation-and-Training-Specialist_01879560",
   "/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Principal-Network-Engineer-Trainer--Onsite-_01878667",
+  "/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939",
   "/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Network-Systems-Engineering-Intern--Onsite_01873238",
   "/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineer-I--Onsite-_01873236",
   "/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineering-Intern--Summer-2027-_01873235",
@@ -25334,6 +25350,7 @@
   "/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Program-Operations---Control-Manager---McKinney--TX_01879380-1",
   "/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Senior-Electrical-Engineer--Onsite-_01882040",
   "/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Senior-Manager-Electrical-Engineering--Onsite-_01877871",
+  "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Material-Program-Manager--MPM----Global-Patriot---McKinney--TX--Tewksbury--MA--or-Huntsville--AL_01882913",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Material-Program-Manager_01878248",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Materials-and-Process-Design-Engineer_01871771",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Mechanical-Engineering-Intern--Summer-2027-_01883423",
@@ -26820,6 +26837,7 @@
   "/job/Indiana---Indianapolis/Customer-Success-Manager---Digital--Marketing---Commerce--Clouds_JR332573",
   "/job/Indiana---Indianapolis/Director--Marketing-Cloud-Architect_JR364648",
   "/job/Indiana---Indianapolis/ES-Workday-Ops-Analyst_JR363484",
+  "/job/Indiana---Indianapolis/Field-Service-Readiness-Architect_JR365129",
   "/job/Indiana---Indianapolis/Internal-Audit-Manager---Quality---Operations_JR359226",
   "/job/Indiana---Indianapolis/Internal-Audit-Senior-Analyst--Data-Analytics_JR359944",
   "/job/Indiana---Indianapolis/Partner-Support-Analyst_JR364303",
@@ -27467,6 +27485,7 @@
   "8287656",
   "8288474",
   "8288505",
+  "8300580",
   "8302004",
   "8304132",
   "8304185",
@@ -27967,6 +27986,10 @@
   "744000156353749",
   "744000156371630",
   "744000156415909",
+  "744000156418410",
+  "744000156418509",
+  "744000156418830",
+  "744000156419469",
   "744000156422439",
   "744000156426199",
   "744000156440232",
@@ -31752,7 +31775,8 @@
   "8904011002",
   "8904025002",
   "8904042002",
-  "8904563002"
+  "8904563002",
+  "8904637002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -36372,7 +36396,8 @@
   },
   "Datadog": {
    "8052118": "2026-10-02",
-   "8108241": "2026-10-02"
+   "8108241": "2026-10-02",
+   "8287316": "2026-10-21"
   },
   "Discord": {},
   "DoorDash": {
@@ -36943,6 +36968,7 @@
    "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineer-Intern--Summer-2027-_01880852": "2026-10-07",
    "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437": "2026-10-15",
    "/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern---Test-Solutions_01881321": "2026-10-08",
+   "/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939": "2026-10-21",
    "/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895": "2026-10-08",
    "/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Mechanical-Design-Intern--Summer-2027---Onsite-_01864899": "2026-10-19",
    "/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Project-Engineering-Intern--Summer-2027--Onsite-_01872630": "2026-10-19",
@@ -37991,7 +38017,8 @@
   },
   "Datadog": {
    "8052118": false,
-   "8108241": false
+   "8108241": false,
+   "8287316": false
   },
   "DoorDash": {
    "8176863": false,
@@ -38488,6 +38515,7 @@
    "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineer-Intern--Summer-2027-_01880852": false,
    "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437": false,
    "/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern---Test-Solutions_01881321": false,
+   "/job/US-MD-ANNAPOLIS-905--2551-Riva-Rd--BLDG-905/Software-Engineering-Intern--Summer-2027-_01882939": false,
    "/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895": false,
    "/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Mechanical-Design-Intern--Summer-2027---Onsite-_01864899": false,
    "/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Project-Engineering-Intern--Summer-2027--Onsite-_01872630": false,
