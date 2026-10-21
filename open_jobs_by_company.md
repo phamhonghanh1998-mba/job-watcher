@@ -1,6 +1,6 @@
-# Open matching jobs (401)
+# Open matching jobs (403)
 
-Updated 2026-10-21 20:23 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-21 21:08 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -118,7 +118,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (295)
+## Other internships (297)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -260,6 +260,9 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-08 | Coinbase | [Tax Operations Intern](https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [User Research Intern](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) | Hybrid - San Francisco, CA |
 | 2026-10-21 | CVS Health | [Foreign Pharmacy Grad - International Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NC---Newland/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1082611) | NC - Newland |
+| 2026-10-21 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Staten-Island/Pharmacy-Intern_R1082814) | NY - Staten Island |
+| 2026-10-21 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Staten-Island/Pharmacy-Intern_R1035684) | NY - Staten Island |
+| 2026-10-21 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Staten-Island/Pharmacy-Intern_R1082799) | NY - Staten Island |
 | 2026-10-21 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/02784---Pennsylvania-CVS-Pharmacy-LLC/Pharmacy-Intern_R1043338) | 02784 - Pennsylvania CVS Pharmacy, L.L.C. |
 | 2026-10-21 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/FL---Tallahassee/Pharmacy-Intern_R1082707) | FL - Tallahassee |
 | 2026-10-09 | Databricks | [Product Design Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002) | San Francisco, California; Seattle, Washington |
@@ -280,11 +283,11 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-21 | Genentech | [Student Internship in Device Development and Verification Engineering (Basel, 9-12 months)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Student-Internship-in-Device-Development-and-Verification-Engineering--Basel--9-12-months-_202610-126054) | Basel |
 | 2026-10-13 | Gusto | [Finance Intern (Summer 2027)](https://job-boards.greenhouse.io/gusto/jobs/8257115) | New York, NY - Hybrid |
 | 2026-10-12 | Hewlett Packard Enterprise | [ASIC Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034) | Sunnyvale, California, United States of America |
+| 2026-10-19 | Hewlett Packard Enterprise | [ASIC Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Intern_1214020) | Roseville, California, United States of America |
 | 2026-09-28 | Hewlett Packard Enterprise | [Finance Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Finance-Intern_1213639) | Spring, Texas, United States of America |
 | 2026-10-19 | Hewlett Packard Enterprise | [Finance Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Finance-Intern_1213767) | San Jose, California, United States of America |
 | 2026-10-13 | Hewlett Packard Enterprise | [Marketing Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213359) | 2 Locations |
 | 2026-10-13 | Hewlett Packard Enterprise | [Marketing Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213360) | 2 Locations |
-| 2026-10-13 | Hewlett Packard Enterprise | [Marketing Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213364) | 2 Locations |
 | 2026-10-13 | Hewlett Packard Enterprise | [Marketing Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Marketing-Intern_1213358) | San Jose, California, United States of America |
 | 2026-09-23 | Hewlett Packard Enterprise | [Software Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1) | 2 Locations |
 | 2026-09-23 | Hewlett Packard Enterprise (2) | [Cloud Developer Intern](https://hpe.wd5.myworkdayjobs.com/en-US/ACJobSite/job/Aguadilla-Puerto-Rico-Puerto-Rico/Cloud-Developer-Intern_1215274-3) | 2 Locations |
@@ -313,7 +316,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-15 | Medtronic | [Sales Operations Intern](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ankara-Ankara-Trkiye/Sales-Operations-Intern_R78959-1) | Ankara, Ankara, Türkiye |
 | 2026-10-21 | Merck | [2027 Future Talent Program - Vivarium - Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Vivarium---Intern_R412852) | USA - Pennsylvania - West Point |
 | 2026-10-21 | Micron | [Intern - Process Safety Engineer](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Safety-Engineer_JR115035) | Boise, ID - Main Site |
-| 2026-10-21 | Micron | [Intern - RDA Application Engineer](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---RDA-Application-Engineer_JR115353) | Boise, ID - Main Site |
 | 2026-10-21 | Micron | [Intern – AMHS Equipment Engineer ID1](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---AMHS-Equipment-Engineer-ID1_JR115126) | Boise, ID - Main Site |
 | 2026-09-21 (30+ days) | Mondelez | [Corporate Finance Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1) | East Hanover, New Jersey, United States |
 | 2026-10-07 | Mondelez | [HSE Intern Colombia](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Cali-Colombia/HSE-Intern-Colombia_R-178636) | 2 Locations |
