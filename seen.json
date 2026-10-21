@@ -4182,7 +4182,8 @@
   "5271233007",
   "5271241007",
   "5271244007",
-  "5271245007"
+  "5271245007",
+  "5271285007"
  ],
  "Anthropic": [
   "4017331008",
@@ -4994,6 +4995,7 @@
   "5458794008",
   "5459016008",
   "5459274008",
+  "5459290008",
   "5459422008"
  ],
  "Applied Materials": [
@@ -6110,7 +6112,8 @@
   "5453088008",
   "5453137008",
   "5456569008",
-  "5457599008"
+  "5457599008",
+  "5460078008"
  ],
  "Blue Origin": [
   "/job/Arlington-WA/Manufacturing-Engineer-III----Castings-Engines_R71538",
@@ -7203,6 +7206,7 @@
   "/job/DC---Washington/Grad-Pharmacist_R1061475",
   "/job/DC---Washington/Pharmacy-Intern_R1068968",
   "/job/DE---Work-from-home/Utilization-Management-Nurse-Consultant_R1054818",
+  "/job/Delivery-Driver---Full-Time---Overnight_R1024974",
   "/job/Delivery-Driver---Full-Time-Overnight_R1068907",
   "/job/Executive-Assistant-to-VP-Employer_R1059579",
   "/job/Executive-Assistant_R1051003",
@@ -7215,6 +7219,7 @@
   "/job/FL---Hialeah/Pharmacy-Intern---Grad_R1079681",
   "/job/FL---Jacksonville/Pharmacy-Intern_R1065824",
   "/job/FL---Jacksonville/Pharmacy-Intern_R1079519",
+  "/job/FL---Jacksonville/Pharmacy-Intern_R1082498",
   "/job/FL---Kissimmee/Pharmacy-Intern---Grad_R1074240",
   "/job/FL---Kissimmee/Pharmacy-Intern_R1065826",
   "/job/FL---Miami-Gardens/Pharmacy-Intern_R1062270",
@@ -8113,6 +8118,7 @@
   "/job/RI---Warwick/Regional-Hourly-Primary-Care-Provider_R1040922",
   "/job/RI---Woonsocket/AVP--Price---Value-Transformation_R0852129",
   "/job/RI---Woonsocket/Analyst--Licensing_R1044090",
+  "/job/RI---Woonsocket/Animator-Motion-Graphics-Designer_R1080100",
   "/job/RI---Woonsocket/Business-Insights-Manager_R1033935-1",
   "/job/RI---Woonsocket/Category-Manager---Seasonal_R1024423",
   "/job/RI---Woonsocket/Contacts-Manager_R0998849",
@@ -10500,7 +10506,8 @@
   "8301285",
   "8302189",
   "8304034",
-  "8304038"
+  "8304038",
+  "8304046"
  ],
  "CrowdStrike": [
   "/job/Australia---Melbourne/Falcon-Complete-Graduate-Program_R14438",
@@ -10792,6 +10799,7 @@
   "/job/Rome-Italy/Field-Service-Engineer-Roma-Lazio--m-f-d-_R1320540",
   "/job/SGP---Singapore---Leica-Microsystems/Field-Service-Engineer_R1319450",
   "/job/Saint-Germain-en-Laye-Yvelines-France/Director--Systems-Project-Management---Commissioning_R1318720",
+  "/job/San-Francisco-California-United-States/Beckman-Coulter---Hematology-Urinalysis----Bay-Area-_R1318072",
   "/job/San-Francisco-California-United-States/Field-Application-Scientist_R1319092",
   "/job/San-Jose-California-United-States/Manufacturing-Ops-Technician--San-Jose--CA-_R1319444",
   "/job/Seattle-Washington-United-States/Field-Applications-Specialist---Immunohistochemistry_R1319765",
@@ -11585,6 +11593,7 @@
   "8721001002",
   "8721003002",
   "8721005002",
+  "8723918002",
   "8729618002",
   "8731212002",
   "8731998002",
@@ -12610,6 +12619,7 @@
   "7456678",
   "7467955",
   "7468130",
+  "7473132",
   "7488724",
   "7490108",
   "7490373",
@@ -13119,7 +13129,8 @@
   "8304190",
   "8304373",
   "8304878",
-  "8305939"
+  "8305939",
+  "8306636"
  ],
  "Dropbox": [
   "6330377",
@@ -16059,6 +16070,7 @@
   "/job/Amsterdam/HR-Intern_R-104428",
   "/job/Amsterdam/Intern_R-107421-1",
   "/job/Amsterdam/Internal-Controls-Analyst_R-104563",
+  "/job/Amsterdam/Internal-Controls-Analyst_R-107787",
   "/job/Amsterdam/Law-Intern_R-106857",
   "/job/Amsterdam/Logistics-intern_R-107627",
   "/job/Amsterdam/Marketing-Intern_R-98421",
@@ -16638,6 +16650,7 @@
   "/job/New-York-City-New-York/Analyst--Sales_R-292416",
   "/job/New-York-City-New-York/Director---Regional-Product-Management---Marketing-Solutions-Sales-Enablement_R-293267",
   "/job/New-York-City-New-York/Director--AML-SME--Financial-Crime-Solutions_R-293811",
+  "/job/New-York-City-New-York/Director--Digital-Payments-Solution-Engineer_R-291792-1",
   "/job/New-York-City-New-York/Director--Product-Management---Tokenized-Deposits_R-293261",
   "/job/New-York-City-New-York/Director--Product-Sales_R-286353",
   "/job/New-York-City-New-York/Director--Strategic-Business-Development--Digital-Assets_R-288294",
@@ -17920,13 +17933,16 @@
   "/job/Boise-ID---ID1/Intern---ID1-ATE-PI-Engineer_JR114304",
   "/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287",
   "/job/Boise-ID---ID1/Intern---Process-Integration-Engineer_JR114192",
+  "/job/Boise-ID---ID1/Intern---Process-Integration-Engineer_JR114654",
   "/job/Boise-ID---ID1/Intern---Yield-Enhancement--Engineer_JR114471",
   "/job/Boise-ID---ID1/Manufacturing-Engineer---ID1-CMP_JR113195-1",
   "/job/Boise-ID---ID1/New-College-Grad---ATE-Process-Engineer-ID1_JR113380",
   "/job/Boise-ID---ID1/New-College-Grad---F4-IT-Network-Engineer_JR114671",
   "/job/Boise-ID---ID1/New-College-Grad---ID1-ATE-Photolithography-Process-Engineer_JR113796",
   "/job/Boise-ID---ID1/New-College-Grad---ID1-ATE-Photolithography-Process-Engineer_JR113797",
+  "/job/Boise-ID---ID1/New-College-Grad---ID1-ATE-Process-Engineer-WET_JR114661",
   "/job/Boise-ID---ID1/New-College-Grad---PCVD-Process-Engineer_JR112000",
+  "/job/Boise-ID---ID1/New-College-Grad---PCVD-Process-Engineer_JR114921",
   "/job/Boise-ID---ID1/New-College-Grad---Photolithography-Process-Engineer_JR101714",
   "/job/Boise-ID---ID1/New-College-Grad---Process-Integration-Engineer_JR114667",
   "/job/Boise-ID---ID1/New-College-Grad---RDA-OOC-Engineer_JR113629",
@@ -18018,6 +18034,7 @@
   "/job/Boise-ID---Main-Site/IT-Software-Engineer_JR114118",
   "/job/Boise-ID---Main-Site/IT-Software-Engineer_JR114335",
   "/job/Boise-ID---Main-Site/Identity-Strategy---Pathfinding-Analyst_JR112110-1",
+  "/job/Boise-ID---Main-Site/Intern---AMHS-Equipment-Engineer-ID1_JR115126",
   "/job/Boise-ID---Main-Site/Intern---ATE-Process-Engineer-ID1_JR113953",
   "/job/Boise-ID---Main-Site/Intern---Category-Supplier-Management_JR112709",
   "/job/Boise-ID---Main-Site/Intern---Compute-System-Compatibility-Engineer_JR113627",
@@ -18025,6 +18042,8 @@
   "/job/Boise-ID---Main-Site/Intern---Dry-Etch-Equipment-Development-Engineering_JR109987",
   "/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941",
   "/job/Boise-ID---Main-Site/Intern---Photolithography-Process_JR107508",
+  "/job/Boise-ID---Main-Site/Intern---Process-Safety-Engineer_JR115035",
+  "/job/Boise-ID---Main-Site/Intern---RDA-Application-Engineer_JR115353",
   "/job/Boise-ID---Main-Site/Intern---SDR_JR112775",
   "/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094",
   "/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
@@ -18656,6 +18675,7 @@
   "/job/San-Jose-CA/Intern---SSD-Firmware_JR115209",
   "/job/San-Jose-CA/Intern---Semiconductor-Global-Category-Supplier-Management_JR114763",
   "/job/San-Jose-CA/People---Culture-Communications-Manager_JR114212",
+  "/job/San-Jose-CA/Principal-Business-Development-Manager_JR104652",
   "/job/San-Jose-CA/Principal-Data-Scientist--TPG_JR112162",
   "/job/San-Jose-CA/Principal-Design-Engineer_JR104722-1",
   "/job/San-Jose-CA/Principal-Design-Engineer_JR115220",
@@ -20128,6 +20148,7 @@
   "0cc39c60-4c89-4213-954e-d77ced4cb7e7",
   "0d000633-4a69-4dae-ab5f-da19b5ab8cc0",
   "10437426-14c8-4c45-8075-67959ce80393",
+  "11e56782-ee28-4025-ba0e-76222b0bfcea",
   "14879c7f-ded7-4e7f-932c-fb4a294afd68",
   "15dde0f5-b3fd-4d46-8ec2-0858ebdd888d",
   "15f37b73-d217-469a-adfc-2e50cc9e2374",
@@ -20819,7 +20840,8 @@
   "8305245",
   "8305257",
   "8305392",
-  "8305423"
+  "8305423",
+  "8306330"
  ],
  "Oliver Wyman": [
   "/job/Atlanta---Lenox/Pharmacy-Audit-Lead-Consultant_R_360737",
@@ -20932,6 +20954,7 @@
   "0b32c370-a2bb-4784-a326-67dfbb130ef5",
   "0b428c6d-7c06-4feb-82b6-5bbe5cda2a18",
   "0b57e309-426d-4f5c-a28c-6dd941b84703",
+  "0b80474f-6438-4b41-94e4-0e653c7e3457",
   "0b9e565a-ae5f-40fc-8350-b59f71f76df1",
   "0cebbcd0-7ff4-4492-8638-a7d7df1c0d22",
   "0cf4a8f4-a57a-494b-aad8-4df8ac096939",
@@ -21340,6 +21363,7 @@
   "73728d6c-8d8d-4aed-86c6-c2e73d9efec9",
   "73e56947-5d8b-414d-a0ac-9dc9b04e2406",
   "73fdf2c0-4318-4b13-addc-b66bc1308ba4",
+  "74842880-e750-4664-9e2e-83b4c96c5a03",
   "74b9aa04-0b9d-459a-9e2d-0e43fae67a79",
   "74be2291-5744-40fd-9c65-7a4a516ebd48",
   "7512a020-2f3c-4f19-921d-b76edaeba5d3",
@@ -24338,6 +24362,7 @@
   "/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Tlier--centre-de-rvision_01878210",
   "/job/DE-BW-HEIDELBERG-036-751--Grenzhofer-Weg-36--BLDG-751/Facility-Management-Project-Manager--m-f-d-_01882115",
   "/job/DE-BW-HEIDELBERG-036-751--Grenzhofer-Weg-36--BLDG-751/Job-Description-Berufsorientierung--Ausbildung-und-duales-Studium--m-f-d-_01870800",
+  "/job/DE-BW-HEIDELBERG-036-751--Grenzhofer-Weg-36--BLDG-751/Montierer--m-f-d-_01875124",
   "/job/DE-BW-HEIDELBERG-036-751--Grenzhofer-Weg-36--BLDG-751/Verantwortliche-Elektrofachkraft--VEFK----Facility-Management--m-f-d-_01882116",
   "/job/DE-BY-NORDLINGEN-010--Anton-Jaumann-Industriepark-10--BLDG-10/Mitarbeiter-Elektronische-Baugruppenfertigung--m-w-d-_01882804",
   "/job/DE-BY-NORDLINGEN-010--Anton-Jaumann-Industriepark-10--BLDG-10/Werkstudent---Environment--Health---Safety_01873310",
@@ -24593,6 +24618,8 @@
   "/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Systems-Security-Engineer-I---Anti-Tamper---Program-Protection--On-site-_01874756",
   "/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Systems-Security-Engineering-Intern--Summer-2027-_01874755",
   "/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Ultra-Stack-Munition-Acceleration-Mechanical-Integrated-Product-Team-Lead--IPTL-_01871823",
+  "/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/Advanced-Effector-Guidance-Systems-Electrical-Engineer-I--Onsite-_01870445",
+  "/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/Advanced-Effector-Guidance-Systems-Electrical-Engineer-II--Onsite-_01870395",
   "/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/Finance-Lead--On-Site-_01879159",
   "/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/Mechanical-Engineer-II--Onsite-_01871114",
   "/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/SM-6--Transition-to-Production--TTP--Chief-Engineer_01860166",
@@ -24758,6 +24785,7 @@
   "/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Test-Systems-Engineer-II_01873495",
   "/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Test-Systems-Engineer-I_01868708",
   "/job/US-AZ-TUCSON-M13--3601-E-Britannia-Dr--BRITANNIA-M13/Associate-Director--Inventory-Compliance_01882180",
+  "/job/US-AZ-TUCSON-M13--3601-E-Britannia-Dr--BRITANNIA-M13/Government-Property-Reporting-Specialist_01882919",
   "/job/US-AZ-TUCSON-M13--3601-E-Britannia-Dr--BRITANNIA-M13/Material-Program-Manger_01879088",
   "/job/US-AZ-TUCSON-M13--3601-E-Britannia-Dr--BRITANNIA-M13/Principal-Inventory-Specialist_01883640",
   "/job/US-AZ-TUCSON-M13--3601-E-Britannia-Dr--BRITANNIA-M13/Property-Records-Specialist--Government---Company-Assets_01882548",
@@ -24950,6 +24978,7 @@
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/MRO-Value-Stream-Manager--Onsite-_01883180",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials---Processes-and-Mechanical-Disciplines-Engineering-Intern--Summer-2027---Onsite-_01871669",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials-Management---Logistics-Internship-Program--Summer-2027-_01862953-1",
+  "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials-Servicer-B-2nd-Shift--onsite-_01871650-1",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Mechanical-Systems-Design-Engineer-II--Onsite-_01880808",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/NDT-level-3--Onsite-_01869031-1",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/New-Product-Introduction-Account-Specialist--Hybrid-_01883224",
@@ -25565,6 +25594,7 @@
   "/job/US-MD-COLUMBIA-7100--7100-Columbia-Gateway-Dr--COLUMBIA-GATEWAY-Ste-160/Principal-Microwave-Photonics-Engineer_01881486",
   "/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Infrastructure-Administrator---On-Prem---Cloud--Onsite-_01825986-1",
   "/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Principal-Software-Engineer--ONSITE-_01818181-1",
+  "/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01883899",
   "/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Systems-Engineer-I--Onsite-_01876828",
   "/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Engineering-Development-Program-Engineer-I--Onsite-_01872522",
   "/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Mechanical-Design-Intern--Summer-2027---Onsite-_01864899",
@@ -25743,6 +25773,7 @@
   "/job/US-PR-SANTA-ISABEL-B2--Felicia-Industrial-Park---St-B2--BLDG-2/Manufacturing-Engineering-Co-Op--Spring-2027---Onsite-_01878947",
   "/job/US-PR-SANTA-ISABEL-B2--Felicia-Industrial-Park---St-B2--BLDG-2/Operations-Program-Lead--Hybrid---Puerto-Rico-_01883274-1",
   "/job/US-PR-SANTA-ISABEL-B2--Felicia-Industrial-Park---St-B2--BLDG-2/Senior-Manufacturing-Supervisor--Onsite---Puerto-Rico-_01862479-1",
+  "/job/US-PR-SANTA-ISABEL-B4--Felicia-Industrial-Park---St-B4--BLDG-4/Material-Handler-II-2nd-Shift--Onsite-Puerto-Rico-_01883909",
   "/job/US-PR-SANTA-ISABEL-B4--Felicia-Industrial-Park---St-B4--BLDG-4/Quality-Engineer-II--Onsite---Puerto-Rico-_01879057-1",
   "/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/Senior-Configuration-Manager_01882567",
   "/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/Senior-Technical-Quality-Analyst_01882562",
@@ -26881,6 +26912,7 @@
   "8278922",
   "8280125",
   "8282674",
+  "8283467",
   "8287853",
   "8292678"
  ],
@@ -27164,6 +27196,7 @@
   "/job/Georgia---Atlanta/Critical-Incident-Communications--Senior-Specialist_JR345444",
   "/job/Georgia---Atlanta/Customer-Risk-Manager_JR358659",
   "/job/Georgia---Atlanta/Customer-Succes-Manager--Senior-Manager-Mulesoft_JR332588-1",
+  "/job/Georgia---Atlanta/Director--Product-Marketing--Marketing-Cloud-Portfolio-Messaging_JR363941-1",
   "/job/Georgia---Atlanta/Executive-Operations---Leadership-Engagement-DirectorDirector_JR363410",
   "/job/Georgia---Atlanta/Finance-Pathways-Rotation-Analyst--Early-Career-_JR359807-2",
   "/job/Georgia---Atlanta/Manager--Revenue-Recognition-Strategy_JR362479",
@@ -27982,7 +28015,8 @@
   "8304638",
   "8304697",
   "8305824",
-  "8306291"
+  "8306291",
+  "8306612"
  ],
  "Scale AI": [
   "4282118005",
@@ -28481,7 +28515,8 @@
   "744000156669509",
   "744000156764064",
   "744000156764110",
-  "744000156764279"
+  "744000156764279",
+  "744000156860385"
  ],
  "Smartsheet": [
   "3426405",
@@ -30789,6 +30824,7 @@
   "8694468002",
   "8694524002",
   "8694545002",
+  "8694609002",
   "8694671002",
   "8694679002",
   "8694690002",
@@ -34214,7 +34250,8 @@
   "8303836",
   "8303972",
   "8304298",
-  "8304318"
+  "8304318",
+  "8306745"
  ],
  "Twilio": [
   "6372770",
@@ -34777,6 +34814,7 @@
   "/job/US---Atlanta-GA/Learning-Manager_REF089407W",
   "/job/US---Atlanta-GA/Program-Manager--Compliance_REF088442W",
   "/job/US---Atlanta-GA/Sr-Associate-Counsel_REF082632W",
+  "/job/US---Atlanta-GA/Sr-Consultant--Client-Success_REF087199W",
   "/job/US---Atlanta-GA/Sr-Data---Insights-Consultant--Data---Insights--Bilingual-Spanish-English-_REF088825W",
   "/job/US---Atlanta-GA/Sr-Manager_REF089269W",
   "/job/US---Atlanta-GA/Sr-Risk-Management-Manager--Global-ERM_REF088159W",
@@ -35488,7 +35526,8 @@
   "/job/Remote-USA/Strategic-Account-Executive--Agent-Software-and-Advertising_P751556-2",
   "/job/Remote-USA/Video-Content-Producer_P751441-1",
   "/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1",
-  "/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613"
+  "/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613",
+  "/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630"
  ],
  "Zoom": [
   "/job/Dublin-IRL/EMEA-Field-Marketing-Manager_R19545-1",
@@ -36195,7 +36234,8 @@
    "5268736007": "2026-10-19",
    "5268752007": "2026-10-19",
    "5268864007": "2026-10-19",
-   "5269977007": "2026-10-20"
+   "5269977007": "2026-10-20",
+   "5271285007": "2026-10-21"
   },
   "Anthropic": {},
   "Applied Materials": {
@@ -36426,6 +36466,7 @@
    "/job/FL---Hialeah/Pharmacy-Intern---Grad_R1079681": "2026-10-19",
    "/job/FL---Jacksonville/Pharmacy-Intern_R1065824": "2026-10-05",
    "/job/FL---Jacksonville/Pharmacy-Intern_R1079519": "2026-10-19",
+   "/job/FL---Jacksonville/Pharmacy-Intern_R1082498": "2026-10-21",
    "/job/FL---Kissimmee/Pharmacy-Intern---Grad_R1074240": "2026-10-13",
    "/job/FL---Kissimmee/Pharmacy-Intern_R1065826": "2026-10-05",
    "/job/FL---Miami/Pharmacy-Intern---Grad_R1079687": "2026-10-19",
@@ -37178,9 +37219,13 @@
    "/job/Boise-ID---ID1/Intern---ID1-ATE-PI-Engineer_JR114304": "2026-10-12",
    "/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287": "2026-10-05",
    "/job/Boise-ID---ID1/Intern---Process-Integration-Engineer_JR114192": "2026-10-05",
+   "/job/Boise-ID---ID1/Intern---Process-Integration-Engineer_JR114654": "2026-10-21",
    "/job/Boise-ID---ID1/Intern---Yield-Enhancement--Engineer_JR114471": "2026-10-12",
+   "/job/Boise-ID---Main-Site/Intern---AMHS-Equipment-Engineer-ID1_JR115126": "2026-10-21",
    "/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521": "2026-10-16",
    "/job/Boise-ID---Main-Site/Intern---Dry-Etch-Equipment-Development-Engineering_JR109987": "2026-10-14",
+   "/job/Boise-ID---Main-Site/Intern---Process-Safety-Engineer_JR115035": "2026-10-21",
+   "/job/Boise-ID---Main-Site/Intern---RDA-Application-Engineer_JR115353": "2026-10-21",
    "/job/Boise-ID---Main-Site/Intern---SDR_JR112775": "2026-10-16",
    "/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094": "2026-10-20",
    "/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991": "2026-10-05",
@@ -37864,7 +37909,8 @@
    "5268736007": false,
    "5268752007": false,
    "5268864007": false,
-   "5269977007": false
+   "5269977007": false,
+   "5271285007": false
   },
   "Applied Materials": {
    "91e0686e-272a-4780-b33d-d7860b94a7b4": false,
@@ -38071,6 +38117,7 @@
    "/job/FL---Hialeah/Pharmacy-Intern---Grad_R1079681": false,
    "/job/FL---Jacksonville/Pharmacy-Intern_R1065824": false,
    "/job/FL---Jacksonville/Pharmacy-Intern_R1079519": false,
+   "/job/FL---Jacksonville/Pharmacy-Intern_R1082498": false,
    "/job/FL---Kissimmee/Pharmacy-Intern---Grad_R1074240": false,
    "/job/FL---Kissimmee/Pharmacy-Intern_R1065826": false,
    "/job/FL---Miami/Pharmacy-Intern---Grad_R1079687": false,
@@ -38787,9 +38834,13 @@
    "/job/Boise-ID---ID1/Intern---ID1-ATE-PI-Engineer_JR114304": false,
    "/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287": false,
    "/job/Boise-ID---ID1/Intern---Process-Integration-Engineer_JR114192": false,
+   "/job/Boise-ID---ID1/Intern---Process-Integration-Engineer_JR114654": false,
    "/job/Boise-ID---ID1/Intern---Yield-Enhancement--Engineer_JR114471": false,
+   "/job/Boise-ID---Main-Site/Intern---AMHS-Equipment-Engineer-ID1_JR115126": false,
    "/job/Boise-ID---Main-Site/Intern---DRAM-Customer-Enablement-Engineering_JR106521": false,
    "/job/Boise-ID---Main-Site/Intern---Dry-Etch-Equipment-Development-Engineering_JR109987": false,
+   "/job/Boise-ID---Main-Site/Intern---Process-Safety-Engineer_JR115035": false,
+   "/job/Boise-ID---Main-Site/Intern---RDA-Application-Engineer_JR115353": false,
    "/job/Boise-ID---Main-Site/Intern---SDR_JR112775": false,
    "/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094": false,
    "/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991": false,
