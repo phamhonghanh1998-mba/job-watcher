@@ -1,6 +1,6 @@
-# Open matching jobs (422)
+# Open matching jobs (420)
 
-Updated 2026-10-21 01:55 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-21 02:24 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -118,7 +118,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Other internships (316)
+## Other internships (314)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -330,8 +330,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-16 | Medtronic | [Sales Operations Intern](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ankara-Ankara-Trkiye/Sales-Operations-Intern_R78959-1) | Ankara, Ankara, Türkiye |
 | 2026-10-21 | Micron | [Intern - Design Engineer, Pathfinding](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189) | 2 Locations |
 | 2026-10-21 | Micron | [Intern - Machine Learning Engineering](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750) | Richardson, TX |
-| 2026-10-21 | Micron | [Intern - Semiconductor Global Category Supplier Management](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---Semiconductor-Global-Category-Supplier-Management_JR114763) | 2 Locations |
-| 2026-10-21 | Micron | [Intern - SMAI Probe AI Engineer](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094) | Boise, ID - Main Site |
 | 2026-09-21 (30+ days) | Mondelez | [Corporate Finance Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1) | East Hanover, New Jersey, United States |
 | 2026-10-08 | Mondelez | [HSE Intern Colombia](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Cali-Colombia/HSE-Intern-Colombia_R-178636) | 2 Locations |
 | 2026-10-15 | Mondelez | [Logistics Operations Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Business-Unit-Head-Office---East-Hanover-USA/Customer-Service-and-Logistics-Intern-_R-175412) | 6 Locations |

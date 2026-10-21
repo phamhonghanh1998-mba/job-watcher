@@ -1,6 +1,6 @@
-# Open matching jobs (422)
+# Open matching jobs (420)
 
-Updated 2026-10-21 01:55 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-21 02:24 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -118,7 +118,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (316)
+## Other internships (314)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
@@ -137,8 +137,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-21 | PwC (2) | [Louisville - Digital Assurance & Transparency (DAT) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/KY-Louisville/Louisville---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_756947WD) | KY-Louisville |
 | 2026-10-21 | Micron | [Intern - Machine Learning Engineering](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Richardson-TX/Intern---Machine-Learning-Engineering_JR114750) | Richardson, TX |
 | 2026-10-21 | Micron | [Intern - Design Engineer, Pathfinding](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Folsom-CA/Intern---Design-Engineer--Pathfinding_JR114189) | 2 Locations |
-| 2026-10-21 | Micron | [Intern - Semiconductor Global Category Supplier Management](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---Semiconductor-Global-Category-Supplier-Management_JR114763) | 2 Locations |
-| 2026-10-21 | Micron | [Intern - SMAI Probe AI Engineer](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SMAI-Probe-AI-Engineer_JR114094) | Boise, ID - Main Site |
 | 2026-10-21 | Genentech | [Internship – Agentic AI for Environmental Regulatory Compliance](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Internship---Agentic-AI-for-Environmental-Regulatory-Compliance_202609-124819) | Basel |
 | 2026-10-21 | GE Aerospace | [Variable Geometries IME/IDB Intern](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Queretaro/Variable-Geometries-IME-IDB-Intern_R5040577-1) | Queretaro |
 | 2026-10-21 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AL---Birmingham/Pharmacy-Intern_R1081901) | AL - Birmingham |
