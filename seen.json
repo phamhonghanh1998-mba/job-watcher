@@ -815,6 +815,7 @@
   "8272909",
   "8272923",
   "8272929",
+  "8274152",
   "8274802",
   "8275273",
   "8275370",
@@ -4189,7 +4190,8 @@
   "5271245007",
   "5271285007",
   "5271608007",
-  "5271609007"
+  "5271609007",
+  "5271672007"
  ],
  "Anthropic": [
   "4017331008",
@@ -5003,7 +5005,8 @@
   "5459098008",
   "5459274008",
   "5459290008",
-  "5459422008"
+  "5459422008",
+  "5460216008"
  ],
  "Applied Materials": [
   "00eaa332-f855-4963-886c-909ac78bce6d",
@@ -6906,6 +6909,7 @@
   "/job/02663---Highland-Park-CVS-LLC/Pharmacy-Intern---Grad_R0996255",
   "/job/02701---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996260",
   "/job/02771---North-Carolina-CVS-Pharmacy-LLC/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1065652",
+  "/job/02784---Pennsylvania-CVS-Pharmacy-LLC/Pharmacy-Intern_R1043338",
   "/job/02786---Highland-Park-CVS-LLC/Pharmacy-Intern---Grad_R0996269",
   "/job/02844---Highland-Park-CVS-LLC/Pharmacy-Intern---Grad_R0996273",
   "/job/02845---Highland-Park-CVS-LLC/Pharmacy-Intern---Grad_R0996274",
@@ -8737,6 +8741,7 @@
   "/job/McLean-VA/Full-stack-Engineer-4_R1001613-1",
   "/job/McLean-VA/Full-stack-Engineer-4_R1001664-1",
   "/job/McLean-VA/Full-stack-Engineer-4_R1001687-1",
+  "/job/McLean-VA/Full-stack-Engineer-4_R1001783-1",
   "/job/McLean-VA/Full-stack-Engineer-4_R1002477-1",
   "/job/McLean-VA/Full-stack-Engineer-4_R1002521-1",
   "/job/McLean-VA/Full-stack-Engineer-4_R1002543-1",
@@ -8871,6 +8876,7 @@
   "/job/McLean-VA/Senior-Associate--Corporate-Strategy-Market-Intelligence_R247834-1",
   "/job/McLean-VA/Senior-Associate--Corporate-Strategy_R247835-1",
   "/job/McLean-VA/Senior-Associate--Data-Science_R1003329-1",
+  "/job/McLean-VA/Senior-Associate--Data-Scientist----Alternative-Data-Strategy_R1004239-1",
   "/job/McLean-VA/Senior-Associate--Data-Scientist----Capital-One-Personal-Loan_R1003030-1",
   "/job/McLean-VA/Senior-Associate--Data-Scientist----Model-Risk-Office_R232998-1",
   "/job/McLean-VA/Senior-Associate--Data-Scientist---Card-Intelligence_R244944",
@@ -8960,6 +8966,7 @@
   "/job/McLean-VA/Senior-Risk-Manager---Enterprise-Risk-Management_R1003102-1",
   "/job/McLean-VA/Senior-Risk-Manager---Global-Payment-Network--GPN--Controls-Advisory-Team_R1003427-1",
   "/job/McLean-VA/Senior-Risk-Specialist---Retail-Bank_R249955-1",
+  "/job/McLean-VA/Senior-Staff-Full-stack-Engineer---Global-Payment-Network--Remote---Eligible-_R1004210-1",
   "/job/McLean-VA/Senior-Staff-Full-stack-Engineer--Remote-Eligible----Global-Payment-Network_R1002387-1",
   "/job/McLean-VA/Sr-Analyst--Capital-Markets---Risk_R248892-2",
   "/job/McLean-VA/Sr-Associate--Business-Analyst_R1003484-2",
@@ -9065,6 +9072,7 @@
   "/job/New-York-NY/Manager---Product-Management---Travel-Communication-Platform_R1003028-2",
   "/job/New-York-NY/Manager--Airport-Lounge-Construction--New-Builds-_R1004035-2",
   "/job/New-York-NY/Manager--Data-Science---AI-Foundations_R1004063-1",
+  "/job/New-York-NY/Manager--Data-Scientist----Alternative-Data-Strategy_R1004236",
   "/job/New-York-NY/Manager--Product-Management---Account-Opening-Decisioning_R1003755-1",
   "/job/New-York-NY/Manager--Product-Manager---EP-Payments_R249666-1",
   "/job/New-York-NY/Manager--Product-Manager-Small-Business-Bank-Digital-Servicing_R246759-1",
@@ -9504,6 +9512,7 @@
   "/job/Hanoi-Vietnam/Structural-Test-Engineer_2024203-1",
   "/job/Hanoi-Vietnam/Structural-Test-Engineer_2024205",
   "/job/Herndon-Virginia-US/Customer-Experience--CX--Director-for-DISA-Army_2025177-1",
+  "/job/Herndon-Virginia-US/Leader--Sales---Commercial--Virginia_2028938",
   "/job/Houston-Texas-US/Engineering-Product-Manager_2022755-1",
   "/job/Krakow-Poland/Data-Engineer_2025792",
   "/job/Krakow-Poland/Frontend-Engineer_2025794",
@@ -12473,6 +12482,7 @@
   "8267546",
   "8267561",
   "8268065",
+  "8268449",
   "8273655",
   "8273664",
   "8278276",
@@ -12494,6 +12504,7 @@
   "8289964",
   "8292620",
   "8292699",
+  "8301102",
   "8303221",
   "8303622",
   "8304107",
@@ -12563,7 +12574,8 @@
   "8856582002",
   "8879502002",
   "8881544002",
-  "8885940002"
+  "8885940002",
+  "8904389002"
  ],
  "DoorDash": [
   "3236374",
@@ -13238,7 +13250,8 @@
   "8280094",
   "8285045",
   "8286535",
-  "8286536"
+  "8286536",
+  "8296377"
  ],
  "Duolingo": [
   "8318257002",
@@ -13443,6 +13456,7 @@
   "/job/Spain---Madrid/Software-Development-Engineer-II_R-109913",
   "/job/Sweden---Stockholm/Associate-Account-Manager--Hotels--18-Month-Fixed-Term-Contract---Swedish-Markets_R-110138",
   "/job/UK---London/Applied-Science-Intern---Masters---2027---London_R-110540-1",
+  "/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737",
   "/job/UK---London/Business-Programs-Manager_R-110058-1",
   "/job/UK---London/Customer-Experience-Manager_R-110490-1",
   "/job/UK---London/Director--Global-Compensation_R-109751",
@@ -13503,6 +13517,7 @@
   "/job/Washington---Seattle-Campus/Director--Technology_R-108910-1",
   "/job/Washington---Seattle-Campus/Director--Workforce-Management_R-109240-1",
   "/job/Washington---Seattle-Campus/Director-Technical-Program-Management---Planning--_R-107898",
+  "/job/Washington---Seattle-Campus/Director-of-Business-Performance_R-110746",
   "/job/Washington---Seattle-Campus/Finance-Analyst-Intern---2027---Seattle_R-110305-1",
   "/job/Washington---Seattle-Campus/Finance-Leadership-Program-Graduate---2027---Seattle_R-110313-1",
   "/job/Washington---Seattle-Campus/Finance-Manager_R-110150",
@@ -14736,6 +14751,7 @@
   "/job/Kaiseraugst/Orchestration-Workload-Engineer---ACE---AI-Factory_202609-123254-1",
   "/job/Kaiseraugst/Praktikum---Assembly-Ocular--6-12-Monate-_202609-123243",
   "/job/Kaiseraugst/Praktikum-als-GMP-Excellence-Engineer-im-Bereich-Clinical-Packaging--Kaiseraugst--12-Monate-_202610-125126-1",
+  "/job/Kaiseraugst/Praktikum-fr-Pharmazeuten-und-Naturwissenschaftler-in-der-MU-Packaging---Assembly---Asset-Small-Volume--ab-1-Mai-2026-fr-6-12-Monate-in-Kaiseraugst-_202610-126967",
   "/job/Kaiseraugst/Praktikum-in-der-QC-Mikrobiologie_202609-123510-1",
   "/job/Kaiseraugst/Technischer-Experte-fr-Reinstmedien-Anlagen_202609-122975-1",
   "/job/Kaiseraugst/Trainer-in---K-Leiter-in-Business---Digital-Technology--60-100---Kaiseraugst--unbefristet-_202607-118730",
@@ -15363,6 +15379,7 @@
   "6230229004"
  ],
  "Hewlett Packard Enterprise": [
+  "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Intermediate-Supply-Planner_1216931-2",
   "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1",
   "/job/Aguadilla-Puerto-Rico/Intermediate-Supply-Planner_1216931-2",
   "/job/Aguadilla-Puerto-Rico/Supply-Planner_1216915-5",
@@ -17567,6 +17584,7 @@
   "/job/TWN---Taipei---Taipei-City/Associate-Product-Manager---Vaccine_R415763",
   "/job/TWN---Taipei---Taipei-City/Clinical-Research-Associate_R422346-1",
   "/job/TWN---Taipei---Taipei-City/Sr-Spclst--Business-Insights---Analytics---TW-HK_R422384-1",
+  "/job/USA---California---Bakersfield/Rare-Disease-Account-Specialist---Central-California-Nevada_R423298-1",
   "/job/USA---California---California/Associate-Director--Urology---Oncology-Key-Accounts--West-_R413629-1",
   "/job/USA---California---California/Regional-Cardiovascular-Manager---West-District_R422076-1",
   "/job/USA---California---San-Diego-Science-Park-Road/Associate-Principal-Scientist--Immunology-Discovery_R417161-1",
@@ -17651,6 +17669,7 @@
   "/job/USA---New-Jersey---Rahway/Associate-Director--Quality-Assurance_R420896-2",
   "/job/USA---New-Jersey---Rahway/Associate-Director--Study-Manager---Atherosclerosis-and-Metabolism_R415363-1",
   "/job/USA---New-Jersey---Rahway/Associate-Director--Study-Manager---Atherosclerosis-and-Metabolism_R421910",
+  "/job/USA---New-Jersey---Rahway/Associate-Director-AI-Activation_R423510",
   "/job/USA---New-Jersey---Rahway/Associate-Director-Global-Oncology-Marketing---ADCs--Cervical-cancer-and-GEAC-_R422958-1",
   "/job/USA---New-Jersey---Rahway/Associate-Director-Global-Oncology-Marketing-Launch-Excellence_R422322-1",
   "/job/USA---New-Jersey---Rahway/Associate-Director-Program-Project-Management-Metrics-Analytics---Performance--MAP---Hybrid_R421840-1",
@@ -17829,6 +17848,7 @@
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Associate-Principal-Scientist--Global-Vaccines-Chemistry--Manufacturing-and-Control_R419069",
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Clinical-Systems-Implementation-Team-Lead_R422188-1",
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Director--AI---Cybersecurity-Legal_R417977",
+  "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Director--Clinical-and-Regulatory-Strategic-Communications_R423116-1",
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Director--Commercial-Operations--DCO---US-HIV---West-Region_R419875-1",
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Director--Customer-Engagement-Planning---Measurement--CEP-M-_R418857-1",
   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Director--DHT-Coordinator--GDMS-Data-Integration-and-Automation---Hybrid_R422211-1",
@@ -17923,6 +17943,7 @@
   "/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Manufacturing-and-Reliability-Engineering-Co-Op_R422487",
   "/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Vaccine-Manufacturing-Automation-Co-op_R422480",
   "/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Vaccine-Manufacturing-Co-op_R422481",
+  "/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Vivarium---Intern_R412852",
   "/job/USA---REMOTE---REMOTE/Associate-Specialist-Drug-Safety_R423142-1",
   "/job/USA---REMOTE---REMOTE/Regional-Medical-Scientific-Director--Cardiopulmonary---Pulmonary-Hypertension----Central-Plains-Territory_R420223-2",
   "/job/USA---REMOTE---REMOTE/Regional-Medical-Scientific-Director--Cardiopulmonary---Pulmonary-Hypertension----Mid-Atlantic-Territory_R420212-1",
@@ -21227,6 +21248,7 @@
   "371afd71-386b-40a0-be0a-e90f010b7bd0",
   "3813977e-5940-456d-bf5a-16efcdc3a6dc",
   "38388825-65f9-46c5-b5f4-c783d1fb17d4",
+  "3874db80-f3ec-4dd1-8d56-6441e8f7299d",
   "38ddaa2c-a490-427a-8457-0e92bf00138c",
   "38e3c4bf-a632-405e-9619-b87382ca2472",
   "393b88d7-1fbc-466a-9108-a7c1bafeb8d8",
@@ -21542,6 +21564,7 @@
   "8a3fdf98-ad82-4082-ace0-9edb89bc8f6d",
   "8a50f878-5252-4f65-ad84-80ae2dc5637e",
   "8a86b02b-6063-4124-863f-7e41e9849e22",
+  "8ac9a248-4069-45cc-a00e-82f22f1e7ed2",
   "8acfba11-707e-4d8e-a860-88643fae24ba",
   "8ad567c5-70ca-46bf-85ae-eb5bbc8a2a39",
   "8c460221-77ba-4120-b74e-3b1ad7c82818",
@@ -21930,6 +21953,7 @@
   "ea647f38-5af4-4767-8268-608059af4095",
   "ea738090-a7e0-41bd-b619-afeff9fd18e0",
   "eacbd123-83fb-42c6-a5d5-e914b8e135b8",
+  "eb112d35-cd7e-45a4-8633-5d7ade298a39",
   "eb4e4757-94b6-4c7d-a3ba-35fad40c0859",
   "eba9c8bc-dc0a-4666-a9c8-356d05b7daf5",
   "ebc65e7d-d86a-4066-aa82-3a7758d97bb6",
@@ -23756,6 +23780,7 @@
   "/job/Madrid/Especialista-Junior-en-Seleccin-y-Atraccin-de-Talento_766995WD",
   "/job/Madrid/IFS---Administrativo-Formacin_766372WD",
   "/job/Madrid/IFS---Specialist-Administracin-de-personal_766403WD",
+  "/job/Madrid/TLS----Senior-Associate-Litigation-Madrid_769217WD",
   "/job/Madrid/TLS---Associate-Fiscalidad-I-D-i-Madrid_765652WD",
   "/job/Madrid/Tax---Legal---Senior-Associate-Fiscalidad-Corporativa_766145WD",
   "/job/Makati/Senior-Audit-Associate_767247WD",
@@ -24896,6 +24921,7 @@
   "/job/US-CA-CARLSBAD-582--2752-Loker-Ave-W--LOKER/Optical-Systems-Manufacturing-Engineer_01880747",
   "/job/US-CA-CARLSBAD-582--2752-Loker-Ave-W--LOKER/Sr-Quality-Assurance-Engineer--Onsite-_01879377-1",
   "/job/US-CA-CARLSBAD-5940--5940-Darwin-Ct--DARWIN/Principal-Manufacturing-Readiness-Lead---Ceramic-Matrix-Composites--Onsite-_01878397",
+  "/job/US-CA-CARLSBAD-5940--5940-Darwin-Ct--DARWIN/Process-Technician---1st-Shift--Onsite-_01883273",
   "/job/US-CA-CHULA-VISTA-B107--850-Lagoon-Dr--BLDG-107-Mail-Zone-1-C/Senior-Principal-Engineer--Structural-Engineering--Onsite-_01880484",
   "/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Advanced-System-Program-Quality-Lead_01879411",
   "/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Digital-Technology-Department-Manager_01884107-1",
@@ -25005,6 +25031,7 @@
   "/job/US-CA-REMOTE/Principal-Specialist-Supplier-Quality---Development---Engineered-Items--Remote-_01877170-1",
   "/job/US-CA-REMOTE/Program-Cost-Controls-Analyst_01875929",
   "/job/US-CA-REMOTE/Program-Cost-Controls-Senior-Analyst_01875924",
+  "/job/US-CA-REMOTE/Senior-Analyst--Business-Resilience---Crisis-Management---Travel-Security--Remote-_01879759",
   "/job/US-CA-REMOTE/Subcontracts-Manager_01876086",
   "/job/US-CA-REMOTE/Subcontracts-Manager_01876754",
   "/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Embedded-Software-Engineer-I--Onsite-_01881491",
@@ -25045,6 +25072,7 @@
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Airfoil-Cell-Operator---2nd-Shift--onsite-_01872559-1",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Airfoil-Cell-Operator---3rd-Shift--onsite-_01847321-1",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Airfoil-Cell-Operator---3rd-Shift--onsite-_01872555-1",
+  "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Analyst--Material-Verification-and-Control_01874625",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Director---Product-Owner--Hybrid-_01880814-1",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Director---Product-Owner--Hybrid-_01880817",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Director--DT-Sales---Distribution--Warehousing--Hybrid-_01879320",
@@ -25499,6 +25527,7 @@
   "/job/US-KY-LOUISVILLE-102--6201-Strawberry-Ln--STRAWBERRY/International-Program-Manager_01868840",
   "/job/US-KY-LOUISVILLE-500--1001-Cheri-Wy--BLDG-500-Ste-300-400-500/Program-Integrator_01878378",
   "/job/US-KY-REMOTE/International-Program-Manager--CIWS-_01883426",
+  "/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/CUAS-Finance-Manager--M4---HYBRID-_01884120",
   "/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Control-Account-Manager_01880483",
   "/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Control-Account-Manager_01881910",
   "/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Electrical-Test-Engineer-I_01880009",
@@ -26400,6 +26429,7 @@
   "8201359",
   "8202510",
   "8203478",
+  "8204924",
   "8205402",
   "8205702",
   "8211850",
@@ -33721,6 +33751,7 @@
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Analyst-Category-Site-Merchandising--Apparel---Accessories_R0000475417",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Analyst-Category-Site-Merchandising--Fun101_R0000475900-1",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Business-Partner-BP-N--Pantry---Bakery_R0000477101",
+  "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Communications-Manager---Business-Strategist_R0000444164",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Designer--Kids-Swim_R0000453472",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Engineer-Safety_R0000450022",
   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Labor-Engineer_R0000477158",
@@ -34382,7 +34413,8 @@
   "8303972",
   "8304298",
   "8304318",
-  "8306745"
+  "8306745",
+  "8310766"
  ],
  "Twilio": [
   "6372770",
@@ -34937,6 +34969,7 @@
   "/job/US---Ashburn-VA/Sr-Manager--Cybersecurity-Advisory_REF088839W",
   "/job/US---Ashburn-VA/Sr-Manager-Visa-Consulting-and-Analytics--Community_REF089382W",
   "/job/US---Ashburn-VA/Staff-Network-Engineer_REF085289W",
+  "/job/US---Atlanta-GA/Analyst--Global-Social-Impact-Programs_REF089398W",
   "/job/US---Atlanta-GA/Analyst--Payment-Ecosystem-Risk---Compliance_REF088672W",
   "/job/US---Atlanta-GA/Consulting-Senior-Manager--VIS---Technology_REF088985W",
   "/job/US---Atlanta-GA/Counsel--Global-Regulatory-Affairs_REF088308W",
@@ -35022,6 +35055,7 @@
   "/job/US---Foster-City-CA/Sr-Data-Scientist_REF088994W-1",
   "/job/US---Foster-City-CA/Sr-Director--Global-Indirect-Tax_REF089654W",
   "/job/US---Foster-City-CA/Sr-Director--SRC-Product_REF089472W",
+  "/job/US---Foster-City-CA/Sr-Executive-Administrator_REF089485W",
   "/job/US---Foster-City-CA/Sr-Manager_REF088675W",
   "/job/US---Foster-City-CA/Sr-Product-Manager-RAS-Stablecoin-Risk_REF089352W",
   "/job/US---Foster-City-CA/Sr-Product-Manager_REF080722W",
@@ -36375,7 +36409,8 @@
    "5268752007": "2026-10-19",
    "5268864007": "2026-10-19",
    "5269977007": "2026-10-20",
-   "5271285007": "2026-10-21"
+   "5271285007": "2026-10-21",
+   "5271672007": "2026-10-21"
   },
   "Anthropic": {},
   "Applied Materials": {
@@ -36478,6 +36513,7 @@
    "/job/02663---Highland-Park-CVS-LLC/Pharmacy-Intern---Grad_R0996255": "2026-10-12",
    "/job/02701---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996260": "2026-10-12",
    "/job/02771---North-Carolina-CVS-Pharmacy-LLC/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1065652": "2026-10-05",
+   "/job/02784---Pennsylvania-CVS-Pharmacy-LLC/Pharmacy-Intern_R1043338": "2026-10-21",
    "/job/02786---Highland-Park-CVS-LLC/Pharmacy-Intern---Grad_R0996269": "2026-10-12",
    "/job/02844---Highland-Park-CVS-LLC/Pharmacy-Intern---Grad_R0996273": "2026-10-12",
    "/job/02845---Highland-Park-CVS-LLC/Pharmacy-Intern---Grad_R0996274": "2026-10-12",
@@ -37352,7 +37388,8 @@
    "/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---International-Pricing-Analytics---Intern_R420041": "2026-10-08",
    "/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Modeling---Informatics---Intern_R416278": "2026-10-09",
    "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Commercial-Leadership-Development-Program-MBA-Intern_R422769-1": "2026-10-20",
-   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Study-Management---Intern_R413266": "2026-10-06"
+   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Study-Management---Intern_R413266": "2026-10-06",
+   "/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Vivarium---Intern_R412852": "2026-10-21"
   },
   "Micron": {
    "/job/Boise-ID---ID1/Intern---CMOS-Process-Integration_JR114110": "2026-10-05",
@@ -38055,7 +38092,8 @@
    "5268752007": false,
    "5268864007": false,
    "5269977007": false,
-   "5271285007": false
+   "5271285007": false,
+   "5271672007": false
   },
   "Applied Materials": {
    "91e0686e-272a-4780-b33d-d7860b94a7b4": false,
@@ -38134,6 +38172,7 @@
    "/job/02663---Highland-Park-CVS-LLC/Pharmacy-Intern---Grad_R0996255": false,
    "/job/02701---CVS-Pharmacy-Inc/Pharmacy-Intern---Grad_R0996260": false,
    "/job/02771---North-Carolina-CVS-Pharmacy-LLC/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1065652": false,
+   "/job/02784---Pennsylvania-CVS-Pharmacy-LLC/Pharmacy-Intern_R1043338": false,
    "/job/02786---Highland-Park-CVS-LLC/Pharmacy-Intern---Grad_R0996269": false,
    "/job/02844---Highland-Park-CVS-LLC/Pharmacy-Intern---Grad_R0996273": false,
    "/job/02845---Highland-Park-CVS-LLC/Pharmacy-Intern---Grad_R0996274": false,
@@ -38972,7 +39011,8 @@
    "/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Lung-Medical-Affairs---Intern_R420967": false,
    "/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---International-Pricing-Analytics---Intern_R420041": false,
    "/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Modeling---Informatics---Intern_R416278": false,
-   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Study-Management---Intern_R413266": false
+   "/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Study-Management---Intern_R413266": false,
+   "/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Vivarium---Intern_R412852": false
   },
   "Micron": {
    "/job/Boise-ID---ID1/Intern---CMOS-Process-Integration_JR114110": false,
