@@ -1,6 +1,6 @@
-# Open matching jobs (388)
+# Open matching jobs (397)
 
-Updated 2026-10-21 14:32 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-21 15:11 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -117,14 +117,15 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Other internships (283)
+## Other internships (292)
 
 Neither the title nor the description mentions an MBA. Mostly undergrad roles; no phone alerts for these.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
+| 2026-10-21 | Target | [Space & Presentation Business Partner Intern – Minneapolis, MN (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Space---Presentation-Business-Partner-Intern---Minneapolis--MN--Starting-Summer-2027-_R0000478342) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |
 | 2026-10-21 | RTX | [Mechanical Engineer Intern - Test Equipment](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Mechanical-Engineer-Intern---Test-Equipment_01874237) | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 |
-| 2026-10-21 | RTX | [Electrical Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern_01874283) | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 |
+| 2026-10-21 | Genentech | [Student Internship in Device Development and Verification Engineering (Basel, 9-12 months)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Student-Internship-in-Device-Development-and-Verification-Engineering--Basel--9-12-months-_202610-126054) | Basel |
 | 2026-10-21 | Genentech | [Internship in tDMPK-PD Drug Disposition and Bioanalysis (DDB), PS, pRED (as of 1 February 2027 for 12 months in Basel)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Internship-in-tDMPK-PD-Drug-Disposition-and-Bioanalysis--DDB---PS--pRED--as-of-1-February-2027-for-12-months-in-Basel-_202610-126559) | Basel |
 | 2026-10-21 | GE Aerospace | [Intern - Inspection](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Subang/Intern---Inspection_R5041883-1) | Subang |
 | 2026-10-21 | Caterpillar | [S&L Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Tianjin-Tianjin/S-L-Intern_R0000396644) | Tianjin, Tianjin |
@@ -144,7 +145,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AL---Homewood/Pharmacy-Intern_R1081894) | AL - Homewood |
 | 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Thorndale/Pharmacy-Intern_R1081841-1) | PA - Thorndale |
 | 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---West-Chester/Pharmacy-Intern_R1081836) | PA - West Chester |
-| 2026-10-20 | CVS Health | [Pharmacy Intern](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/PA---Coatesville/Pharmacy-Intern_R1081833) | PA - Coatesville |
 | 2026-10-20 | Anduril | [2027 Finance Data Analyst Intern](https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007) | Costa Mesa, California, United States |
 | 2026-10-20 | Amazon | [Creative Marketing Intern – Summer 2027](https://www.amazon.jobs/en/jobs/10584130/creative-marketing-intern-summer-2027) | Seattle, Washington, USA |
 | 2026-10-20 | Amazon | [Industrial Design Engineer Intern , Summer 2027](https://www.amazon.jobs/en/jobs/10584122/industrial-design-engineer-intern-summer-2027) | Bellevue, Washington, USA |
@@ -226,7 +226,6 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-10-05 | Abbott | [2027 R&D Cancer Diagnostics Intern](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---La-Jolla/XMLNAME-2027-R-D-Cancer-Diagnostic-Intern_31162891) | 2 Locations |
 | 2026-10-02 | Vanguard | [College to Corporate IT Internship-Application Development (PA)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757) | Malvern, PA |
 | 2026-10-02 | Vanguard | [College to Corporate IT Internship-Application Development (NC)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781) | Charlotte, NC |
-| 2026-10-02 | Vanguard | [College to Corporate IT Internship-Investment Systems (PA)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782) | Malvern, PA |
 | 2026-10-02 | Philips | [Sales Operations Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Varginha/Sales-Operations-Intern_589725) | Varginha |
 | 2026-10-02 | Philips | [Key Account Intern (all genders)](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Warszawa/Key-Account-Intern--all-genders-_592831) | Warszawa |
 | 2026-10-02 | Huron | [IT Contact Support Intern, Pensacola, Florida - Onsite Opportunity](https://huron.wd1.myworkdayjobs.com/en-US/HuronCareers/job/Pensacola---125-W-Romana/IT-Contact-Support-Intern--Pensacola--Florida---Onsite-Opportunity_JR-0016746) | Pensacola - 125 W Romana |
@@ -292,6 +291,16 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-21 | Medtronic | [Clinical Technologist Intern - Cardiovascular](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Cape-Town-Western-Cape-South-Africa/Clinical-Technologist-Intern---Cardiovascular_R77958) | 4 Locations |
 | 2026-09-21 (30+ days) | Medtronic | [Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference ](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1) | 20 Locations |
 | 2026-09-21 (30+ days) | Kraft Heinz | [Operations Intern](https://heinz.wd1.myworkdayjobs.com/en-US/KraftHeinz_Careers/job/Operations-Intern_R-53383) |  |
+| 2026-09-21 (30+ days) | Home Depot | [2027 Summer Internship - Supply Chain and Logistics](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Supply-Chain-and-Logistics_Req191966) | STORE SUPPORT CENTER, ATLANTA - 9090 |
+| 2026-09-21 (30+ days) | Home Depot | [2027 Summer Internship - Finance & Accounting](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Finance---Accounting_Req191935) | STORE SUPPORT CENTER, ATLANTA - 9090 |
+| 2026-09-21 (30+ days) | Home Depot | [2027 Summer Internship - Marketing](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Marketing_Req191965) | STORE SUPPORT CENTER, ATLANTA - 9090 |
+| 2026-09-21 (30+ days) | Home Depot | [2027 Summer Internship - Data Science & Analytics](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968) | STORE SUPPORT CENTER, ATLANTA - 9090 |
+| 2026-09-21 (30+ days) | Home Depot | [2027 Summer Internship - Business Operations & Management](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Business-Operations---Management_Req191941) | STORE SUPPORT CENTER, ATLANTA - 9090 |
+| 2026-09-21 (30+ days) | Home Depot | [2027 Summer Internship - Cybersecurity](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Cybersecurity_Req191938) | STORE SUPPORT CENTER, ATLANTA - 9090 |
+| 2026-09-21 (30+ days) | Home Depot | [2027 Summer Internship - Human Resources](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Human-Resources_Req192106) | STORE SUPPORT CENTER, ATLANTA - 9090 |
+| 2026-09-21 (30+ days) | Home Depot | [2027 Summer Internship - Software Engineering](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937) | STORE SUPPORT CENTER, ATLANTA - 9090 |
+| 2026-09-21 (30+ days) | Home Depot | [2027 Summer Internship - Product Management](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931) | STORE SUPPORT CENTER, ATLANTA - 9090 |
+| 2026-09-21 (30+ days) | Home Depot | [2027 Summer Internship - User Experience](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---User-Experience_Req192109) | STORE SUPPORT CENTER, ATLANTA - 9090 |
 | 2026-09-21 | Coinbase | [Internal Audit Analytics Intern](https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238) | Hybrid - New York, NY |
 | 2026-09-21 | Coinbase | [Tax Information Reporting Intern](https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241) | Hybrid - New York, NY |
 | 2026-09-21 | Clorox | [R&D Intern (Summer 2027)](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Pleasanton-CA---USA/R-D-Intern--Summer-2027-_JR23320) | 3 Locations |
@@ -331,8 +340,8 @@ Neither the title nor the description mentions an MBA. Mostly undergrad roles; n
 | 2026-09-14 | Figma | [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | San Francisco, CA • New York, NY |
 | 2026-09-11 | Lyft | [Data Analyst Intern (Summer 2027)](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | New York, NY |
-| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
+| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-09 | Amazon | [Startup Project Manager (Execution) Intern Spring and Summer 2027 (CA, CT, TX) ](https://www.amazon.jobs/en/jobs/10534584/startup-project-manager-execution-intern-spring-and-summer-2027-ca-ct-tx) | Cleburne, Texas, USA |
 | 2026-09-09 | Amazon | [Startup Project Manager (Support) Intern Spring and Summer 2027 (Bellevue, WA),  ](https://www.amazon.jobs/en/jobs/10534582/startup-project-manager-support-intern-spring-and-summer-2027-bellevue-wa) | Bellevue, Washington, USA |
 | 2026-09-08 | Datadog | [Software Engineering Intern (Summer)](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) | Boston, Massachusetts, USA; New York, New York, USA |
