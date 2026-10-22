@@ -753,6 +753,7 @@
   "8224032",
   "8224084",
   "8224146",
+  "8225578",
   "8225785",
   "8230593",
   "8230709",
@@ -3618,6 +3619,7 @@
   "5251112007",
   "5251160007",
   "5251191007",
+  "5251195007",
   "5251222007",
   "5251226007",
   "5251234007",
@@ -4214,7 +4216,8 @@
   "5272006007",
   "5272014007",
   "5272017007",
-  "5272019007"
+  "5272019007",
+  "5272031007"
  ],
  "Anthropic": [
   "4017331008",
@@ -7717,6 +7720,7 @@
   "/job/MS---Jackson/Pharmacy-Intern_R1063815",
   "/job/MS---Natchez/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1065511-1",
   "/job/MS---Southaven/Pharmacy-Intern_R1065442",
+  "/job/MS---Starkville/Store-Associate-RX_R1082335",
   "/job/MT---Missoula/Pharmacy-Intern_R1061484",
   "/job/Manager--Scrum-Master_R1018958",
   "/job/Manager--Technology-Enablement---Portfolio-Management_R1016413",
@@ -18862,6 +18866,7 @@
   "/job/Richardson-TX/Staff-CAD-Engineer_JR113545",
   "/job/Richardson-TX/Staff-CAD-Engineer_JR115611",
   "/job/Richardson-TX/Staff-Design-Engineer---Sustaining--HBM_JR101732",
+  "/job/Richardson-TX/Staff-Design-Engineer--HBM-Architecture_JR107757",
   "/job/Richardson-TX/Staff-Design-Engineer--HBM_JR107746",
   "/job/Richardson-TX/Staff-Engineer_JR114946",
   "/job/Richardson-TX/Staff-Layout-Designer_JR110002",
@@ -20285,6 +20290,7 @@
   "/job/Shanghai-China-Mainland/Senior-Director--Marketplace-Management--GC_R-94948",
   "/job/Shanghai-China-Mainland/Specialist-I--CVS-Operations-Converse-China_R-95409",
   "/job/Solna-Sweden/Brand-Marketing-Specialist--Agile_R-91868",
+  "/job/South-Singapore-Singapore/Global-Process-Delivery-Analyst-I_R-95971-1",
   "/job/Taichung-Taiwan/Senior--FW-Product-Engineer-Taiwan_R-95676"
  ],
  "Nordstrom": [
@@ -21650,6 +21656,7 @@
   "831960f4-a877-4c41-8fda-17fd321c0230",
   "831e2f91-c213-4208-9eb3-4ce2cc6b9acf",
   "832094fd-4d89-4fe4-bc18-9ba88d347a18",
+  "83730f3e-3a96-476e-afb0-15f1f045ab03",
   "83939922-2a95-4cc0-b8ff-e1b15ed5254b",
   "83a99320-d95b-49f4-b819-1d723a5adf08",
   "83ac3381-99c0-46a0-897c-abcd8699b466",
@@ -32622,7 +32629,9 @@
   "8906243002",
   "8907194002",
   "8907598002",
-  "8907760002"
+  "8907619002",
+  "8907760002",
+  "8908051002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -33651,6 +33660,7 @@
   "8286655",
   "8286680",
   "8287912",
+  "8288334",
   "8288538",
   "8288561",
   "8288876",
@@ -36440,6 +36450,7 @@
   "5267165007",
   "5267171007",
   "5268023007",
+  "5268700007",
   "5268702007",
   "5269992007",
   "5270703007",
