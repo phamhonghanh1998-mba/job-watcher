@@ -15034,6 +15034,8 @@
   "/job/Riyadh/Business-Value-Partner_202610-125133",
   "/job/Riyadh/Early-in-Career-Development-Programme---Commercial--Roche-Pharma-_202610-125128",
   "/job/Riyadh/Medical-Value-Lead-Oncology_202609-123968",
+  "/job/Riyadh/Omnichannel---Marketing-Enabler-Hemophilia_202610-127061-1",
+  "/job/Riyadh/Omnichannel---Marketing-Enabler-Multiple-Sclerosis_202610-127058",
   "/job/Riyadh/Operations---Internal-Communications-Coordinator_202610-126628-1",
   "/job/Riyadh/Regional-Learning---Growth-Lead--Middle-East-_202607-117292",
   "/job/Romania/Patient-Journey-Partner_202609-124454",
@@ -18125,6 +18127,7 @@
   "/job/Bengaluru-India/Expert-ESD-Design-Engineer_JR95955",
   "/job/Bengaluru-India/MTS---Analog-Layout_JR114958",
   "/job/Bengaluru-India/Principal-Engineer---ASIC-DV_JR111205",
+  "/job/Bengaluru-India/Principal-Engineer--ASIC-Analog-Design_JR105254",
   "/job/Bengaluru-India/Senior-Engineer---SSD-Validation_JR110541",
   "/job/Bengaluru-India/Senior-Manager---SSD-FIRMWARE_JR111253",
   "/job/Bengaluru-India/Staff--Engineer---ESSD-Firmware_JR111258-1",
@@ -29089,6 +29092,7 @@
   "0be5b572-9333-4877-bbf7-33cfccedb9bf",
   "0ddbb960-df61-4d19-82f1-e6cd5ab8dd64",
   "0e1ea0b0-bf78-46e6-94d4-673d586271a1",
+  "0f2d263b-37c1-4e5c-92b7-007818fbc0d5",
   "0f4d6a2f-f88c-4cdf-9994-bd138413301c",
   "10f51a30-17eb-4eed-80b0-bb03c9d473c6",
   "1113abae-e091-45e7-b15a-ba07ed7fdbf0",
@@ -35205,6 +35209,7 @@
   "/job/SG---Singapore/Senior-Data-Engineer_REF088211W-1",
   "/job/SG---Singapore/Senior-Data-Engineer_REF088710W",
   "/job/SG---Singapore/Senior-Director--Corporate-Strategy_REF083277W",
+  "/job/SG---Singapore/Senior-Director--Head-of-Loyalty--AP_REF088776W-1",
   "/job/SG---Singapore/Senior-Manager--AP-VAS-Issuing-Solutions_REF088686W-1",
   "/job/SG---Singapore/Sr-Associate-Counsel---Products-and-Solutions_REF088898W-1",
   "/job/SG---Singapore/Sr-Client-Consulting-Manager_REF089411W",
@@ -38243,6 +38248,378 @@
   "Zoom": {},
   "Zscaler": {},
   "eBay": {}
+ },
+ "_gradfin": {
+  "3M": {},
+  "Abbott": {
+   "/job/United-States---California---La-Jolla/XMLNAME-2027-R-D-Cancer-Diagnostic-Intern_31162891": false,
+   "/job/United-States---Illinois---Abbott-Park/CRM-Clinical-Field-Intern---Summer-2027_31160750": false,
+   "/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432": false,
+   "/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Finance-Cancer-Diagnostics-Intern_31161561": false,
+   "/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-IT-Cancer-Diagnostics-Intern_31162235": false,
+   "/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Operations-Cancer-Diagnostics-Intern_31162236": false,
+   "/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Sales-Cancer-Diagnostics-Intern_31161558": false
+  },
+  "Adobe": {
+   "/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000": false,
+   "/job/New-York/XMLNAME-2027-Intern---Enterprise-Architecture-Analyst_R171856": true,
+   "/job/New-York/XMLNAME-2027-Intern---Sales-Velocity-Analyst_R171869": true,
+   "/job/New-York/XMLNAME-2027-Intern---Solutions-Consulting-Analyst_R171696": false,
+   "/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998": false,
+   "/job/San-Jose/XMLNAME-2027-Intern---Adobe-Sales-Academy-BDR_R170977": false,
+   "/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997": true,
+   "/job/San-Jose/XMLNAME-2027-Intern---Experience-Researcher_R172996": false,
+   "/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519": false,
+   "/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001": false
+  },
+  "Affirm": {
+   "8011375003": false
+  },
+  "Airbnb": {},
+  "Amazon": {
+   "10493095": false,
+   "10493126": false,
+   "10493325": false,
+   "10493329": false,
+   "10493330": false,
+   "10493331": false,
+   "10493373": false,
+   "10493586": false,
+   "10494789": false,
+   "10495055": false,
+   "10501526": false,
+   "10502807": false,
+   "10510811": false,
+   "10532282": false,
+   "10532290": false,
+   "10532293": false,
+   "10532296": false,
+   "10532299": false,
+   "10534582": false,
+   "10534584": false,
+   "10553765": true,
+   "10553907": true,
+   "10573984": false,
+   "10575248": false,
+   "10575250": false,
+   "10575251": false,
+   "10575252": false,
+   "10575256": false,
+   "10575291": false,
+   "10576619": false,
+   "10578771": false,
+   "10580807": false,
+   "10584122": true,
+   "10584130": false,
+   "10584152": false
+  },
+  "Amgen": {},
+  "Anduril": {
+   "5148101007": false,
+   "5153187007": false,
+   "5153218007": false,
+   "5255593007": true,
+   "5255827007": true,
+   "5257674007": false,
+   "5257682007": false,
+   "5257690007": false,
+   "5257709007": false,
+   "5265097007": true,
+   "5265158007": false,
+   "5268689007": false,
+   "5268736007": false,
+   "5268752007": false,
+   "5268864007": false,
+   "5269977007": true,
+   "5271285007": false,
+   "5271672007": false,
+   "5271826007": true
+  },
+  "Applied Materials": {
+   "91e0686e-272a-4780-b33d-d7860b94a7b4": false,
+   "bb953f29-0059-4a40-aa9e-3a8c88733902": false,
+   "ce58d9fd-f22b-4336-80b5-ba1e8d764526": false,
+   "edc2528d-6e6c-4a67-b871-bfe7d9c890b4": false
+  },
+  "BlackRock": {},
+  "Blue Origin": {},
+  "Boeing": {
+   "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1": false,
+   "/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1": false
+  },
+  "Booz Allen Hamilton": {
+   "/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249565": false,
+   "/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251716": false,
+   "/job/Arlington-VA/University--Digital-Transformation-Analyst-Intern_R0251721": false,
+   "/job/Honolulu-HI/University--2026-Fall-Technologist-Intern_R0249246": false,
+   "/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869": false,
+   "/job/McLean-VA/Product-Engineering-Intern_R0250655": false,
+   "/job/McLean-VA/University---Corporate-Finance-Intern_R0246500": false,
+   "/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249252": false,
+   "/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249253": false,
+   "/job/McLean-VA/University---Summer-27--Pricing-Intern_R0249254": false,
+   "/job/McLean-VA/University---Summer-27--Pricing-Intern_R0250410": false,
+   "/job/McLean-VA/University--Summer-2027---Accounting-Intern_R0250271": false
+  },
+  "Caterpillar": {
+   "/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454": false,
+   "/job/Minerbio-Bologna/Intern_R0000399549": false,
+   "/job/Mossville-Illinois/XMLNAME-2027-Corporate-Intern---Engineering_R0000384650": false,
+   "/job/Nashville-Tennessee/XMLNAME-2027-Summer-Intern---Finance_R0000387781": false,
+   "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Communications_R0000380423": false,
+   "/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Procurement_R0000380151": false,
+   "/job/Tianjin-Tianjin/S-L-Intern_R0000396644": false,
+   "/job/Tianjin-Tianjin/Tax-Intern_R0000399969": false,
+   "/job/Tullamarine-Victoria/Environment--Health---Safety-Intern_R0000400697": false
+  },
+  "Cisco": {},
+  "Clorox": {
+   "/job/Alpharetta-GA---USA/Supply-Chain-Intern---Business-Track--June-2027-_JR23439": true,
+   "/job/Alpharetta-GA---USA/Supply-Chain-Intern---Technical-Track--June-2027-_JR23438-1": false,
+   "/job/Pleasanton-CA---USA/R-D-Intern--Summer-2027-_JR23320": false,
+   "/job/Sales---Customer-Analytics-Intern-Summer-2027_JR23359-1": false
+  },
+  "Coinbase": {
+   "8168322": false,
+   "8173991": false,
+   "8175339": false,
+   "8175360": false,
+   "8175363": false,
+   "8175366": false,
+   "8175369": true,
+   "8175429": false,
+   "8175432": false,
+   "8175435": true,
+   "8175438": false,
+   "8175441": false,
+   "8175447": false,
+   "8175453": false,
+   "8175459": false,
+   "8175462": true,
+   "8175471": false,
+   "8175507": false,
+   "8175510": false,
+   "8175514": false,
+   "8175517": false,
+   "8175556": false,
+   "8187551": true,
+   "8221238": false,
+   "8221241": false
+  },
+  "Databricks": {
+   "6883068002": false,
+   "8787352002": false
+  },
+  "Datadog": {
+   "8052118": false,
+   "8108241": false,
+   "8287316": false
+  },
+  "DoorDash": {
+   "8176863": false,
+   "8274095": false
+  },
+  "Duolingo": {
+   "8863967002": false
+  },
+  "Figma": {
+   "6178851004": false,
+   "6178857004": false,
+   "6180005004": false
+  },
+  "Gusto": {
+   "8257115": false
+  },
+  "Hewlett Packard Enterprise": {
+   "/job/Roseville-California-United-States-of-America/ASIC-Intern_1214020": true,
+   "/job/San-Jose-California-United-States-of-America/Finance-Intern_1213767": false,
+   "/job/San-Jose-California-United-States-of-America/Marketing-Intern_1213357": false,
+   "/job/Spring-Texas-United-States-of-America/Finance-Intern_1213639": false,
+   "/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213360": false,
+   "/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034": false
+  },
+  "Hewlett Packard Enterprise (2)": {},
+  "Home Depot": {
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Business-Operations---Management_Req191941": false,
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Cybersecurity_Req191938": false,
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968": false,
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Finance---Accounting_Req191935": false,
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Human-Resources_Req192106": false,
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Marketing_Req191965": false,
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931": false,
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937": true,
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Supply-Chain-and-Logistics_Req191966": false,
+   "/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---User-Experience_Req192109": false
+  },
+  "Huron": {
+   "/job/Chicago---550-Van-Buren/IT-Contact-Support-Intern--Chicago--IL---Onsite-Opportunity_JR-0016772": false,
+   "/job/Pensacola---125-W-Romana/IT-Contact-Support-Intern--Pensacola--Florida---Onsite-Opportunity_JR-0016746": false
+  },
+  "Intel": {
+   "/job/US-New-Mexico-Albuquerque/Facilities-Technician-Intern_JR0286923": false
+  },
+  "Kraft Heinz": {
+   "/job/Operations-Intern_R-53383": true
+  },
+  "Lyft": {
+   "8767723002": true,
+   "8796124002": true
+  },
+  "Medtronic": {
+   "/job/Ankara-Ankara-Trkiye/Sales-Operations-Intern_R78959-1": false,
+   "/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309": false,
+   "/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1": false
+  },
+  "Merck": {
+   "/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Vivarium---Intern_R412852": false
+  },
+  "Micron": {
+   "/job/Boise-ID---Main-Site/Intern---Surface-Lab_JR114827": false
+  },
+  "Mondelez": {
+   "/job/Business-Unit-Head-Office---East-Hanover-USA/Customer-Service-and-Logistics-Intern-_R-175412": true,
+   "/job/Business-Unit-Head-Office---East-Hanover-USA/Manufacturing-Intern--Process-Engineering_R-175409": true,
+   "/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1": true,
+   "/job/East-Hanover-New-Jersey-United-States/Research---Development-Intern_R-175411": false
+  },
+  "Morgan Stanley": {
+   "/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2": false,
+   "/job/Winter-Park-Florida-United-States-of-America/Intern_JR045797": false
+  },
+  "NVIDIA": {},
+  "Nike": {},
+  "Oliver Wyman": {},
+  "Palantir": {
+   "1a935143-e857-480c-bc5a-ad625d754eb6": false,
+   "3db7e40a-28e0-4ad1-96c5-93de5bc96aa9": false,
+   "8f362a1f-1eff-4327-94c1-ff46e2101c69": false,
+   "8f7bbffa-92aa-4d25-9586-943b3322a27d": false,
+   "9db71277-3a9a-481b-a2a3-25c3125b0e8a": false,
+   "a49d4181-a289-435a-b581-7f5af0497c8e": false,
+   "ef725594-42dd-4f0d-ba8e-df8179dbc6cb": false,
+   "fa060d94-f85d-4d02-be58-b81787fe57e5": false
+  },
+  "Perplexity": {
+   "9246cf02-26fd-4ae8-90c5-639c6e85e9e2": false,
+   "be94e89b-89d5-4f2a-a58b-7929c8d97f92": false
+  },
+  "Pfizer": {},
+  "Philips": {
+   "/job/Best/Intern-Service-Enablement-Team_591964": true,
+   "/job/Warszawa/Customer-Care-Intern--all-genders-_589601": false,
+   "/job/Warszawa/Key-Account-Intern--all-genders-_592831": true,
+   "/job/Warszawa/Marketing-Intern--all-genders-_592892": true
+  },
+  "Pinterest": {
+   "8138039": false,
+   "8138080": false,
+   "8140217": false,
+   "8214788": false
+  },
+  "PwC (2)": {
+   "/job/DC-Washington/Washington-DC---Digital-Assurance---Transparency--DAT----Intern---Summer-2028_757381WD": false,
+   "/job/IL-Rosemont/Audit---Japanese-Business-Network---Intern---Summer-2027_757086WD": false,
+   "/job/IL-Rosemont/Audit---Japanese-Business-Network---Intern---Summer-2028_757478WD": false,
+   "/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD": false,
+   "/job/KY-Louisville/Louisville---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_756947WD": false,
+   "/job/MD-Baltimore/Baltimore---Audit---Intern---Winter-2027_756968WD": false,
+   "/job/NY-Rochester/Rochester---Tax-CPA---Intern---Summer-2027_756471WD": false,
+   "/job/OK-Oklahoma-City/Oklahoma-City---Audit---Intern---Winter-2027_757034WD": false,
+   "/job/PA-Philadelphia/Philadelphia---Digital-Assurance---Transparency--DAT----Intern---Summer-2028_757383WD": false,
+   "/job/PA-Philadelphia/Philadelphia---Tax-JD---Intern---Summer-2027_763735WD": false,
+   "/job/UT-Salt-Lake-City/Salt-Lake-City---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_764775WD": false
+  },
+  "Ramp": {
+   "a13ae586-f4cb-4385-8822-c42b9b54ed74": false,
+   "acf6b28d-767f-483f-8ff2-114620cd7e04": false,
+   "b39ceb08-a0a7-4f8b-a760-2fb88e209956": true,
+   "b66be397-240b-41a6-9b05-493299b270a9": false,
+   "fcf118cc-521a-4a62-9d13-945e5b6e3cb8": false
+  },
+  "Remitly": {
+   "/job/Managua-Nicaragua/People-Operations-Intern_R_107018": false
+  },
+  "Robinhood": {
+   "8198241": false
+  },
+  "Roblox": {
+   "8143981": true,
+   "8143984": false
+  },
+  "S&P Global": {
+   "/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1": false,
+   "/job/Colorado-US/Ratings-Analytical-Intern_332371": true,
+   "/job/DE---FRANKFURT-BOCKENHEIMER-LANDSTRASSE-2/Summer-Intern--Credit-Analysis_331668-1": true,
+   "/job/New-York-NY/Ratings-Analytical-Intern---Americas_331833-1": true,
+   "/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2": false
+  },
+  "Salesforce": {},
+  "Samsara": {
+   "8082091": false,
+   "8099799": false,
+   "8103119": false
+  },
+  "Scale AI": {
+   "4730845005": false,
+   "4735665005": false
+  },
+  "Snap": {
+   "/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179": false
+  },
+  "Snowflake": {},
+  "SpaceX": {
+   "8636143002": false,
+   "8636144002": false
+  },
+  "Stripe": {
+   "8194291": true
+  },
+  "Stryker": {
+   "/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936": false,
+   "/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937": false,
+   "/job/Cary-Illinois/Manufacturing-Engineering-Intern_R572922": false,
+   "/job/Flower-Mound-Texas/Quality-Engineering-Intern_R572886": false,
+   "/job/Fremont-California/R-D-Intern_R572862": false,
+   "/job/Massachusetts-Virtual-Address/Mechanical-Engineering-Intern_R572943-1": false,
+   "/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846": false,
+   "/job/Redmond-Washington/Mechanical-Engineering-Intern_R572728": false,
+   "/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768": false,
+   "/job/Tempe-Arizona/Packaging-Engineering-Intern_R572830": false,
+   "/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732": false
+  },
+  "Synchrony": {
+   "/job/Stamford-Hub/BLP-Intern---Sales_2601694": false
+  },
+  "T-Mobile": {
+   "/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322": false,
+   "/job/Overland-Park-Kansas/XMLNAME-2027-Summer-Human-Resources---Workplace-Experience-Internship_REQ375880": true
+  },
+  "Target": {
+   "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Space---Presentation-Business-Partner-Intern---Minneapolis--MN--Starting-Summer-2027-_R0000478342": false
+  },
+  "Vanguard": {
+   "/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767": true,
+   "/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765": true,
+   "/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781": false,
+   "/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Application-Development---TX-_181846": false,
+   "/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851": false,
+   "/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766": true,
+   "/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788": false,
+   "/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757": false,
+   "/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782": true
+  },
+  "Waymo": {
+   "8174504": false,
+   "8198218": false,
+   "8201252": true,
+   "8203200": false,
+   "8210170": false,
+   "8234553": false
+  },
+  "Zillow": {
+   "/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1": true,
+   "/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613": false
+  }
  },
  "_mba": {
   "3M": {},
