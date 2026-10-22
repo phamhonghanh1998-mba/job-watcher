@@ -4260,7 +4260,9 @@
   "5272765007",
   "5272794007",
   "5272795007",
-  "5272819007"
+  "5272819007",
+  "5272866007",
+  "5272939007"
  ],
  "Anthropic": [
   "4017331008",
@@ -6582,7 +6584,8 @@
   "8284709",
   "8289199",
   "8302300",
-  "8306056"
+  "8306056",
+  "8315974"
  ],
  "Brex": [
   "7732107002",
@@ -7131,6 +7134,8 @@
   "/job/AZ---Phoenix/Senior-Analyst--Reconciliation-COE_R0963968",
   "/job/AZ---Phoenix/Sr-Mgr--Business-Analytics_R0988173",
   "/job/AZ---Scottsdale/Executive-Director--Data-Protection---Privacy_R1062881",
+  "/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216",
+  "/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193",
   "/job/AZ---Scottsdale/Manager-Informatics_R1024797",
   "/job/AZ---Scottsdale/Member-Billing-Senior-Coordinator--Financial-Operations_R1059306",
   "/job/AZ---Scottsdale/Pharmacy-Benefits-Management--PBM--Underwriting--Senior-Analyst_R0969670",
@@ -7274,6 +7279,7 @@
   "/job/CT---Hartford/Governance---Operational-Excellence-Corporate-Internship---Summer-2027--Undergraduate-_R1080161",
   "/job/CT---Hartford/Healthcare-Strategy---Consulting-Corporate-Internship---Summer-2027--Undergraduate-_R1052586",
   "/job/CT---Hartford/IT-Customer-Service-Analyst_R1073955",
+  "/job/CT---Hartford/Innovation---Technology-Internship---Tech-Strategy-Ops---Business-Analytics-Summer-2027--Undergrad-_R1080789-1",
   "/job/CT---Hartford/Intake-Coordinator--Regulatory-Resolution-Team_R1024629",
   "/job/CT---Hartford/Internal-Audit-Corporate-Internship---Summer-2027--Undergrad-_R1058891",
   "/job/CT---Hartford/Lead-Director---Digital-Engineering--Cloud-Platform_R1057744",
@@ -7514,6 +7520,7 @@
   "/job/HI---Keaau/Pharmacy-Intern_R1079530",
   "/job/Hartford-Farmington-Ave-Atrium/Operations-Lead--DUAL-Program-Management_R1062853",
   "/job/Hartford-Farmington-Ave-Atrium/Senior-Manager--Business-Consultant--Governance---Reporting-_R1002670",
+  "/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767",
   "/job/Hartford-Farmington-Ave-Rogers/Senior-Manager--Project-Program-Management-and-Product-Delivery_R1043097",
   "/job/IA---Cedar-Rapids/Pharmacy-Intern_R1075633",
   "/job/IA---Des-Moines/Outreach-Executive_R1061320",
@@ -7654,6 +7661,7 @@
   "/job/IRL---Galway/Senior-Salesforce-Engineer_R1066905",
   "/job/IRL---Galway/Tech-College-Intern_R1038031",
   "/job/IRL---Galway/Workday-Integration-Developer_R1053067",
+  "/job/Innovation---Technology-Internship---Technology---Security---Summer-2027--Undergraduate-_R1081237",
   "/job/Irving-750-West-John-Carpenter/Senior-Contract-Analyst---Hybrid_R0958203",
   "/job/Jamaica-American-Airlines/Onsite-Employee-Assistance-Program-Clinical-Counselor--JFK-Airport_R1058632-1",
   "/job/Juneau-One-Sealaska-Plaza/Account-Manager_R1074642",
@@ -7986,6 +7994,8 @@
   "/job/NY---New-York/Campaign-Enablement-Manager---CVS-Media-Exchange--CMX-_R1075374",
   "/job/NY---New-York/Center-Medical-Director_R1063990",
   "/job/NY---New-York/Executive-Director--Business-Operations---Strategy---CVS-Media-Exchange_R1054418",
+  "/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038",
+  "/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067",
   "/job/NY---New-York/Lead-Decision-Scientist---Product-Analytics_R1016261",
   "/job/NY---New-York/Lead-Director--Marketing-Strategy---Operations_R1055667-1",
   "/job/NY---New-York/Lead-Director--Retail-Analytics-Technical-Product_R1014559",
@@ -8128,6 +8138,7 @@
   "/job/OH---Work-from-hom/Analyst--Case-Management---TOC_R1048152",
   "/job/OH---Work-from-hom/Analyst--Health-Care-Quality-Management---Remote_R1069815",
   "/job/OH---Work-from-hom/Analyst--Quality-Audit-Control-I-OPS_R1015119-1",
+  "/job/OH---Work-from-hom/Business-Analytics-Analyst_R1039704-1",
   "/job/OH---Work-from-hom/Care-Management-Associate---OhioRISE---Must-reside-in-Ohio_R1046726-1",
   "/job/OH---Work-from-hom/Care-Management-Associate---OhioRISE---Must-reside-in-Ohio_R1046788-1",
   "/job/OH---Work-from-hom/Care-Management-Associate---Work-From-Home_R1072830",
@@ -8148,6 +8159,7 @@
   "/job/OH---Work-from-hom/Senior-Financial-Analyst--Omnicare--Financial-Planning---Analysis-_R1006774",
   "/job/OH---Work-from-hom/Senior-Manager--Digital-Content-Designer_R1049515",
   "/job/OH---Work-from-hom/Senior-Manager-Compliance---Omnicare_R1061392",
+  "/job/OH---Work-from-hom/Senior-Manager-of-Marketing--Omnicare_R1082111-1",
   "/job/OH---Work-from-hom/Senior-Practice-Clinical-Manager---NP-PA_R1075955",
   "/job/OH---Work-from-hom/Sr-Analyst-OhioRISE-Prevention---Wellness_R1029930-1",
   "/job/OH---Work-from-hom/Tax-Manager---Omnicare_R1061078-1",
@@ -8580,6 +8592,7 @@
   "/job/Work-At-Home-Pennsylvania/Outreach-Coordinator-Analyst_R1054783-1",
   "/job/Work-At-Home-Pennsylvania/Provider-Contracting-Senior-Manager--National-Specialty-Value-Based-Care-Partnerships-Remote_R1053336",
   "/job/Work-At-Home-Rhode-Island/Manager--Digital-Product_R1074096",
+  "/job/Work-At-Home-Rhode-Island/Principal-Engineer--Technology-Transformation---AI-Enablement_R1063818",
   "/job/Work-At-Home-Texas/Clinical-Support-Coordinator--Specialty-Nursing_R1036275",
   "/job/Work-At-Home-Texas/Pharmacist---Clinical-Advisor_R1051207",
   "/job/Work-At-Home-Texas/Pharmacist---Specialty-Mail-Order_R1052050",
@@ -8709,7 +8722,8 @@
   "6000000001510200",
   "6000000001510205",
   "6000000001511859",
-  "6000000001514798"
+  "6000000001514798",
+  "6000000001514890"
  ],
  "Capital One": [
   "/job/Alabang-Muntinlupa-City/Principal-Risk-Specialist--Control-Testing_R243928",
@@ -9692,6 +9706,7 @@
   "8895833002",
   "8895837002",
   "8900226002",
+  "8907786002",
   "8907828002"
  ],
  "Cisco": [
@@ -9820,6 +9835,7 @@
   "/job/Alpharetta-GA---USA/Associate-Director---Procurement-Strategy---Transformation_JR23705",
   "/job/Alpharetta-GA---USA/Associate-Director-of-Network-Flow--Channel-Management-_JR23558",
   "/job/Alpharetta-GA---USA/Customer-Supply-Chain-Manager--US-Export-_JR23656-1",
+  "/job/Alpharetta-GA---USA/Senior-Project-Manager_JR23714-1",
   "/job/Alpharetta-GA---USA/Senior-Services-Manager--Supply-Chain-_JR23398-1",
   "/job/Alpharetta-GA---USA/Strategic-Supply-Chain-Services-Associate-Director--Food---Burts-_JR23512",
   "/job/Alpharetta-GA---USA/Supply-Chain-Intern---Business-Track--June-2027-_JR23439",
@@ -13858,6 +13874,7 @@
   "/job/Washington---Seattle-Campus/Software-Development-Engineer-II_R-109774",
   "/job/Washington---Seattle-Campus/Software-Development-Engineer-II_R-109797-1",
   "/job/Washington---Seattle-Campus/Software-Development-Engineer-II_R-110488",
+  "/job/Washington---Seattle-Campus/Software-Development-Engineer-II_R-110595-1",
   "/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311-1",
   "/job/Washington---Seattle-Campus/Sr-Director-Agent-Tools-Product---Technology_R-110290",
   "/job/Washington---Seattle-Campus/Sr-Director-Engineering---Experience-Platform_R-109663-1",
@@ -14649,6 +14666,7 @@
   "/job/Pewaukee/Director-of-Finance---Service-Parts---Lifecycle-Solutions_R4046651-1",
   "/job/Phoenix/Material-Handler_R4045977-2",
   "/job/Phoenix/Production-Associate-1---2nd-Shift--2-15-PM--10-45-PM-_R4046913-1",
+  "/job/Phoenix/Production-Associate-1_R4048264-1",
   "/job/Phoenix/Production-Group-Leader--2nd-Shift--_R4047295-1",
   "/job/Pittsburgh/Surgery-Field-Engineer-Apprentice--Pittsburgh--PA-_R4039858-1",
   "/job/Pune/Customer-Service-Engineer_R4047634-1",
@@ -15739,6 +15757,7 @@
   "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Senior-Supply-Planner_1216916-5",
   "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Software-Intern_1215275-1",
   "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Supply-Planner_1216908-3",
+  "/job/Aguadilla-Puerto-Rico-Puerto-Rico/Supply-Planner_1216915-5",
   "/job/Aguadilla-Puerto-Rico/Intermediate-Supply-Planner_1216931-2",
   "/job/Aguadilla-Puerto-Rico/Supply-Planner_1216915-5",
   "/job/Barcelona-Barcelona-Spain/WW-Instant-On-RTM-Sales-Program-Manager--HPE-Networking_1201966-2",
@@ -17181,6 +17200,7 @@
   "/job/OFallon-Missouri/Lead-Software-Integration-Engineer--Release-Management----HR-Platforms_R-281457",
   "/job/OFallon-Missouri/Lead-Technical-Program-Manager_R-290588-1",
   "/job/OFallon-Missouri/Lead-Technical-Program-Manager_R-291825",
+  "/job/OFallon-Missouri/Manager--Business-Analysis_R-293888",
   "/job/OFallon-Missouri/Manager--Business-Integration_R-293256",
   "/job/OFallon-Missouri/Manager--Implementation_R-291902",
   "/job/OFallon-Missouri/Manager--Legal-Compliance_R-291937",
@@ -18425,6 +18445,7 @@
  "Micron": [
   "/job/Albany-NY/High-NA-EUV---Scanner-Engineer_JR99800",
   "/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876",
+  "/job/Albany-NY/Metrology-Process-Engineer---Technology-Development_JR101104",
   "/job/Albany-NY/TD-Photolithography-Automation-Engineer_JR111984",
   "/job/Albany-NY/University-Recruiter--Contract-Role-_JR114652",
   "/job/Arzano-NA-Italy/ENGINEER--FW---PRODUCT-TEST-ENGINEERING_JR113780",
@@ -20624,6 +20645,7 @@
   "/job/Beaverton-Oregon/Senior-Manager-Apparel-Technical-Design--Local-Creation_R-92823",
   "/job/Beaverton-Oregon/Senior-Planner--NA_R-94475",
   "/job/Beaverton-Oregon/Senior-Product-Engineer---NikeSKIMS-Footwear_R-86293",
+  "/job/Beaverton-Oregon/Senior-Technical-Design--Global-Tennis-Apparel_R-96206",
   "/job/Beaverton-Oregon/Sr-Analyst--Product-Finance_R-91389",
   "/job/Beaverton-Oregon/Supply-Chain-Business-Analyst-II--NA_R-95904",
   "/job/Beaverton-Oregon/Supply-Chain-Specialist-II--NA_R-95309",
@@ -21554,6 +21576,7 @@
   "/job/Omaha---Southport/Insurance-Intern_R_364740",
   "/job/Paris---Pyramides/Coordinateur-International-HF_R_365566",
   "/job/Salt-Lake-City---West-South/Director--Portfolio-Strategy---Private-Markets_R_352052",
+  "/job/Seattle---Fifth-Avenue/Executive-Rewards-Compensation-Analyst_R_355142",
   "/job/Shanghai---Huai-Hai/Finance-Intern_R_363313",
   "/job/Singapore---Marina-View/Intern--Corporate---Commercial_R_360801",
   "/job/Singapore---Marina-View/Senior-Investment-Consultant_R_370411",
@@ -24737,6 +24760,7 @@
   "/job/Toronto/Real-Estate-Corporate-Tax--Senior-Associate_766189WD-1",
   "/job/Toronto/Real-Estate-Corporate-Tax--Senior-Manager_766188WD",
   "/job/Toronto/Real-Estate-Valuations-Associate_768526WD",
+  "/job/Toronto/Risk-Modelling-Services--Actuarial--Life-Manager_765856WD",
   "/job/Toronto/Senior-Associate--Workflows-and-Automation--Sr-ServiceNow-Developer-_754605WD",
   "/job/Toronto/Senior-Associate-Financial-Crime-and-AML_755249WD-1",
   "/job/Toronto/Transaction-Services--Manager_760661WD",
@@ -25037,6 +25061,7 @@
   "/job/CA-AB-CALGARY-111--919-72nd-Ave-NE--72ND-AVE-Ste-A/Procurement-Manager--Contract-_01879936",
   "/job/CA-AB-LETHBRIDGE-P32--4045-26th-Ave-N--MAIN-FACILITY/Aircraft-Engine-Assembly-Technician_01883195",
   "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship---Winter-2027---Aerospace-Manufacturing---Continuous-Improvement-Projects--Industrial-Mechanical-Engineering-_01871198",
+  "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship---Winter-2027---Production-Scheduler-Intern_01871015",
   "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Spring-2027---Mechanical-Engineering-Technology--CNC--or-Precision-Machining-Student_01879551",
   "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Manufacturing-Line-Manager---Assembly-Lines_01877946",
   "/job/CA-ON-MIDLAND-450--450-Leitz-Rd--BLDG-450/Financial-Analyst_01883191",
@@ -25795,6 +25820,7 @@
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Principal-Project-Engineer---Mechanical-Systems--Onsite-_01880886",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Safety-and-Reliability-Intern--Onsite-_01873849",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Senior-Engineer--Electric-Propulsion-Systems-P3--Onsite-_01864574-1",
+  "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Senior-Principal-Machine-Learning-Engineer--Hybrid-_01884283",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Senior-Principal-Mechanical-Design-Engineer--Onsite-_01880835",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Senior-Project-Engineer--Onsite-_01877550",
   "/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Structures-Engineer-I--Onsite-_01881514",
@@ -26377,6 +26403,7 @@
   "/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-II--Onsite_01878214",
   "/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-II_01877956",
   "/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Test-Driven-Multidisciplinary-Capability--TDMC--Engagement-Leader_01881525",
+  "/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/Analyst--Contracts--Onsite-_01883892",
   "/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/Director--Ship-Systems-Integ---Sus--SSIS-_01876503",
   "/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/FPGA--Digital-Design-Engineer-I---Onsite_01879344",
   "/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/FPGA--Digital-Design-Engineer-II---Onsite_01879345",
@@ -27788,6 +27815,7 @@
   "8262223",
   "8264894",
   "8265736",
+  "8265761",
   "8267972",
   "8269034",
   "8269038",
@@ -27801,7 +27829,8 @@
   "8292641",
   "8292643",
   "8292678",
-  "8293671"
+  "8293671",
+  "8304814"
  ],
  "S&P Global": [
   "/job/Ahmedabad-Gujarat/Apprentice--Data-Operations_332401-1",
@@ -29441,7 +29470,8 @@
   "744000156890160",
   "744000157188820",
   "744000157202329",
-  "744000157202629"
+  "744000157202629",
+  "744000157230694"
  ],
  "Smartsheet": [
   "3426405",
@@ -29580,7 +29610,8 @@
   "8302110",
   "8305832",
   "8305872",
-  "8315864"
+  "8315864",
+  "8315902"
  ],
  "Snap": [
   "/job/Abingdon---141-Park-Drive/Executive-Assistant---1-year-FTC_R0047053-1",
@@ -29851,6 +29882,7 @@
   "7fed02bd-6348-4e43-9923-1fbecce4e5e0",
   "8084aa87-1033-468b-8de6-296bf42581b8",
   "8106ecf2-a0c4-46da-8cf7-98fc5f3bb50d",
+  "819f71d8-ee5f-429b-948d-46669a760edb",
   "81f44bce-ec85-4674-b07e-1c9bda452788",
   "82f841ea-c0f8-4f5a-b170-212cc9da8c72",
   "83614d9d-daa6-4a1e-b18e-b02ef6c5a84c",
@@ -30182,6 +30214,8 @@
   "8034909003",
   "8037980003",
   "8039370003",
+  "8039536003",
+  "8039561003",
   "8041546003"
  ],
  "SpaceX": [
@@ -34464,6 +34498,7 @@
   "/job/NYC-Bryant-Park-Hub/VP--Media-Strategy_2602806-1",
   "/job/Orlando-Hub/Senior-Representative--Repossession_2602480-1",
   "/job/Other-Remote-TX/Field-Sales-Manager---Walgreens--TX-Gulf-Coast-_2602802",
+  "/job/Phoenix-Engagement-Hub-AZ/AVP--Field-Sales-Manager---Walgreens--Southwest-_2602851",
   "/job/Phoenix-Engagement-Hub-AZ/VP--Hub-Leader_2600637-3",
   "/job/Stamford-Engagement-Hub-CT/Skills-Academy-Winternship_2602609-1",
   "/job/Stamford-Hub/AVP--Compliance-Governance-and-Reporting-Lead_2602832-1",
@@ -34471,6 +34506,7 @@
   "/job/Stamford-Hub/Physical-Security-Intelligence-Operations-Analyst_2600987-1",
   "/job/Stamford-Hub/Project-Coordinator_2602416",
   "/job/Stamford-Hub/SVP--AI-Governance_2602600",
+  "/job/Stamford-Hub/VP---Consumer-Bank---FP-A---Treasury_2602894",
   "/job/Stamford-Hub/VP--AI-Enablement_2602496",
   "/job/Stamford-Hub/VP--Benefits_2602540",
   "/job/Stamford-Hub/VP--Cyber-Intelligence-Leader_2600304",
@@ -34608,6 +34644,7 @@
   "/job/1090-73rd-Ave-NE-FridleyMN-55432-3407/Sr-HR-Specialist-GSCL_R0000476969",
   "/job/1111-Macom-Dr-DekalbIL-60115-8709/Sr-HR-Specialist-GSCL_R0000444809",
   "/job/11311-Bandera-Rd-San-AntonioTX-78250-6812/Property-Management-Lead--San-Antonio-TX_R0000476631",
+  "/job/1288-Camino-Del-Rio-N-San-DiegoCA-92108-1511/Store-Executive-Intern--Store-Leadership-Intern----Southern-San-Diego--CA--Starting-Summer-2027-_R0000450290",
   "/job/129-North-Rd-WiltonNY-12831-1308/Seasonal-Target-Security-Specialist---Regional-Distribution-Center---Wilton--NY_R0000475578",
   "/job/1290-Prince-Georges-Blvd-Upper-MarlboroMD-20774/Seasonal-Senior-Target-Security-Specialist_R0000476087",
   "/job/1290-Prince-Georges-Blvd-Upper-MarlboroMD-20774/Senior-Human-Resources-Specialist_R0000476618",
@@ -35261,6 +35298,7 @@
   "8304298",
   "8304318",
   "8306745",
+  "8309775",
   "8310766",
   "8311872",
   "8311990",
@@ -36492,9 +36530,14 @@
   "8301918",
   "8302117",
   "8304640",
+  "8304776",
+  "8306779",
+  "8306841",
+  "8306867",
   "8310693",
   "8310722",
-  "8311552"
+  "8311552",
+  "8315141"
  ],
  "Workday": [
   "/job/Canada-QC-Montreal/Sales-Development-Representative--Reprsentant-ou-reprsentante-du-dveloppement-des-ventes-_JR-0110950",
@@ -37490,6 +37533,7 @@
    "/job/AZ---Phoenix/Pharmacy-Intern_R1063751": "2026-10-02",
    "/job/AZ---Phoenix/Pharmacy-Intern_R1063787": "2026-10-02",
    "/job/AZ---Phoenix/Pharmacy-Intern_R1074237": "2026-10-13",
+   "/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216": "2026-10-22",
    "/job/AZ---Yuma/Pharmacy-Intern---Grad_R1062585-1": "2026-10-16",
    "/job/AZ---Yuma/Pharmacy-Intern---Grad_R1064167": "2026-10-02",
    "/job/AZ---Yuma/Pharmacy-Intern---Grad_R1064177": "2026-10-02",
@@ -37733,6 +37777,7 @@
    "/job/NY---Cohoes/Pharmacy-Intern---Grad_R1074427": "2026-10-13",
    "/job/NY---Forest-Hills/Pharmacy-Intern_R1071496": "2026-10-09",
    "/job/NY---Nesconset/Pharmacy-Intern_R1072732": "2026-10-12",
+   "/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038": "2026-10-22",
    "/job/NY---New-York/Pharmacy-Intern_R1065646": "2026-10-05",
    "/job/NY---New-York/Pharmacy-Intern_R1077562": "2026-10-16",
    "/job/NY---Oswego/Pharmacy-Intern_R1065658": "2026-10-05",
@@ -38554,6 +38599,7 @@
   "RTX": {
    "/job/AE-AZ-ABU-DHABI-REGUS-CUST--Regus-ADGM-Square-Maryah-Island-Al-Maqam-Tower--REGUS-ADGM-SQ-External-Site/Procurement-Intern_01881274": "2026-10-11",
    "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship---Winter-2027---Aerospace-Manufacturing---Continuous-Improvement-Projects--Industrial-Mechanical-Engineering-_01871198": "2026-10-21",
+   "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship---Winter-2027---Production-Scheduler-Intern_01871015": "2026-10-22",
    "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Spring-2027---Mechanical-Engineering-Technology--CNC--or-Precision-Machining-Student_01879551": "2026-10-22",
    "/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Combustion-Engineering_01871804-1": "2026-10-22",
    "/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage---Hiver-2027---Projet-Fabrication-Additive---Internship---Winter-2027---Additive-manufacturing-project_01868777": "2026-10-22",
@@ -38837,6 +38883,7 @@
    "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Inventory-Analyst-Intern---Minneapolis--MN--Starting-Summer--2027-_R0000450965": "2026-10-02",
    "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/MBA-Intern--Finance-Leadership-Development-Program--FLDP--Internship----Summer-2027-_R0000451066": "2026-10-02",
    "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Space---Presentation-Business-Partner-Intern---Minneapolis--MN--Starting-Summer-2027-_R0000478342": "2026-10-21",
+   "/job/1288-Camino-Del-Rio-N-San-DiegoCA-92108-1511/Store-Executive-Intern--Store-Leadership-Intern----Southern-San-Diego--CA--Starting-Summer-2027-_R0000450290": "2026-10-22",
    "/job/23000-Van-Buren-Blvd-RiversideCA-92518-2401/Operation-Manager-Intern--Starting-Summer-2027--Flow-Distribution-Center---Riverside--CA_R0000450436": "2026-10-20",
    "/job/249-NW-6th-St-Ste-120-MiamiFL-33136-4248/Store-Executive-Intern--Store-Leadership-Intern----South-FL--Miami-to-West-Palm---Starting-Summer-2027--_R0000448573": "2026-10-02",
    "/job/4601-2nd-St-DavisCA-95618-9446/Store-Executive-Intern--Store-Leadership-Intern----North---West-Sacramento--CA--Starting-Summer-2027-_R0000450285": "2026-10-02",
@@ -39019,6 +39066,9 @@
    "/job/McLean-VA/University---Summer-27--Pricing-Intern_R0250410": false,
    "/job/McLean-VA/University--Summer-2027---Accounting-Intern_R0250271": false
   },
+  "CVS Health": {
+   "/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216": true
+  },
   "Caterpillar": {
    "/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454": false,
    "/job/Minerbio-Bologna/Intern_R0000399549": false,
@@ -39200,6 +39250,7 @@
    "/job/UT-Salt-Lake-City/Salt-Lake-City---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_764775WD": false
   },
   "RTX": {
+   "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship---Winter-2027---Production-Scheduler-Intern_01871015": false,
    "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Spring-2027---Mechanical-Engineering-Technology--CNC--or-Precision-Machining-Student_01879551": false,
    "/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Combustion-Engineering_01871804-1": false,
    "/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage---Hiver-2027---Projet-Fabrication-Additive---Internship---Winter-2027---Additive-manufacturing-project_01868777": false,
@@ -39283,6 +39334,7 @@
   "Target": {
    "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Designer-Intern--Owned-Brands--Minneapolis--MN--Starting-Summer--2027-_R0000478536-1": false,
    "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Space---Presentation-Business-Partner-Intern---Minneapolis--MN--Starting-Summer-2027-_R0000478342": false,
+   "/job/1288-Camino-Del-Rio-N-San-DiegoCA-92108-1511/Store-Executive-Intern--Store-Leadership-Intern----Southern-San-Diego--CA--Starting-Summer-2027-_R0000450290": false,
    "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082": false
   },
   "Vanguard": {
@@ -39593,6 +39645,7 @@
    "/job/AZ---Phoenix/Pharmacy-Intern_R1063751": false,
    "/job/AZ---Phoenix/Pharmacy-Intern_R1063787": false,
    "/job/AZ---Phoenix/Pharmacy-Intern_R1074237": false,
+   "/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216": false,
    "/job/AZ---Yuma/Pharmacy-Intern---Grad_R1062585-1": false,
    "/job/AZ---Yuma/Pharmacy-Intern---Grad_R1064167": false,
    "/job/AZ---Yuma/Pharmacy-Intern---Grad_R1064177": false,
@@ -40571,6 +40624,7 @@
   "RTX": {
    "/job/AE-AZ-ABU-DHABI-REGUS-CUST--Regus-ADGM-Square-Maryah-Island-Al-Maqam-Tower--REGUS-ADGM-SQ-External-Site/Procurement-Intern_01881274": false,
    "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship---Winter-2027---Aerospace-Manufacturing---Continuous-Improvement-Projects--Industrial-Mechanical-Engineering-_01871198": false,
+   "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship---Winter-2027---Production-Scheduler-Intern_01871015": false,
    "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Spring-2027---Mechanical-Engineering-Technology--CNC--or-Precision-Machining-Student_01879551": false,
    "/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Combustion-Engineering_01871804-1": false,
    "/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage---Hiver-2027---Projet-Fabrication-Additive---Internship---Winter-2027---Additive-manufacturing-project_01868777": false,
@@ -40847,6 +40901,7 @@
    "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Designer-Intern--Owned-Brands--Minneapolis--MN--Starting-Summer--2027-_R0000478536-1": false,
    "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Inventory-Analyst-Intern---Minneapolis--MN--Starting-Summer--2027-_R0000450965": false,
    "/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Space---Presentation-Business-Partner-Intern---Minneapolis--MN--Starting-Summer-2027-_R0000478342": false,
+   "/job/1288-Camino-Del-Rio-N-San-DiegoCA-92108-1511/Store-Executive-Intern--Store-Leadership-Intern----Southern-San-Diego--CA--Starting-Summer-2027-_R0000450290": false,
    "/job/23000-Van-Buren-Blvd-RiversideCA-92518-2401/Operation-Manager-Intern--Starting-Summer-2027--Flow-Distribution-Center---Riverside--CA_R0000450436": false,
    "/job/249-NW-6th-St-Ste-120-MiamiFL-33136-4248/Store-Executive-Intern--Store-Leadership-Intern----South-FL--Miami-to-West-Palm---Starting-Summer-2027--_R0000448573": false,
    "/job/4601-2nd-St-DavisCA-95618-9446/Store-Executive-Intern--Store-Leadership-Intern----North---West-Sacramento--CA--Starting-Summer-2027-_R0000450285": false,
