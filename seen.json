@@ -674,6 +674,7 @@
   "8094462",
   "8095365",
   "8096359",
+  "8102684",
   "8103590",
   "8107160",
   "8107161",
@@ -6136,6 +6137,7 @@
   "5435413008",
   "5435418008",
   "5435960008",
+  "5436151008",
   "5438117008",
   "5438233008",
   "5438239008",
@@ -6152,6 +6154,7 @@
   "5442638008",
   "5442639008",
   "5442647008",
+  "5444049008",
   "5445011008",
   "5445289008",
   "5445475008",
@@ -7293,6 +7296,7 @@
   "/job/DE---Work-from-home/Utilization-Management-Nurse-Consultant_R1054818",
   "/job/Delivery-Driver---Full-Time---Overnight_R1024974",
   "/job/Delivery-Driver---Full-Time-Overnight_R1068907",
+  "/job/EAP-On-Site-Clinical-Counselor-Substance-Abuse-Professional---CLT-Airport-Charlotte--NC_R1070022",
   "/job/Executive-Assistant-to-VP-Employer_R1059579",
   "/job/Executive-Assistant_R1051003",
   "/job/FL---Bradenton/Pharmacy-Intern_R1074310",
@@ -7682,6 +7686,7 @@
   "/job/MI---Highland-Park/Primary-Care-Physician_R1070189",
   "/job/MI---Inkster/Center-Medical-Director_R1076943",
   "/job/MI---Inkster/Medical-Scribe_R1070362",
+  "/job/MI---Kalamazoo/Health-Insurance-Specialist_R1080198",
   "/job/MI---Lansing/Medical-Scribe_R1074436",
   "/job/MI---Lansing/Medical-Scribe_R1074442",
   "/job/MI---Livonia/Pharmacy-Intern_R1076517",
@@ -7873,6 +7878,7 @@
   "/job/NV---Las-Vegas/Fulfillment-Packaging-Assistant--Part-Time-_R1029991",
   "/job/NV---Las-Vegas/Pharmacy-Intern_R1077813",
   "/job/NV---Reno/General-Manager---Pharmacist---Long-Term-Care---Full-Time_R1054380",
+  "/job/NV---Reno/General-Manager-Pharmacist---Long-Term-Care---Full-Time_R1082476",
   "/job/NY---Amherst/Account-Manager_R1037261-1",
   "/job/NY---Amherst/Client-Accounting-Analyst-Meritain-Health--Amherst--NY_R1028458",
   "/job/NY---Amherst/Pharmacy-Intern_R1072712",
@@ -8133,6 +8139,7 @@
   "/job/PA---Monroeville/Insurance-Collections-Coordinator--Revenue-Cycle--Hybrid-_R1056264",
   "/job/PA---Monroeville/Medical-Benefit-Credit---Refund-Coordinator---Monroeville--PA--Hybrid-_R1033242",
   "/job/PA---Monroeville/Medical-Billing-Coordinator--Revenue-Cycle--Hybrid-_R1064092",
+  "/job/PA---Monroeville/Medical-Insurance-Collections-Coordinator---Monroeville--PA--Hybrid-_R1080350",
   "/job/PA---Monroeville/Pharmacist---Specialty-Mail-Order_R1040529-1",
   "/job/PA---Monroeville/Pharmacy-Benefit-Credit-and-Refund-Specialist-Coordinator--Revenue-Cycle--Hybrid-_R1015212",
   "/job/PA---Monroeville/Pharmacy-Intern_R1075764",
@@ -8468,6 +8475,7 @@
   "/job/Work-At-Home-Ohio/Case-Manager--Registered-Nurse--Remote-_R1063659",
   "/job/Work-At-Home-Ohio/Case-Manager-RN_R1007578",
   "/job/Work-At-Home-Ohio/Case-Manager-RN_R1061192",
+  "/job/Work-At-Home-Pennsylvania/Account-Manager--Meritain-Health-_R1063126",
   "/job/Work-At-Home-Pennsylvania/Care-Management-Associate--Medicare-Precertification-Home-Care-Team_R1037768",
   "/job/Work-At-Home-Pennsylvania/Lead-Director--Pharma-Contracting---Trade-Relations_R1051029",
   "/job/Work-At-Home-Pennsylvania/Outreach-Coordinator-Analyst_R1054783-1",
@@ -10286,7 +10294,8 @@
   "8304060",
   "8304122",
   "8304143",
-  "8304855"
+  "8304855",
+  "8305918"
  ],
  "Coca-Cola": [
   "/job/Bangladesh---Dhaka/Director-PACS---Bangladesh_R-145813",
@@ -12069,7 +12078,8 @@
   "8902939002",
   "8903089002",
   "8903091002",
-  "8905967002"
+  "8905967002",
+  "8907988002"
  ],
  "Datadog": [
   "1497543",
@@ -12450,6 +12460,7 @@
   "8167729",
   "8170070",
   "8170639",
+  "8171026",
   "8171303",
   "8172091",
   "8172855",
@@ -12626,7 +12637,8 @@
   "8304107",
   "8305790",
   "8306557",
-  "8310668"
+  "8310668",
+  "8312438"
  ],
  "Discord": [
   "8214127002",
@@ -13310,7 +13322,9 @@
   "8306624",
   "8306636",
   "8310740",
-  "8310956"
+  "8310956",
+  "8312381",
+  "8312492"
  ],
  "Dropbox": [
   "6330377",
@@ -13484,6 +13498,7 @@
   "/job/Brooklyn-New-York/Director--Assistant-General-Counsel--Marketing_JR5843-1",
   "/job/Brooklyn-New-York/Director-of-Product-Management--UX-Platform_JR5946-1",
   "/job/Brooklyn-New-York/Machine-Learning-Engineer-II--Fulfillment_JR5859-1",
+  "/job/Brooklyn-New-York/Manager--Outsourced-Tooling-Delivery-and-Reliability_JR6050",
   "/job/Brooklyn-New-York/Marketing-Analyst--Paid-Social_JR6006-1",
   "/job/Brooklyn-New-York/Operational-Readiness-Manager_JR5845-1",
   "/job/Brooklyn-New-York/Outsourced-Operations-IC4_JR5840",
@@ -14479,6 +14494,7 @@
   "/job/ROU01-01-Bucharest-Str-Barbu-Vacarescu-301-311/Logistics-Apprentice_R4046943",
   "/job/ROU01-01-Bucharest-Str-Barbu-Vacarescu-301-311/Project-Manager--High-Acuity-Care_R4047043-1",
   "/job/RUS06-01-Moscow-Naberezhnaya-Tower/Early-Career-Trainee---Commercial-Operations_R4046625-1",
+  "/job/RUS06-01-Moscow-Naberezhnaya-Tower/Field-Service-Engineer_R4047157-1",
   "/job/Remote/Associate-External-Manufacturing-Leader_R4047944-1",
   "/job/Remote/Biomed-Technician-I-Fremont-Danville-Area_R4045823-1",
   "/job/Remote/Biomedical-Equipment-Technician-1_R4046632-1",
@@ -14574,6 +14590,7 @@
   "/job/Remote/Project-Specialist---DCAR_R4046942-2",
   "/job/Remote/Radiopharma-Strategic-Accounts-Sales-Leader_R4046768-1",
   "/job/Remote/Region-Modality-Leader---PET-CT_R4046270-1",
+  "/job/Remote/Regional-Client-Director--West_R4048191-2",
   "/job/Remote/Regional-Modality-Leader---Mammography--Houston-_R4047188-1",
   "/job/Remote/Regional-Research-Director-Europe--f-m-d-_R4047304-1",
   "/job/Remote/Senior-Director-of-Strategy---Women-s-Health_R4047939-1",
@@ -14758,6 +14775,7 @@
   "/job/Budapest/Country-Chief-Accountant_202610-125398-2",
   "/job/Budapest/Digital-Campaign-Delivery-Specialist_202610-125129",
   "/job/Budapest/Digital-Marketing-Operations-Manager--Diagnostics-_202610-125346-1",
+  "/job/Budapest/Employee-Lifecycle-Management-Specialist---German-speaking---Maternity-cover-_202610-127122",
   "/job/Budapest/Enterprise-Master-Data-Management-Operations-Business-Analyst_202609-124318-1",
   "/job/Budapest/Event-Manager_202610-126447",
   "/job/Budapest/External-Engagement-Coordination-Partner_202610-125287",
@@ -14898,6 +14916,7 @@
   "/job/Kaiseraugst/Trainer-in---K-Leiter-in-Business---Digital-Technology--60-100---Kaiseraugst--unbefristet-_202607-118730",
   "/job/Kaiseraugst/Unit-Lead-Operational-Engineering-Steriles_202609-122857-2",
   "/job/Kaiseraugst/Unit-Lead-mikrobiologisches-Umgebungsmonitoring--mEMT-_202609-124774-1",
+  "/job/Kaiseraugst/Universittspraktikant-in-im-Bereich-Spurenanalytik--Startdatum--01112026--12-Monate-_202608-121612-1",
   "/job/Karachi/Finance-Director_202609-123937",
   "/job/Kazakhstan/Customer-Service-Support_202609-122735-1",
   "/job/Kazakhstan/Patient-Journey-Partner_202609-124485-2",
@@ -16789,6 +16808,7 @@
   "/job/Gurgaon-India/Managing-Consultant--Account-Management_R-292444",
   "/job/Gurgaon-India/Managing-Consultant--Advisors---Consulting-Services--Performance-Analytics_R-256853",
   "/job/Gurgaon-India/Managing-Consultant--Advisors---Consulting-Services--Performance-Analytics_R-259114",
+  "/job/Gurgaon-India/Senior-Analyst---Business-Development-Support_R-280641",
   "/job/Gurgaon-India/Senior-Analyst--Financial-Planning---Analysis_R-293224-1",
   "/job/Gurgaon-India/Senior-Analyst_R-289206",
   "/job/Gurgaon-India/Senior-Creative-Project-Manger--Managing-Consultant-_R-292218-1",
@@ -17135,6 +17155,7 @@
   "/job/Purchase-New-York/Sales-Manager--Public-Sector-and-Healthcare-Services_R-292402",
   "/job/Purchase-New-York/Senior-Analyst--Business-Development_R-293240-1",
   "/job/Purchase-New-York/Senior-Analyst--Marketing_R-293555-1",
+  "/job/Purchase-New-York/Senior-Business-Analyst--Chief-Administrative-Office_R-294497",
   "/job/Purchase-New-York/Senior-Counsel---Privacy--Regulatory---Technology_R-293596-1",
   "/job/Purchase-New-York/Senior-Counsel--Employment-Law_R-293257-1",
   "/job/Purchase-New-York/Senior-Managing-Consultant--Services-Business-Development---National-Segments_R-294529",
@@ -20124,6 +20145,7 @@
   "/job/New-York-New-York-United-States-of-America/NFR-Framework-Program-Support-Professional_PT-JR044636",
   "/job/New-York-New-York-United-States-of-America/Office-Manager---Parametric_PT-JR041921-1",
   "/job/New-York-New-York-United-States-of-America/Principal-Software-Engineer---AI-Platform----Parametric_PT-JR043021",
+  "/job/New-York-New-York-United-States-of-America/Private-Wealth-Management-Analyst_JR031358-1",
   "/job/New-York-New-York-United-States-of-America/Product-Manager-Strategic-Deposit-Initiatives-Vice-President_PT-JR042843",
   "/job/New-York-New-York-United-States-of-America/Technical-Financial-Program-Manager---Vice-President_PT-JR041991",
   "/job/New-York-New-York-United-States-of-America/UMA-Portfolio-Manager_PT-JR045222",
@@ -22661,6 +22683,7 @@
   "/job/Milan-Milano-Italy/Consumer-Partnerships-Marketing-Manager_R0137310",
   "/job/New-York-City-New-York-United-States-of-America/Director--Enterprise-Quality-team_R0137774",
   "/job/New-York-City-New-York-United-States-of-America/Director--Enterprise-Quality-team_R0137899",
+  "/job/New-York-City-New-York-United-States-of-America/Manager--Indirect-Tax_R0138584",
   "/job/New-York-City-New-York-United-States-of-America/Manager--Sales-Specialist---Payouts_R0138367",
   "/job/New-York-City-New-York-United-States-of-America/Manager--Staff---Operations_R0137817",
   "/job/New-York-City-New-York-United-States-of-America/Senior-Manager--Ads_R0137362",
@@ -23646,6 +23669,7 @@
   "/job/Bengaluru-Millenia/IN-Senior-Associate-DevOps-Engineer-GCC-Advisory-Bangalore_746421WD-1",
   "/job/Bengaluru-Millenia/IN-Senior-Associate-DevOps-SRE-GCC-Advisory-Bangalore_730582WD-1",
   "/job/Bengaluru-Millenia/IN-Senior-Associate-DevOps-SRE-GCC-Advisory-Hyderabad_730636WD-1",
+  "/job/Bengaluru-Millenia/IN-Senior-Associate-Full-stack-Data-and-Analytics-Advisory-Bangalore_759144WD-1",
   "/job/Bengaluru-Millenia/IN-Senior-Associate-Fusion-Finance-GCC-Advisory-Bangalore_740125WD-1",
   "/job/Bengaluru-Millenia/IN-Senior-Associate-GCP-Agentic-AI-SME-AI-50-Advisory-Bangalore_758215WD-1",
   "/job/Bengaluru-Millenia/IN-Senior-Associate-GCP-Data-Engineer-Data-Analytics-Advisory-Bangalore_713078WD-1",
@@ -23746,6 +23770,7 @@
   "/job/Bucharest/SAP-SuccessFactors-Consultant_767131WD",
   "/job/Bucharest/Senior-Accountant_766652WD",
   "/job/Bucharest/Senior-Auditor---State-Aid---EU-Funds_710403WD",
+  "/job/Bucharest/Senior-Business-Process-Specialist_769489WD",
   "/job/Bucharest/Senior-Consultant---Audit_761961WD",
   "/job/Bucharest/Sustainability-Assurance-Senior-Consultant---ESG_764943WD",
   "/job/Buenos-Aires/AI-Risk---Compliance-Senior-Associate_748465WD-1",
@@ -23758,6 +23783,7 @@
   "/job/Buenos-Aires/Manager-Strategy-_768234WD",
   "/job/Buenos-Aires/Reconciliations---Accounting-Analysis-Senior-Analyst_754086WD-1",
   "/job/Buenos-Aires/Regulatory-Compliance---Specialist_768210WD",
+  "/job/Buenos-Aires/Risk---Independence---Personal-Independence---Senior-Associate_769259WD-1",
   "/job/Buenos-Aires/Risk---Independence--Internal-Audit---Senior-Associate_747815WD",
   "/job/Buenos-Aires/Sales---Operations-Support-Senior-Analyst---Global-Client_765338WD-2",
   "/job/Buenos-Aires/Senior-Associate---Quality-ISMS_765629WD-1",
@@ -23845,6 +23871,7 @@
   "/job/Ghent/Global-Tax---Transfer-Pricing-Consulting-in-Gent_769197WD",
   "/job/Gibraltar/Tax-and-Accounting---Administrative-Assistant_766488WD",
   "/job/Gurugram-10-C/IN-Associate-SAP-BPC---SAC-SAP-Advisory-Mumbai_749590WD-1",
+  "/job/Gurugram-10-C/IN-Associate-SAP-BPC---SAC-SAP-Advisory-Mumbai_749592WD-1",
   "/job/Gurugram-10-C/IN-Director--SAP-Solution-Architect-SAP--Advisory----Mumbai_737825WD",
   "/job/Gurugram-10-C/IN-Director-SAP-Functional-SAP-Advisory-PAN-INDIA_768551WD",
   "/job/Gurugram-10-C/IN-Manager-Project-Management-iGT---Social-Advisory-Gurgaon_752786WD-2",
@@ -23872,6 +23899,7 @@
   "/job/Gurugram-8-B/IN-Director-GTM-GCC-Advisory-Bangalore_759610WD-1",
   "/job/Gurugram-8-B/IN-INTERN_726047WD-1",
   "/job/Gurugram-8-B/IN-INTERN_726051WD-1",
+  "/job/Gurugram-8-B/IN-Manager-Full-Stack-Lead-Data-and-Analytics-Advisory-Bangalore_727461WD-1",
   "/job/Gurugram-8-B/IN-Manager-Internal-Audit-Managed-Services-Advisory-Bangalore_754562WD-1",
   "/job/Gurugram-8-B/IN-Manager-LMCC-GCC-Advisory-Chennai_741495WD-1",
   "/job/Gurugram-8-B/IN-Senior-Associate---SAP-ABAP---SAP--Advisory----Gurgaon_723096WD-1",
@@ -24340,6 +24368,7 @@
   "/job/Quito/Senior-Associate-Digital-Risk_767769WD",
   "/job/Quito/Senior-de-Auditora-Financiera_761929WD-1",
   "/job/Roma---Largo-Fochetti-29/Advisory--Strategy--Aerospace-and-Defence---Manager_743609WD-1",
+  "/job/Roma---Largo-Fochetti-29/Junior---Legal-Risk-Management---Milano--IFS-_644583WD-1",
   "/job/Rome/Associate---Corporate-Tax---Roma--TAX-_769044WD",
   "/job/Rome/Capital-Projects---Economics---ambito-Transportation--Logistics-and-Infrastructure---Consultant---Roma--ADV-_766065WD",
   "/job/Rome/Capital-Projects---Economics-Associate---ambito-Transportation--Logistics-and-Infrastructure---Junior-Consultant---Roma--ADV-_765289WD",
@@ -24394,6 +24423,7 @@
   "/job/So-Paulo/XMLNAME-740889WD-Gerente-de-Integrao-e-Separao---Manager-2_765057WD-1",
   "/job/Sofia/Senior-Associate-Accounting-Advisory_769263WD",
   "/job/Sofia/Senior-Associate-Accounting-Advisory_769419WD",
+  "/job/Sofia/Senior-Consultant---Manager-in-Bank-Strategy---Transformation_769476WD",
   "/job/Surabaya/FY27---Assurance---Senior-Associate---Surabaya-Office--Talent-Pool-_765262WD",
   "/job/Tainan/---_694180WD",
   "/job/Taipei/---_753819WD",
@@ -24722,6 +24752,7 @@
   "/job/CA-ON-WATERLOO-440--440-Phillip-St--PHILLIP-Unit-D/Product-Control-Specialist_01883857",
   "/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Gestionnaire--commerce-international---distance----Manager--Global-Trade--Remote-_01826806",
   "/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Ingnieur-e--en-conception-de-logiciels-de-systmes-de-commande---Control-Systems-Software-Design-Engineer_01874399-1",
+  "/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage---Hiver-2027---Projet-Fabrication-Additive---Internship---Winter-2027---Additive-manufacturing-project_01868777",
   "/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage---Hiver-2027---tudiant-en-gnie-des-matriaux--8-Mois----Internship---Winter-2027---Materials-Engineering--8-Months-_01868778-1",
   "/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Technologies-numriques---Oprations-manufacturires---Analyste-des-systmes-MES---Digital-Technologies---Manufacturing-Operations--MES-Systems-Analyst_01877798",
   "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Adjoint-e--excutif-ve----Executive-Assistant_01878004-1",
@@ -25958,6 +25989,7 @@
   "/job/US-MA-REMOTE/Senior-Mechanical-Cooling-Engineer_01881644",
   "/job/US-MA-REMOTE/Sr-Analyst--Procurement_01882085",
   "/job/US-MA-REMOTE/Sr-Mgr--Procurement_01880038",
+  "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Antenna-and-Microwave-Intern--Summer-2027-_01873423",
   "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Corrective-Action-Lead_01880087-1",
   "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Director--Global-Contracts--Hybrid-_01879686",
   "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Electrical-Engineer-II--Onsite-_01880520",
@@ -28278,6 +28310,7 @@
   "7954575",
   "7960365",
   "7960367",
+  "7960413",
   "7961186",
   "7961449",
   "7961458",
@@ -28288,6 +28321,12 @@
   "7964565",
   "7966918",
   "7967689",
+  "7982323",
+  "7982326",
+  "7982328",
+  "7982331",
+  "7982336",
+  "7982346",
   "7992889",
   "7993670",
   "7997311",
@@ -29857,6 +29896,7 @@
   "8473716002",
   "8473718002",
   "8473726002",
+  "8474671002",
   "8474742002",
   "8476089002",
   "8476123002",
@@ -32835,6 +32875,7 @@
   "8904755002",
   "8904957002",
   "8905802002",
+  "8905871002",
   "8906243002",
   "8907194002",
   "8907598002",
@@ -33879,6 +33920,7 @@
   "8288876",
   "8289847",
   "8299647",
+  "8299651",
   "8300616",
   "8301253",
   "8301260",
@@ -35026,7 +35068,8 @@
   "8301926",
   "8303973",
   "8306459",
-  "8306461"
+  "8306461",
+  "8306758"
  ],
  "US Bank": [
   "4945093007"
@@ -35183,6 +35226,7 @@
   "/job/ET---Addis-Ababa-Ethiopia/Head-of-Risk---Eastern-Africa_REF088962W",
   "/job/ET---Addis-Ababa-Ethiopia/Office-Manager---Executive-Assistant_REF088822W",
   "/job/FR---Paris-France/Client-Consulting-Manager_REF089311W",
+  "/job/GB---Basingstoke-United-Kingdom/Associate-Sys-Admin---Compute_REF082656W",
   "/job/GB---London-United-Kingdom/B2B-Acceptance-Regional-head---Europe_REF089603W",
   "/job/GB---London-United-Kingdom/Client-Consulting-Manager_REF087972W-1",
   "/job/GB---London-United-Kingdom/Consultant--Client-Success_REF088000W",
@@ -37606,7 +37650,8 @@
   "DoorDash": {
    "8176863": "2026-10-02",
    "8204111": "2026-10-02",
-   "8274095": "2026-10-12"
+   "8274095": "2026-10-12",
+   "8312381": "2026-10-22"
   },
   "Dropbox": {
    "8106224": "2026-10-02"
@@ -38077,6 +38122,7 @@
    "/job/AE-AZ-ABU-DHABI-REGUS-CUST--Regus-ADGM-Square-Maryah-Island-Al-Maqam-Tower--REGUS-ADGM-SQ-External-Site/Procurement-Intern_01881274": "2026-10-11",
    "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship---Winter-2027---Aerospace-Manufacturing---Continuous-Improvement-Projects--Industrial-Mechanical-Engineering-_01871198": "2026-10-21",
    "/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Combustion-Engineering_01871804-1": "2026-10-22",
+   "/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage---Hiver-2027---Projet-Fabrication-Additive---Internship---Winter-2027---Additive-manufacturing-project_01868777": "2026-10-22",
    "/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage---Hiver-2027---tudiant-en-gnie-des-matriaux--8-Mois----Internship---Winter-2027---Materials-Engineering--8-Months-_01868778-1": "2026-10-16",
    "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Conception-de-la-section-d-essai---Internship---Winter-2027---Test-Section-Design_01871035": "2026-10-21",
    "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Coordination-des-projets-de-recherche-collaboratifs-et-amelioration-du-processus-de-gestion-des-technologies---Internship---Winter-2027---Collaborative-Research-Projects-Coordination---Technology-Management-Process-Improvement_01868255": "2026-10-02",
@@ -38187,6 +38233,7 @@
    "/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705": "2026-10-15",
    "/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern_01882697": "2026-10-14",
    "/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Systems-Engineering-Intern--Summer-2027-_01881158": "2026-10-08",
+   "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Antenna-and-Microwave-Intern--Summer-2027-_01873423": "2026-10-22",
    "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineer-Intern--Summer-2027-_01880852": "2026-10-07",
    "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437": "2026-10-15",
    "/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern---Test-Solutions_01881321": "2026-10-08",
@@ -38584,7 +38631,8 @@
   },
   "DoorDash": {
    "8176863": false,
-   "8274095": false
+   "8274095": false,
+   "8312381": false
   },
   "Duolingo": {
    "8863967002": false
@@ -38701,7 +38749,9 @@
   },
   "RTX": {
    "/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Combustion-Engineering_01871804-1": false,
-   "/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520": false
+   "/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage---Hiver-2027---Projet-Fabrication-Additive---Internship---Winter-2027---Additive-manufacturing-project_01868777": false,
+   "/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520": false,
+   "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Antenna-and-Microwave-Intern--Summer-2027-_01873423": false
   },
   "Ramp": {
    "a13ae586-f4cb-4385-8822-c42b9b54ed74": false,
@@ -39655,7 +39705,8 @@
   },
   "DoorDash": {
    "8176863": false,
-   "8274095": false
+   "8274095": false,
+   "8312381": false
   },
   "Dropbox": {
    "8106224": false
@@ -40053,6 +40104,7 @@
    "/job/AE-AZ-ABU-DHABI-REGUS-CUST--Regus-ADGM-Square-Maryah-Island-Al-Maqam-Tower--REGUS-ADGM-SQ-External-Site/Procurement-Intern_01881274": false,
    "/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship---Winter-2027---Aerospace-Manufacturing---Continuous-Improvement-Projects--Industrial-Mechanical-Engineering-_01871198": false,
    "/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Combustion-Engineering_01871804-1": false,
+   "/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage---Hiver-2027---Projet-Fabrication-Additive---Internship---Winter-2027---Additive-manufacturing-project_01868777": false,
    "/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage---Hiver-2027---tudiant-en-gnie-des-matriaux--8-Mois----Internship---Winter-2027---Materials-Engineering--8-Months-_01868778-1": false,
    "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Conception-de-la-section-d-essai---Internship---Winter-2027---Test-Section-Design_01871035": false,
    "/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Coordination-des-projets-de-recherche-collaboratifs-et-amelioration-du-processus-de-gestion-des-technologies---Internship---Winter-2027---Collaborative-Research-Projects-Coordination---Technology-Management-Process-Improvement_01868255": false,
@@ -40163,6 +40215,7 @@
    "/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Electrical-Engineering-Intern--Summer-2027--Onsite-_01882705": false,
    "/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineering-Intern_01882697": false,
    "/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Systems-Engineering-Intern--Summer-2027-_01881158": false,
+   "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Antenna-and-Microwave-Intern--Summer-2027-_01873423": false,
    "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Mechanical-Engineer-Intern--Summer-2027-_01880852": false,
    "/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437": false,
    "/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern---Test-Solutions_01881321": false,
