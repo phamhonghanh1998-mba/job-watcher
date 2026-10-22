@@ -3350,6 +3350,7 @@
   "5241731007",
   "5241796007",
   "5241828007",
+  "5241845007",
   "5241848007",
   "5241928007",
   "5241955007",
@@ -4239,7 +4240,8 @@
   "5272031007",
   "5272046007",
   "5272338007",
-  "5272342007"
+  "5272342007",
+  "5272481007"
  ],
  "Anthropic": [
   "4017331008",
@@ -6186,6 +6188,7 @@
   "5452864008",
   "5453088008",
   "5453137008",
+  "5453346008",
   "5456569008",
   "5456921008",
   "5457599008",
@@ -6327,6 +6330,7 @@
   "/job/POL---Gdansk-Poland/Intern-Software-Engineer_JR2026492187-1",
   "/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829",
   "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1",
+  "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1",
   "/job/USA---Hialeah-FL/Senior-Program-Management-Manager_JR2026525114",
   "/job/USA---Hialeah-FL/Senior-Program-Management-Manager_JR2026526011-1",
   "/job/USA---North-Charleston-SC/Business-Operations-Specialist_JR2026518690-1",
@@ -10938,6 +10942,7 @@
   "/job/Cincinnati-Ohio-United-States/Product-Marketing-Group-Manager_R1319106",
   "/job/Cincinnati-Ohio-United-States/Staff-Engineer--Systems_R1320240-1",
   "/job/Cleveland-Ohio-United-States/Field-Service-Engineer---Cleveland--OH_R1320647",
+  "/job/Concord-Ontario-Canada/Senior-Manager--Global-Pharma---Biopharma-Market_R1321064",
   "/job/Coralville-Iowa-United-States/Sr-Director--Finance-Operations-and-Manufacturing--USA--Remote-_R1319688",
   "/job/Coralville-Iowa-United-States/Sr-Project-Manager--Gene-Editing--Client-Facing-_R1320839-1",
   "/job/Deer-Park-Illinois-United-States/Scientific-Global-Product-Leader--Advanced-Staining-Reagents_R1320116",
@@ -12129,6 +12134,7 @@
   "8902939002",
   "8903089002",
   "8903091002",
+  "8905733002",
   "8905967002",
   "8907988002"
  ],
@@ -12673,6 +12679,7 @@
   "8282504",
   "8282537",
   "8282552",
+  "8284998",
   "8285495",
   "8286919",
   "8287316",
@@ -13380,7 +13387,9 @@
   "8312381",
   "8312492",
   "8312639",
-  "8313401"
+  "8313401",
+  "8314149",
+  "8314289"
  ],
  "Dropbox": [
   "6330377",
@@ -16320,6 +16329,7 @@
   "/job/Chicago-Commercial-Center/Integrated-Media-Strategy-Lead_887572-2",
   "/job/Chicago-Commercial-Center/Senior-Associate-Brand-Manager_887556-1",
   "/job/Chicago-Commercial-Center/Senior-Brand-Manager_887687-2",
+  "/job/Chicago-Commercial-Center/Senior-Manager--Consumer-Analytics_888038-2",
   "/job/Chicago-Commercial-Center/Senior-Manager-Rollover-Excellence_887898-2",
   "/job/Chicago-Commercial-Center/Sr-Manager---Transformation_887519-2",
   "/job/Chicago-IL-USA/Brand-Manager--Brand-Growth---Innovation---Depend_886465-1",
@@ -18508,6 +18518,7 @@
   "/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Design-Engineer--DRAM-Products-Group_JR114119",
   "/job/Boise-ID---Main-Site/O-M-Water-Services-Engineer_JR113375",
   "/job/Boise-ID---Main-Site/PCB-Layout-Designer_JR106524",
+  "/job/Boise-ID---Main-Site/PCVD-Process-Engineer_JR115606",
   "/job/Boise-ID---Main-Site/PRINCIPAL-PROGRAM-MANAGER--STORAGE-PRODUCTS-PMO_JR113779-1",
   "/job/Boise-ID---Main-Site/PROCT-ADT-Equipment-Staff-Engineer--Principal--Dry-Etch---Deposition-CVD-PVD-Diffusion---CMP---Wet-_JR109467-1",
   "/job/Boise-ID---Main-Site/Pathfinding-Device-Integration-Engineer_JR100358",
@@ -19355,6 +19366,7 @@
   "/job/Taichung---MTB-Taiwan/HBM-Engineering-Technician_JR113276",
   "/job/Taichung---MTB-Taiwan/HBM-Manufacturing-Production-Engineer_JR112482",
   "/job/Taichung---MTB-Taiwan/HBM-Manufacturing-Production-Engineer_JR113212",
+  "/job/Taichung---MTB-Taiwan/HBM-Manufacturing-Production-Engineer_JR114852",
   "/job/Taichung---MTB-Taiwan/HBM-PROCESS-ENGINEER_JR113634",
   "/job/Taichung---MTB-Taiwan/HBM-PROCESS-ENGINEER_JR113635",
   "/job/Taichung---MTB-Taiwan/HBM-PROCESS-ENGINEER_JR113636",
@@ -20012,7 +20024,8 @@
   "8304447",
   "8305331",
   "8305915",
-  "8311246"
+  "8311246",
+  "8313598"
  ],
  "Morgan Stanley": [
   "/job/1-New-York-Plaza/Stock-Plan-Project-Operations--Manager--AVP-_PT-JR043977-1",
@@ -21347,6 +21360,7 @@
   "8305257",
   "8305392",
   "8305423",
+  "8305851",
   "8306330",
   "8311034",
   "8312752"
@@ -21436,6 +21450,7 @@
   "0320cd25-ede1-4d25-8a61-65d801f1726e",
   "0322d6d8-6588-4209-a304-83e768063a25",
   "04435c05-7a05-4802-894d-c173327fbac8",
+  "04bdc05a-de4b-4fc3-9520-714018f25c76",
   "04c7b3d3-8523-41a2-8f84-39a739ebf207",
   "05223b5a-5ff1-4fe7-9f97-4ef7fc68b8ef",
   "05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d",
@@ -21742,6 +21757,7 @@
   "544af761-e37a-450c-884b-b96506c1b883",
   "54d56768-ba4b-4e57-8e3d-6eacd3e88a42",
   "55150071-fce8-48f5-aea4-14ed78b83511",
+  "551b0d0d-46c2-42fb-bb05-46e2fba8d4db",
   "552396f4-dc83-43de-9230-6301e5f461bd",
   "557dd2ec-db6c-49b1-a0aa-193007ebd5b6",
   "55f36629-8351-41d9-b2f5-3d63c5e26bf7",
@@ -23481,6 +23497,7 @@
   "8265119",
   "8267923",
   "8267930",
+  "8268323",
   "8268325",
   "8268329",
   "8268340",
@@ -26076,6 +26093,7 @@
   "/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/SPY-6-Above-Deck-OSC-Lead_01882082",
   "/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Senior-Information-Systems-Security-Officer--ISSO--II---Andover--MA_01881422",
   "/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Sr-Analyst--Materials-Planning-SIOP_01866921-1",
+  "/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Sr-Eng--Automation-Systems-Engineer--Project_01883906",
   "/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Staff-Technician---Manufacturing-Documentation_01881956",
   "/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Systems-Engineer-II---Integration-and-Test--Onsite_01874521",
   "/job/US-MA-ANDOVER-AN2--352-Lowell-St--AN2-HAMPSHIRE-BLDG/Associate-Director-MCU-Manufacturing-Engineering-Department-Manager_01882542-1",
@@ -26301,6 +26319,7 @@
   "/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Senior-Systems-Engineer--Active-Clearance-_01837953",
   "/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Software-Engineering-Intern--Summer-2027-_01879553",
   "/job/US-NC-MORRISVILLE-907--951-Aviation-Pkwy--907-BLDG/Software-Engineering-Intern--Summer-2027-_01879721",
+  "/job/US-NC-REMOTE/Associate-Director--Proposal-Management--Remote-_01878540-1",
   "/job/US-NC-REMOTE/Mission-Systems-S-4HANA-Wave-Deployment-Lead--Sr-Manager--REMOTE-_01863443",
   "/job/US-NC-REMOTE/Talent--Human-Resource-Co-op--Spring-Summer-2027-_01880994",
   "/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Manager-Quality-Engineering_01880119",
@@ -27729,6 +27748,7 @@
   "/job/Brazil---Sao-Paulo/Territory-Account-Executive_JR360680-1",
   "/job/California---Irvine/Associate-Evaluations-Manager_JR359889",
   "/job/California---Irvine/Engagement-Delivery-Leader---Public-Sector_JR355677",
+  "/job/California---Palo-Alto/Research-Scientist---Salesforce-AI-Research_JR365307-1",
   "/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1",
   "/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1",
   "/job/California---Remote/Principal--Specialist-SE_JR361441",
@@ -27897,6 +27917,7 @@
   "/job/Georgia---Atlanta/Senior-Manager--Agentic-Talent-Capability---Skills-Strategy_JR349826-1",
   "/job/Georgia---Atlanta/Sr-Engineering-Manager--Core-Services---Slack_JR363019-1",
   "/job/Georgia---Atlanta/Sr-Product-Marketing-Manager--GTM_JR353867",
+  "/job/Georgia---Atlanta/Staff-Technical-Program-Manager--Growth_JR365306-1",
   "/job/Georgia---Atlanta/Talent-Attraction-Partner--Futureforce-AMER--Contract-_JR362176",
   "/job/Georgia---Remote/Engagement-Delivery-Director---HLS---Health---Life-Sciences_JR352235",
   "/job/Georgia---Remote/Engagement-Delivery-Director_JR346225",
@@ -27910,6 +27931,7 @@
   "/job/Germany---Munich/Enterprise-Account-Executive---HLS_JR359655",
   "/job/Germany---Munich/Sales-Intern--North-_JR335815",
   "/job/Germany---Munich/Senior-Architect-Technical-Consulting---Enterprise-Security---AI-driven_JR361402",
+  "/job/Illinois---Chicago-Metro---Remote/Account-SE--Lead_JR362324-1",
   "/job/Illinois---Chicago-Metro---Remote/Cloud-Readiness-Architect---Consumer-Goods-Cloud_JR364285",
   "/job/Illinois---Chicago/Agentforce-Success-Architect_JR336652",
   "/job/Illinois---Chicago/Business-Development-Associate_JR347430-1",
@@ -29231,7 +29253,8 @@
   "744000156764110",
   "744000156764279",
   "744000156860385",
-  "744000156890160"
+  "744000156890160",
+  "744000157188820"
  ],
  "Smartsheet": [
   "3426405",
@@ -30228,6 +30251,7 @@
   "8526294002",
   "8526975002",
   "8527038002",
+  "8527319002",
   "8527331002",
   "8527462002",
   "8527730002",
@@ -33050,6 +33074,7 @@
   "8907598002",
   "8907619002",
   "8907760002",
+  "8907769002",
   "8908051002",
   "8909022002"
  ],
@@ -34104,7 +34129,9 @@
   "8304841",
   "8306158",
   "8312261",
-  "8314210"
+  "8314210",
+  "8314235",
+  "8314283"
  ],
  "Stryker": [
   "/job/Alcobendas-Spain/HR-Transformation-Intern_R575042",
@@ -35385,6 +35412,7 @@
   "/job/CO---Bogota-Colombia/Payment-Ecosystem-Risk---Compliance-Analyst_REF089046W",
   "/job/CO---Bogota-Colombia/Payment-Ecosystem-Risk---Compliance-Manager_REF089045W",
   "/job/CO---Bogota-Colombia/Quality-Analyst_REF082702W",
+  "/job/CO---Bogota-Colombia/Quality-Analyst_REF089766W-1",
   "/job/CO---Bogota-Colombia/Sr-Client-Care-Consultant_REF089083W",
   "/job/CO---Bogota-Colombia/Sr-Manager--LAC-Accounts-Payable_REF089129W",
   "/job/CO---Bogota-Colombia/Sr-Tech-Support-Analyst_REF089221W",
@@ -36256,7 +36284,8 @@
   "8302117",
   "8304640",
   "8310693",
-  "8310722"
+  "8310722",
+  "8311552"
  ],
  "Workday": [
   "/job/Canada-QC-Montreal/Sales-Development-Representative--Reprsentant-ou-reprsentante-du-dveloppement-des-ventes-_JR-0110950",
@@ -37112,6 +37141,7 @@
    "/job/GBR---London-UK/Government-Affairs-Intern--12-Months-Placement_JR2026520528": "2026-10-02",
    "/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829": "2026-10-02",
    "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1": "2026-10-14",
+   "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1": "2026-10-22",
    "/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1": "2026-10-21"
   },
   "Booz Allen Hamilton": {
@@ -38751,6 +38781,7 @@
   "Blue Origin": {},
   "Boeing": {
    "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1": false,
+   "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1": false,
    "/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1": false
   },
   "Booz Allen Hamilton": {
@@ -39199,6 +39230,7 @@
    "/job/GBR---London-UK/Government-Affairs-Intern--12-Months-Placement_JR2026520528": false,
    "/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829": true,
    "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1": false,
+   "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1": false,
    "/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1": false
   },
   "Booz Allen Hamilton": {
