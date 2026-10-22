@@ -4,7 +4,7 @@ keywords:
   include: ["MBA", "Summer Associate", "Summer 2027", "Internship", "Intern"]
   # Loại bỏ nếu tiêu đề chứa các cụm này.
   # KHÔNG thêm "Senior": Amazon đặt tên MBA intern kiểu "Senior Product Manager, MBA Internship"
-  exclude: ["Co-op", "Coop", "Apprentice", "PhD", "Undergraduate", "Bachelor", "Software Engineer", "Software Development",
+  exclude: ["Co-op", "Coop", "Apprentice", "Undergrad", "Pharmacy", "Master Thesis", "PhD", "Undergraduate", "Bachelor", "Software Engineer", "Software Development",
             "Hardware", "Research Scientist", "Data Scientist", "High School"]
   # Title words that mean "MBA-level". Jobs without these only alert if the description mentions an MBA.
   mba_signals: ["MBA", "Summer Associate", "Senior Associate", "Graduate", "Masters", "Master's", "Post-Graduate"]
@@ -29,10 +29,21 @@ keywords:
     "Jakarta", "Thailand", "Bangkok", "Peru", "Lima", "Austria", "Vienna", "Norway", "Oslo", "Finland",
     "Greece", "Bulgaria", "Serbia", "Croatia", "Slovakia", "Lithuania", "Estonia", "Ukraine",
     "Scotland", "Edinburgh", "Wales", "Luxembourg", "Qatar", "Puerto Rico", "Latium",
+    "Brussels", "Antwerp", "Eindhoven", "Rotterdam", "Milano", "Milan", "Assago", "Genoa", "Rome",
+    "Pomigliano", "Athens", "Greece", "Basel", "Geneva", "Stockholm", "Copenhagen", "Lodz", "Wroclaw",
+    "Suzhou", "Wuxi", "Shenzhen", "Guangzhou", "Jiangsu", "Queretaro", "Monterrey", "Guadalajara",
+    "Huixquilucan", "Cape Town", "Johannesburg", "Varginha", "Panama", "Santiago", "Subang", "Selangor",
+    "Kuala Lumpur", "Penang", "Ho Chi Minh", "Hanoi", "Chennai", "Noida", "Krakow", "Aguadilla",
+    "Ontario", "Quebec", "Alberta", "British Columbia",
     # 3-letter country codes (Amazon uses these, e.g. "Fiano Romano, Latium, ITA")
     "IND", "GBR", "DEU", "CAN", "IRL", "FRA", "ITA", "ESP", "NLD", "POL", "ROU", "CZE", "LUX", "SWE",
     "CHN", "JPN", "KOR", "TWN", "SGP", "AUS", "PHL", "MYS", "VNM", "IDN", "THA", "BRA", "MEX", "ARG",
     "COL", "CRI", "CHL", "ZAF", "ARE", "SAU", "EGY", "ISR", "TUR"]
+
+# ===== MASTER'S IN ACCOUNTING / FINANCE =====
+# true = also alert on roles whose description says master's/graduate students in accounting,
+# finance, economics or business can apply (engineering/CS master's roles stay excluded)
+include_masters_finance: true
 
 # ===== CHẤM ĐIỂM RESUME (cần ANTHROPIC_API_KEY) =====
 model: claude-haiku-4-5-20251001

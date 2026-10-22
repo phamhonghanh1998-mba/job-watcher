@@ -181,13 +181,18 @@ US_STATE = re.compile(r",\s*(A[KLRZ]|C[AOT]|D[CE]|FL|GA|HI|I[ADLN]|K[SY]|LA|M[AD
                       r"PA|RI|S[CD]|T[NX]|UT|V[AT]|W[AIVY])\b")
 
 
-def location_ok(loc):
-    """Keep anything in the US: drop a job only if its location names a non-US place
-    and nothing US-related. Vague labels like "2 Locations" are kept."""
+def location_ok(loc, extra=""):
+    """Keep anything in the US: drop a job only if its location (or, when the location is
+    missing/vague, its title and URL) names a non-US place. "2 Locations" alone is kept."""
     k = CONFIG["keywords"]
-    if not loc or has_any(loc, k.get("locations", [])) or US_STATE.search(loc):
+    if loc and (has_any(loc, k.get("locations", [])) or US_STATE.search(loc)):
         return True
-    return not has_any(loc, k.get("exclude_locations", []))
+    extra = re.sub(r"[-_/+.%]", " ", extra or "")
+    return not has_any(f"{loc} {extra}", k.get("exclude_locations", []))
+
+
+def job_location_ok(j):
+    return location_ok(j["location"], f"{j['title']} {j['url']}")
 
 
 def parse_posted(v):
@@ -226,6 +231,24 @@ MBA_TEXT = re.compile(r"\bMBAs?\b|\bM\.B\.A\b|master[’'`]?s?\s+(?:degree\s+)?(
 
 def mba_in_description(job):
     return bool(MBA_TEXT.search(job.get("description", "")))
+
+
+GRAD_WORD = re.compile(r"master[’'`]?s?\b|\bM\.?S\.?\b|\bMSc\b|\bMAcc\b|\bMPAcc\b|\bMSA\b|\bMSF\b|"
+                       r"\bMFin\b|graduate\s+(?:degree|program|student|level|school)|advanced\s+degree|"
+                       r"post-?graduate", re.I)
+FIN_FIELD = re.compile(r"accounting|accountancy|finance|financial|economics|tax(?:ation)?\b|audit|"
+                       r"business|commerce|management|\bMAcc\b|\bMFin\b|\bMSF\b", re.I)
+NOT_REALLY_GRAD = re.compile(r"sub-?matriculat|integrated\s+(?:bachelor|undergrad)|5[- ]year", re.I)
+
+
+def grad_finance_in_description(job):
+    """Graduate/master's students eligible AND the field is accounting/finance/econ/business."""
+    text = job.get("description", "")
+    for m in GRAD_WORD.finditer(text):
+        window = text[max(0, m.start() - 150): m.end() + 200]
+        if FIN_FIELD.search(window) and not NOT_REALLY_GRAD.search(window):
+            return True
+    return False
 
 
 def fill_description(job):
@@ -290,7 +313,8 @@ def score_fit(job, resume):
 def notify(job, fit):
     topic = (os.environ.get("NTFY_TOPIC") or CONFIG.get("ntfy_topic") or "").strip().rstrip("/")
     topic = topic.rsplit("/", 1)[-1]  # accept "https://ntfy.sh/name" as well as "name"
-    header = f"{job['company']}: {job['title']}"
+    tag = "[Master's fin/acct] " if job.get("level") == "grad_fin" else ""
+    header = f"{tag}{job['company']}: {job['title']}"
     body = job["location"] or ""
     priority = 3
     if fit:
@@ -344,7 +368,7 @@ def main():
 
         first_run = name not in seen
         known = set(seen.get(name, []))
-        matches = [j for j in jobs if title_matches(j["title"]) and location_ok(j["location"])]
+        matches = [j for j in jobs if title_matches(j["title"]) and job_location_ok(j)]
         today = time.strftime("%Y-%m-%d", time.gmtime())
         fs = first_seen.setdefault(name, {})
         for j in matches:
@@ -362,28 +386,35 @@ def main():
 
         seen[name] = sorted(known | {j["id"] for j in jobs})
 
-    # Classify every match as MBA-level: title first; otherwise read the description ONCE and cache it
-    to_check = []
+    # Classify every match: MBA-level (title or description), else master's in accounting/finance
+    # (description). Each description is read ONCE; answers are cached in seen.json.
+    want_gf = CONFIG.get("include_masters_finance", True)
+    gf_cache = seen.setdefault("_gradfin", {})
+    to_read = []
     for name, j in all_matches:
-        cache = mba_cache.setdefault(name, {})
-        if mba_in_title(j["title"]):
-            j["mba"] = True
-        elif j["id"] in cache:
-            j["mba"] = cache[j["id"]]
+        mc, gc = mba_cache.setdefault(name, {}), gf_cache.setdefault(name, {})
+        if mba_in_title(j["title"]) or mc.get(j["id"]):
+            j["level"] = "mba"
+        elif j["id"] in mc and (not want_gf or j["id"] in gc):
+            j["level"] = "grad_fin" if want_gf and gc.get(j["id"]) else None
         else:
-            to_check.append(j)
-    if to_check:
-        print(f"\nReading {len(to_check)} new job descriptions to check for MBA mentions...")
+            to_read.append(j)
+    if to_read:
+        print(f"\nReading {len(to_read)} job descriptions to check eligibility...")
         with ThreadPoolExecutor(10) as ex:
-            list(ex.map(fill_description, to_check))
-        for j in to_check:
-            j["mba"] = mba_in_description(j)
+            list(ex.map(fill_description, to_read))
+        for j in to_read:
+            is_mba, is_gf = mba_in_description(j), grad_finance_in_description(j)
+            j["level"] = "mba" if is_mba else ("grad_fin" if want_gf and is_gf else None)
             if j["description"]:  # only cache if we actually got the text
-                mba_cache[j["company"]][j["id"]] = j["mba"]
+                mba_cache[j["company"]][j["id"]] = is_mba
+                gf_cache[j["company"]][j["id"]] = is_gf
+    for _, j in all_matches:
+        j["mba"] = j.get("level") == "mba"
 
     for j in pending:
-        if not j.get("mba"):
-            print(f"  skipped (no MBA signal): {j['company']}: {j['title']}")
+        if not j.get("level"):
+            print(f"  skipped (no MBA/master's signal): {j['company']}: {j['title']}")
             continue
         fill_description(j)
         fit = score_fit(j, resume)
@@ -418,17 +449,22 @@ def main():
             f"| {j['location'].replace('|', '/')} |" for c, j in items]
 
     def page(order_name, other_file, other_name, sorter):
-        mba = sorter([r for r in rows if r[1].get("mba")])
-        other = sorter([r for r in rows if not r[1].get("mba")])
+        mba = sorter([r for r in rows if r[1].get("level") == "mba"])
+        gf = sorter([r for r in rows if r[1].get("level") == "grad_fin"])
+        other = sorter([r for r in rows if not r[1].get("level")])
         return mba, ["# Open matching jobs (%d)" % len(rows), "",
                 f"Updated {time.strftime('%Y-%m-%d %H:%M UTC', time.gmtime())}. "
                 f"Sorted by **{order_name}**. Switch to [{other_name}]({other_file}).", "",
                 "*Posted* comes from the company's job board. \"~ (first seen)\" means the board gives no "
                 "date, so it shows when the tracker first saw the job.", "",
-                f"## MBA-level ({len(mba)})", "", "Title or job description mentions an MBA.", "", "", *table(mba), "",
+                f"## MBA-level ({len(mba)})", "", "Title or job description mentions an MBA.", "", *table(mba), "",
+                f"## Master's in accounting / finance ({len(gf)})", "",
+                "Description says master's/graduate students in accounting, finance, economics or business "
+                "can apply. Check whether an MBA qualifies (some require an MAcc for CPA hours).", "",
+                *table(gf), "",
                 f"## Other internships ({len(other)})", "",
-                "Neither the title nor the description mentions an MBA. Mostly undergrad roles; "
-                "no phone alerts for these.", "", *table(other)]
+                "No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.",
+                "", *table(other)]
 
     mba, md_date = page("date posted (newest first)", "open_jobs_by_company.md", "sort by company", by_date)
     _, md_co = page("company name", "open_jobs.md", "sort by date posted", lambda x: sorted(x, key=by_company))
