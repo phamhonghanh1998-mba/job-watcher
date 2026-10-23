@@ -8753,6 +8753,7 @@
   "6000000001514890"
  ],
  "Capital One": [
+  "/job/Alabang-Muntinlupa-City/Intern_R245179",
   "/job/Alabang-Muntinlupa-City/Principal-Risk-Specialist--Control-Testing_R243928",
   "/job/Bangalore-In/Director---HR-Operations-and-Risk_R249605",
   "/job/Bangalore-In/Director--HR-Business-Partner_R249598-1",
@@ -17254,6 +17255,7 @@
   "/job/OFallon-Missouri/Lead-Site-Reliability-Engineer_R-293997",
   "/job/OFallon-Missouri/Lead-Software-Development-Engineer_R-292929",
   "/job/OFallon-Missouri/Lead-Software-Engineer_R-290277",
+  "/job/OFallon-Missouri/Lead-Software-Engineer_R-294206",
   "/job/OFallon-Missouri/Lead-Software-Integration-Engineer---Workday_R-281339",
   "/job/OFallon-Missouri/Lead-Software-Integration-Engineer--Release-Management----HR-Platforms_R-281457",
   "/job/OFallon-Missouri/Lead-Technical-Program-Manager_R-290588-1",
@@ -19184,6 +19186,7 @@
   "/job/MSB-Singapore/Principal-Engineer---MTS--PDE-Package-Design_JR114154",
   "/job/MSB-Singapore/SR-ATSM-NETWORK-SUPPLY-MGR-II_JR109719-1",
   "/job/MSB-Singapore/SR-ENGINEER--STPG-PE-SYSTEM_JR113329",
+  "/job/MSB-Singapore/STAFF-ENGINEER--PKG-SI-INT_JR115059",
   "/job/MSB-Singapore/STPG-NAND-Product-Development-Engineer_JR100883",
   "/job/MSB-Singapore/Senior-Engineer--SSD-System_JR102345",
   "/job/MSB-Singapore/Senior-Engineer--STPG-PE-NAND_JR113739",
@@ -25696,6 +25699,8 @@
   "/job/US-AZ-TUCSON-M07--3292-E-Hemisphere-Loop--BLDG-M07/Senior-Principal-Engineer---Power-Sources---One-Shots_01833686",
   "/job/US-AZ-TUCSON-M07--3292-E-Hemisphere-Loop--BLDG-M07/Senior-Principal-Engineer---Solid-Propulsion_01836428",
   "/job/US-AZ-TUCSON-M09--3350-E-Hemisphere-Loop--BLDG-M09/LADS-CORE-Program-Manager_01881139-1",
+  "/job/US-AZ-TUCSON-M09--3350-E-Hemisphere-Loop--BLDG-M09/Material-Program-Manager--MPM----Tucson--AZ_01883915-1",
+  "/job/US-AZ-TUCSON-M09--3350-E-Hemisphere-Loop--BLDG-M09/Material-Program-Manger--MPM----Tucson--AZ_01883913-1",
   "/job/US-AZ-TUCSON-M09--3350-E-Hemisphere-Loop--BLDG-M09/OSC---Principal-Program-Cost-Controls-Specialist---P3----Hybrid-_01882381",
   "/job/US-AZ-TUCSON-M09--3350-E-Hemisphere-Loop--BLDG-M09/PF-M---Program-Cost-Controls-Analyst---P2----Hybrid-_01879417",
   "/job/US-AZ-TUCSON-M09--3350-E-Hemisphere-Loop--BLDG-M09/Principal-Mechanical-Engineer_01881528",
@@ -33432,6 +33437,7 @@
   "8907632002",
   "8907760002",
   "8907769002",
+  "8907784002",
   "8908051002",
   "8909022002",
   "8909050002",
@@ -38184,6 +38190,7 @@
   },
   "Canva": {},
   "Capital One": {
+   "/job/Alabang-Muntinlupa-City/Intern_R245179": "2026-10-23",
    "/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1": "2026-10-02"
   },
   "Caterpillar": {
@@ -39235,6 +39242,9 @@
   },
   "CVS Health": {
    "/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216": true
+  },
+  "Capital One": {
+   "/job/Alabang-Muntinlupa-City/Intern_R245179": false
   },
   "Caterpillar": {
    "/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454": false,
@@ -40302,7 +40312,9 @@
    "/job/WI---Wisconsin-Rapids/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1072729": false,
    "/job/WV---Morgantown/Pharmacy-Intern_R1077926": false
   },
-  "Capital One": {},
+  "Capital One": {
+   "/job/Alabang-Muntinlupa-City/Intern_R245179": false
+  },
   "Caterpillar": {
    "/job/Chennai-Tamil-Nadu/Students---Graduates-Intern_R0000400270": false,
    "/job/Decatur-Illinois/XMLNAME-2027-Summer-Corporate-Intern--Manufacturing_R0000380454": false,
