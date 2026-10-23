@@ -1,6 +1,6 @@
-# Open matching jobs (372)
+# Open matching jobs (371)
 
-Updated 2026-10-23 10:11 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-23 10:51 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -119,7 +119,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Master's in accounting / finance (44)
+## Master's in accounting / finance (43)
 
 Description says master's/graduate students in accounting, finance, economics or business can apply. Check whether an MBA qualifies (some require an MAcc for CPA hours).
 
@@ -127,7 +127,6 @@ Description says master's/graduate students in accounting, finance, economics or
 |---|---|---|---|
 | 2026-10-23 | Genentech | [T&E Compliance Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Petaling-Jaya/T-E-Compliance-Intern_202607-118952) | Petaling Jaya |
 | 2026-10-22 | S&P Global | [Market Intelligence Revenue Associate Internship](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Central-HK/Market-Intelligence-Revenue-Associate-Internship_332059-1) | Central, HK |
-| 2026-10-22 | GE Aerospace | [Program Management Intern](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Rivalta-di-Torino/Program-Management-Intern_R5042066-1) | Rivalta di Torino |
 | 2026-10-22 | CVS Health | [Innovation & Technology Internship - Software Engineering: Platform & Applications -Summer 2027 Grad](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216) | 4 Locations |
 | 2026-10-21 | Anduril | [2027 Business Operations Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) | Costa Mesa, California, United States; Seattle, Washington, United States |
 | 2026-10-21 | Adobe | [2027 Intern - Emerging Technology & Innovation](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997) | San Jose |
