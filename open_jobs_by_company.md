@@ -1,10 +1,10 @@
-# Open matching jobs (372)
+# Open matching jobs (375)
 
-Updated 2026-10-23 21:08 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-23 21:51 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (107)
+## MBA-level (108)
 
 Title or job description mentions an MBA.
 
@@ -12,6 +12,7 @@ Title or job description mentions an MBA.
 |---|---|---|---|
 | 2026-09-23 (30+ days) | 3M | [Internship - 2027 MBA IT Enterprise Application Intern](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-MBA-IT-Enterprise-Application-Intern_R01171129) | US, Minnesota, Maplewood |
 | 2026-10-05 | Abbott | [2027 Abbott MBA Internship](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Abbott-Park/XMLNAME-2027-Abbott-MBA-Internship_31160732) | 3 Locations |
+| 2026-10-05 | Accenture | [Strategy Summer Consultant - MBA Internship - NAELFY27](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/NY---New-York/Strategy-Summer-Consultant---MBA-Internship---NAELFY27_R00361148) |  |
 | 2026-10-06 | Adobe | [2027 MBA Intern - Corporate Strategy](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-MBA-Intern---Corporate-Strategy_R172471) | 2 Locations |
 | 2026-10-21 | Adobe | [2027 MBA Intern - Digital Strategy Associate, Strategic Advisory](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/XMLNAME-2027-MBA-Intern---Digital-Strategy-Associate--Strategic-Advisory_R172922) | New York |
 | 2026-09-30 | Adobe | [2027 MBA Intern – Product Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261) | 2 Locations |
@@ -144,8 +145,8 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-10-19 | Hewlett Packard Enterprise | [ASIC Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Intern_1214020) | Roseville, California, United States of America |
 | 2026-09-23 (30+ days) | Home Depot | [2027 Summer Internship - Software Engineering](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937) | STORE SUPPORT CENTER, ATLANTA - 9090 |
 | 2026-09-23 (30+ days) | Kraft Heinz | [Operations Intern](https://heinz.wd1.myworkdayjobs.com/en-US/KraftHeinz_Careers/job/Operations-Intern_R-53383) |  |
-| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
+| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-23 (30+ days) | Mondelez | [Corporate Finance Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1) | East Hanover, New Jersey, United States |
 | 2026-10-14 | Mondelez | [Logistics Operations Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Business-Unit-Head-Office---East-Hanover-USA/Customer-Service-and-Logistics-Intern-_R-175412) | 6 Locations |
 | 2026-09-23 (30+ days) | Mondelez | [Manufacturing Intern– Process Engineering](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Business-Unit-Head-Office---East-Hanover-USA/Manufacturing-Intern--Process-Engineering_R-175409) | 7 Locations |
@@ -168,7 +169,7 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-21 | Waymo | [2027 Summer Intern, BS/MS, Global Supply Management (GSM)](https://careers.withwaymo.com/jobs?gh_jid=8201252) | Mountain View, California |
 | 2026-10-23 | Zillow | [Applied Scientist (Economics) Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1) | Seattle-WA-2nd Ave |
 
-## Other internships (222)
+## Other internships (224)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
@@ -181,6 +182,8 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-05 | Abbott | [2027 R&D Cancer Diagnostics Intern](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---La-Jolla/XMLNAME-2027-R-D-Cancer-Diagnostic-Intern_31162891) | 2 Locations |
 | 2026-09-23 (30+ days) | Abbott | [2027 Sales Cancer Diagnostics Intern](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States--Madison--1-Exact-Lane/XMLNAME-2027-Sales-Cancer-Diagnostics-Intern_31161558) | United States > Madison : 1 Exact Lane |
 | 2026-09-23 (30+ days) | Abbott | [CRM Clinical Field Intern - Summer 2027](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Abbott-Park/CRM-Clinical-Field-Intern---Summer-2027_31160750) | United States - Illinois - Abbott Park |
+| 2026-10-21 | Accenture | [Analista Junior Tecnico/Funzionale - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Verona/Analista-Junior-Tecnico-Funzionale---Ambito-Financial-Services_R00278795) |  |
+| 2026-10-14 | Accenture | [Cybersecurity Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331) |  |
 | 2026-09-23 (30+ days) | Adobe | [2027 Intern - Adobe Sales Academy BDR](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Adobe-Sales-Academy-BDR_R170977) | 4 Locations |
 | 2026-10-19 | Adobe | [2027 Intern - AI & Architecture](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) | San Jose |
 | 2026-10-19 | Adobe | [2027 Intern - Experience Researcher](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Experience-Researcher_R172996) | San Jose |

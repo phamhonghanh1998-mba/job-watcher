@@ -1,10 +1,10 @@
-# Open matching jobs (372)
+# Open matching jobs (375)
 
-Updated 2026-10-23 21:08 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-23 21:51 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (107)
+## MBA-level (108)
 
 Title or job description mentions an MBA.
 
@@ -36,6 +36,7 @@ Title or job description mentions an MBA.
 | 2026-10-13 | NVIDIA | [Product Management MBA Intern, Data Center GPU - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) | US, CA, Santa Clara |
 | 2026-10-08 | Adobe | [2027 MBA University Graduate - Product Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-MBA-University-Graduate---Product-Manager_R171900) | 2 Locations |
 | 2026-10-06 | Adobe | [2027 MBA Intern - Corporate Strategy](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-MBA-Intern---Corporate-Strategy_R172471) | 2 Locations |
+| 2026-10-05 | Accenture | [Strategy Summer Consultant - MBA Internship - NAELFY27](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/NY---New-York/Strategy-Summer-Consultant---MBA-Internship---NAELFY27_R00361148) |  |
 | 2026-10-05 | Abbott | [2027 Abbott MBA Internship](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Abbott-Park/XMLNAME-2027-Abbott-MBA-Internship_31160732) | 3 Locations |
 | 2026-10-02 | PwC (2) | [Accelerated Solutions Consulting Senior Associate Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Accelerated-Solutions-Consulting-Senior-Associate-Intern---Summer-2027_765697WD) | IL-Rosemont |
 | 2026-10-02 | PwC (2) | [Delivering Deal Value (DDV) Senior Associate Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Delivering-Deal-Value--DDV--Senior-Associate-Intern---Summer-2027_765612WD) | IL-Rosemont |
@@ -159,8 +160,8 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-18 | Amazon | [Data Engineer Internship - 2027 (US)](https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us) | Seattle, Washington, USA |
 | 2026-09-18 | Amazon | [Business Intelligence Engineer Internship - 2027 (US)](https://www.amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) | Seattle, Washington, USA |
 | 2026-09-15 | Ramp | [Applied Scientist Intern](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) | New York, NY (HQ) |
-| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
+| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-08 | Coinbase | [Credit Risk Intern](https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [Crypto Inventory Operations Intern](https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [Data Science Intern](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) | Hybrid - New York, NY |
@@ -168,7 +169,7 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-02 | Roblox | [[Summer 2027] Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA, United States |
 | 2023-08-17 | Databricks | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, California; San Francisco, California |
 
-## Other internships (222)
+## Other internships (224)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
@@ -192,6 +193,7 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-21 | Caterpillar | [Environment, Health & Safety Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Tullamarine-Victoria/Environment--Health---Safety-Intern_R0000400697) | Tullamarine, Victoria |
 | 2026-10-21 | Anduril | [2027 Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) | Ashville, Ohio, United States; Costa Mesa, California, United States |
 | 2026-10-21 | Anduril | [2027 Product Sourcing Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) | Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States |
+| 2026-10-21 | Accenture | [Analista Junior Tecnico/Funzionale - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Verona/Analista-Junior-Tecnico-Funzionale---Ambito-Financial-Services_R00278795) |  |
 | 2026-10-20 | PwC (2) | [Louisville - Digital Assurance & Transparency (DAT) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/KY-Louisville/Louisville---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_756947WD) | KY-Louisville |
 | 2026-10-20 | Datadog | [Sales Development Representative - Summer 2027 Graduates (Boston)](https://careers.datadoghq.com/detail/8287316/?gh_jid=8287316) | Boston, Massachusetts, USA |
 | 2026-10-20 | Amazon | [Creative Marketing Intern – Summer 2027](https://www.amazon.jobs/en/jobs/10584130/creative-marketing-intern-summer-2027) | Seattle, Washington, USA |
@@ -221,6 +223,7 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-14 | PwC (2) | [Philadelphia - Tax JD - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Philadelphia/Philadelphia---Tax-JD---Intern---Summer-2027_763735WD) | PA-Philadelphia |
 | 2026-10-14 | Anduril | [2027 Flight Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007) | Costa Mesa, California, United States |
 | 2026-10-14 | Amazon | [Communications Assistant Summer Intern – Summer 2027 ](https://www.amazon.jobs/en/jobs/10578771/communications-assistant-summer-intern-summer-2027) | Seattle, Washington, USA |
+| 2026-10-14 | Accenture | [Cybersecurity Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331) |  |
 | 2026-10-13 | Remitly | [People Operations Intern](https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Managua-Nicaragua/People-Operations-Intern_R_107018) | Managua, Nicaragua |
 | 2026-10-13 | PwC (2) | [Philadelphia - Digital Assurance & Transparency (DAT) - Intern - Summer 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Philadelphia/Philadelphia---Digital-Assurance---Transparency--DAT----Intern---Summer-2028_757383WD) | PA-Philadelphia |
 | 2026-10-13 | Hewlett Packard Enterprise | [Marketing Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Marketing-Intern_1213360) | 2 Locations |
