@@ -1,10 +1,10 @@
-# Open matching jobs (364)
+# Open matching jobs (371)
 
-Updated 2026-10-23 08:15 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-23 08:55 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (101)
+## MBA-level (107)
 
 Title or job description mentions an MBA.
 
@@ -100,6 +100,12 @@ Title or job description mentions an MBA.
 | 2026-09-23 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Portfolio Management - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---New-York_R266471) | New York, NY |
 | 2026-09-23 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - San Francisco](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469) | San Francisco, CA |
 | 2026-09-23 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Sales & Relationship Management - Institutional Wealth - Chicago](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Chicago-IL/XMLNAME-2027-Quantitative-Masters-Internship-Program---Sales---Relationship-Management---Institutional-Wealth---Chicago_R266475) | Chicago, IL |
+| 2026-09-23 (30+ days) | Amgen | [MBA Intern – Commercial Leadership Program (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/MBA-Intern---Commercial-Leadership-Program--Summer-2027-_R-254479) | United States - Remote |
+| 2026-09-23 (30+ days) | Amgen | [MBA Intern – Finance & Strategy Leadership Development Program (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/MBA-Intern---Finance---Strategy-Leadership-Development-Program--Summer-2027-_R-254491) | United States - Remote |
+| 2026-09-23 (30+ days) | Amgen | [Operations Graduate Program – Summer 2027 Internship](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Operations-Graduate-Program---Summer-2027-Internship_R-254659) | 6 Locations |
+| 2026-09-23 (30+ days) | Amgen | [Grad Intern - Operations – Process Development (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Process-Development--Summer-2027-_R-254519) | US - California - Thousand Oaks |
+| 2026-09-23 (30+ days) | Amgen | [Grad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743) | United States - Remote |
+| 2026-09-23 (30+ days) | Amgen | [Grad Intern – Digital Product – Technology, AI & Data (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744) | United States - Remote |
 | 2026-09-23 (30+ days) | Adobe | [2027 MBA University Graduate - Manager, Corporate Strategy](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-MBA-University-Graduate---Manager--Corporate-Strategy_R171682) | 2 Locations |
 | 2026-09-23 (30+ days) | 3M | [Internship - 2027 MBA IT Enterprise Application Intern](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---2027-MBA-IT-Enterprise-Application-Intern_R01171129) | US, Minnesota, Maplewood |
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
@@ -164,12 +170,13 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-02 | Roblox | [[Summer 2027] Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA, United States |
 | 2023-08-17 | Databricks | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, California; San Francisco, California |
 
-## Other internships (218)
+## Other internships (219)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
+| 2026-10-23 | Genentech | [Intern - Contract Record Management (Mandarin Speaker)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Petaling-Jaya/Intern---Contract-Record-Analyst--Mandarin-Speaker-_202609-123390) | Petaling Jaya |
 | 2026-10-22 | Target | [Store Executive Intern (Store Leadership Intern) – Greater San Diego, CA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1288-Camino-Del-Rio-N-San-DiegoCA-92108-1511/Store-Executive-Intern--Store-Leadership-Intern----Southern-San-Diego--CA--Starting-Summer-2027-_R0000450290) | 1288 Camino Del Rio N, San Diego,CA 92108-1511 |
 | 2026-10-22 | Target | [Designer Intern, Owned Brands- Minneapolis, MN (Starting Summer, 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Designer-Intern--Owned-Brands--Minneapolis--MN--Starting-Summer--2027-_R0000478536-1) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |
 | 2026-10-22 | RTX | [Stage - Hiver 2027- Support à l’ingénierie du développement / Internship - Winter 2027 - Development Engineering Internship](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027--Support--l-ingnierie-du-dveloppement---Internship---Winter-2027---Development-Engineering-Internship_01867252) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG |

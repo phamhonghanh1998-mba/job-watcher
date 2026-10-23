@@ -1,10 +1,10 @@
-# Open matching jobs (364)
+# Open matching jobs (371)
 
-Updated 2026-10-23 08:15 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-23 08:55 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (101)
+## MBA-level (107)
 
 Title or job description mentions an MBA.
 
@@ -24,6 +24,12 @@ Title or job description mentions an MBA.
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 | 2026-08-20 | Amazon | [Product Manager Technical (PMT) Intern - Summer 2027](https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) | Seattle, Washington, USA |
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
+| 2026-09-23 (30+ days) | Amgen | [Grad Intern - Operations – Process Development (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Grad-Intern---Operations---Process-Development--Summer-2027-_R-254519) | US - California - Thousand Oaks |
+| 2026-09-23 (30+ days) | Amgen | [Grad Intern – Digital Product – Technology, AI & Data (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744) | United States - Remote |
+| 2026-09-23 (30+ days) | Amgen | [Grad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743) | United States - Remote |
+| 2026-09-23 (30+ days) | Amgen | [MBA Intern – Commercial Leadership Program (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/MBA-Intern---Commercial-Leadership-Program--Summer-2027-_R-254479) | United States - Remote |
+| 2026-09-23 (30+ days) | Amgen | [MBA Intern – Finance & Strategy Leadership Development Program (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/MBA-Intern---Finance---Strategy-Leadership-Development-Program--Summer-2027-_R-254491) | United States - Remote |
+| 2026-09-23 (30+ days) | Amgen | [Operations Graduate Program – Summer 2027 Internship](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Operations-Graduate-Program---Summer-2027-Internship_R-254659) | 6 Locations |
 | 2026-09-23 (30+ days) | BlackRock | [2027 MBA Internship Program - Client & Product Functions - Research & Markets Advisory - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Research---Markets-Advisory---New-York_R266467) | New York, NY |
 | 2026-09-23 (30+ days) | BlackRock | [2027 MBA Internship Program - Client & Product Functions - Sales & Relationship Management - Institutional & Wealth - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Sales---Relationship-Management---Institutional---Wealth---New-York_R266466) | New York, NY |
 | 2026-09-23 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468) | New York, NY |
@@ -164,7 +170,7 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-21 | Waymo | [2027 Summer Intern, BS/MS, Global Supply Management (GSM)](https://careers.withwaymo.com/jobs?gh_jid=8201252) | Mountain View, California |
 | 2026-10-20 | Zillow | [Applied Scientist (Economics) Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1) | Seattle-WA-2nd Ave |
 
-## Other internships (218)
+## Other internships (219)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
@@ -293,6 +299,7 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-09-23 | Figma | [Data Engineer Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | San Francisco, CA • New York, NY |
+| 2026-10-23 | Genentech | [Intern - Contract Record Management (Mandarin Speaker)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Petaling-Jaya/Intern---Contract-Record-Analyst--Mandarin-Speaker-_202609-123390) | Petaling Jaya |
 | 2026-10-13 | Gusto | [Finance Intern (Summer 2027)](https://job-boards.greenhouse.io/gusto/jobs/8257115) | New York, NY - Hybrid |
 | 2026-10-12 | Hewlett Packard Enterprise | [ASIC Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034) | Sunnyvale, California, United States of America |
 | 2026-09-28 | Hewlett Packard Enterprise | [Finance Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Finance-Intern_1213639) | Spring, Texas, United States of America |
