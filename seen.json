@@ -1118,6 +1118,7 @@
   "/job/US---California---Thousand-Oaks/Undergrad-Intern---Operations---Process-Development--Summer-2027-_R-254516",
   "/job/US---Massachusetts---Cambridge/Undergrad-Intern---Operations---Cambridge--MA--Summer-2027-_R-254515",
   "/job/US---Ohio---New-Albany/Grad-Intern---Operations---New-Albany--OH--Summer-2027-_R-258687",
+  "/job/US---Ohio---New-Albany/Undergrad-Co-op---Operations---New-Albany--OH--Spring-Semester-2027-_R-254604",
   "/job/United-States---Remote/Chief-of-Staff--Enterprise-AI---Data-Science_R-252765",
   "/job/United-States---Remote/Grad-Co-op---Computational-Safety-Modeling-for-Small-Molecules_R-257124",
   "/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
@@ -6483,6 +6484,7 @@
   "/job/GBR---Prestwick-UK/Engineering-Intern---Summer-2027_JR2026520518",
   "/job/GBR---Prestwick-UK/Project-Management-Intern--Summer-2027_JR2026520348",
   "/job/GBR---Prestwick-UK/Research-and-Technology-Intern--Summer-2027_JR2026520512",
+  "/job/GBR---Sheffield-UK/Manufacturing-Engineering-Internship_JR2026524411",
   "/job/GBR---Welwyn-Garden-City-UK/Support-Engineering-Data-Intern--12-Month-Placement_JR2026520888",
   "/job/GBR---Welwyn-Garden-City-UK/Support-Engineering-Data-Intern--Summer-2027_JR2026524227",
   "/job/IND---New-Delhi-India/Senior-Manager---International-Business-Development-India_JR2026522567-1",
@@ -6491,6 +6493,8 @@
   "/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829",
   "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1",
   "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1",
+  "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1",
+  "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Supply-Chain_JR2026519410-1",
   "/job/USA---Hialeah-FL/Senior-Program-Management-Manager_JR2026525114",
   "/job/USA---Hialeah-FL/Senior-Program-Management-Manager_JR2026526011-1",
   "/job/USA---North-Charleston-SC/Business-Operations-Specialist_JR2026518690-1",
@@ -22130,6 +22134,7 @@
   "/job/Chicago---155-Wacker/Senior-Pharmacy-Benefits-Consultant_R_360777-1",
   "/job/Chicago---155-Wacker/Workforce-and-Rewards-Summer-Associate--MBA-or-Master-s-Track----Chicago---MBA-Program-2027_R_367574-1",
   "/job/Cluj-Napoca---Decembrie/Junior-Global-Benefits-Management-Account-Specialist--Mercer_R_367038",
+  "/job/Dallas---13155-Noel/Intern---Summer-2027_R_369433",
   "/job/Fort-Lauderdale---Corporate/Summer-Sales-Intern_R_324193",
   "/job/Frankfurt---Einheit-1/Director---International-Consulting_R_357558",
   "/job/Frankfurt---Einheit-1/Global-Benefits-Account-Manager--m-w-d-_R_367845",
@@ -22165,6 +22170,8 @@
   "/job/New-York---499-Park/Lippincott---Design-Intern_R_361604",
   "/job/Omaha---Southport/Insurance-Intern_R_364740",
   "/job/Paris---Pyramides/Coordinateur-International-HF_R_365566",
+  "/job/Raleigh---Sugar-Bush/Actuarial-Science-Intern_R_368596",
+  "/job/Raleigh---Sugar-Bush/Marketing---Communications-Intern_R_368601",
   "/job/Salt-Lake-City---West-South/Director--Portfolio-Strategy---Private-Markets_R_352052",
   "/job/Seattle---Fifth-Avenue/Executive-Rewards-Compensation-Analyst_R_355142",
   "/job/Shanghai---Huai-Hai/Finance-Intern_R_363313",
@@ -30663,6 +30670,7 @@
   "42b1b01c-ff96-4d5c-bcbd-c96e8109f50f",
   "4353dcb9-2de7-4396-9ff3-24514b8c9590",
   "435f1357-2f89-4b5f-bc33-b79b0a8355f2",
+  "43c2b225-e3fd-4706-a66f-154dd6a23025",
   "4401580a-c2d4-4dc4-9544-dfd4df65cb51",
   "440ec976-a307-4575-abab-554aef8151a4",
   "450d9669-ec61-4170-81e9-c537f7e7aef9",
@@ -38452,6 +38460,8 @@
    "/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829": "2026-10-02",
    "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1": "2026-10-14",
    "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1": "2026-10-22",
+   "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1": "2026-10-24",
+   "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Supply-Chain_JR2026519410-1": "2026-10-24",
    "/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1": "2026-10-21"
   },
   "Booz Allen Hamilton": {
@@ -39538,6 +39548,7 @@
    "/job/Brookfield---Golf/Sales-Intern---Sales_R_365820": "2026-10-12",
    "/job/Charlotte---Carnegie-Boulevard/Client-Management-Intern_R_368586": "2026-10-13",
    "/job/Chicago---155-Wacker/Workforce-and-Rewards-Summer-Associate--MBA-or-Master-s-Track----Chicago---MBA-Program-2027_R_367574-1": "2026-10-02",
+   "/job/Dallas---13155-Noel/Intern---Summer-2027_R_369433": "2026-10-24",
    "/job/Fort-Lauderdale---Corporate/Summer-Sales-Intern_R_324193": "2026-10-02",
    "/job/Golden-Valley---Golden/Sales-Intern---Sales_R_365681": "2026-10-12",
    "/job/Gurugram---Good-Earth/Intern-Technology_R_341489": "2026-10-16",
@@ -39548,6 +39559,8 @@
    "/job/New-York---1166/Oliver-Wyman---2027-MBA-Summer-Associate---Health---Life-Sciences_R_363378": "2026-10-02",
    "/job/New-York---499-Park/Lippincott---Design-Intern_R_361604": "2026-10-12",
    "/job/Omaha---Southport/Insurance-Intern_R_364740": "2026-10-02",
+   "/job/Raleigh---Sugar-Bush/Actuarial-Science-Intern_R_368596": "2026-10-24",
+   "/job/Raleigh---Sugar-Bush/Marketing---Communications-Intern_R_368601": "2026-10-24",
    "/job/Walnut-Creek---1255-Treat/EH-B-Intern_R_337618": "2026-10-02"
   },
   "OpenAI": {},
@@ -40134,6 +40147,8 @@
   "Boeing": {
    "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1": false,
    "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1": false,
+   "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1": false,
+   "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Supply-Chain_JR2026519410-1": false,
    "/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1": false
   },
   "Booz Allen Hamilton": {
@@ -40314,8 +40329,17 @@
   "NVIDIA": {},
   "Nike": {},
   "Oliver Wyman": {
+   "/job/Brookfield---Golf/Sales-Intern---Sales_R_365820": true,
+   "/job/Charlotte---Carnegie-Boulevard/Client-Management-Intern_R_368586": true,
+   "/job/Dallas---13155-Noel/Intern---Summer-2027_R_369433": false,
+   "/job/Fort-Lauderdale---Corporate/Summer-Sales-Intern_R_324193": false,
+   "/job/Golden-Valley---Golden/Sales-Intern---Sales_R_365681": true,
    "/job/Lincoln---Pine/Insurance-Intern_R_364734": false,
-   "/job/Omaha---Southport/Insurance-Intern_R_364740": false
+   "/job/New-York---499-Park/Lippincott---Design-Intern_R_361604": false,
+   "/job/Omaha---Southport/Insurance-Intern_R_364740": false,
+   "/job/Raleigh---Sugar-Bush/Actuarial-Science-Intern_R_368596": true,
+   "/job/Raleigh---Sugar-Bush/Marketing---Communications-Intern_R_368601": false,
+   "/job/Walnut-Creek---1255-Treat/EH-B-Intern_R_337618": false
   },
   "Palantir": {
    "1a935143-e857-480c-bc5a-ad625d754eb6": false,
@@ -40639,6 +40663,8 @@
    "/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829": true,
    "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1": false,
    "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1": false,
+   "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1": false,
+   "/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Supply-Chain_JR2026519410-1": false,
    "/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Quality-Engineering-Intern_JR2026520439-1": false
   },
   "Booz Allen Hamilton": {
@@ -41663,6 +41689,7 @@
   "Oliver Wyman": {
    "/job/Brookfield---Golf/Sales-Intern---Sales_R_365820": false,
    "/job/Charlotte---Carnegie-Boulevard/Client-Management-Intern_R_368586": false,
+   "/job/Dallas---13155-Noel/Intern---Summer-2027_R_369433": false,
    "/job/Fort-Lauderdale---Corporate/Summer-Sales-Intern_R_324193": false,
    "/job/Golden-Valley---Golden/Sales-Intern---Sales_R_365681": false,
    "/job/Gurugram---Good-Earth/Intern-Technology_R_341489": false,
@@ -41671,6 +41698,8 @@
    "/job/Lincoln---Pine/Insurance-Intern_R_364734": false,
    "/job/New-York---499-Park/Lippincott---Design-Intern_R_361604": false,
    "/job/Omaha---Southport/Insurance-Intern_R_364740": false,
+   "/job/Raleigh---Sugar-Bush/Actuarial-Science-Intern_R_368596": false,
+   "/job/Raleigh---Sugar-Bush/Marketing---Communications-Intern_R_368601": false,
    "/job/Walnut-Creek---1255-Treat/EH-B-Intern_R_337618": false
   },
   "Palantir": {
