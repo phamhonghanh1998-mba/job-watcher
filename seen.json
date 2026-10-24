@@ -19245,6 +19245,7 @@
   "/job/Boise-ID---SIG-Building/New-College-Grad---ENGINEER--SIG-ELECTRICAL-DESIGN_JR109492",
   "/job/Boise-ID---SIG-Building/New-College-Grad---Embedded-Firmware-Engineer_JR109306",
   "/job/Boise-ID---SIG-Building/Senior-Embedded-Firmware-Engineer_JR105209",
+  "/job/California---Remote-D/Talent-Acquisition---Contract-Recruiter_JR111460",
   "/job/California---Remote-E/Executive-Search-Recruiting-Sourcing-Specialist--Contract--_JR114197",
   "/job/Clay-NY/NY-Construction--Cost-Control-Tax---Incentives_JR114752",
   "/job/Clay-NY/NY-Cost-Control---Commercial---Financial-Execution_JR114751",
@@ -22092,7 +22093,8 @@
   "8314196",
   "8319085",
   "8319247",
-  "8319274"
+  "8319274",
+  "8319285"
  ],
  "Oliver Wyman": [
   "/job/Atlanta---Lenox/Pharmacy-Audit-Lead-Consultant_R_360737",
@@ -22401,6 +22403,7 @@
   "38ddaa2c-a490-427a-8457-0e92bf00138c",
   "38e3c4bf-a632-405e-9619-b87382ca2472",
   "393b88d7-1fbc-466a-9108-a7c1bafeb8d8",
+  "395e9fe2-4d78-42dd-b3f7-603884915a59",
   "39e06ef9-5e62-425d-81e2-e8690188011f",
   "3a05c5d7-fdd9-4e0e-823a-2ae08b59958b",
   "3a24a9a2-47e1-427c-ac76-81b5c59b638b",
@@ -22713,6 +22716,7 @@
   "88164d12-c8ed-4b62-ae26-dcb6f1cc8482",
   "8842f4d5-dabb-4b15-a339-36ab13a6db11",
   "88654e7f-4e23-4e75-8e54-18c10d09b093",
+  "88667f7f-8fd2-48fd-8067-b58f6dff4652",
   "88a57561-561b-4a14-bc43-78bc7f144164",
   "88e65467-7e19-4164-a1de-1d49d3f2dd52",
   "894ce80d-c587-4ef0-92d2-b16deb9a06b9",
@@ -22977,6 +22981,7 @@
   "c8d3feee-2b6a-4ef7-b8c0-90bbd1381c1f",
   "c955617d-f465-4f7a-b57c-98284fd14777",
   "c95b87cf-c00d-48b7-a357-aa4f7baa2467",
+  "c9832989-edc1-4f2f-8a79-8fa29f5623e2",
   "c9a9e992-003a-4d02-a723-884e3eed6a9b",
   "c9dffd0f-c4b2-461c-9aa2-d08bf1ca5e68",
   "c9e9e3a5-fb93-4162-b876-6266016819c0",
@@ -28638,6 +28643,7 @@
   "8292643",
   "8292678",
   "8293671",
+  "8304526",
   "8304814"
  ],
  "S&P Global": [
@@ -29812,7 +29818,13 @@
   "8306612",
   "8311584",
   "8315122",
-  "8315136"
+  "8315136",
+  "8319740",
+  "8319750",
+  "8319755",
+  "8319768",
+  "8319771",
+  "8319784"
  ],
  "Scale AI": [
   "4282118005",
@@ -37137,6 +37149,7 @@
   "7484358",
   "7488508",
   "7488596",
+  "7490150",
   "7495240",
   "7509005",
   "7510368",
@@ -39866,7 +39879,8 @@
   "Samsara": {
    "8082091": "2026-10-02",
    "8099799": "2026-10-02",
-   "8103119": "2026-10-02"
+   "8103119": "2026-10-02",
+   "8319784": "2026-10-24"
   },
   "Scale AI": {
    "4730845005": "2026-10-02",
@@ -40375,7 +40389,8 @@
   "Samsara": {
    "8082091": false,
    "8099799": false,
-   "8103119": false
+   "8103119": false,
+   "8319784": false
   },
   "Scale AI": {
    "4730845005": false,
@@ -41955,7 +41970,8 @@
   "Samsara": {
    "8082091": false,
    "8099799": false,
-   "8103119": false
+   "8103119": false,
+   "8319784": false
   },
   "Scale AI": {
    "4730845005": false,
