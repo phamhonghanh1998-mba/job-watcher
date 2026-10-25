@@ -14918,8 +14918,10 @@
   "/job/Haifa-HEALTHCARE-HA-IL-2/Algorithm-Software-Engineer_R4045928-1",
   "/job/Haifa-HEALTHCARE-HA-IL-2/Clinical-Applications-Engineer_R4046192-1",
   "/job/Haifa-HEALTHCARE-HA-IL-2/Sr-System-Engineer_R4045015-1",
+  "/job/Haifa-HEALTHCARE-HA-IL-2/V-V-Intern_R4048432-2",
   "/job/Haifa/AI-Regulatory-Engineer_R4046349-1",
   "/job/Haifa/Clinical-Application-Specialist-MICT_R4044655-1",
+  "/job/Haifa/Lead--Design-Control-Engineer_R4047747-1",
   "/job/Haifa/PMO-Release-Manager_R4047337-1",
   "/job/Haifa/Principal-Engineer---Point-of-Care-Ultrasound_R4048187-1",
   "/job/Haifa/Senior-Software-Engineer--C---_R4047492-1",
@@ -39300,6 +39302,7 @@
   "GE HealthCare": {
    "/job/ARG06-01-Buenos-Aires-Andres-Arguibel-2860/Service-Product-Data-Intern_R4046257-1": "2026-10-23",
    "/job/COL01-01-Bogota-Av-Cra-72-No-80-94/Becario-a-de-Channel-Management---Analytics_R4047086-1": "2026-10-06",
+   "/job/Haifa-HEALTHCARE-HA-IL-2/V-V-Intern_R4048432-2": "2026-10-25",
    "/job/Herlev/Innovation-Intern_R4047567-1": "2026-10-13",
    "/job/Herlev/Innovation-Intern_R4047587-1": "2026-10-13",
    "/job/IL03-01-Chicago-500-W-Monroe-St/Financial-Management-Program-Internship_R4043926-1": "2026-10-07",
@@ -40294,6 +40297,7 @@
   },
   "GE HealthCare": {
    "/job/ARG06-01-Buenos-Aires-Andres-Arguibel-2860/Service-Product-Data-Intern_R4046257-1": false,
+   "/job/Haifa-HEALTHCARE-HA-IL-2/V-V-Intern_R4048432-2": false,
    "/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1": false
   },
   "Genentech": {
@@ -41483,6 +41487,7 @@
   "GE HealthCare": {
    "/job/ARG06-01-Buenos-Aires-Andres-Arguibel-2860/Service-Product-Data-Intern_R4046257-1": false,
    "/job/COL01-01-Bogota-Av-Cra-72-No-80-94/Becario-a-de-Channel-Management---Analytics_R4047086-1": false,
+   "/job/Haifa-HEALTHCARE-HA-IL-2/V-V-Intern_R4048432-2": false,
    "/job/Herlev/Innovation-Intern_R4047567-1": false,
    "/job/Herlev/Innovation-Intern_R4047587-1": false,
    "/job/IL03-01-Chicago-500-W-Monroe-St/Financial-Management-Program-Internship_R4043926-1": false,
