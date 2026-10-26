@@ -1,10 +1,10 @@
-# Open matching jobs (360)
+# Open matching jobs (363)
 
-Updated 2026-10-26 10:04 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-26 10:59 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (104)
+## MBA-level (105)
 
 Title or job description mentions an MBA.
 
@@ -59,6 +59,7 @@ Title or job description mentions an MBA.
 | 2026-09-28 | Medtronic | [MBA Internship - Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/MBA-Internship---Summer-2027_R78587-1) | Minneapolis, Minnesota, United States of America |
 | 2026-09-26 (30+ days) | Vanguard | [MBA Internship - Investment Management](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/MBA-Internship---Investment-Management_182042) | Malvern, PA |
 | 2026-09-26 (30+ days) | Vanguard | [MBA Development Program - General Management](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/MBA-Development-Program---General-Management_180221) | Malvern, PA |
+| 2026-09-26 (30+ days) | Target | [MBA Intern, Finance Leadership Development Program (FLDP) Internship - (Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/MBA-Intern--Finance-Leadership-Development-Program--FLDP--Internship----Summer-2027-_R0000451066) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |
 | 2026-09-26 (30+ days) | Pfizer | [MBA Marketing Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Marketing-Summer-Associate_4960967) | United States - New York - New York City |
 | 2026-09-26 (30+ days) | Pfizer | [MBA Finance Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Finance-Summer-Associate_4960971) | United States - New York - New York City |
 | 2026-09-26 (30+ days) | Pfizer | [MBA Strategy & Consulting Summer Associate](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/MBA-Strategy---Consulting-Summer-Associate_4960972) | United States - New York - New York City |
@@ -155,8 +156,8 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-18 | Amazon | [Data Engineer Internship - 2027 (US)](https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us) | Seattle, Washington, USA |
 | 2026-09-18 | Amazon | [Business Intelligence Engineer Internship - 2027 (US)](https://www.amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) | Seattle, Washington, USA |
 | 2026-09-15 | Ramp | [Applied Scientist Intern](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) | New York, NY (HQ) |
-| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
+| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-08 | Coinbase | [Credit Risk Intern](https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [Crypto Inventory Operations Intern](https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [Data Science Intern](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) | Hybrid - New York, NY |
@@ -164,7 +165,7 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-02 | Roblox | [[Summer 2027] Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA, United States |
 | 2023-08-17 | Databricks | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, California; San Francisco, California |
 
-## Other internships (214)
+## Other internships (216)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
@@ -172,11 +173,13 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 |---|---|---|---|
 | 2026-10-25 | GE HealthCare | [V&V Intern](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/V-V-Intern_R4048432-2) | Haifa HEALTHCARE HA IL 2 |
 | 2026-10-23 | Zillow | [Product Design Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613) | Seattle-WA-2nd Ave |
+| 2026-10-23 | Target | [Store Executive Intern (Store Leadership Intern) – Greater Long Beach, CA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/2270-N-Bellflower-Blvd-Long-BeachCA-90815-2017/Store-Executive-Intern--Store-Leadership-Intern----Long-Beach--CA--Starting-Summer-2027-_R0000450291) | 4 Locations |
 | 2026-10-23 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784) | Phoenix, Arizona, United States |
-| 2026-10-23 | Morgan Stanley | [Intern](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Oklahoma-City-Oklahoma-United-States-of-America/Intern_JR045882) | Oklahoma City, Oklahoma, United States of America |
 | 2026-10-23 | MongoDB | [2027 - Software Engineering Intern, AMER](https://www.mongodb.com/careers/job/?gh_jid=8209134) | Austin; New York City; San Francisco |
 | 2026-10-23 | Amazon | [2027 Amazon Air (Network Control Center) Supply Chain Manager Intern](https://www.amazon.jobs/en/jobs/10587855/2027-amazon-air-network-control-center-supply-chain-manager-intern) | Erlanger, Kentucky, USA |
 | 2026-10-23 | Amazon | [2027 Amazon Air Supply Chain Manager Intern](https://www.amazon.jobs/en/jobs/10587854/2027-amazon-air-supply-chain-manager-intern) | Bellevue, Washington, USA |
+| 2026-10-22 | Target | [Store Executive Intern (Store Leadership Intern) – Greater San Diego, CA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1288-Camino-Del-Rio-N-San-DiegoCA-92108-1511/Store-Executive-Intern--Store-Leadership-Intern----Southern-San-Diego--CA--Starting-Summer-2027-_R0000450290) | 1288 Camino Del Rio N, San Diego,CA 92108-1511 |
+| 2026-10-22 | Target | [Designer Intern, Owned Brands- Minneapolis, MN (Starting Summer, 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Designer-Intern--Owned-Brands--Minneapolis--MN--Starting-Summer--2027-_R0000478536-1) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |
 | 2026-10-22 | Palantir | [Deployment Strategist, Internship - Warp Speed](https://jobs.lever.co/palantir/69ab7e24-8f5d-426e-84f7-6d3b2d4a7efd) | New York, NY |
 | 2026-10-22 | DoorDash | [Mechanical Engineering, Intern - Labs (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8313401) | Oakland, CA |
 | 2026-10-21 | Hewlett Packard Enterprise | [Marketing Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Marketing-Intern_1213357) | San Jose, California, United States of America |

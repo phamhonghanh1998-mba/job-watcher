@@ -1,10 +1,10 @@
-# Open matching jobs (360)
+# Open matching jobs (363)
 
-Updated 2026-10-26 10:04 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-26 10:59 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (104)
+## MBA-level (105)
 
 Title or job description mentions an MBA.
 
@@ -108,6 +108,7 @@ Title or job description mentions an MBA.
 | 2026-10-02 | PwC (2) | [Technology Consulting Senior Associate Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Technology-Consulting-Senior-Associate-Intern---Summer-2027_765627WD) | IL-Rosemont |
 | 2026-09-14 | Robinhood | [Investment Analyst MBA Intern, Robinhood Ventures (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) | Menlo Park, CA |
 | 2026-10-16 | Snowflake | [Product Marketing, AI-Powered Data Engineering Intern (Spring 2027)](https://jobs.ashbyhq.com/snowflake/45f2aa43-731d-4bab-a02b-9ef979f2c86e) | US-CA-Menlo Park |
+| 2026-09-26 (30+ days) | Target | [MBA Intern, Finance Leadership Development Program (FLDP) Internship - (Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/MBA-Intern--Finance-Leadership-Development-Program--FLDP--Internship----Summer-2027-_R0000451066) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |
 | 2026-09-26 (30+ days) | Vanguard | [MBA Development Program - General Management](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/MBA-Development-Program---General-Management_180221) | Malvern, PA |
 | 2026-09-26 (30+ days) | Vanguard | [MBA Internship - Investment Management](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/MBA-Internship---Investment-Management_182042) | Malvern, PA |
 | 2026-10-01 | Vanguard | [MBA Internship – General Management:](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/MBA-Internship---General-Management-_180420) | Malvern, PA |
@@ -141,8 +142,8 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-10-19 | Hewlett Packard Enterprise | [ASIC Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Intern_1214020) | Roseville, California, United States of America |
 | 2026-09-26 (30+ days) | Home Depot | [2027 Summer Internship - Software Engineering](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937) | STORE SUPPORT CENTER, ATLANTA - 9090 |
 | 2026-09-26 (30+ days) | Kraft Heinz | [Operations Intern](https://heinz.wd1.myworkdayjobs.com/en-US/KraftHeinz_Careers/job/Operations-Intern_R-53383) |  |
-| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
+| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-26 (30+ days) | Mondelez | [Corporate Finance Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1) | East Hanover, New Jersey, United States |
 | 2026-10-14 | Mondelez | [Logistics Operations Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Business-Unit-Head-Office---East-Hanover-USA/Customer-Service-and-Logistics-Intern-_R-175412) | 6 Locations |
 | 2026-09-26 (30+ days) | Mondelez | [Manufacturing Intern– Process Engineering](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Business-Unit-Head-Office---East-Hanover-USA/Manufacturing-Intern--Process-Engineering_R-175409) | 7 Locations |
@@ -164,7 +165,7 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-21 | Waymo | [2027 Summer Intern, BS/MS, Global Supply Management (GSM)](https://careers.withwaymo.com/jobs?gh_jid=8201252) | Mountain View, California |
 | 2026-10-23 | Zillow | [Applied Scientist (Economics) Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1) | Seattle-WA-2nd Ave |
 
-## Other internships (214)
+## Other internships (216)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
@@ -320,7 +321,6 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-23 | MongoDB | [2027 - Software Engineering Intern, AMER](https://www.mongodb.com/careers/job/?gh_jid=8209134) | Austin; New York City; San Francisco |
 | 2026-10-19 | Morgan Stanley | [Intern](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Winter-Park-Florida-United-States-of-America/Intern_JR045797) | Winter Park, Florida, United States of America |
 | 2026-09-26 (30+ days) | Morgan Stanley | [Intern](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Baltimore-Maryland-United-States-of-America/Intern_JR042973-2) | Baltimore, Maryland, United States of America |
-| 2026-10-23 | Morgan Stanley | [Intern](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Oklahoma-City-Oklahoma-United-States-of-America/Intern_JR045882) | Oklahoma City, Oklahoma, United States of America |
 | 2026-09-26 (30+ days) | Oliver Wyman | [Insurance Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Lincoln---Pine/Insurance-Intern_R_364734) | Lincoln - Pine |
 | 2026-09-26 (30+ days) | Oliver Wyman | [Insurance Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Omaha---Southport/Insurance-Intern_R_364740) | Omaha - Southport |
 | 2025-12-11 | Palantir | [Deployment Strategist, Internship - US Government](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) | Honolulu, HI |
@@ -353,8 +353,8 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-09-02 | Roblox | [[Summer 2027] Product Design Intern](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) | San Mateo, CA, United States |
 | 2026-09-26 (30+ days) | S&P Global | [Agribusiness Intern (Early Careers)](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2) | Virtual, BR |
 | 2026-08-21 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119) | Atlanta, Georgia, United States |
-| 2026-10-23 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784) | Phoenix, Arizona, United States |
 | 2026-08-21 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799) | Phoenix, Arizona, United States |
+| 2026-10-23 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784) | Phoenix, Arizona, United States |
 | 2026-08-03 | Samsara | [Software Engineering Internship - San Francisco ](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) | San Francisco - SF9 |
 | 2026-10-19 | Scale AI | [Machine Learning Research Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | New York, NY; San Francisco, CA |
 | 2026-09-04 | Scale AI | [Software Engineering Intern (Summer 2027) ](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | San Francisco, CA |
@@ -373,6 +373,9 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-09-26 (30+ days) | Stryker | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937) | Arlington, Tennessee |
 | 2026-09-26 (30+ days) | Stryker | [R&D Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fremont-California/R-D-Intern_R572862) | Fremont, California |
 | 2026-09-26 (30+ days) | Stryker | [R&D Operations Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768) | Salt Lake City, Utah |
+| 2026-10-22 | Target | [Designer Intern, Owned Brands- Minneapolis, MN (Starting Summer, 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Designer-Intern--Owned-Brands--Minneapolis--MN--Starting-Summer--2027-_R0000478536-1) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |
+| 2026-10-23 | Target | [Store Executive Intern (Store Leadership Intern) – Greater Long Beach, CA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/2270-N-Bellflower-Blvd-Long-BeachCA-90815-2017/Store-Executive-Intern--Store-Leadership-Intern----Long-Beach--CA--Starting-Summer-2027-_R0000450291) | 4 Locations |
+| 2026-10-22 | Target | [Store Executive Intern (Store Leadership Intern) – Greater San Diego, CA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1288-Camino-Del-Rio-N-San-DiegoCA-92108-1511/Store-Executive-Intern--Store-Leadership-Intern----Southern-San-Diego--CA--Starting-Summer-2027-_R0000450290) | 1288 Camino Del Rio N, San Diego,CA 92108-1511 |
 | 2026-09-26 (30+ days) | Vanguard | [College to Corporate IT Internship - Application Development  (TX)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Application-Development---TX-_181846) | Dallas/Ft. Worth, TX |
 | 2026-09-26 (30+ days) | Vanguard | [College to Corporate IT Internship - Risk & Security - Engineer](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Risk---Security---Engineer_181851) | Dallas/Ft. Worth, TX |
 | 2026-09-26 (30+ days) | Vanguard | [College to Corporate IT Internship - Technology Operations (PA)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/College-to-Corporate-IT-Internship---Technology-Operations--PA-_181788) | Malvern, PA |
