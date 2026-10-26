@@ -4395,6 +4395,7 @@
   "5274180007",
   "5274396007",
   "5274497007",
+  "5274500007",
   "5274506007",
   "5274646007",
   "5274647007",
@@ -4413,7 +4414,8 @@
   "5275431007",
   "5275447007",
   "5275462007",
-  "5275463007"
+  "5275463007",
+  "5275774007"
  ],
  "Anthropic": [
   "4017331008",
@@ -5257,7 +5259,8 @@
   "5462718008",
   "5462761008",
   "5462881008",
-  "5462893008"
+  "5462893008",
+  "5462966008"
  ],
  "Applied Materials": [
   "00eaa332-f855-4963-886c-909ac78bce6d",
@@ -7158,7 +7161,10 @@
   "8918206002",
   "8918207002",
   "8918259002",
-  "8918260002"
+  "8918260002",
+  "8918261002",
+  "8918262002",
+  "8918263002"
  ],
  "Broadcom": [
   "/job/BGR-Sofia-Garitage-Park---Bldg-2/PD-engineer_R027051",
@@ -10964,6 +10970,7 @@
   "8305918",
   "8306580",
   "8306604",
+  "8306651",
   "8311164",
   "8311366",
   "8311378",
@@ -10973,6 +10980,7 @@
   "8312693",
   "8317751",
   "8319231",
+  "8319377",
   "8324952",
   "8324955",
   "8324958",
@@ -11446,6 +11454,7 @@
   "/job/USA---New-York-NY/Sr-Site-Reliability-Engineer---Core-Platform---Embedded-Reliability--Hybrid-_R30290",
   "/job/USA---New-York-NY/Sr-Software-Engineer--Cloud---Analytics-Platform_R29257",
   "/job/USA---New-York-NY/Sr-Software-Engineer-II---Cloud-Detection-Engine--Hybrid--London-_R30067",
+  "/job/USA---Redmond-WA/Principal-Product-Manager---Asset-Platform--Hybrid-_R29323",
   "/job/USA---Redmond-WA/Principal-Software-Engineer--Endpoint-AI-Framework--Remote-_R24794",
   "/job/USA---Redmond-WA/Sr-Software-Engineer-II--Linux-Sensor---CTIO--Remote-_R26316",
   "/job/USA---Remote-CA/Engineering-Manager--Infrastructure--Remote-_R30047",
@@ -18120,6 +18129,7 @@
   "/job/OFallon-Missouri/Senior-Software-Engineer_R-289666",
   "/job/OFallon-Missouri/Senior-Software-Engineer_R-291613",
   "/job/OFallon-Missouri/Senior-Software-Engineer_R-291630",
+  "/job/OFallon-Missouri/Senior-Software-Engineer_R-292051",
   "/job/OFallon-Missouri/Senior-Software-Engineer_R-292789",
   "/job/OFallon-Missouri/Senior-Software-Engineer_R-292793",
   "/job/OFallon-Missouri/Senior-Software-Engineer_R-292802",
@@ -23377,6 +23387,7 @@
   "967f94aa-1706-4dba-ac89-bfbc2c38b688",
   "96de8acb-556e-451b-bc84-7124bb4b0a20",
   "96f3c3a6-9951-4db7-8125-8c0f16e8af62",
+  "9711a982-851c-4f55-a5ae-080ea4bad520",
   "9745f423-9048-48c0-8c57-639611b04abc",
   "9747412d-a23d-48ba-bddd-ad1247c360f5",
   "974fff14-f2d7-4a99-8740-eb8dc5300d82",
@@ -25456,6 +25467,7 @@
   "/job/Genve---Avenue-Giuseppe-Motta-50/Senior-Associate---Corporate-Real-Estate---Facility-Manager_734726WD",
   "/job/Ghent/Global-Tax---Transfer-Pricing-Consulting-in-Gent_769197WD",
   "/job/Gibraltar/Tax-and-Accounting---Administrative-Assistant_766488WD",
+  "/job/Guayaquil/Senior-Associate-Legal_769828WD",
   "/job/Gurugram-10-C/IN-Associate-SAP-BPC---SAC-SAP-Advisory-Mumbai_749590WD-1",
   "/job/Gurugram-10-C/IN-Associate-SAP-BPC---SAC-SAP-Advisory-Mumbai_749591WD-2",
   "/job/Gurugram-10-C/IN-Associate-SAP-BPC---SAC-SAP-Advisory-Mumbai_749592WD-1",
@@ -26968,6 +26980,7 @@
   "/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Manufacturing-Planner-II_01837789",
   "/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Manufacturing-Planner_01882415",
   "/job/US-AZ-TUCSON-9020--9020-S-Rita-Rd--BLDG-9020/Sr-Manager--Material-Program-Mgmt_01882799",
+  "/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Manager--Contracts--Onsite-_01878074-1",
   "/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Manufacturing-Supplier-Quality-Engineer_01883918",
   "/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Material-Program-Manager_01882664-1",
   "/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Principal--Specialist-Supply-Chain-Management_01880511",
@@ -27649,6 +27662,7 @@
   "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Senior-Tech--Mechanical-Draft-Design-Checker--Hybrid-_01882248-1",
   "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-II---Embedded-Platform-Software--Onsite_01877512",
   "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Sr-Software-Engineer---Embedded-Platform-Software--Onsite_01877515",
+  "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Datalinks---Onsite_01881112",
   "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Tac-Comm_01865799",
   "/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Tac-Comm_01866193",
   "/job/US-IA-CEDAR-RAPIDS-139--855-35Th-St-NE--BLDG-139/Alternate-COMSEC-Manager--Onsite-_01881749",
@@ -29449,7 +29463,8 @@
   "8292678",
   "8293671",
   "8304526",
-  "8304814"
+  "8304814",
+  "8317585"
  ],
  "S&P Global": [
   "/job/Ahmedabad-Gujarat/Apprentice--Data-Operations_332401-1",
@@ -30021,6 +30036,7 @@
   "/job/Japan---Tokyo/Account-Solution-Engineer--Informatica_JR362034",
   "/job/Japan---Tokyo/Customer-Success-Manager--Senior-Manager--BtoC-_JR362718",
   "/job/Japan---Tokyo/Customer-Success-Manager_JR359358-1",
+  "/job/Japan---Tokyo/Deal-Desk-Manager_JR353297",
   "/job/Japan---Tokyo/ES-People-Advisor-and-Knowledge-Management-Specialist_JR364292",
   "/job/Japan---Tokyo/Global-Account-Manager---Major-Japanese-Automotive-Account_JR336862",
   "/job/Japan---Tokyo/Informatica---Account-Executive--Enterprise-Sales_JR353409-1",
@@ -30055,6 +30071,7 @@
   "/job/Mexico---Mexico-City/Regional-Sales-Director_JR363256-1",
   "/job/Mexico---Mexico-City/Senior-Data-Engineer_JR336657",
   "/job/Mexico---Mexico-City/Senior-Manager--Physical-Security_JR358117",
+  "/job/Mexico---Mexico-City/Senior-Solution-Consultant_JR365707",
   "/job/Mexico---Mexico-City/Software---Integration-Engineering-SMTS_JR353660-1",
   "/job/Mexico---Mexico-City/Software-Engineer---Junior---SSR---Automation---Reliability_JR364275",
   "/job/Mexico---Mexico-City/Software-Engineer-Junior---Automation---Reliability_JR364628",
@@ -31695,6 +31712,7 @@
   "9321b73a-1bc9-41d2-96fb-d4ec1818f046",
   "93541459-9add-4641-ba8c-0cda941365c5",
   "95564ff4-bf27-4b41-a87e-e4defff7cd4e",
+  "95b87897-68dc-47c0-a4c0-2320d36dafac",
   "95cf7159-efd2-400c-b29e-bdd86c9c9eb2",
   "9622dcba-e6d2-42cb-8dcc-e797b1651ef8",
   "9678b980-db7d-413a-b049-24f5373f9983",
@@ -35151,6 +35169,7 @@
   "8912189002",
   "8912202002",
   "8912229002",
+  "8912402002",
   "8912649002",
   "8912759002",
   "8912807002",
@@ -35167,6 +35186,7 @@
   "8916586002",
   "8916590002",
   "8917154002",
+  "8917480002",
   "8917749002",
   "8918126002"
  ],
@@ -36575,6 +36595,7 @@
   "/job/249-NW-6th-St-Ste-120-MiamiFL-33136-4248/Store-Executive-Intern--Store-Leadership-Intern----South-FL--Miami-to-West-Palm---Starting-Summer-2027--_R0000448573",
   "/job/2650-Winter-St-NE-MinneapolisMN-55413-3195/Director-Creative-Production_R0000448167",
   "/job/2650-Winter-St-NE-MinneapolisMN-55413-3195/Workshop-Creative-Production-Manager_R0000475229",
+  "/job/2700-W-120th-St-Hawthorne-CA-90250-3388/Visual-Merchandiser_R0000478921",
   "/job/300-Manning-Bridge-Rd-SuffolkVA-23434-8592/Senior-Target-Security-Specialist---Regional-Distribution-Center---Suffolk--VA_R0000476950",
   "/job/3000-Vandalay-Dr-FrankfortKY-40601-8685/Property-Management-Lead_R0000478908",
   "/job/3040-S-Evans-St-GreenvilleNC-27834-3176/Assets-Protection-Team-Leader_R0000453446",
@@ -39240,7 +39261,8 @@
   "5272056007",
   "5273283007",
   "5273374007",
-  "5274394007"
+  "5274394007",
+  "5275347007"
  ],
  "_first_seen": {
   "3M": {
