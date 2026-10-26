@@ -1555,6 +1555,7 @@
   "5064165007",
   "5064471007",
   "5064570007",
+  "5064818007",
   "5066897007",
   "5067195007",
   "5067380007",
@@ -15833,6 +15834,7 @@
   "/job/Shanghai/Head-of-Import-and-Export-_202610-126014",
   "/job/Shanghai/MSAT-Technology-Transfer-Manager_202603-105564",
   "/job/Shanghai/Marketing-Intern_202610-126893",
+  "/job/Shanghai/Medical-Director--Immunology--Infectious_202610-127340",
   "/job/Shanghai/Medical-Science-Head--Breast-Cancer_202609-122494",
   "/job/Shanghai/Medical-Science-Head--Gastrointestinal---Genitourinary-Cancers_202603-105884",
   "/job/Shanghai/Planning-Intern_202610-125690",
@@ -19505,6 +19507,7 @@
   "/job/Hiroshima---Fab-15-Japan/ADTJ-ATE-PHOTO-ENGINEER_JR96682-1",
   "/job/Hiroshima---Fab-15-Japan/Advanced-CMOS-Device---Process-Integration-Engineer_JR111345",
   "/job/Hiroshima---Fab-15-Japan/CMP-----CMP-Shift-Engineer--Manufacturing-Development-Engineering_JR112317",
+  "/job/Hiroshima---Fab-15-Japan/CMP-Bond-Process-Engineer_JR114582-1",
   "/job/Hiroshima---Fab-15-Japan/CMP-Shift-Engineer--Manufacturing-Development-Engineering_JR92352-23",
   "/job/Hiroshima---Fab-15-Japan/CMP-Staff-Principal-Engineer--Operation-Central-Team_JR104160",
   "/job/Hiroshima---Fab-15-Japan/CSA--Civil-Structural-Architectural--Engineer_JR89394-12",
@@ -25469,6 +25472,9 @@
   "/job/Singapore/Digital-Tax--Data-Scientist---Manager_678893WD-1",
   "/job/Singapore/Finance-Consultant--R2R---record-to-report-----6-months-contract_764078WD",
   "/job/Singapore/Financial-Services-Tax---MA---SM_743563WD",
+  "/job/Singapore/Financial-Services-Tax---Senior-Associate_743034WD",
+  "/job/Singapore/GS-Transfer-Pricing---Experienced-AS-SE_743042WD",
+  "/job/Singapore/Global-Structuring--Transfer-Pricing---MA-SM_747298WD",
   "/job/Singapore/International-Growth-Practice---Experienced-Associate-Senior-Associate_768962WD",
   "/job/Singapore/International-Growth-Practice-Senior-Associate---Pharma---Healthcare-_768963WD",
   "/job/Singapore/Risk-Services---Red-Team-Consultant--Associate---Senior-Associate---Assistant-Manager-_743334WD",
@@ -28904,6 +28910,7 @@
   "/job/California---San-Francisco/Lead-Software-Engineer--AI-Labs--Product-and-Customer-Facing-_JR364943",
   "/job/California---San-Francisco/Lead-Threat-Assessment-Engineer_JR360852",
   "/job/California---San-Francisco/Lead-UX-Researcher--AI---Digital-Experiences_JR360966",
+  "/job/California---San-Francisco/Manager--AIforce-Strategy---Innovation_JR365070",
   "/job/California---San-Francisco/Named-Account-Executive--Non-Profit--Enterprise--West-Mountain-_JR361761",
   "/job/California---San-Francisco/Paralegal--Corporate-Governance---Securities_JR357577",
   "/job/California---San-Francisco/Partner-Account-Manager_JR361904-1",
@@ -34339,7 +34346,8 @@
   "8912189002",
   "8912202002",
   "8912649002",
-  "8913325002"
+  "8913325002",
+  "8915956002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -35420,6 +35428,7 @@
   "8314210",
   "8314235",
   "8314283",
+  "8318509",
   "8323732"
  ],
  "Stryker": [
@@ -36464,6 +36473,7 @@
   "8081530",
   "8084593",
   "8089122",
+  "8093320",
   "8096642",
   "8097524",
   "8099162",
@@ -38339,7 +38349,9 @@
   "5270586007",
   "5270703007",
   "5270709007",
+  "5270819007",
   "5270823007",
+  "5273374007",
   "5274394007"
  ],
  "_first_seen": {
