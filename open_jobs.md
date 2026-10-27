@@ -1,10 +1,10 @@
-# Open matching jobs (363)
+# Open matching jobs (350)
 
-Updated 2026-10-27 05:26 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-27 06:12 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (107)
+## MBA-level (96)
 
 Title or job description mentions an MBA.
 
@@ -31,12 +31,12 @@ Title or job description mentions an MBA.
 | 2026-10-16 | Blue Origin | [Summer 2027 Terawave Product Management Internship - MBA](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Kent-WA/Summer-2027-Terawave-Product-Management-Internship---MBA_R74200) | 2 Locations |
 | 2026-10-15 | Micron | [Intern - Micron Ventures](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---Micron-Ventures_JR114649) | San Jose, CA |
 | 2026-10-15 | Duolingo | [Product Manager, MBA Intern](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) | Pittsburgh, PA |
+| 2026-10-15 | Cisco | [FLEX- Rising Leaders II (Intern) United States](https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Chicago-Illinois-US/FLEX--Rising-Leaders-II--Intern--United-States_2027808) | Chicago, Illinois, US |
 | 2026-10-15 | Airbnb | [Strategic Finance & Analytics Intern (MBA)](https://careers.airbnb.com/positions/8285171?gh_jid=8285171) | United States |
 | 2026-10-14 | Philips | [Intern - Health Systems Marketing-Cambridge, MA-Summer 2027](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Health-Systems-Marketing-Cambridge--MA-Summer-2027_593616) | Cambridge (US), Massachusetts, United States |
 | 2026-10-14 | NVIDIA | [Product Management MBA Intern, Data Center GPU - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) | US, CA, Santa Clara |
 | 2026-10-09 | Adobe | [2027 MBA University Graduate - Product Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-MBA-University-Graduate---Product-Manager_R171900) | 2 Locations |
 | 2026-10-07 | Adobe | [2027 MBA Intern - Corporate Strategy](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-MBA-Intern---Corporate-Strategy_R172471) | 2 Locations |
-| 2026-10-06 | Accenture | [Strategy Summer Consultant - MBA Internship - NAELFY27](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/NY---New-York/Strategy-Summer-Consultant---MBA-Internship---NAELFY27_R00361148) |  |
 | 2026-10-06 | Abbott | [2027 Abbott MBA Internship](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Abbott-Park/XMLNAME-2027-Abbott-MBA-Internship_31160732) | 3 Locations |
 | 2026-10-03 | PwC (2) | [Accelerated Solutions Consulting Senior Associate Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Accelerated-Solutions-Consulting-Senior-Associate-Intern---Summer-2027_765697WD) | IL-Rosemont |
 | 2026-10-03 | PwC (2) | [Delivering Deal Value (DDV) Senior Associate Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Delivering-Deal-Value--DDV--Senior-Associate-Intern---Summer-2027_765612WD) | IL-Rosemont |
@@ -88,17 +88,6 @@ Title or job description mentions an MBA.
 | 2026-09-27 (30+ days) | Clorox | [Assistant Finance Manager (MBA Recent Graduate Summer 2027)](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Pleasanton-CA---USA/Assistant-Finance-Manager_JR23349) | 3 Locations |
 | 2026-09-27 (30+ days) | Clorox | [Associate Marketing Manager (MBA Recent Graduate Summer 2027)](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Oakland-CA---USA/Associate-Marketing-Manager--MBA-Recent-Graduate-Summer-2027-_JR23348-1) | Oakland, CA - USA |
 | 2026-09-27 (30+ days) | Clorox | [Sales Analyst (Recent Grad - Summer 2027 Start)](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Mason-OH---USA/Sales-Analyst--Recent-Grad---Summer-2027-Start-_JR23352-1) | 4 Locations |
-| 2026-09-27 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Quantitative Investing - San Francisco](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---San-Francisco_R266474) | San Francisco, CA |
-| 2026-09-27 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477) | New York, NY |
-| 2026-09-27 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Quantitative Investing - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---New-York_R266473) | New York, NY |
-| 2026-09-27 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Portfolio Management - San Francisco](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---San-Francisco_R266472) | San Francisco, CA |
-| 2026-09-27 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Portfolio Management - Atlanta](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---Atlanta_R266470) | Atlanta, GA |
-| 2026-09-27 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476) | San Francisco, CA |
-| 2026-09-27 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468) | New York, NY |
-| 2026-09-27 (30+ days) | BlackRock | [2027 MBA Internship Program - Client & Product Functions - Sales & Relationship Management - Institutional & Wealth - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Sales---Relationship-Management---Institutional---Wealth---New-York_R266466) | New York, NY |
-| 2026-09-27 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Portfolio Management - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---New-York_R266471) | New York, NY |
-| 2026-09-27 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - San Francisco](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469) | San Francisco, CA |
-| 2026-09-27 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Sales & Relationship Management - Institutional Wealth - Chicago](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Chicago-IL/XMLNAME-2027-Quantitative-Masters-Internship-Program---Sales---Relationship-Management---Institutional-Wealth---Chicago_R266475) | Chicago, IL |
 | 2026-09-27 (30+ days) | Amgen | [MBA Intern – Commercial Leadership Program (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/MBA-Intern---Commercial-Leadership-Program--Summer-2027-_R-254479) | United States - Remote |
 | 2026-09-27 (30+ days) | Amgen | [MBA Intern – Finance & Strategy Leadership Development Program (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/MBA-Intern---Finance---Strategy-Leadership-Development-Program--Summer-2027-_R-254491) | United States - Remote |
 | 2026-09-27 (30+ days) | Amgen | [Operations Graduate Program – Summer 2027 Internship](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Operations-Graduate-Program---Summer-2027-Internship_R-254659) | 6 Locations |
@@ -118,14 +107,13 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Master's in accounting / finance (43)
+## Master's in accounting / finance (42)
 
 Description says master's/graduate students in accounting, finance, economics or business can apply. Check whether an MBA qualifies (some require an MAcc for CPA hours).
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
 | 2026-10-27 | Zillow | [Data Science Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1) | Seattle-WA-2nd Ave |
-| 2026-10-27 | Genentech | [Internship in Business Solution Management - Digital Health Products (as of 1 January 2027; Rotkreuz; 12 months)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Rotkreuz/Internship-in-Business-Solution-Management---Digital-Health-Products--as-of-1-January-2027--Rotkreuz--12-months-_202610-127498-1) | Rotkreuz |
 | 2026-10-26 | Amazon | [Tech Ops Engineer Intern, 2027 Tech Ops Intern](https://www.amazon.jobs/en/jobs/10588969/tech-ops-engineer-intern-2027-tech-ops-intern) | San Diego, California, USA |
 | 2026-10-24 | Zillow | [Applied Scientist (Economics) Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1) | Seattle-WA-2nd Ave |
 | 2026-10-23 | S&P Global | [Market Intelligence Revenue Associate Internship](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Central-HK/Market-Intelligence-Revenue-Associate-Internship_332059-1) | Central, HK |
@@ -168,7 +156,7 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-02 | Roblox | [[Summer 2027] Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA, United States |
 | 2023-08-17 | Databricks | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, California; San Francisco, California |
 
-## Other internships (213)
+## Other internships (212)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
@@ -197,7 +185,6 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-22 | DoorDash | [Mechanical Engineering, Intern - Labs (Summer 2027)](https://job-boards.greenhouse.io/doordashusa/jobs/8313401) | Oakland, CA |
 | 2026-10-22 | Caterpillar | [S&L Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Tianjin-Tianjin/S-L-Intern_R0000396644) | Tianjin, Tianjin |
 | 2026-10-22 | Caterpillar | [Environment, Health & Safety Intern](https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Tullamarine-Victoria/Environment--Health---Safety-Intern_R0000400697) | Tullamarine, Victoria |
-| 2026-10-22 | Accenture | [Analista Junior Tecnico/Funzionale - Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Verona/Analista-Junior-Tecnico-Funzionale---Ambito-Financial-Services_R00278795) |  |
 | 2026-10-21 | PwC (2) | [Louisville - Digital Assurance & Transparency (DAT) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/KY-Louisville/Louisville---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_756947WD) | KY-Louisville |
 | 2026-10-21 | Anduril | [2027 Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) | Ashville, Ohio, United States; Costa Mesa, California, United States |
 | 2026-10-21 | Anduril | [2027 Product Sourcing Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) | Costa Mesa, California, United States; Irvine, California, United States; Santa Ana, California, United States |
