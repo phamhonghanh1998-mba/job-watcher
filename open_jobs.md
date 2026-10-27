@@ -1,6 +1,6 @@
-# Open matching jobs (369)
+# Open matching jobs (367)
 
-Updated 2026-10-27 07:10 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-27 08:02 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -171,7 +171,7 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-02 | Roblox | [[Summer 2027] Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA, United States |
 | 2023-08-17 | Databricks | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, California; San Francisco, California |
 
-## Other internships (216)
+## Other internships (214)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
@@ -191,7 +191,6 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-26 | PwC (2) | [Pittsburgh - Tax Seasonal - Seasonal Intern - Winter 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Pittsburgh/Pittsburgh---Tax-Seasonal---Seasonal-Intern---Winter-2027_756522WD) | PA-Pittsburgh |
 | 2026-10-26 | PwC (2) | [Charlotte - Digital Assurance & Transparency (DAT) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/NC-Charlotte/Charlotte---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_756932WD) | NC-Charlotte |
 | 2026-10-26 | Morgan Stanley | [Intern](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Westport-Connecticut-United-States-of-America/Intern_JR045578) | Westport, Connecticut, United States of America |
-| 2026-10-26 | Genentech | [Regulatory Affairs Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Sant-Cugat-del-Valls/Regulatory-Affairs-Intern_202610-127493) | Sant Cugat del Vallès |
 | 2026-10-26 | CrowdStrike | [Intelligence Launch Intern - Summer 2027](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Launch-Intern---Summer-2027_R30648) | USA - Arlington, VA |
 | 2026-10-23 | Zillow | [Product Design Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613) | Seattle-WA-2nd Ave |
 | 2026-10-23 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784) | Phoenix, Arizona, United States |
@@ -292,7 +291,6 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-09-27 (30+ days) | Oliver Wyman | [Insurance Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Omaha---Southport/Insurance-Intern_R_364740) | Omaha - Southport |
 | 2026-09-27 (30+ days) | Mondelez | [Research & Development Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Research---Development-Intern_R-175411) | East Hanover, New Jersey, United States |
 | 2026-09-27 (30+ days) | Medtronic | [Associate Clinical Experience (ACE) Intern – Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1) | 50 Locations |
-| 2026-09-27 (30+ days) | Medtronic | [Engineering Intern Summer 2027 - Candidates Attending 2026 SHPE National Convention](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027---Candidates-Attending-2026-SHPE-National-Convention_R76309) | 15 Locations |
 | 2026-09-27 (30+ days) | Clorox | [R&D Intern (Summer 2027)](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Pleasanton-CA---USA/R-D-Intern--Summer-2027-_JR23320) | 3 Locations |
 | 2026-09-27 (30+ days) | Clorox | [Sales & Customer Analytics Intern Summer 2027](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Sales---Customer-Analytics-Intern-Summer-2027_JR23359-1) |  |
 | 2026-09-27 (30+ days) | Clorox | [Supply Chain Intern - Technical Track (June 2027)](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Alpharetta-GA---USA/Supply-Chain-Intern---Technical-Track--June-2027-_JR23438-1) | Alpharetta, GA - USA |
