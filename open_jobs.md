@@ -1,6 +1,6 @@
-# Open matching jobs (362)
+# Open matching jobs (364)
 
-Updated 2026-10-27 12:34 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-27 13:31 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -10,7 +10,7 @@ Title or job description mentions an MBA.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
-| 2026-10-27 | Visa | [Business Strategy Intern, Data and AI Team - Summer 2027](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2) | US - Foster City, CA |
+| 2026-10-26 | CVS Health | [Retail Operations Strategy Corporate Internship (Graduate) - Summer 2027](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Retail-Operations-Strategy-Corporate-Internship--Graduate----Summer-2027_R1086477) | RI - Woonsocket |
 | 2026-10-26 | Amgen | [Grad Intern - Biostatistics (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/Grad-Intern---Biostatistics--Summer-2027-_R-259820) | United States - Remote |
 | 2026-10-26 | Adobe | [2027 MBA Intern - Corporate Development](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-MBA-Intern---Corporate-Development_R172745) | 2 Locations |
 | 2026-10-23 | Philips | [Intern – Marketing Operations – Cambridge, MA – Summer 2027](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Marketing-Operations---Cambridge--MA---Summer-2027_593458) | 2 Locations |
@@ -117,13 +117,14 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Master's in accounting / finance (45)
+## Master's in accounting / finance (46)
 
 Description says master's/graduate students in accounting, finance, economics or business can apply. Check whether an MBA qualifies (some require an MAcc for CPA hours).
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
-| 2026-10-27 | Visa | [Product Management Intern, Data and AI Team - Summer 2027](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1) | US - Foster City, CA |
+| 2026-10-27 | Visa | [Technical Product/Project Management Intern - 2027, Highlands Ranch, CO](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Denver-CO/Technical-Product-Project-Management-Intern---2027--Highlands-Ranch--CO_REF089905W-2) | US - Denver, CO |
+| 2026-10-27 | Visa | [Business Planning Intern - 2027, Austin, TX](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Business-Planning-Intern---2027--Austin--TX_REF089903W-1) | US - Austin, TX |
 | 2026-10-27 | Genentech | [Internship - Software and Data Engineer (for 12 months in Rotkreuz)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Rotkreuz/Internship---Software-and-Data-Engineer--for-12-months-in-Rotkreuz-_202610-127501) | Rotkreuz |
 | 2026-10-27 | Genentech | [Internship in Business Solution Management - Digital Health Products (as of 1 January 2027; Rotkreuz; 12 months)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Rotkreuz/Internship-in-Business-Solution-Management---Digital-Health-Products--as-of-1-January-2027--Rotkreuz--12-months-_202610-127498-1) | Rotkreuz |
 | 2026-10-26 | Zillow | [Data Science Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1) | Seattle-WA-2nd Ave |
@@ -169,16 +170,17 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-02 | Roblox | [[Summer 2027] Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA, United States |
 | 2023-08-17 | Databricks | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, California; San Francisco, California |
 
-## Other internships (211)
+## Other internships (212)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
-| 2026-10-27 | Visa | [Data Science Intern, Data and AI Team – Summer 2027](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1) | US - Foster City, CA |
-| 2026-10-27 | Visa | [Real Estate Intern - Summer 2027](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---San-Francisco-CA/Real-Estate-Intern---Summer-2027_REF089902W) | US - San Francisco, CA |
-| 2026-10-27 | Visa | [Workforce Protection Intern - Summer 2027](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Workforce-Protection-Intern---Summer-2027_REF089901W-2) | US - Foster City, CA |
-| 2026-10-27 | Visa | [Consulting & Analytics Intern - Summer 2027](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Atlanta-GA/Consulting---Analytics-Intern---Summer-2027_REF089900W) | US - Atlanta, GA |
+| 2026-10-27 | Visa | [Network and Security Engineering Intern - 2027, Highlands Ranch, CO](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Denver-CO/Network-and-Security-Engineering-Intern---2027--Highlands-Ranch--CO_REF089779W-1) | US - Denver, CO |
+| 2026-10-27 | Visa | [Network and Security Engineering Intern - 2027, Ashburn, VA](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Ashburn-VA/Network-and-Security-Engineering-Intern---2027--Ashburn--VA_REF089778W) | US - Ashburn, VA |
+| 2026-10-27 | RTX | [Stage - Hiver 2027 - Études dimensionnelles sur la fixation des aubes de turbine / Internship - Winter 2027 - Turbine Blade Retention Dimensional Studies](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---tudes-dimensionnelles-sur-la-fixation-des-aubes-de-turbine---Internship---Winter-2027---Turbine-Blade-Retention-Dimensional-Studies_01873790) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG |
+| 2026-10-27 | Micron | [Intern: Product Test Development Engineer](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern--Product-Test-Development-Engineer_JR115104) | Boise, ID - Main Site |
+| 2026-10-27 | Micron | [Intern: Product Test Development Engineer](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern--Product-Test-Development-Engineer_JR115106) | Boise, ID - Main Site |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373) | Atlanta, Georgia, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057) | Atlanta, Georgia, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | Phoenix, Arizona, United States |
