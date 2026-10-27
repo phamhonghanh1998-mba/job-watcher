@@ -4418,7 +4418,8 @@
   "5275462007",
   "5275463007",
   "5275774007",
-  "5275941007"
+  "5275941007",
+  "5275994007"
  ],
  "Anthropic": [
   "4017331008",
@@ -10122,6 +10123,7 @@
   "/job/Torreon-Coahuila/Senior-Manager-Manufacturing-Operations_R0000395259",
   "/job/Tullamarine-Victoria/Environment--Health---Safety-Intern_R0000400697",
   "/job/Wujiang-Jiangsu/Welder-Intern_R0000396237",
+  "/job/Wuxi-Jiangsu/Communication-Intern-2_R0000401982",
   "/job/Wuxi-Jiangsu/Communications-Intern_R0000395692",
   "/job/Wuxi-Jiangsu/Digital-Transformation-Support-Intern_R0000388541-1",
   "/job/Wuxi-Jiangsu/EHS-Intern_R0000386931",
@@ -10238,7 +10240,8 @@
   "8900582002",
   "8907786002",
   "8907828002",
-  "8917560002"
+  "8917560002",
+  "8918533002"
  ],
  "Cisco": [
   "/job/Amsterdam-Netherlands/Test-Chip-Administrator_2024574",
@@ -10369,7 +10372,8 @@
   "/job/Taipei-Taiwan/ASIC-Engineering-Technical-Leader_2017789",
   "/job/Taipei-Taiwan/Leader--ASIC-Engineering_2019776",
   "/job/Taipei-Taiwan/Leader--Product-Operations_2028128",
-  "/job/Taipei-Taiwan/Product-Lifecycle-Project-Manager_2026994-1"
+  "/job/Taipei-Taiwan/Product-Lifecycle-Project-Manager_2026994-1",
+  "/job/Taipei-Taiwan/Thermal-Engineering-Technical-Leader_2029655"
  ],
  "Clorox": [
   "/job/Alpharetta-GA---USA/Associate-Director---Procurement-Strategy---Transformation_JR23705",
@@ -13442,7 +13446,8 @@
   "8312438",
   "8314006",
   "8317738",
-  "8319487"
+  "8319487",
+  "8323909"
  ],
  "Discord": [
   "8214127002",
@@ -14764,6 +14769,7 @@
   "6230562004",
   "6230952004",
   "6231027004",
+  "6231832004",
   "6232410004",
   "6232422004",
   "6232584004",
@@ -19859,6 +19865,7 @@
   "/job/Fab-10A-Singapore/PDE-Industrial-Engineer--IE-_JR114785",
   "/job/Fab-10A-Singapore/Physical-Failure-Analysis--PFA--Technician_JR114501",
   "/job/Fab-10A-Singapore/Principal-Engineer--ATCQE_JR109520",
+  "/job/Fab-10A-Singapore/Principal-Senior-Engineer--Advanced-Package-Metrology-Real-Time-Defect-Analysis--MRDA-_JR83214",
   "/job/Fab-10A-Singapore/SENIOR---STAFF-ENGINEER--GLOBAL-FE-MODELING_JR111683-1",
   "/job/Fab-10A-Singapore/SENIOR-ENGINEER--FE-CENTRAL-QUALITY-DL2-SYSTEM_JR112837",
   "/job/Fab-10A-Singapore/SR-ENGINEER--PDE-METRO-RDA_JR114366",
@@ -20052,6 +20059,7 @@
   "/job/Hiroshima---Fab-15-Japan/Principal-Senior-Engineer--Dry-Etch-Tool-Installation-Qualification_JR81586",
   "/job/Hiroshima---Fab-15-Japan/Principal-Staff-Engineer--Frontend-Operations-Central-Team-Materials-Cost_JR108408",
   "/job/Hiroshima---Fab-15-Japan/Principle-Principal-University-Recruiting-Leader_JR110075",
+  "/job/Hiroshima---Fab-15-Japan/Probe-Production-Technician_JR110491",
   "/job/Hiroshima---Fab-15-Japan/Process-Integration-Engineer--BEOL-_JR101543",
   "/job/Hiroshima---Fab-15-Japan/Process-Integration-Engineer--BEOL-_JR107780",
   "/job/Hiroshima---Fab-15-Japan/QMS-Engineer_JR103607-1",
@@ -20517,6 +20525,7 @@
   "/job/Taichung---Fab-16-Taiwan/DRAM-Design-Development-Quality-Engineer_JR109422",
   "/job/Taichung---Fab-16-Taiwan/Director--Advanced-Packaging-Technology-Development_JR114977",
   "/job/Taichung---Fab-16-Taiwan/ENGINEER--ADT-TF-PROCESS-EQUIPMENT-ENGINEERING_JR113879",
+  "/job/Taichung---Fab-16-Taiwan/ENGINEER--EUV-EQUIPMENT_JR105796",
   "/job/Taichung---Fab-16-Taiwan/ENGINEER--FECOS-CPIE-PI_JR99817",
   "/job/Taichung---Fab-16-Taiwan/ENGINEER--FECOS-CPIE-PI_JR99822",
   "/job/Taichung---Fab-16-Taiwan/ENGINEER--FST-WH_JR112798-1",
@@ -26106,6 +26115,7 @@
   "/job/Singapore/International-Growth-Practice---Experienced-Associate-Senior-Associate_768962WD",
   "/job/Singapore/International-Growth-Practice-Senior-Associate---Pharma---Healthcare-_768963WD",
   "/job/Singapore/Risk-Management-and-Finance-Consultant---Banking---Capital-Markets-Industry_770079WD",
+  "/job/Singapore/Risk-Services---Forensic-Services--Digital-Forensics---eDiscovery----Senior-Associate-Manager_769625WD",
   "/job/Singapore/Risk-Services---Red-Team-Consultant--Associate---Senior-Associate---Assistant-Manager-_743334WD",
   "/job/Singapore/Risk-Services---Risk-Regulatory---Compliance--Insurance----Senior-Associate---Assistant-Manager_734185WD",
   "/job/Singapore/ServiceNow-Application-Developer_762402WD",
@@ -35237,9 +35247,11 @@
   "8917907002",
   "8918126002",
   "8918371002",
+  "8918407002",
   "8918421002",
   "8918440002",
-  "8918486002"
+  "8918486002",
+  "8918523002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -37555,7 +37567,8 @@
   "8306459",
   "8306461",
   "8306758",
-  "8319160"
+  "8319160",
+  "8325734"
  ],
  "US Bank": [
   "4945093007"
@@ -39288,6 +39301,7 @@
   "5263577007",
   "5263584007",
   "5263586007",
+  "5263596007",
   "5263610007",
   "5265821007",
   "5266825007",
