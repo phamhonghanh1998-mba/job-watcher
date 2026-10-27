@@ -4416,7 +4416,8 @@
   "5275447007",
   "5275462007",
   "5275463007",
-  "5275774007"
+  "5275774007",
+  "5275941007"
  ],
  "Anthropic": [
   "4017331008",
@@ -8089,6 +8090,7 @@
   "/job/MA---Milford/Fulfillment-Packaging-Assistant_R1030095-1",
   "/job/MA---Milford/Fulfillment-Packaging-Assistant_R1046187-1",
   "/job/MA---Milford/Inventory-Control-Coordinator_R0967179-1",
+  "/job/MA---North-Grafton/Pharmacy-Intern_R1087409",
   "/job/MA---Plymouth/Pharmacy-Intern_R1085966",
   "/job/MA---Shrewsbury/Pharmacy-Intern_R1086803",
   "/job/MA---South-Easton/Pharmacy-Intern_R1085963",
@@ -8873,6 +8875,7 @@
   "/job/TX---Forney/Pharmacy-Intern_R1065485",
   "/job/TX---Fort-Worth/Grad-Pharmacist_R1065830",
   "/job/TX---Fort-Worth/Pharmacy-Intern_R1077192",
+  "/job/TX---Fort-Worth/Senior-Practice-Manager_R1069567",
   "/job/TX---Fort-Worth/Store-Associate-Rx_R1065530",
   "/job/TX---Gainesville/Pharmacy-Intern_R1065829",
   "/job/TX---Garland/Pharmacy-Intern_R1065496-1",
@@ -10232,7 +10235,8 @@
   "8900226002",
   "8900582002",
   "8907786002",
-  "8907828002"
+  "8907828002",
+  "8917560002"
  ],
  "Cisco": [
   "/job/Amsterdam-Netherlands/Test-Chip-Administrator_2024574",
@@ -10966,6 +10970,7 @@
   "8300941",
   "8301509",
   "8301592",
+  "8303150",
   "8303996",
   "8304060",
   "8304122",
@@ -18152,6 +18157,7 @@
   "/job/OFallon-Missouri/Software-Engineer-II_R-292582-1",
   "/job/OFallon-Missouri/Software-Engineer-II_R-293589",
   "/job/OFallon-Missouri/Software-Engineer-II_R-293662",
+  "/job/OFallon-Missouri/Software-Engineer-II_R-294517",
   "/job/OFallon-Missouri/Software-Engineer-I_R-291661",
   "/job/OFallon-Missouri/Software-Engineer-I_R-292618-1",
   "/job/OFallon-Missouri/Specialist--Product-Operations_R-291160",
@@ -20215,6 +20221,7 @@
   "/job/MSB-Singapore/SR-ENGINEER--STPG-PE-SYSTEM_JR113329",
   "/job/MSB-Singapore/STAFF-ENGINEER--PKG-SI-INT_JR115059",
   "/job/MSB-Singapore/STPG-NAND-Product-Development-Engineer_JR100883",
+  "/job/MSB-Singapore/Senior-Data-Scientist_JR116066",
   "/job/MSB-Singapore/Senior-Engineer---Firmware-Development--SSD-_JR106608",
   "/job/MSB-Singapore/Senior-Engineer--SSD-System_JR102345",
   "/job/MSB-Singapore/Senior-Engineer--STPG-PE-NAND_JR113739",
@@ -27573,6 +27580,7 @@
   "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Electrical-Engineer-1_01870080",
   "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Engineer-II--Electrical-Engineer--Onsite-_01858934",
   "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Power-Electronics-Engineer-I--Onsite-_01878529",
+  "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Principal-Engineer--Software-Engineering--Onsite-_01871345-1",
   "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Principle-Project-Engineer---Test-Engineering-Design-Services--Onsite-_01861282",
   "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Principle-Software-Engineer---Test-Engineering--Onsite-_01873864",
   "/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Senior-Manager--Environmental-Effects-Engineering--Onsite-_01878616",
@@ -30054,6 +30062,7 @@
   "/job/Italy---Rome/Senior-Technical-Architect--Data-360---Marketing-Cloud_JR361393",
   "/job/Japan---Tokyo/Account-Executive--Agentforce-Marketing_JR350939",
   "/job/Japan---Tokyo/Account-Solution-Engineer--Informatica_JR362034",
+  "/job/Japan---Tokyo/Credit---Collections-Analyst_JR358894",
   "/job/Japan---Tokyo/Customer-Success-Manager--Senior-Manager--BtoC-_JR362718",
   "/job/Japan---Tokyo/Customer-Success-Manager_JR359358-1",
   "/job/Japan---Tokyo/Deal-Desk-Manager_JR353297",
@@ -35183,6 +35192,7 @@
   "8911288002",
   "8911291002",
   "8911618002",
+  "8911675002",
   "8911773002",
   "8912121002",
   "8912180002",
@@ -35212,7 +35222,8 @@
   "8917907002",
   "8918126002",
   "8918421002",
-  "8918440002"
+  "8918440002",
+  "8918486002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
