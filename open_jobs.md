@@ -1,6 +1,6 @@
 # Open matching jobs (365)
 
-Updated 2026-10-27 10:35 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-27 11:16 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -181,8 +181,8 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-27 | Visa | [Real Estate Intern - Summer 2027](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---San-Francisco-CA/Real-Estate-Intern---Summer-2027_REF089902W) | US - San Francisco, CA |
 | 2026-10-27 | Visa | [Workforce Protection Intern - Summer 2027](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Workforce-Protection-Intern---Summer-2027_REF089901W-2) | US - Foster City, CA |
 | 2026-10-27 | Visa | [Consulting & Analytics Intern - Summer 2027](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Atlanta-GA/Consulting---Analytics-Intern---Summer-2027_REF089900W) | US - Atlanta, GA |
-| 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373) | Atlanta, Georgia, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057) | Atlanta, Georgia, United States |
+| 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373) | Atlanta, Georgia, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | Phoenix, Arizona, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325056?gh_jid=8325056) | Phoenix, Arizona, United States |
 | 2026-10-26 | RTX | [Technical Intern Summer 2027 - Onsite](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/Technical-Intern-Summer-2027---Onsite_01882365) | US-RI-MIDDLETOWN-201 ~ 127 John Clarke Rd ~ BBN MIDDLETOWN, Ste 3 |
