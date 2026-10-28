@@ -77,6 +77,7 @@
   "/job/India---Mumbai/Marketing-Planning-Manager---Vaccines_31161928-1",
   "/job/India---Mumbai/Product-Manager---Mumbai---GI-Prospera_31164484",
   "/job/Indonesia---Pondok-Indah/Sr-Brand-Manager_31159326",
+  "/job/Japan---Tokyo/Abbott-Cardiac-Rhythm-Management---Head-of-Commercial-Excellence_31165875-6",
   "/job/Japan--Tokyo--Shiodome-City-Center-15F-5-2Higashi-Shinbashi-1-ChomeMinato-ku/Head-of-Structural-Intervention-Franchise---Head-of-Structural-Heart-Commercial-Operations_31156126-15",
   "/job/Malaysia--Selangor--Imazium-No-8-Jalan-SS-2137/Associate--HR-Service-Center--Intern-_31164478",
   "/job/Malaysia--Selangor--Imazium-No-8-Jalan-SS-2137/IT-Intern_31149049-1",
@@ -4489,6 +4490,7 @@
   "5276799007",
   "5276931007",
   "5276971007",
+  "5276992007",
   "5277030007",
   "5277047007",
   "5277074007",
@@ -11825,6 +11827,7 @@
   "/job/Spain---Barcelona/EMEA-HR-Compliance-Manager_R30021-1",
   "/job/Spain---Barcelona/Sales-Engineer--Cloud-Security--French-Speaking--Remote--FRA-_R29954",
   "/job/Spain---Remote/Sr-Manager--Environmental-Health---Safety--Remote--ESP-_R30120",
+  "/job/Sweden---Remote/Regional-Sales-Manager--Sweden_R30680",
   "/job/UAE---Remote/Corporate-Account-Executive---Saudi-Arabia--Remote-_R30434",
   "/job/USA---Arlington-VA/Intelligence-Launch-Intern---Summer-2027_R30648",
   "/job/USA---Arlington-VA/Professional-Services-Explorer-Intern---Summer-2027--Arlington--VA-_R30155",
@@ -11978,6 +11981,8 @@
   "/job/United-Kingdom---Remote/Incident-Response-Sr-Consultant--Remote-_R30529",
   "/job/United-Kingdom---Remote/Incident-Response-Sr-Consultant--Remote-_R30530",
   "/job/United-Kingdom---Remote/Professional-Services-Principal-Consultant---Incident-Response--Remote--GBR-_R30531",
+  "/job/United-Kingdom---Remote/Regional-Sales-Manager--Existing-Accounts_R30683",
+  "/job/United-Kingdom---Remote/Regional-Sales-Manager--New-Accounts_R30682",
   "/job/United-Kingdom---Remote/Sr-Analyst--Falcon-Complete--Remote--GBR-_R30342",
   "/job/United-Kingdom---Remote/Sr-Analyst--Falcon-Complete--Remote--GBR-_R30484",
   "/job/United-Kingdom---Remote/Sr-Engineer---Front-End--Remote--GBR-_R30396",
@@ -21336,6 +21341,8 @@
   "/job/Tainan-Taiwan/HVM-Production-Supervisor--Tainan-_JR112197",
   "/job/Tainan-Taiwan/HVM-Production-Supervisor--Tainan-_JR114802",
   "/job/Tainan-Taiwan/MGR--IE-AMHS-SYSTEM_JR114788",
+  "/job/Tainan-Taiwan/Metallization-Equipment--Shift--Engineer_JR116195",
+  "/job/Tainan-Taiwan/Metallization-Process--Shift--Engineer_JR116194",
   "/job/Tainan-Taiwan/Metallization-engineering-lead_JR114800",
   "/job/Tainan-Taiwan/OMT-Equipment--SHIFT--Engineer_JR112762",
   "/job/Tainan-Taiwan/OMT-Equipment--SHIFT--Engineer_JR112764",
@@ -23494,6 +23501,7 @@
   "/job/Singapore---Marina-View/Senior-Investment-Consultant_R_370411",
   "/job/Taipei---Minquan-East/Compensation-Consultant_R_365882-1",
   "/job/Tianjin---International/ICG-Executive_R_363661",
+  "/job/Tianjin---International/Placement-Manager_R_363670-1",
   "/job/Tianjin---International/Project-Manager---Business-Analyst--AVP-level-_R_361169",
   "/job/Tianjin---International/Project-Manager---Business-Analyst--AVP-level-_R_363782-1",
   "/job/Tianjin---International/Reinsurance-Operations-Specialist_R_363053-1",
@@ -32276,7 +32284,8 @@
   "744000158157450",
   "744000158162444",
   "744000158162749",
-  "744000158164159"
+  "744000158164159",
+  "744000158197619"
  ],
  "Smartsheet": [
   "3426405",
@@ -36266,7 +36275,9 @@
   "8920422002",
   "8920445002",
   "8920541002",
-  "8920739002"
+  "8920739002",
+  "8920822002",
+  "8920839002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
