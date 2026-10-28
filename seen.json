@@ -4513,7 +4513,8 @@
   "5277734007",
   "5277823007",
   "5277825007",
-  "5277829007"
+  "5277829007",
+  "5277890007"
  ],
  "Anthropic": [
   "4017331008",
@@ -19585,6 +19586,7 @@
   "/job/SGP---Singapore---Singapore-Boulevard-Towers/Regional-Director--Medical-Affairs---HIV_R420309",
   "/job/SGP---Singapore---Singapore-Boulevard-Towers/Regulatory-Affairs-Liaison--Associate-Director-_R421221",
   "/job/SGP---Singapore---Singapore-Boulevard-Towers/Senior-Specialist---Audit-and-Assurance-Services-_R423661",
+  "/job/SGP---Singapore---Singapore-Perahu-Rd/Associate-Research-Scientist--WDA-_R424397",
   "/job/SWE---Stockholm---Stockholm-Gavlegatan/Key-Account-Manager_R413392-2",
   "/job/THA---Bangkok---Bangkok-Tha-Central-World/Franchise-Lead---Pharma_R421457-1",
   "/job/THA---Bangkok---Bangkok-Tha-Central-World/Regional-Marketing-Director-Poultry_R403659",
@@ -28286,6 +28288,7 @@
   "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Special-Processes---Operator--2nd-Shift-_01873003-1",
   "/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Tool-Die-and-Gage-Maker---1st-Shift_01872169-1",
   "/job/US-CT-REMOTE/Business-Analyst_01881126-1",
+  "/job/US-CT-REMOTE/Business-Analyst_01883677",
   "/job/US-CT-REMOTE/Contracts-Manager--Remote-_01882971",
   "/job/US-CT-REMOTE/Contracts-Manager--Remote-_01883930",
   "/job/US-CT-REMOTE/DT-Senior-Manager--Product-Management--Remote-_01876418",
@@ -32516,6 +32519,7 @@
   "132a2e95-7ec0-488c-94d2-b0917c597ef9",
   "143a2248-564b-4cfa-85f5-d47bac911d74",
   "144f0be6-d6e0-4ef4-a927-c91163986d29",
+  "14b031ca-fbd3-41c4-8c37-62e2c72ffd76",
   "151c097e-9e52-44b8-ad54-2103ef16ffd4",
   "157bd8e6-7201-4d37-96ca-0b76a2bc1446",
   "159f0c00-6eed-4d93-a5cc-462a81fa651d",
@@ -37827,6 +37831,7 @@
   "/job/BangaloreIndia/Engineer---DevEx_R0000450352",
   "/job/BangaloreIndia/Lead-Data-Analyst_R0000440436-1",
   "/job/BangaloreIndia/Lead-Item-Data-Specialist_R0000475300-1",
+  "/job/BangaloreIndia/Lead-Specialist-Payroll-FinOps_R0000478624",
   "/job/BangaloreIndia/Lead-Specialist-Procurement-Ops_R0000454394-1",
   "/job/BangaloreIndia/Lead-Specialist-Procurement-Ops_R0000478803",
   "/job/BangaloreIndia/Lead-Specialist-Procuremnt-Ops_R0000478962",
