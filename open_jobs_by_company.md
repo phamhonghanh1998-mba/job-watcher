@@ -1,6 +1,6 @@
-# Open matching jobs (371)
+# Open matching jobs (377)
 
-Updated 2026-10-28 13:20 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-28 14:17 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -168,7 +168,7 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-10-23 | Zillow | [Applied Scientist (Economics) Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1) | Seattle-WA-2nd Ave |
 | 2026-10-26 | Zillow | [Data Science Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1) | Seattle-WA-2nd Ave |
 
-## Other internships (221)
+## Other internships (227)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
@@ -287,6 +287,7 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-09-21 | Coinbase | [Tax Information Reporting Intern](https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [Tax Operations Intern](https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [User Research Intern](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) | Hybrid - San Francisco, CA |
+| 2026-10-28 | CVS Health | [Supply Chain and Logistics Intern - Corporate - Summer 2027](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Supply-Chain-and-Logistics-Intern---Corporate---Summer-2027_R1033221) | RI - Woonsocket |
 | 2026-10-09 | Databricks | [Product Design Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=8787352002) | San Francisco, California; Seattle, Washington |
 | 2023-08-17 | Databricks | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 2026-09-08 | Datadog | [Software Engineering Intern (Summer)](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) | Boston, Massachusetts, USA; New York, New York, USA |
@@ -343,10 +344,7 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-09-24 | Ramp | [Software Engineering Intern, iOS](https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9) | New York, NY (HQ) |
 | 2026-09-14 | Robinhood | [Fraud Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241) | Denver, CO |
 | 2026-09-02 | Roblox | [[Summer 2027] Product Design Intern](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) | San Mateo, CA, United States |
-| 2026-10-28 | RTX | [Intern, Accounts Payable](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/PH-BTG-TANAUAN-CITY-018--Lot-18-3rd-St--LOT-18-1/Intern--Accounts-Payable_01878788) | PH-BTG-TANAUAN CITY-018 ~ Lot 18 3rd St ~ LOT 18-1 |
-| 2026-10-28 | RTX | [Intern, Accounts Payable](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/PH-BTG-TANAUAN-CITY-018--Lot-18-3rd-St--LOT-18-1/Intern--Accounts-Payable_01878789) | PH-BTG-TANAUAN CITY-018 ~ Lot 18 3rd St ~ LOT 18-1 |
-| 2026-10-28 | RTX | [Intern, Accounts Payable](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/PH-BTG-TANAUAN-CITY-018--Lot-18-3rd-St--LOT-18-1/Intern--Accounts-Payable_01878786) | PH-BTG-TANAUAN CITY-018 ~ Lot 18 3rd St ~ LOT 18-1 |
-| 2026-10-27 | RTX | [Mission Systems Supplier Quality Intern (Spring 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-REMOTE/Mission-Systems-Supplier-Quality-Intern--Spring-2027-_01884395) | US-IA-REMOTE |
+| 2026-10-28 | RTX | [Mechanical Engineer Intern - Special Tooling and Test Fixtures (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/Mechanical-Engineer-Intern---Special-Tooling-and-Test-Fixtures--Summer-2027-_01884792) | US-TX-MCKINNEY-513WZS ~ 2501 W University Dr ~ WZS BLDG |
 | 2026-09-28 (30+ days) | S&P Global | [Agribusiness Intern (Early Careers)](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2) | Virtual, BR |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057) | Atlanta, Georgia, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373) | Atlanta, Georgia, United States |
@@ -378,8 +376,16 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-09-28 (30+ days) | Stryker | [R&D Operations Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768) | Salt Lake City, Utah |
 | 2026-09-28 (30+ days) | Stryker | [Summer 2027 Intern - Marketing - Minnesota](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bloomington-Minnesota/Summer-2027-Intern---Marketing---Minnesota_R572990) | Bloomington, Minnesota |
 | 2026-10-27 | Target | [Associate Buyer Internship - Minneapolis, MN (Starting Summer, 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Buyer-Internship---Minneapolis--MN--Starting-Summer--2027-_R0000450961) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |
+| 2026-10-28 | Target | [Store Executive Intern (Store Leadership Intern) - Albany, NY (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1440-Central-Ave-ColonieNY-12205-5118/Store-Executive-Intern--Store-Leadership-Intern----Albany--NY--Starting-Summer-2027-_R0000446903) | 9 Locations |
 | 2026-10-28 | Target | [Store Executive Intern (Store Leadership Intern) - Boston, MA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1341-BOYLSTON-ST-BostonMA-02215-3936/Store-Executive-Intern--Store-Leadership-Intern----Boston--MA--Starting-Summer-2027-_R0000446890) | 25 Locations |
+| 2026-10-28 | Target | [Store Executive Intern (Store Leadership Intern) - Greater Pittsburgh & Central Pennsylvania (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/153-Sierra-Dr-AltoonaPA-16601-9341/Store-Executive-Intern--Store-Leadership-Intern----Greater-Pittsburgh---Central-Pennsylvania--Starting-Summer-2027-_R0000446886) | 25 Locations |
+| 2026-10-28 | Target | [Store Executive Intern (Store Leadership Intern) - Hudson Valley & Lower New York (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/4120-Palisades-Center-Dr-West-NyackNY-10994-6801/Store-Executive-Intern--Store-Leadership-Intern----Hudson-Valley---Lower-New-York--Starting-Summer-2027-_R0000446905-1) | 14 Locations |
+| 2026-10-28 | Target | [Store Executive Intern (Store Leadership Intern) - Louisiana & Ark-La-Tex (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/6885-Siegen-Ln-Baton-RougeLA-70809-4528/Store-Executive-Intern--Store-Leadership-Intern----Louisiana---Ark-La-Tex--Starting-Summer-2027-_R0000446941) | 10 Locations |
+| 2026-10-28 | Target | [Store Executive Intern (Store Leadership Intern) - Memphis, TN (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/601-Colonial-Rd-MemphisTN-38117-5132/Store-Executive-Intern--Store-Leadership-Intern----Memphis--TN--Starting-Summer-2027-_R0000446938) | 9 Locations |
 | 2026-10-28 | Target | [Store Executive Intern (Store Leadership Intern) - North & Central Alabama (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/6275-University-Dr-NW-HuntsvilleAL-35806-1776/Store-Executive-Intern--Store-Leadership-Intern----North---Central-Alabama--Starting-Summer-2027-_R0000446940-1) | 13 Locations |
+| 2026-10-28 | Target | [Store Executive Intern (Store Leadership Intern) - Northern New England (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/80-Damante-Dr-ConcordNH-03301-5759/Store-Executive-Intern--Store-Leadership-Intern----Northern-New-England--Starting-Summer-2027-_R0000446897-1) | 13 Locations |
+| 2026-10-28 | Target | [Store Executive Intern (Store Leadership Intern) - Philadelphia, PA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1-Mifflin-St-PhiladelphiaPA-19148-2017/Store-Executive-Intern--Store-Leadership-Intern----Philadelphia--PA--Starting-Summer-2027-_R0000446877) | 25 Locations |
+| 2026-10-28 | Target | [Store Executive Intern (Store Leadership Intern) - South Alabama & Florida Panhandle (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/4711-Bayou-Blvd-PensacolaFL-32503-2607/Store-Executive-Intern--Store-Leadership-Intern----South-Alabama---Florida-Panhandle--Starting-Summer-2027-_R0000446942) | 12 Locations |
 | 2026-10-28 | Target | [Store Executive Intern (Store Leadership Intern) - South Shore & Rhode Island (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1245-Bald-Hill-Rd-WarwickRI-02886-4233/Store-Executive-Intern--Store-Leadership-Intern----South-Shore---Rhode-Island--Starting-Summer-2027-_R0000446893) | 12 Locations |
 | 2026-10-28 | Target | [Store Executive Intern (Store Leadership Intern) - Southeastern Pennsylvania & Delaware (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/201-Sunrise-Blvd-ExtonPA-19341-2336/Store-Executive-Intern--Store-Leadership-Intern----Southeastern-Pennsylvania---Delaware--Starting-Summer-2027-_R0000446889) | 14 Locations |
 | 2026-10-27 | Target | [Store Executive Intern (Store Leadership Intern) Rochester, MN (Starting Summer 2027) ​](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/3827-Marketplace-Dr-NW-RochesterMN-55901-3192/Store-Executive-Intern--Store-Leadership-Intern--Rochester--MN--Starting-Summer-2027---_R0000479039) | 10 Locations |
