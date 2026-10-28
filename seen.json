@@ -4463,6 +4463,7 @@
   "5273142007",
   "5273148007",
   "5273173007",
+  "5273305007",
   "5273373007",
   "5273403007",
   "5273477007",
@@ -8406,6 +8407,7 @@
   "/job/MA---South-Easton/Pharmacy-Intern_R1085963",
   "/job/MA---Stoneham/Pharmacy-Intern_R1085939",
   "/job/MA---Wellesley/Enterprise-Strategy-Lead---Healthcare_R1071633-1",
+  "/job/MA---Wellesley/Lead-Director--Health100-App---Digital-Product_R1078091",
   "/job/MA---Wellesley/Sr-Mgr--Research-Communications---Knowledge-Translation_R1061139-1",
   "/job/MA---Wellesley/Sr-Mgr--Research-Programs-and-Governance_R1061110-1",
   "/job/MA---Wellesley/Strategic-Account-Manager---CVS-Media-Exchange--CMX-_R1077686",
@@ -9313,6 +9315,7 @@
   "/job/TX---Houston/Pharmacy-Intern_R0993420",
   "/job/TX---Houston/Pharmacy-Intern_R1084994",
   "/job/TX---Houston/Pharmacy-Intern_R1084999",
+  "/job/TX---Houston/Pharmacy-Intern_R1089807",
   "/job/TX---Houston/Primary-Care-Physician_R1054395",
   "/job/TX---Huntsville/Foreign-Pharmacy-Grad---International-Pharmacy-Intern_R1087021",
   "/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1",
@@ -15458,7 +15461,8 @@
   "6233040004",
   "6233043004",
   "6233207004",
-  "6235005004"
+  "6235005004",
+  "6237757004"
  ],
  "GE Aerospace": [
   "/job/Arkansas-City/Lead-Services-Specialist-1---Customer-Order-and-Fulfillment_R5041383-1",
@@ -25602,7 +25606,8 @@
   "8301435",
   "8304455",
   "8310842",
-  "8328340"
+  "8328340",
+  "8328428"
  ],
  "Perplexity": [
   "0113c03a-69d0-489d-bd11-451d11a9f64b",
@@ -28169,6 +28174,7 @@
   "/job/MX-BCN-MEXICALI-496--Calzada-Manuel-Gomez-Morin-3200--CALZADA/Practicante-de-Seguridad-e-Higiene---Avionics-En-Sitio-1er-turno_01885487",
   "/job/MX-BCN-MEXICALI-496--Calzada-Manuel-Gomez-Morin-3200--CALZADA/Product-Quality-Engineer--Onsite-_01880903",
   "/job/MX-BCN-MEXICALI-496--Calzada-Manuel-Gomez-Morin-3200--CALZADA/Product-Quality-Engineer-II--Onsite-_01880897-1",
+  "/job/MX-BCN-MEXICALI-496--Calzada-Manuel-Gomez-Morin-3200--CALZADA/Senior-Accountant--Onsite-_01884534",
   "/job/MX-BCN-MEXICALI-496--Calzada-Manuel-Gomez-Morin-3200--CALZADA/Sr-Customer-Service-Analyst---3rd-Shift-Saturday-to-Wednesday-Onsite-_01874331-1",
   "/job/MY-10-SUBANG-001--Mukim-Damansara-Daerah-Petaling--JALAN-LAPANGAN-TERBANG-SUBANG/EH-S-Intern_01865787",
   "/job/MY-10-SUBANG-001--Mukim-Damansara-Daerah-Petaling--JALAN-LAPANGAN-TERBANG-SUBANG/Logistics-Intern_01879181",
@@ -28337,6 +28343,7 @@
   "/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/Advanced-Effector-Guidance-Systems-Electrical-Engineer-I--Onsite-_01870445",
   "/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/Advanced-Effector-Guidance-Systems-Electrical-Engineer-II--Onsite-_01870395",
   "/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/Finance-Lead--On-Site-_01879159",
+  "/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/Material-Program-Manager_01885595",
   "/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/Mechanical-Engineer-II--Onsite-_01871114",
   "/job/US-AZ-TUCSON-802--1151-E-Hermans-Rd--BLDG-802/SM-6--Transition-to-Production--TTP--Chief-Engineer_01860166",
   "/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Affordability-Section-Manager_01858874",
@@ -29907,6 +29914,7 @@
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Senior-Information-System-Security-Officer--ISSO----McKinney--TX_01867803",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Senior-Information-Systems-Security-Officer--ISSO--II---McKinney--TX_01883597",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Senior-Mechanical-Engineer_01877954",
+  "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Senior-RF-Test-Systems-Engineer---Onsite-McKinney-TX_01882842",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Senior-System-Administrator_01879839",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Senior-System-Administrator_01885529",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Senior-System-Administrator_01885541",
@@ -31504,6 +31512,7 @@
   "/job/Illinois---Chicago/Enterprise-Account-Executive---Consumer-Business-Services_JR332963",
   "/job/Illinois---Chicago/Enterprise-Account-Executive---Financial-Services_JR293196",
   "/job/Illinois---Chicago/Enterprise-Account-Executive---Health-and-Life-Sciences_JR293189",
+  "/job/Illinois---Chicago/Enterprise-Account-Executive---Manufacturing---Retail---Consumer-Goods_JR318476",
   "/job/Illinois---Chicago/Enterprise-Account-Executive---Tech---Media_JR332958-1",
   "/job/Illinois---Chicago/Executive-Assistant---AI-Labs_JR362426",
   "/job/Illinois---Chicago/Financial-Services-Program-Executive-VP_JR354750",
@@ -37667,6 +37676,7 @@
   "8152136",
   "8152994",
   "8153331",
+  "8154295",
   "8154304",
   "8154525",
   "8154531",
@@ -37701,6 +37711,7 @@
   "8163542",
   "8164479",
   "8164481",
+  "8164666",
   "8164674",
   "8165137",
   "8165259",
@@ -38129,6 +38140,7 @@
   "8286680",
   "8287486",
   "8287912",
+  "8287914",
   "8287916",
   "8288334",
   "8288538",
@@ -39984,6 +39996,7 @@
   "/job/US---Foster-City-CA/Data-Engineer---Sr-Consultant-level_REF088760W",
   "/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1",
   "/job/US---Foster-City-CA/Director--CMS-Agentic-Commerce--GTM-Focus_REF089237W",
+  "/job/US---Foster-City-CA/Director--Consumer-Payments-Strategic-Analytics_REF089894W",
   "/job/US---Foster-City-CA/Director--Payment-Platform-Strategy_REF088676W-1",
   "/job/US---Foster-City-CA/Director--Platform-Engineering_REF088255W",
   "/job/US---Foster-City-CA/Director--SRC-Product_REF089473W",
@@ -41305,6 +41318,7 @@
   "5267167007",
   "5267171007",
   "5267177007",
+  "5267223007",
   "5267235007",
   "5267316007",
   "5267320007",
@@ -41335,7 +41349,8 @@
   "5273374007",
   "5274394007",
   "5275347007",
-  "5277105007"
+  "5277105007",
+  "5277846007"
  ],
  "_first_seen": {
   "3M": {
