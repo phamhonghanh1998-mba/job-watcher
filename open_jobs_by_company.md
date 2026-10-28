@@ -1,6 +1,6 @@
 # Open matching jobs (369)
 
-Updated 2026-10-28 00:37 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-28 01:36 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -118,7 +118,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Master's in accounting / finance (46)
+## Master's in accounting / finance (45)
 
 Description says master's/graduate students in accounting, finance, economics or business can apply. Check whether an MBA qualifies (some require an MAcc for CPA hours).
 
@@ -147,7 +147,6 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
 | 2026-10-28 | Micron | [Intern - NAND Storage Strategic Roadmap Planning](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---NAND-Storage-Strategic-Roadmap-Planning_JR115838) | Boise, ID - Main Site |
-| 2026-10-28 | Micron | [Intern – AI & Product Management, Mobile Memory (LPDRAM)](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---AI---Product-Management--Mobile-Memory--LPDRAM-_JR115839) | San Jose, CA |
 | 2026-10-28 | Micron | [Intern – CMBU Product Management](https://micron.wd1.myworkdayjobs.com/en-US/External/job/San-Jose-CA/Intern---CMBU-Product-Management_JR115941) | San Jose, CA |
 | 2026-09-28 (30+ days) | Mondelez | [Corporate Finance Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Corporate-Finance-Intern_R-175404-1) | East Hanover, New Jersey, United States |
 | 2026-10-15 | Mondelez | [Logistics Operations Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Business-Unit-Head-Office---East-Hanover-USA/Customer-Service-and-Logistics-Intern-_R-175412) | 6 Locations |
@@ -171,7 +170,7 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-10-24 | Zillow | [Applied Scientist (Economics) Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1) | Seattle-WA-2nd Ave |
 | 2026-10-27 | Zillow | [Data Science Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1) | Seattle-WA-2nd Ave |
 
-## Other internships (216)
+## Other internships (217)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
@@ -363,6 +362,7 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-19 | Scale AI | [Machine Learning Research Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | New York, NY; San Francisco, CA |
 | 2026-09-04 | Scale AI | [Software Engineering Intern (Summer 2027) ](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | San Francisco, CA |
 | 2026-10-27 | ServiceNow | [Experience Team – Associate Product Design Internships – Summer 2027](https://jobs.smartrecruiters.com/ServiceNow/744000158130527) | San Diego, CALIFORNIA, us |
+| 2026-10-26 | ServiceNow | [Experience Team – Associate Technical Writing Internships – Summer 2027](https://jobs.smartrecruiters.com/ServiceNow/744000157921759) | San Diego, CALIFORNIA, us |
 | 2026-10-26 | ServiceNow | [Experience Team – UX Research Internships – Summer 2027](https://jobs.smartrecruiters.com/ServiceNow/744000157919529) | San Diego, CALIFORNIA, us |
 | 2026-10-15 | Snap | [2027 Generative Media Research Intern](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179) | Los Angeles, California |
 | 2026-08-03 | SpaceX | [Spring 2027 Civil Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002) | Flexible - Any SpaceX Site |

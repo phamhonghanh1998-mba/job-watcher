@@ -4509,6 +4509,7 @@
   "5277733007",
   "5277734007",
   "5277823007",
+  "5277825007",
   "5277829007"
  ],
  "Anthropic": [
@@ -6636,6 +6637,7 @@
   "/job/Space-Coast-FL/Manufacturing-Quality-Manager---A-Shift_R72111",
   "/job/Space-Coast-FL/Manufacturing-Sr-Quality-Manager---A-Shift_R72114",
   "/job/Space-Coast-FL/Materials-and-Process-Engineer-II---TPS--Sealants--Coatings----Adhesives--Early-Career-_R66867",
+  "/job/Space-Coast-FL/Materials-and-Processes--M-P--Engineer-Sr---Lunar-Permanence_R73490",
   "/job/Space-Coast-FL/OPM---Engine-Quality-Program-Manager_R71195",
   "/job/Space-Coast-FL/Program-Manager-III_R70818",
   "/job/Space-Coast-FL/Program-Planning-and-Control-Specialist-Sr_R71093",
@@ -7804,6 +7806,8 @@
   "/job/CT---Work-from-home/Minute-Clinic-Virtual-Care-Nurse-Practitioner_R1021184",
   "/job/CT---Work-from-home/Proposal-Intake-Coordinator_R1045970",
   "/job/CT---Work-from-home/Proposals-Associate_R1063043",
+  "/job/CT---Work-from-home/Senior-Agentic-AI-Platform-Engineer_R1073556",
+  "/job/CT---Work-from-home/Senior-Agentic-AI-Solutions-Engineer_R1073588",
   "/job/CT---Work-from-home/Senior-Manager--Data-Engineering---Medicare-Revenue_R1056104-1",
   "/job/CT---Work-from-home/Senior-Software-Development-Engineer_R1042093",
   "/job/Canoga-Park-8220-Remmet-Avenue/Delivery-Driver---Full-Time_R0967327",
@@ -9788,8 +9792,10 @@
   "/job/McLean-VA/Manager--Product-Management---AI-ML_R246569",
   "/job/McLean-VA/Manager--Product-Management---Business-Cards---Payments_R1000202-1",
   "/job/McLean-VA/Manager--Product-Management---Customer-Resiliency-Data-Platform--US-Card-_R1003393-1",
+  "/job/McLean-VA/Manager--Product-Management---Customer-Resiliency-Web-and-Mobile-App-Experience_R1004279-1",
   "/job/McLean-VA/Manager--Product-Management---Data-Infrastructure-for-Collections-Platform_R1003760-1",
   "/job/McLean-VA/Manager--Product-Management---Data_R1000452-1",
+  "/job/McLean-VA/Manager--Product-Management---Debt-Settlement-Recoveries-Strategy_R1004278-1",
   "/job/McLean-VA/Manager--Product-Management---Digital-Experiences--Business-Cards---Payments-_R1003364-2",
   "/job/McLean-VA/Manager--Product-Management---IVR-Platform_R1002641-1",
   "/job/McLean-VA/Manager--Product-Management---Intelligent-Routing-Product-Manager--US-Card-_R1003909-1",
@@ -17482,6 +17488,7 @@
   "8197796",
   "8202868",
   "8208201",
+  "8220502",
   "8223099",
   "8223123",
   "8236723",
@@ -18462,6 +18469,7 @@
   "/job/Johannesburg-South-Africa/Manager--Legal-AML-Compliance_R-290675",
   "/job/Johannesburg-South-Africa/Manager--Legal-AML-Compliance_R-290676",
   "/job/Kansas-City-Missouri/Manager--Operations-Command-Center_R-293274",
+  "/job/Kuala-Lumpur-Malaysia/Director--Services-Business-Development_R-294425",
   "/job/Kuala-Lumpur-Malaysia/Manager--Cross-Border-Destination-Marketing--Southeast-Asia_R-288506",
   "/job/Kuala-Lumpur-Malaysia/Manager--SME-Channel-Distribution-Specialist-Sales--South-East-Asia--West-_R-289279",
   "/job/Kuala-Lumpur-Malaysia/Managing-Consultant--Advisors---Marketing_R-286749",
@@ -20409,6 +20417,7 @@
   "/job/Clay-NY/US-Construction-NY-Quality-Assurance-Manager_JR111118",
   "/job/Clay-NY/Wet-Mechanical-Operations-Engineer_JR100406",
   "/job/Executive-Search-Recruiting-Sourcing-Specialist--Contract--_JR114197",
+  "/job/Fab-10A-Singapore/Advanced-Packaging-Technology-Development--APTD--Process-Technical-Specialist_JR116193",
   "/job/Fab-10A-Singapore/DATA-SCIENTIST_JR115642",
   "/job/Fab-10A-Singapore/DIRECTOR--PHOTO-MAP--metrology-applications-process-_JR112244",
   "/job/Fab-10A-Singapore/Data-Scientist--SMAI--FE-Planning-_JR114960",
@@ -21347,6 +21356,7 @@
   "/job/Taoyuan---Fab-11-Taiwan/MANAGER--FE-GLOBAL-MANUFACTURING-ENGINEERING_JR102065-1",
   "/job/Taoyuan---Fab-11-Taiwan/MGR--F11-Process-Engineering-ETCH_JR115618",
   "/job/Taoyuan---Fab-11-Taiwan/MGR--F4-TAIWAN-ROC-ME_JR113896-1",
+  "/job/Taoyuan---Fab-11-Taiwan/MGR--OMT-TECH-PI1-CMOS-MOL0_JR114567-1",
   "/job/Taoyuan---Fab-11-Taiwan/MGR--OMT-TECH-PI1-MB-ESPEC_JR112229",
   "/job/Taoyuan---Fab-11-Taiwan/Manager--FE-CENTRAL-PIE-PI_JR112878",
   "/job/Taoyuan---Fab-11-Taiwan/OCT-CMP-Mfg-Alignment--MA--Engineer-Sr-Engineer_JR106341",
@@ -30059,7 +30069,8 @@
   "8319304",
   "8319701",
   "8327450",
-  "8329280"
+  "8329280",
+  "8329677"
  ],
  "Roblox": [
   "7309267",
@@ -31016,6 +31027,7 @@
   "/job/Japan---Tokyo/Program-Project-Management-Senior-Analyst_JR358708",
   "/job/Japan---Tokyo/Renewals-Manager_JR363532",
   "/job/Japan---Tokyo/Sales-Strategy-Senior-Lead-Lead--Business-Partner-_JR345991",
+  "/job/Japan---Tokyo/Senior-Renewals-Manager_JR365719",
   "/job/Japan---Tokyo/Strategic-Solution-Engineer--Retail-CPG-Life-Sciences--_JR364359",
   "/job/Korea-Republic-of---Seoul/Account-Executive--Growth-Market-Sales_JR363104",
   "/job/Korea-Republic-of---Seoul/Account-Executive--Tableau--Growth-Market-_JR364792",
@@ -32248,6 +32260,7 @@
   "744000157909159",
   "744000157917389",
   "744000157919529",
+  "744000157921759",
   "744000157924969",
   "744000157966080",
   "744000158031029",
@@ -36228,6 +36241,7 @@
   "8918169002",
   "8918369002",
   "8918371002",
+  "8918376002",
   "8918407002",
   "8918421002",
   "8918440002",
@@ -36242,6 +36256,7 @@
   "8919875002",
   "8919878002",
   "8919885002",
+  "8919948002",
   "8919976002",
   "8920044002",
   "8920125002",
@@ -36250,7 +36265,8 @@
   "8920414002",
   "8920422002",
   "8920445002",
-  "8920541002"
+  "8920541002",
+  "8920739002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -37349,7 +37365,8 @@
   "8319459",
   "8323732",
   "8324207",
-  "8325807"
+  "8325807",
+  "8329718"
  ],
  "Stryker": [
   "/job/Alcobendas-Spain/HR-Transformation-Intern_R575042",
@@ -42180,6 +42197,7 @@
    "744000155587276": "2026-10-14",
    "744000155588309": "2026-10-14",
    "744000157919529": "2026-10-27",
+   "744000157921759": "2026-10-28",
    "744000158130527": "2026-10-27"
   },
   "Smartsheet": {},
@@ -42790,6 +42808,7 @@
   },
   "ServiceNow": {
    "744000157919529": false,
+   "744000157921759": false,
    "744000158130527": false
   },
   "Snap": {
@@ -44465,6 +44484,7 @@
    "744000155587276": false,
    "744000155588309": false,
    "744000157919529": false,
+   "744000157921759": false,
    "744000158130527": false
   },
   "Snap": {
