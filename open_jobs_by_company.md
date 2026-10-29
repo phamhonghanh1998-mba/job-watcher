@@ -1,10 +1,10 @@
-# Open matching jobs (368)
+# Open matching jobs (357)
 
-Updated 2026-10-29 11:20 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-29 12:17 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (105)
+## MBA-level (94)
 
 Title or job description mentions an MBA.
 
@@ -36,17 +36,6 @@ Title or job description mentions an MBA.
 | 2026-09-29 (30+ days) | Amgen | [MBA Intern – Commercial Leadership Program (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/MBA-Intern---Commercial-Leadership-Program--Summer-2027-_R-254479) | United States - Remote |
 | 2026-09-29 (30+ days) | Amgen | [MBA Intern – Finance & Strategy Leadership Development Program (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/United-States---Remote/MBA-Intern---Finance---Strategy-Leadership-Development-Program--Summer-2027-_R-254491) | United States - Remote |
 | 2026-09-29 (30+ days) | Amgen | [Operations Graduate Program – Summer 2027 Internship](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Operations-Graduate-Program---Summer-2027-Internship_R-254659) | 6 Locations |
-| 2026-09-29 (30+ days) | BlackRock | [2027 MBA Internship Program - Client & Product Functions - Sales & Relationship Management - Institutional & Wealth - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-MBA-Internship-Program---Client---Product-Functions---Sales---Relationship-Management---Institutional---Wealth---New-York_R266466) | New York, NY |
-| 2026-09-29 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---New-York_R266468) | New York, NY |
-| 2026-09-29 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Global Capital Markets - San Francisco](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Global-Capital-Markets---San-Francisco_R266469) | San Francisco, CA |
-| 2026-09-29 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Portfolio Management - Atlanta](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---Atlanta_R266470) | Atlanta, GA |
-| 2026-09-29 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Portfolio Management - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---New-York_R266471) | New York, NY |
-| 2026-09-29 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Portfolio Management - San Francisco](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Portfolio-Management---San-Francisco_R266472) | San Francisco, CA |
-| 2026-09-29 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Quantitative Investing - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---New-York_R266473) | New York, NY |
-| 2026-09-29 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Investments - Quantitative Investing - San Francisco](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Investments---Quantitative-Investing---San-Francisco_R266474) | San Francisco, CA |
-| 2026-09-29 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Sales & Relationship Management - Institutional Wealth - Chicago](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Chicago-IL/XMLNAME-2027-Quantitative-Masters-Internship-Program---Sales---Relationship-Management---Institutional-Wealth---Chicago_R266475) | Chicago, IL |
-| 2026-09-29 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - New York](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---New-York_R266477) | New York, NY |
-| 2026-09-29 (30+ days) | BlackRock | [2027 Quantitative Masters Internship Program - Technology - Analytics & Modeling - San Francisco](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476) | San Francisco, CA |
 | 2026-09-29 (30+ days) | Clorox | [Assistant Finance Manager (MBA Recent Graduate Summer 2027)](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Pleasanton-CA---USA/Assistant-Finance-Manager_JR23349) | 3 Locations |
 | 2026-09-29 (30+ days) | Clorox | [Associate Marketing Manager (MBA Recent Graduate Summer 2027)](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Oakland-CA---USA/Associate-Marketing-Manager--MBA-Recent-Graduate-Summer-2027-_JR23348-1) | Oakland, CA - USA |
 | 2026-09-29 (30+ days) | Clorox | [Brand Management Intern (MBA - Summer 2027)](https://clorox.wd1.myworkdayjobs.com/en-US/Clorox/job/Oakland-CA---USA/Brand-Management-Intern--MBA---Summer-2027-_JR23316) | Oakland, CA - USA |
@@ -293,6 +282,7 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-09-23 | Figma | [Data Engineer Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Data Science Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | San Francisco, CA • New York, NY |
+| 2026-10-29 | Genentech | [Internship: Generative AI Designer (as of January 2027 for 12 months in Rotkreuz)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Rotkreuz/Internship--Generative-AI-Designer--as-of-January-2027-for-12-months-in-Rotkreuz-_202610-127757) | Rotkreuz |
 | 2026-10-12 | Hewlett Packard Enterprise | [ASIC Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034) | Sunnyvale, California, United States of America |
 | 2026-09-29 (30+ days) | Hewlett Packard Enterprise | [Finance Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Finance-Intern_1213639) | Spring, Texas, United States of America |
 | 2026-10-19 | Hewlett Packard Enterprise | [Finance Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/Finance-Intern_1213767) | San Jose, California, United States of America |
@@ -371,7 +361,6 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-09-29 (30+ days) | Stryker | [Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937) | Arlington, Tennessee |
 | 2026-09-29 (30+ days) | Stryker | [R&D Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fremont-California/R-D-Intern_R572862) | Fremont, California |
 | 2026-09-29 (30+ days) | Stryker | [R&D Operations Intern](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768) | Salt Lake City, Utah |
-| 2026-09-29 (30+ days) | Stryker | [Summer 2027 Intern - Marketing - Minnesota](https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bloomington-Minnesota/Summer-2027-Intern---Marketing---Minnesota_R572990) | Bloomington, Minnesota |
 | 2026-10-28 | T-Mobile | [Summer 2027 Assoc AI Engineer Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492) | 2 Locations |
 | 2026-10-28 | T-Mobile | [Summer 2027 Software Engineering Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441) | Overland Park, Kansas |
 | 2026-10-28 | Target | [Store Executive Intern (Store Leadership Intern) – Eastern Los Angeles County, CA (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/747-Grand-Ave-Diamond-Bar-CA-91765-8400/Store-Executive-Intern--Store-Leadership-Intern----Eastern-Los-Angeles-County--CA--Starting-Summer-2027-_R0000450592) | 3 Locations |
