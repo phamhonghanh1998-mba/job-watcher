@@ -1,6 +1,6 @@
-# Open matching jobs (378)
+# Open matching jobs (377)
 
-Updated 2026-10-29 22:02 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-29 22:57 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -126,6 +126,7 @@ Description says master's/graduate students in accounting, finance, economics or
 | Posted | Company | Role | Location |
 |---|---|---|---|
 | 2026-10-29 | T-Mobile | [Summer 2027 Assoc Product Manager Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Assoc-Product-Manager-Internship_REQ380746) | Overland Park, Kansas |
+| 2026-10-29 | Genentech | [Supply Chain Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Vilnius/Supply-Chain-Intern_202607-119461-1) | Vilnius |
 | 2026-10-29 | Genentech | [Internship - AI Metadata Augmentation](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Kaiseraugst/Internship---AI-Metadata-Augmentation_202609-123518) | Kaiseraugst |
 | 2026-10-29 | Cloudflare | [Product Manager Intern (2027) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8274790?gh_jid=8274790) | In-Office |
 | 2026-10-29 | Amazon | [Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast](https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast) | Austin, Texas, USA |
@@ -141,7 +142,6 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-10-20 | Anduril | [2027 Finance Data Analyst Intern](https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007) | Costa Mesa, California, United States |
 | 2026-10-20 | Amazon | [Industrial Design Engineer Intern , Summer 2027](https://www.amazon.jobs/en/jobs/10584122/industrial-design-engineer-intern-summer-2027) | Bellevue, Washington, USA |
 | 2026-10-19 | Hewlett Packard Enterprise | [ASIC Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Roseville-California-United-States-of-America/ASIC-Intern_1214020) | Roseville, California, United States of America |
-| 2026-10-15 | Philips | [Marketing Intern (all genders)](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Warszawa/Marketing-Intern--all-genders-_592892) | Warszawa |
 | 2026-10-14 | Mondelez | [Logistics Operations Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/Business-Unit-Head-Office---East-Hanover-USA/Customer-Service-and-Logistics-Intern-_R-175412) | 6 Locations |
 | 2026-10-13 | Anduril | [2027 Product Designer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) | Costa Mesa, California, United States |
 | 2026-10-02 | Vanguard | [College to Corporate IT Internship-Investment Systems (PA)](https://vanguard.wd5.myworkdayjobs.com/en-US/Vanguard_External/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782) | Malvern, PA |
@@ -172,7 +172,7 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-02 | Roblox | [[Summer 2027] Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA, United States |
 | 2023-08-17 | Databricks | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, California; San Francisco, California |
 
-## Other internships (224)
+## Other internships (223)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
@@ -181,9 +181,8 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-29 | T-Mobile | [Summer 2027 Production Manager Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Production-Manager-Internship_REQ380711) | Overland Park, Kansas |
 | 2026-10-29 | T-Mobile | [Summer 2027 Production Manager Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Production-Manager-Internship_REQ380717) | Overland Park, Kansas |
 | 2026-10-29 | T-Mobile | [Summer 2027 Assoc AI Engineer Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484) | Overland Park, Kansas |
-| 2026-10-29 | RTX | [Intern: Columbus Engine Center Supply Chain (2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-GA-MIDLAND-MPC--88018987-Macon-Rd--BLDG-MPC/Intern--Columbus-Engine-Center-Supply-Chain--2027-_01874816) | US-GA-MIDLAND-MPC ~ 8801/8987 Macon Rd ~ BLDG MPC |
-| 2026-10-29 | RTX | [Mechanical Systems Design Intern (Summer 2027)(Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Mechanical-Systems-Design-Intern--Summer-2027--Onsite-_01882530) | US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC |
-| 2026-10-29 | RTX | [Stage - Hiver 2027-Stagiaire Technicien en Instrumentation/Internship - Winter 2027-Instrumentation Technician](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027-Stagiaire-Technicien-en-Instrumentation-Internship---Winter-2027-Instrumentation-Technician_01878634) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG |
+| 2026-10-29 | RTX | [Reliability Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Reliability-Engineering-Intern--Summer-2027-_01883858) | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 |
+| 2026-10-29 | RTX | [Industrial Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Industrial-Engineering-Intern--Summer-2027-_01879158) | US-AZ-TUCSON-801 ~ 1151 E Hermans Rd ~ BLDG 801 (External Site) |
 | 2026-10-29 | PwC (2) | [Charlotte - Digital Assurance & Transparency (DAT) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/NC-Charlotte/Charlotte---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_756932WD) | NC-Charlotte |
 | 2026-10-29 | PwC (2) | [Audit - Korean Business Network (KBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Audit---Korean-Business-Network---Intern---Summer-2027_757088WD) | 3 Locations |
 | 2026-10-29 | PwC (2) | [Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD) | 2 Locations |
