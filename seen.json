@@ -4567,7 +4567,9 @@
   "5278854007",
   "5278857007",
   "5278862007",
-  "5278865007"
+  "5278865007",
+  "5278871007",
+  "5278872007"
  ],
  "Anthropic": [
   "4017331008",
@@ -5964,6 +5966,7 @@
   "8303385",
   "8304535",
   "8304591",
+  "8304597",
   "8311197",
   "8311992",
   "8315830",
@@ -7422,6 +7425,7 @@
   "/job/Malaysia-Penang-B-1--2/Supply-Chain-Planner_R027535",
   "/job/Malaysia-Penang-B-1--2/Supply-Chain-Planner_R027536",
   "/job/Malaysia-Penang-B-1--2/Supply-Chain-Planner_R027537",
+  "/job/SGP-Robinson-Road-SO/Solution-Architect---Singapore_R027478",
   "/job/Singapore-Senoko/Senior-Epi---Fab-Process-Engineer_R027200-5",
   "/job/Singapore-Yishun/Foundation-IP-Memory-Verification-Engineer_R027490",
   "/job/Singapore-Yishun/Package-Design-Engineer_R027022",
@@ -10924,6 +10928,7 @@
   "/job/San-Jose-California-US/Hardware-Engineering-Project-Manager_2026474",
   "/job/San-Jose-California-US/Outbound-Product-Manager_2028149",
   "/job/San-Jose-California-US/Principal-Engineering-Project---Program-Management_2018229",
+  "/job/San-Jose-California-US/Principal-Hardware-Engineer_2028596",
   "/job/San-Jose-California-US/Principal-Machine-Learning-Engineer---AISWP--Hybrid-_2027863",
   "/job/San-Jose-California-US/Product-Lifecycle-Program-Manager--hybrid----2020746_2020746",
   "/job/San-Jose-California-US/Product-Manager--SASE-Platform_2023445",
@@ -13443,6 +13448,7 @@
   "8871488002",
   "8872760002",
   "8873053002",
+  "8874579002",
   "8874892002",
   "8876388002",
   "8876599002",
@@ -15227,6 +15233,7 @@
   "/job/Washington---Seattle-Campus/Senior-Manager--Software-Development-Engineering_R-110162",
   "/job/Washington---Seattle-Campus/Senior-Manager-Oracle-Cloud-Close-Consolidation-and-Reconciliation-Platform_R-108711",
   "/job/Washington---Seattle-Campus/Senior-Mobile-Engineer--Flutter--iOS---Android----Layla-AI_R-109189-1",
+  "/job/Washington---Seattle-Campus/Senior-Oracle-Cloud-EPM-Engineer_R-111030",
   "/job/Washington---Seattle-Campus/Senior-Product-Designer---Strategic-Partnerships---Affiliates--SPA-_R-109933-1",
   "/job/Washington---Seattle-Campus/Senior-Product-Manager--Air-Shopping-Platform_R-109044-1",
   "/job/Washington---Seattle-Campus/Senior-Product-Manager--Customer-Data-Platform--Identity---User-Keychain_R-109599",
@@ -15468,7 +15475,8 @@
   "6233207004",
   "6235005004",
   "6235320004",
-  "6237757004"
+  "6237757004",
+  "6238015004"
  ],
  "GE Aerospace": [
   "/job/Arkansas-City/Lead-Services-Specialist-1---Customer-Order-and-Fulfillment_R5041383-1",
@@ -19398,6 +19406,7 @@
   "/job/Gurgaon-Haryana-India/Sr--Mktg-Mgr-Reg-Ctry_R73299-1",
   "/job/Gurgaon-Haryana-India/Sr-Business-Process-Project-Management-Specialist_R79546-1",
   "/job/Hanoi-Hanoi-Vietnam/National-Sales-Manager--Spine-Technology-_R76234-1",
+  "/job/Heerlen-Limburg-Netherlands/Auditor_R80414",
   "/job/Heerlen-Limburg-Netherlands/Sales-Operations-Intern_R76786-1",
   "/job/Heerlen-Limburg-Netherlands/Senior-Auditor_R76698-1",
   "/job/Heerlen-Limburg-Netherlands/Service-Centre-Repair-Technician_R74810",
@@ -21546,6 +21555,7 @@
   "/job/San-Jose-CA/Senior-Electrical-PCIe-Engineer_JR80373-1",
   "/job/San-Jose-CA/Senior-Memory-Design-Engineer_JR112559",
   "/job/San-Jose-CA/Senior-Sales-Development-Representative_JR106810",
+  "/job/San-Jose-CA/Sr-Associate--Corporate-Development_JR116307",
   "/job/San-Jose-CA/Sr-Design-Engineer_JR114207-1",
   "/job/San-Jose-CA/Sr-Director--Corporate-Business-Development_JR115031",
   "/job/San-Jose-CA/Sr-Director--MU-Ventures_JR104064",
@@ -21910,6 +21920,7 @@
   "/job/Mumbai-India/Manager-Finance-Customer-Service---Logistics_R-177106",
   "/job/Mumbai-India/Senior-Counsel--India_R-164985",
   "/job/Orbigo-Spain/Taste-the-Future---Conversion-Engineer-Intern---Orbigo--Spain_R-164737",
+  "/job/Peru-Remote/Intern-Sales---Huancayo_R-180275",
   "/job/Prai-Malaysia/HSE-Intern_R-175315",
   "/job/Prai-Malaysia/IL6S-Intern--Prai-Plant_R-179409-1",
   "/job/Quetta-Pakistan/Territory-Sales-Manager--Quetta_R-176439",
@@ -22972,6 +22983,7 @@
   "/job/Beaverton-Oregon/Lead--Business-Planner_R-94472-1",
   "/job/Beaverton-Oregon/Lead--Digital-Product-Design--Agile-Experience-Studio_R-94955-1",
   "/job/Beaverton-Oregon/Lead--Energy-Whitespace-Materials-Design_R-94722",
+  "/job/Beaverton-Oregon/Lead--Procurement--Marketing---Places--NA_R-96096",
   "/job/Beaverton-Oregon/Lead--Sportswear-Energy-Marketing--Global_R-92657",
   "/job/Beaverton-Oregon/Lead--x-Sport-Styling-Design--Global-Jordan_R-92425",
   "/job/Beaverton-Oregon/Lead-Apparel-Materials---Trim-Developer--Local-Creation_R-92818",
@@ -25616,6 +25628,7 @@
   "8301435",
   "8304455",
   "8310842",
+  "8328338",
   "8328340",
   "8328426",
   "8328428"
@@ -29183,6 +29196,7 @@
   "/job/US-IA-CEDAR-RAPIDS-123--350-Collins-Rd-NE--BLDG-123/Metrology-Engineering-Intern--Summer-2027-_01882625",
   "/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Assoc-Dir---Systems-Engineer---Environmental-Compliance--Onsite---Cedar-Rapids--IA-_01879008",
   "/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Avionics-S-4-Business-Readiness-Deployment-Lead--ONSITE-_01879941",
+  "/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Avionics-S-4-Business-Readiness-Deployment-Lead--REMOTE-_01885706",
   "/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Director--Strategic-Communications--Collins-Aerospace_01882032-1",
   "/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Senior-Engineering-Manager---Core-Services---Libraries--Onsite-_01882178",
   "/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Senior-Manager--Program-Management---Flight-Management-System--FMS---Onsite-_01884204",
@@ -37085,7 +37099,8 @@
   "8922771002",
   "8922796002",
   "8922855002",
-  "8922875002"
+  "8922875002",
+  "8922902002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -38204,7 +38219,9 @@
   "8329718",
   "8329719",
   "8331124",
-  "8331852"
+  "8331852",
+  "8332676",
+  "8332718"
  ],
  "Stryker": [
   "/job/Alcobendas-Spain/HR-Transformation-Intern_R575042",
@@ -38547,6 +38564,7 @@
   "/job/1800-Tiffin-Ave-FindlayOH-45840-6789/Assets-Protection-Team-Leader_R0000475543",
   "/job/1825-E-Primrose-St-SpringfieldMO-65804-6497/Executive-Team-Leader-Assets-Protection--Assistant-Manager-Loss-Prevention----Springfield--MO_R0000478688",
   "/job/200-S-Main-St-Unit-24-West-LebanonNH-03784-2014/Assets-Protection-Team-Leader_R0000476089-1",
+  "/job/200-W-Orangethorpe-Ave-FullertonCA-92832-2900/Store-Executive-Intern--Store-Leadership-Intern----Orange-County--CA--Starting-Summer-2027-_R0000450599",
   "/job/2001-South-Rd-PoughkeepsieNY-12601-5978/Property-Management-Lead_R0000477449",
   "/job/201-Sunrise-Blvd-ExtonPA-19341-2336/Store-Executive-Intern--Store-Leadership-Intern----Southeastern-Pennsylvania---Delaware--Starting-Summer-2027-_R0000446889",
   "/job/2195-Hwy-20-SE-Conyers-GA-30013-2028/Property-Management-Lead_R0000477468-1",
@@ -38639,6 +38657,7 @@
   "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Manager--Retail-Accounting_R0000477001",
   "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Manager--Revenue-Accounting_R0000476004",
   "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Manager-Accounting_R0000476604-1",
+  "/job/747-Grand-Ave-Diamond-Bar-CA-91765-8400/Store-Executive-Intern--Store-Leadership-Intern----Eastern-Los-Angeles-County--CA--Starting-Summer-2027-_R0000450592",
   "/job/749-N-KROCKS-RD-ALLENTOWNPA-18106-9046/Assets-Protection-Team-Leader_R0000477744",
   "/job/7551-W-Morris-St-IndianapolisIN-46231-1358/Sr-HR-Specialist-GSCL_R0000478704-1",
   "/job/7551-W-Morris-St-IndianapolisIN-46231-1358/Sr-Target-Security-Specialist_R0000478887-1",
@@ -43190,6 +43209,7 @@
    "/job/1341-BOYLSTON-ST-BostonMA-02215-3936/Store-Executive-Intern--Store-Leadership-Intern----Boston--MA--Starting-Summer-2027-_R0000446890": "2026-10-28",
    "/job/1440-Central-Ave-ColonieNY-12205-5118/Store-Executive-Intern--Store-Leadership-Intern----Albany--NY--Starting-Summer-2027-_R0000446903": "2026-10-28",
    "/job/153-Sierra-Dr-AltoonaPA-16601-9341/Store-Executive-Intern--Store-Leadership-Intern----Greater-Pittsburgh---Central-Pennsylvania--Starting-Summer-2027-_R0000446886": "2026-10-28",
+   "/job/200-W-Orangethorpe-Ave-FullertonCA-92832-2900/Store-Executive-Intern--Store-Leadership-Intern----Orange-County--CA--Starting-Summer-2027-_R0000450599": "2026-10-29",
    "/job/201-Sunrise-Blvd-ExtonPA-19341-2336/Store-Executive-Intern--Store-Leadership-Intern----Southeastern-Pennsylvania---Delaware--Starting-Summer-2027-_R0000446889": "2026-10-28",
    "/job/2255-S-El-Camino-Real-OceansideCA-92054-6318/Store-Executive-Intern--Store-Leadership-Intern----San-Diego-North-County--CA--Starting-Summer-2027-_R0000450297": "2026-10-28",
    "/job/2270-N-Bellflower-Blvd-Long-BeachCA-90815-2017/Store-Executive-Intern--Store-Leadership-Intern----Long-Beach--CA--Starting-Summer-2027-_R0000450291": "2026-10-23",
@@ -43205,6 +43225,7 @@
    "/job/6275-University-Dr-NW-HuntsvilleAL-35806-1776/Store-Executive-Intern--Store-Leadership-Intern----North---Central-Alabama--Starting-Summer-2027-_R0000446940-1": "2026-10-28",
    "/job/6885-Siegen-Ln-Baton-RougeLA-70809-4528/Store-Executive-Intern--Store-Leadership-Intern----Louisiana---Ark-La-Tex--Starting-Summer-2027-_R0000446941": "2026-10-28",
    "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082": "2026-10-22",
+   "/job/747-Grand-Ave-Diamond-Bar-CA-91765-8400/Store-Executive-Intern--Store-Leadership-Intern----Eastern-Los-Angeles-County--CA--Starting-Summer-2027-_R0000450592": "2026-10-29",
    "/job/777-E-Colorado-Blvd-PasadenaCA-91101-2104/Store-Executive-Intern--Store-Leadership-Intern----Greater-Pasadena--CA--Starting-Summer-2027-_R0000449492": "2026-10-19",
    "/job/80-Damante-Dr-ConcordNH-03301-5759/Store-Executive-Intern--Store-Leadership-Intern----Northern-New-England--Starting-Summer-2027-_R0000446897-1": "2026-10-28"
   },
@@ -43832,6 +43853,7 @@
    "/job/1341-BOYLSTON-ST-BostonMA-02215-3936/Store-Executive-Intern--Store-Leadership-Intern----Boston--MA--Starting-Summer-2027-_R0000446890": false,
    "/job/1440-Central-Ave-ColonieNY-12205-5118/Store-Executive-Intern--Store-Leadership-Intern----Albany--NY--Starting-Summer-2027-_R0000446903": false,
    "/job/153-Sierra-Dr-AltoonaPA-16601-9341/Store-Executive-Intern--Store-Leadership-Intern----Greater-Pittsburgh---Central-Pennsylvania--Starting-Summer-2027-_R0000446886": false,
+   "/job/200-W-Orangethorpe-Ave-FullertonCA-92832-2900/Store-Executive-Intern--Store-Leadership-Intern----Orange-County--CA--Starting-Summer-2027-_R0000450599": false,
    "/job/201-Sunrise-Blvd-ExtonPA-19341-2336/Store-Executive-Intern--Store-Leadership-Intern----Southeastern-Pennsylvania---Delaware--Starting-Summer-2027-_R0000446889": false,
    "/job/2255-S-El-Camino-Real-OceansideCA-92054-6318/Store-Executive-Intern--Store-Leadership-Intern----San-Diego-North-County--CA--Starting-Summer-2027-_R0000450297": false,
    "/job/2270-N-Bellflower-Blvd-Long-BeachCA-90815-2017/Store-Executive-Intern--Store-Leadership-Intern----Long-Beach--CA--Starting-Summer-2027-_R0000450291": false,
@@ -43844,6 +43866,7 @@
    "/job/6275-University-Dr-NW-HuntsvilleAL-35806-1776/Store-Executive-Intern--Store-Leadership-Intern----North---Central-Alabama--Starting-Summer-2027-_R0000446940-1": false,
    "/job/6885-Siegen-Ln-Baton-RougeLA-70809-4528/Store-Executive-Intern--Store-Leadership-Intern----Louisiana---Ark-La-Tex--Starting-Summer-2027-_R0000446941": false,
    "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082": false,
+   "/job/747-Grand-Ave-Diamond-Bar-CA-91765-8400/Store-Executive-Intern--Store-Leadership-Intern----Eastern-Los-Angeles-County--CA--Starting-Summer-2027-_R0000450592": false,
    "/job/80-Damante-Dr-ConcordNH-03301-5759/Store-Executive-Intern--Store-Leadership-Intern----Northern-New-England--Starting-Summer-2027-_R0000446897-1": false
   },
   "Vanguard": {
@@ -45556,6 +45579,7 @@
    "/job/1341-BOYLSTON-ST-BostonMA-02215-3936/Store-Executive-Intern--Store-Leadership-Intern----Boston--MA--Starting-Summer-2027-_R0000446890": false,
    "/job/1440-Central-Ave-ColonieNY-12205-5118/Store-Executive-Intern--Store-Leadership-Intern----Albany--NY--Starting-Summer-2027-_R0000446903": false,
    "/job/153-Sierra-Dr-AltoonaPA-16601-9341/Store-Executive-Intern--Store-Leadership-Intern----Greater-Pittsburgh---Central-Pennsylvania--Starting-Summer-2027-_R0000446886": false,
+   "/job/200-W-Orangethorpe-Ave-FullertonCA-92832-2900/Store-Executive-Intern--Store-Leadership-Intern----Orange-County--CA--Starting-Summer-2027-_R0000450599": false,
    "/job/201-Sunrise-Blvd-ExtonPA-19341-2336/Store-Executive-Intern--Store-Leadership-Intern----Southeastern-Pennsylvania---Delaware--Starting-Summer-2027-_R0000446889": false,
    "/job/2255-S-El-Camino-Real-OceansideCA-92054-6318/Store-Executive-Intern--Store-Leadership-Intern----San-Diego-North-County--CA--Starting-Summer-2027-_R0000450297": false,
    "/job/2270-N-Bellflower-Blvd-Long-BeachCA-90815-2017/Store-Executive-Intern--Store-Leadership-Intern----Long-Beach--CA--Starting-Summer-2027-_R0000450291": false,
@@ -45571,6 +45595,7 @@
    "/job/6275-University-Dr-NW-HuntsvilleAL-35806-1776/Store-Executive-Intern--Store-Leadership-Intern----North---Central-Alabama--Starting-Summer-2027-_R0000446940-1": false,
    "/job/6885-Siegen-Ln-Baton-RougeLA-70809-4528/Store-Executive-Intern--Store-Leadership-Intern----Louisiana---Ark-La-Tex--Starting-Summer-2027-_R0000446941": false,
    "/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082": false,
+   "/job/747-Grand-Ave-Diamond-Bar-CA-91765-8400/Store-Executive-Intern--Store-Leadership-Intern----Eastern-Los-Angeles-County--CA--Starting-Summer-2027-_R0000450592": false,
    "/job/777-E-Colorado-Blvd-PasadenaCA-91101-2104/Store-Executive-Intern--Store-Leadership-Intern----Greater-Pasadena--CA--Starting-Summer-2027-_R0000449492": false,
    "/job/80-Damante-Dr-ConcordNH-03301-5759/Store-Executive-Intern--Store-Leadership-Intern----Northern-New-England--Starting-Summer-2027-_R0000446897-1": false
   },
