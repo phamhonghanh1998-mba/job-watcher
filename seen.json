@@ -962,6 +962,7 @@
   "8306218",
   "8306554",
   "8306555",
+  "8307226",
   "8311558",
   "8312713",
   "8316130",
@@ -8544,6 +8545,7 @@
   "/job/MD---Bethesda/Pharmacy-Intern_R1061479",
   "/job/MD---Rockville/Pharmacy-Intern_R1086189",
   "/job/MD---Severn/Pharmacy-Intern_R1085960",
+  "/job/MD---Work-from-home/Sr-Manager--Health-Outcomes-Accreditation_R1075850-1",
   "/job/ME---Augusta/Pharmacy-Intern---Grad_R0985205-1",
   "/job/ME---Kennebunk/Pharmacy-Intern_R1086195",
   "/job/MI---Burton/Health-Insurance-Specialist_R1080198",
@@ -28241,6 +28243,7 @@
   "/job/eMalahleni/Audit-Consultant_768695WD-1"
  ],
  "PwC (2)": [
+  "/job/AL-Birmingham/Birmingham---Audit---Intern---Winter-2028_757399WD",
   "/job/AZ-Phoenix/Phoenix---Audit---Associate---Summer-Fall-2027_52926217EIB-1",
   "/job/CA-Irvine/Irvine---Digital-Assurance---Transparency--DAT----Associate---Summer-Fall-2027_52926193EIB",
   "/job/CA-Los-Angeles/Los-Angeles---Tax---Associate---Winter-2027_5292610EIB",
@@ -33827,7 +33830,8 @@
   "744000158578039",
   "744000158582579",
   "744000158584929",
-  "744000158587469"
+  "744000158587469",
+  "744000158617889"
  ],
  "Smartsheet": [
   "3426405",
@@ -39020,6 +39024,7 @@
   "8314283",
   "8314318",
   "8315962",
+  "8316059",
   "8318509",
   "8318707",
   "8319459",
@@ -39035,6 +39040,7 @@
   "8329743",
   "8330791",
   "8330795",
+  "8330813",
   "8331124",
   "8331852",
   "8332676",
@@ -43724,6 +43730,7 @@
    "/job/Vilnius/Paid-Internship-in-Deals-team_766460WD": "2026-10-06"
   },
   "PwC (2)": {
+   "/job/AL-Birmingham/Birmingham---Audit---Intern---Winter-2028_757399WD": "2026-10-29",
    "/job/CA-San-Francisco/San-Francisco---Tax---Intern---Summer-2028_757723WD": "2026-10-03",
    "/job/CA-Silicon-Valley/Silicon-Valley---Tax---Intern---Summer-2028_757721WD": "2026-10-03",
    "/job/DC-Washington/Washington-DC---Digital-Assurance---Transparency--DAT----Intern---Summer-2028_757381WD": "2026-10-13",
@@ -44614,6 +44621,7 @@
    "/job/Cairo---ETIC/ETIC--Cybersecurity-Internship---Working-Student_770258WD": false
   },
   "PwC (2)": {
+   "/job/AL-Birmingham/Birmingham---Audit---Intern---Winter-2028_757399WD": false,
    "/job/DC-Washington/Washington-DC---Digital-Assurance---Transparency--DAT----Intern---Summer-2028_757381WD": false,
    "/job/IL-Rosemont/Audit---Japanese-Business-Network---Intern---Summer-2027_757086WD": false,
    "/job/IL-Rosemont/Audit---Japanese-Business-Network---Intern---Summer-2028_757478WD": false,
@@ -46174,6 +46182,7 @@
    "/job/Vilnius/Paid-Internship-in-Deals-team_766460WD": false
   },
   "PwC (2)": {
+   "/job/AL-Birmingham/Birmingham---Audit---Intern---Winter-2028_757399WD": false,
    "/job/CA-San-Francisco/San-Francisco---Tax---Intern---Summer-2028_757723WD": false,
    "/job/CA-Silicon-Valley/Silicon-Valley---Tax---Intern---Summer-2028_757721WD": false,
    "/job/DC-Washington/Washington-DC---Digital-Assurance---Transparency--DAT----Intern---Summer-2028_757381WD": false,
