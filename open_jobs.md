@@ -1,6 +1,6 @@
 # Open matching jobs (376)
 
-Updated 2026-10-30 07:26 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-30 08:28 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -120,7 +120,7 @@ Title or job description mentions an MBA.
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 
-## Master's in accounting / finance (46)
+## Master's in accounting / finance (45)
 
 Description says master's/graduate students in accounting, finance, economics or business can apply. Check whether an MBA qualifies (some require an MAcc for CPA hours).
 
@@ -128,7 +128,6 @@ Description says master's/graduate students in accounting, finance, economics or
 |---|---|---|---|
 | 2026-10-30 | Genentech | [Supply Chain Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Vilnius/Supply-Chain-Intern_202607-119461-1) | Vilnius |
 | 2026-10-29 | T-Mobile | [Summer 2027 Assoc Product Manager Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Assoc-Product-Manager-Internship_REQ380746) | Overland Park, Kansas |
-| 2026-10-29 | Genentech | [Internship - AI Metadata Augmentation](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Kaiseraugst/Internship---AI-Metadata-Augmentation_202609-123518) | Kaiseraugst |
 | 2026-10-29 | Cloudflare | [Product Manager Intern (2027) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8274790?gh_jid=8274790) | In-Office |
 | 2026-10-29 | Amazon | [Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast](https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast) | Austin, Texas, USA |
 | 2026-10-28 | T-Mobile | [Summer 2027 Associate Technical Product Manager Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499) | Frisco, Texas |
@@ -173,7 +172,7 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-02 | Roblox | [[Summer 2027] Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA, United States |
 | 2023-08-17 | Databricks | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, California; San Francisco, California |
 
-## Other internships (221)
+## Other internships (222)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
@@ -182,7 +181,6 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-29 | T-Mobile | [Summer 2027 Production Manager Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Production-Manager-Internship_REQ380711) | Overland Park, Kansas |
 | 2026-10-29 | T-Mobile | [Summer 2027 Production Manager Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Production-Manager-Internship_REQ380717) | Overland Park, Kansas |
 | 2026-10-29 | T-Mobile | [Summer 2027 Assoc AI Engineer Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484) | Overland Park, Kansas |
-| 2026-10-29 | RTX | [Reliability Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Reliability-Engineering-Intern--Summer-2027-_01883858) | US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 |
 | 2026-10-29 | PwC (2) | [Birmingham - Audit - Intern - Winter 2028 - Destination CPA](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/AL-Birmingham/Birmingham---Audit---Intern---Winter-2028_757399WD) | AL-Birmingham |
 | 2026-10-29 | PwC (2) | [Charlotte - Digital Assurance & Transparency (DAT) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/NC-Charlotte/Charlotte---Digital-Assurance---Transparency--DAT----Intern---Summer-2027_756932WD) | NC-Charlotte |
 | 2026-10-29 | PwC (2) | [Audit - Korean Business Network (KBN) - Intern - Summer 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Audit---Korean-Business-Network---Intern---Summer-2027_757088WD) | 3 Locations |
@@ -214,6 +212,7 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-27 | Booz Allen Hamilton | [Systems Administrator - Summer Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator---Summer-Intern_R0252406) | Annapolis Junction, MD |
 | 2026-10-27 | Amazon | [Network Development Engineer Intern, 2027 Summer](https://www.amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer) | Seattle, Washington, USA |
 | 2026-10-27 | Amazon | [Database Engineer Intern - Summer 2027](https://www.amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027) | Seattle, Washington, USA |
+| 2026-10-27 | Accenture | [Intern Human Resources Partner (HRP) – Mérida](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Merida/Intern-Human-Resources-Partner--HRP----Mrida_14835658) |  |
 | 2026-10-26 | ServiceNow | [Experience Team – Associate Technical Writing Internships – Summer 2027](https://jobs.smartrecruiters.com/ServiceNow/744000157921759) | San Diego, CALIFORNIA, us |
 | 2026-10-26 | ServiceNow | [Experience Team – UX Research Internships – Summer 2027](https://jobs.smartrecruiters.com/ServiceNow/744000157919529) | San Diego, CALIFORNIA, us |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057) | Atlanta, Georgia, United States |
@@ -270,6 +269,7 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-09 | Affirm | [IT Engineer Intern (Early Careers Summer 2027)](https://job-boards.greenhouse.io/affirm/jobs/8011375003) | San Francisco, California, United States |
 | 2026-10-09 | Abbott | [2027 IT Intern](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---Illinois---Waukegan/XMLNAME-2027-IT-Intern_31159432) | United States - Illinois - Waukegan |
 | 2026-10-08 | Pinterest | [Solutions Engineer Intern 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8214788) | San Francisco, CA, US; Remote, US |
+| 2026-10-07 | Boeing | [Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO)](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1) | 30 Locations |
 | 2026-10-06 | Huron | [IT Contact Support Intern, Chicago, IL - Onsite Opportunity](https://huron.wd1.myworkdayjobs.com/en-US/HuronCareers/job/Chicago---550-Van-Buren/IT-Contact-Support-Intern--Chicago--IL---Onsite-Opportunity_JR-0016772) | Chicago - 550 Van Buren |
 | 2026-10-05 | Duolingo | [Illustrator, Intern](https://careers.duolingo.com/jobs/8863967002?gh_jid=8863967002) | Detroit, MI |
 | 2026-10-05 | Anduril | [2027 Quality & Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007) | Ashville, Ohio, United States; Costa Mesa, California, United States; Irvine, California, United States; Quonset, Rhode Island, United States; Santa Ana, California, United States |
