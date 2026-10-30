@@ -1268,6 +1268,7 @@
   "4657745007",
   "4660907007",
   "4668104007",
+  "4671452007",
   "4672848007",
   "4672868007",
   "4672888007",
@@ -4584,6 +4585,7 @@
   "5278219007",
   "5278364007",
   "5278381007",
+  "5278403007",
   "5278409007",
   "5278428007",
   "5278472007",
@@ -4613,7 +4615,9 @@
   "5279734007",
   "5279793007",
   "5279843007",
-  "5279850007"
+  "5279850007",
+  "5279906007",
+  "5279930007"
  ],
  "Anthropic": [
   "4017331008",
@@ -5480,6 +5484,8 @@
   "5466480008",
   "5466517008",
   "5467083008",
+  "5467092008",
+  "5467099008",
   "5467425008"
  ],
  "Applied Materials": [
@@ -9608,6 +9614,7 @@
   "/job/Work-At-Home-Arizona/Case-Management---Registered-Nurse---Telehealth---MT-or-PST-_R0980739",
   "/job/Work-At-Home-Arizona/Lead-Director--Software-Product-Management_R1054125",
   "/job/Work-At-Home-Arizona/Reporting-Analyst_R1051672-1",
+  "/job/Work-At-Home-California/Manager--Project-Management--IC-_R1080306-1",
   "/job/Work-At-Home-Colorado/Utilization-Management-Nurse-Consultant_R1065840-1",
   "/job/Work-At-Home-Connecticut/Account-Manager---Analyst_R0978075",
   "/job/Work-At-Home-Connecticut/Lead-Director--Actuarial---Medicare-Part-D_R1055444",
@@ -19664,6 +19671,7 @@
   "/job/Santiago-Chile/Auditor_R-281280",
   "/job/Santiago-Chile/Director--Services-Business-Development--Public-Sector_R-292475",
   "/job/Santiago-Chile/Executive-Assistant_R-293156",
+  "/job/Santiago-Chile/Internship-Program--Sales--2027---Santiago--Chile_R-282264",
   "/job/Santiago-Chile/Media-Subject-Matter-Expert--Senior-Managing-Consultant--Advisors---Consulting-Services--Marketing-Services_R-294086",
   "/job/Santo-Domingo-Dominican-Republic/Principal--Vice-President---Services-Business-Development_R-294265",
   "/job/Sao-Paulo-Brazil/Authorization--Authentication-and-Fraud-Specialist-Subject-Matter--SME--Principal--Strategy---Transformation---Advisors_R-292876",
@@ -23483,6 +23491,7 @@
   "/job/Beaverton-Oregon/Lead-Product-Line-Manager--Jordan-Energy-Apparel_R-94738",
   "/job/Beaverton-Oregon/Lead-Product-Line-Manager--NikeSKIMS_R-87230",
   "/job/Beaverton-Oregon/Lead-Professional--Sports-Marketing--Global-Cross-Sport-Athlete-Development_R-89302",
+  "/job/Beaverton-Oregon/Lead-Technical-Designer--Global-Apparel--Multiple-Openings-_R-96630",
   "/job/Beaverton-Oregon/Lead-Technical-Designer--Local-Creation-Apparel--multiple-openings-_R-94269",
   "/job/Beaverton-Oregon/Lead-Technical-Developer--Global-Accessories_R-94332",
   "/job/Beaverton-Oregon/Manager--Procurement--Sourcing_R-92822",
@@ -24863,6 +24872,7 @@
   "4aa1dcbf-166a-4538-ae4e-08cf39c7ff23",
   "4acc3515-887f-4bc9-8c2a-00f36ae480c3",
   "4b7246e7-0eaf-4e35-865b-1ef693527ff4",
+  "4bcc25ef-cf03-47db-896c-0fd9122afab1",
   "4c078f82-93b9-427c-8fd8-95de198884b4",
   "4c0a6cb6-d365-4e5b-bdff-c093d951026d",
   "4c72816b-d04f-4fee-b8eb-fa18fddac043",
@@ -29066,6 +29076,7 @@
   "/job/US-AZ-TUCSON-833--1151-E-Hermans-Rd--BLDG-833-External-Site/Material-Handler--CDL---A-W--Haz-certification---4th-Shift-_01886097",
   "/job/US-AZ-TUCSON-833--1151-E-Hermans-Rd--BLDG-833-External-Site/Material-Handler--CDL-Driver-with-HAZ-cert-_01875060",
   "/job/US-AZ-TUCSON-833--1151-E-Hermans-Rd--BLDG-833-External-Site/Material-Handler--CDL-with-HAZ-_01886099",
+  "/job/US-AZ-TUCSON-833--1151-E-Hermans-Rd--BLDG-833-External-Site/Material-Specialist_01886235",
   "/job/US-AZ-TUCSON-833--1151-E-Hermans-Rd--BLDG-833-External-Site/Senior-Logistics-Analyst---Compliance-and-Material-Flow---Tucson--AZ_01882033",
   "/job/US-AZ-TUCSON-840--1151-E-Hermans-Rd--BLDG-840/Software-Quality-Engineer_01883970",
   "/job/US-AZ-TUCSON-842--1151-E-Hermans-Rd--BLDG-842/Principal-Analyst--Security---CSS0----Tucson--AZ_01879160-1",
@@ -29256,6 +29267,7 @@
   "/job/US-CA-EL-SEGUNDO-E03--2004-E-El-Segundo-Blvd--BLDG-E03/Principal-Specialist--Supply-Chain-Management--Remote-_01879381",
   "/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Deputy-Chief-Engineer-Project-Lead_01875940",
   "/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Electrical-Engineering-Intern--Summer-2027-_01883021",
+  "/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/KC-Tanker-Programs-Production---Sustainment-Manager--Mission-Aligned-GPS-Systems--HYBRID-_01885817",
   "/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/M-Code-ASIC-Sustainment-Program-Manager--Mission-Aligned-GPS-Systems--Hybrid-_01878046-1",
   "/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Principal-Linux-Administrator_01884565",
   "/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Principal-Systems-Engineer---Chief-Engineer--Onsite-_01857432",
@@ -30307,6 +30319,7 @@
   "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Product-Quality-Engineering-Intern--Summer-2027-_01871830",
   "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Quality-Inspection-II---1st-Shift_01883599",
   "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Quality-Inspection-Technician-II---2nd-Shift_01879646-1",
+  "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Quality-Management-System-Co-Op--Spring-Summer-2027-_01879983",
   "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Senior-Manufacturing-Supervisor--On-site-_01882905",
   "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Senior-Principal-Project-Chief-Engineer---AISD-Non-Safety-Routers--ONSITE-_01879700",
   "/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--Summer-2027-_01872977",
@@ -30604,6 +30617,7 @@
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Quality-Engineering-Intern--Summer-2027-_01879147",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/RF---Microwave-Electrical-Engineer-I---Onsite_01879483",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/RF---Microwave-Electrical-Engineer-II--Onsite_01879303",
+  "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/RF-Test-Systems-Engineer-II---Onsite-McKinney--TX_01881841",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Senior-Information-System-Security-Officer--ISSO----McKinney--TX_01867803",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Senior-Information-Systems-Security-Officer--ISSO--II---McKinney--TX_01883597",
   "/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Senior-Mechanical-Engineer_01877954",
@@ -32246,6 +32260,7 @@
   "/job/Illinois---Chicago/Commercial-Account-Executive---Financial-Services_JR292762",
   "/job/Illinois---Chicago/Commercial-Account-Executive---Healthcare---Life-Sciences_JR293223",
   "/job/Illinois---Chicago/Commercial-Account-Executive---Manufacturing---Retail---Consumer-Goods_JR318479",
+  "/job/Illinois---Chicago/Commercial-Account-Executive---Retail--Consumer-Goods-and-Manufacturing_JR366395",
   "/job/Illinois---Chicago/Commercial-Enterprise-Account-Executive--Tableau---Tech---Media-Consumer-Business-Services_JR329820",
   "/job/Illinois---Chicago/Commercial-Enterprise-Account-Executive--Tableau-Analytics-AE---Retail--Consumer-Goods--and-Manufacturing_JR354555-1",
   "/job/Illinois---Chicago/Customer-Success-Manager---Global-Public-Sector--State---Local-Gov-_JR332446",
@@ -32258,6 +32273,7 @@
   "/job/Illinois---Chicago/Enterprise-Account-Executive---Health-and-Life-Sciences_JR293189",
   "/job/Illinois---Chicago/Enterprise-Account-Executive---Manufacturing---Retail---Consumer-Goods_JR318476",
   "/job/Illinois---Chicago/Enterprise-Account-Executive---Tech---Media_JR332958-1",
+  "/job/Illinois---Chicago/Enterprise-Digital-Cloud-Account-Executive---Retail--Consumer-Goods-and-Manufacturing_JR366396",
   "/job/Illinois---Chicago/Executive-Assistant---AI-Labs_JR362426",
   "/job/Illinois---Chicago/Financial-Services-Program-Executive-VP_JR354750",
   "/job/Illinois---Chicago/Keynote-Production-Associate-Manager_JR363084",
@@ -32531,6 +32547,7 @@
   "/job/Mexico---Mexico-City/Customer-Success-Manager---Commerce-Cloud_JR365519-1",
   "/job/Mexico---Mexico-City/Customer-Success-Manager---Marketing-Cloud_JR276805",
   "/job/Mexico---Mexico-City/Data-Engineer-Senior_JR363793",
+  "/job/Mexico---Mexico-City/Deal-Editor_JR360141",
   "/job/Mexico---Mexico-City/Employee-Success-Operations-Associate-Analyst_JR366344",
   "/job/Mexico---Mexico-City/JR243285-Customer-Success-Manager---Core-Data-Cloud_JR243894",
   "/job/Mexico---Mexico-City/LATAM-Internship-Program---Alliances---Channels--Mexico-_JR360862-1",
@@ -32705,6 +32722,7 @@
   "/job/Texas---Austin/VP--Global-Compensation_JR360300",
   "/job/Texas---Dallas/Director--Talent-Attraction_JR362987",
   "/job/Texas---Dallas/Systems-Engineer_JR363166",
+  "/job/Texas---Dallas/Systems-Engineering-Sr-Associate_JR366397",
   "/job/Texas---Dallas/Technology-Auditor--Internal-Audit_JR362345",
   "/job/Texas---Remote/Prime-Named-Account-Executive--Non-Profit--Mulesoft_JR363035",
   "/job/Texas---Remote/Senior-Technical-Architect--Life-Sciences_JR352828",
@@ -33831,7 +33849,8 @@
   "744000158582579",
   "744000158584929",
   "744000158587469",
-  "744000158617889"
+  "744000158617889",
+  "744000158618749"
  ],
  "Smartsheet": [
   "3426405",
@@ -37908,7 +37927,9 @@
   "8924330002",
   "8924353002",
   "8924393002",
-  "8924408002"
+  "8924408002",
+  "8924737002",
+  "8924741002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -41552,7 +41573,8 @@
   "8315141",
   "8315881",
   "8319171",
-  "8319342"
+  "8319342",
+  "8334474"
  ],
  "Workday": [
   "/job/Canada-QC-Montreal/Sales-Development-Representative--Reprsentant-ou-reprsentante-du-dveloppement-des-ventes-_JR-0110950",
