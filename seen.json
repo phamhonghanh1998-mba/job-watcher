@@ -4617,7 +4617,10 @@
   "5279843007",
   "5279850007",
   "5279906007",
-  "5279930007"
+  "5279930007",
+  "5279976007",
+  "5279977007",
+  "5279980007"
  ],
  "Anthropic": [
   "4017331008",
@@ -6722,7 +6725,8 @@
   "5465180008",
   "5465286008",
   "5466269008",
-  "5466280008"
+  "5466280008",
+  "5467707008"
  ],
  "Blue Origin": [
   "/job/Arlington-WA/Manufacturing-Engineer-III----Castings-Engines_R71538",
@@ -7988,6 +7992,7 @@
   "/job/CT---Hartford/Senior-IT-Category-Manager_R1034593",
   "/job/CT---Hartford/Senior-Manager--Compliance-New-England-Commercial-Market_R1056013-1",
   "/job/CT---Hartford/Senior-Manager--Corp-Audit_R1075718",
+  "/job/CT---Hartford/Senior-Manager--Credentialing-Operations_R1084099",
   "/job/CT---Hartford/Senior-Manager--Project-Management---Provider-Adoption---Onboarding_R1053155-1",
   "/job/CT---Hartford/Senior-Manager--Software-Development-Engineering_R1069137",
   "/job/CT---Hartford/Senior-Manager--Underwriting-Unit-Lead_R1056290",
@@ -8506,6 +8511,7 @@
   "/job/LA---Work-from-home/Utilization-Management-Clinical-Consultant--Tuesday---Saturday-_R1045766",
   "/job/LA---Work-from-home/Utilization-Management-Clinical-Consultant_R1016247",
   "/job/LA---Youngsville/Pharmacy-Intern_R1065369",
+  "/job/MA---Allston/Pharmacy-Intern_R1091007",
   "/job/MA---Boston/Account-Manager---Supplemental-Benefits-2_R1061577",
   "/job/MA---Boston/Assistant-Vice-President--CFO---Health-100_R1069361",
   "/job/MA---Boston/Digital-Implementation-Manager_R1011174-1",
@@ -11820,6 +11826,7 @@
   "8328914",
   "8329671",
   "8329741",
+  "8329758",
   "8331153",
   "8332008",
   "8332012",
@@ -12232,7 +12239,8 @@
   "8334152",
   "8334157",
   "8334234",
-  "8335547"
+  "8335547",
+  "8335796"
  ],
  "CrowdStrike": [
   "/job/Australia---Melbourne/Falcon-Complete-Graduate-Program_R14438",
@@ -12539,6 +12547,7 @@
   "/job/Fargo-North-Dakota-United-States/Technical-Project-Manager-II--Client-facing-RNA--DNA-Mfg--Method-Development--Validation-_R1316239-1",
   "/job/Fargo-North-Dakota-United-States/Vice-President--mRNA-CDMO_R1319512",
   "/job/Fort-Worth-Texas-United-States/Senior-Field-Service-Engineer---Dallas--TX_R1320333",
+  "/job/GBR---Remote/Territory-Manager---South-UK_R1320981-1",
   "/job/Grens-Switzerland/IT-Analyst_R1319471",
   "/job/Grens-Switzerland/Manager--Cell-Therapy-Biology--f-m-d-_R1320539",
   "/job/Hanover-Lower-Saxony-Germany/Clinical-Specialist---6-month-FTC--d-f-m-_R1320150-1",
@@ -18605,6 +18614,7 @@
   "/job/Peru--Lima--Santa-Clara/Practicante-Tcnico-de-Mantenimiento-Mecnico_887836",
   "/job/Peru--Lima/Job-Posting-Practicante-Pre-profesional-de-Gestin-Comercial_887664",
   "/job/Peru--Lima/Practicante-Pre-Profesional-de-Finanzas_887658",
+  "/job/Petaling-Jaya-Selangor-Malaysia/Record-to-Report-Subject-Matter-Expert_887036-1",
   "/job/Poland-Krakow/Treasury-Analyst_887991-2",
   "/job/Pune-India/Accounting-Analyst-IV-Coordinator_885883",
   "/job/Pune-India/Executive-Production_885257-2",
@@ -21237,6 +21247,7 @@
   "/job/Boise-ID---Main-Site/Sr-Process-Manager-II_JR108056",
   "/job/Boise-ID---Main-Site/Sr-RAM-RDA-Applications-Engineer_JR114332",
   "/job/Boise-ID---Main-Site/Sr-Strategy-Engineer_JR111231",
+  "/job/Boise-ID---Main-Site/Sr-Technical-Lead--External-Research-Programs---Micron-Research-Labs--Evergreen-_JR116604",
   "/job/Boise-ID---Main-Site/Sr-Vapor-Etch-Process-Engineer--Wet-Process-_JR107046",
   "/job/Boise-ID---Main-Site/Staff---Principal-Full-Stack-AI-Engineer--Industrial-AI-_JR111453",
   "/job/Boise-ID---Main-Site/Staff--Social-Impact---Community-Engagement---Idaho---Mexico_JR102587",
@@ -23102,6 +23113,7 @@
   "/job/Glasgow-United-Kingdom/EMEA-Payroll-Administrator_PT-JR044871-1",
   "/job/Glasgow-United-Kingdom/Finance-Central-Management-Projects-BA-Director-AVP-Equivalent_PT-JR045601-1",
   "/job/Glasgow-United-Kingdom/Finance-Data-Sourcing-AVP-Director_PT-JR037590",
+  "/job/Glasgow-United-Kingdom/Finance-Outsourcing-Governance---Control--FOGC-_PT-JR045341",
   "/job/Glasgow-United-Kingdom/Financial-Reporting--Associate--Fund-Services--Glasgow-_JR045057-1",
   "/job/Glasgow-United-Kingdom/Full-Stack-Data-Engineer_PT-JR043466",
   "/job/Glasgow-United-Kingdom/Fund-Accountant---Associate--Fund-Services--Glasgow-_JR043425-1",
@@ -26799,6 +26811,7 @@
   "8304896",
   "8310949",
   "8311529",
+  "8324804",
   "8331501"
  ],
  "Plaid": [
@@ -29965,6 +29978,7 @@
   "/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Mechanical-Engineering-Co-op--Summer-Fall-2027-_01872585",
   "/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Mechanical-Engineering-Co-op--Winter-Spring-2027-_01872583",
   "/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Operational-Excellence-Manager--Hybrid-_01883281",
+  "/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Senior-Project-Engineer---EMI-EMC--Onsite-_01883015",
   "/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Senior-Project-Engineer_01880708",
   "/job/US-IL-ROCKFORD-P6--4747-Harrison-Ave--4747-HARRISON-AVE-P6/Software-Engineer---Test-Equipment--Onsite-_01882709",
   "/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/AFATDS-Senior-Systems-Engineer--Contingent--Onsite_01860611",
@@ -30000,6 +30014,8 @@
   "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Systems-Engineer-I---Onsite_01883286",
   "/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Systems-Engineering-Intern-2027---Onsite_01878041",
   "/job/US-IN-REMOTE/Principal-Specialist--Contracts--Remote-_01878604",
+  "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-I--1st-Shift-_01877489",
+  "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-I--1st-Shift-_01877546",
   "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-I--2nd-Shift-_01878750",
   "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-IV---Team-Lead--2nd-Shift-_01861388",
   "/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-IV---Team-Lead_01852421-1",
@@ -37929,7 +37945,9 @@
   "8924393002",
   "8924408002",
   "8924737002",
-  "8924741002"
+  "8924741002",
+  "8924743002",
+  "8924773002"
  ],
  "Spotify": [
   "03437e2a-2d5e-4593-9e97-11271014932e",
@@ -41574,7 +41592,8 @@
   "8315881",
   "8319171",
   "8319342",
-  "8334474"
+  "8334474",
+  "8335511"
  ],
  "Workday": [
   "/job/Canada-QC-Montreal/Sales-Development-Representative--Reprsentant-ou-reprsentante-du-dveloppement-des-ventes-_JR-0110950",
@@ -42316,6 +42335,7 @@
   "5275347007",
   "5275945007",
   "5276812007",
+  "5276814007",
   "5277105007",
   "5277846007",
   "5277916007",
