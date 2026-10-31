@@ -1,6 +1,6 @@
-# Open matching jobs (383)
+# Open matching jobs (385)
 
-Updated 2026-10-31 15:25 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-10-31 19:31 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -174,12 +174,14 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-08 | Coinbase | [Sales Intern](https://www.coinbase.com/careers/positions/8187551?gh_jid=8187551) | Hybrid - New York, NY |
 | 2023-08-17 | Databricks | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, California; San Francisco, California |
 
-## Other internships (227)
+## Other internships (229)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
+| 2026-10-31 | Palantir | [Finance Operator Intern](https://jobs.lever.co/palantir/bd7766c4-6aea-4b37-8d47-a8864bb9bd69) | New York, NY |
+| 2026-10-31 | Micron | [Intern - Process Integration – Advanced Packaging](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Integration---Advanced-Packaging_JR115378) | Boise, ID - Main Site |
 | 2026-10-30 | T-Mobile | [Summer 2027 Strategic Sourcing Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Summer-2027-Strategic-Sourcing-Internship_REQ380586) | Frisco, Texas |
 | 2026-10-30 | T-Mobile | [Summer 2027 Analyst, Supply Chain Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Flower-Mound-Texas/Summer-2027-Analyst--Supply-Chain-Internship_REQ380677) | 2 Locations |
 | 2026-10-30 | Snowflake | [Product Marketing- Agentic Analytics Intern (Spring 2027)](https://jobs.ashbyhq.com/snowflake/97e37c43-2298-42c8-bb4c-1bcfadc80af9) | US-CA-Menlo Park |
@@ -221,8 +223,8 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-26 | ServiceNow | [Experience Team – UX Research Internships – Summer 2027](https://jobs.smartrecruiters.com/ServiceNow/744000157919529) | San Diego, CALIFORNIA, us |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057) | Atlanta, Georgia, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373) | Atlanta, Georgia, United States |
-| 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | Remote - AZ |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325056?gh_jid=8325056) | Phoenix, Arizona, United States |
+| 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | Remote - AZ |
 | 2026-10-26 | PwC (2) | [Pittsburgh - Tax Seasonal - Seasonal Intern - Winter 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/PA-Pittsburgh/Pittsburgh---Tax-Seasonal---Seasonal-Intern---Winter-2027_756522WD) | PA-Pittsburgh |
 | 2026-10-23 | Zillow | [Product Design Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Product-Design-Intern_P751613) | Seattle-WA-2nd Ave |
 | 2026-10-23 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784) | Phoenix, Arizona, United States |

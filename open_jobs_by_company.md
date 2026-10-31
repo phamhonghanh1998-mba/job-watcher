@@ -1,6 +1,6 @@
-# Open matching jobs (383)
+# Open matching jobs (385)
 
-Updated 2026-10-31 15:25 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-10-31 19:31 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -174,7 +174,7 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-10-23 | Zillow | [Applied Scientist (Economics) Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1) | Seattle-WA-2nd Ave |
 | 2026-10-26 | Zillow | [Data Science Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1) | Seattle-WA-2nd Ave |
 
-## Other internships (227)
+## Other internships (229)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
@@ -317,6 +317,7 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-19 | Intel | [Facilities Technician Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-New-Mexico-Albuquerque/Facilities-Technician-Intern_JR0286923) | US, New Mexico, Albuquerque |
 | 2026-10-27 | Medtronic | [Associate Clinical Experience (ACE) Intern – Summer 2027](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/State-of-Minnesota-United-States-of-America/Associate-Clinical-Experience--ACE--Intern---Summer-2027_R78501-1) | 50 Locations |
 | 2026-10-15 | Medtronic | [Sales Operations Intern](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Ankara-Ankara-Trkiye/Sales-Operations-Intern_R78959-1) | Ankara, Ankara, Türkiye |
+| 2026-10-31 | Micron | [Intern - Process Integration – Advanced Packaging](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---Process-Integration---Advanced-Packaging_JR115378) | Boise, ID - Main Site |
 | 2026-10-01 (30+ days) | Mondelez | [Research & Development Intern](https://mdlz.wd3.myworkdayjobs.com/en-US/External/job/East-Hanover-New-Jersey-United-States/Research---Development-Intern_R-175411) | East Hanover, New Jersey, United States |
 | 2026-10-23 | MongoDB | [2027 - Software Engineering Intern, AMER](https://www.mongodb.com/careers/job/?gh_jid=8209134) | Austin; New York City; San Francisco |
 | 2026-10-19 | Morgan Stanley | [Intern](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Winter-Park-Florida-United-States-of-America/Intern_JR045797) | Winter Park, Florida, United States of America |
@@ -327,6 +328,7 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-01 (30+ days) | Oliver Wyman | [Summer Sales Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Fort-Lauderdale---Corporate/Summer-Sales-Intern_R_324193) | 2 Locations |
 | 2025-12-11 | Palantir | [Deployment Strategist, Internship - US Government](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) | Honolulu, HI |
 | 2026-10-22 | Palantir | [Deployment Strategist, Internship - Warp Speed](https://jobs.lever.co/palantir/69ab7e24-8f5d-426e-84f7-6d3b2d4a7efd) | New York, NY |
+| 2026-10-31 | Palantir | [Finance Operator Intern](https://jobs.lever.co/palantir/bd7766c4-6aea-4b37-8d47-a8864bb9bd69) | New York, NY |
 | 2026-07-10 | Palantir | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | Washington, D.C. |
 | 2026-07-10 | Palantir | [Forward Deployed Infrastructure Engineer, Internship - US Government](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | Palo Alto, CA |
 | 2022-08-03 | Palantir | [Information Security Engineer, Internship](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) | New York, NY |
@@ -360,13 +362,13 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-09-14 | Robinhood | [Fraud Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241) | Denver, CO |
 | 2026-10-01 (30+ days) | S&P Global | [Agribusiness Intern (Early Careers)](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Virtual-BR/Agribusiness-Intern--Early-Careers-_327499-2) | Virtual, BR |
 | 2026-10-30 | Salesforce | [Summer 2027 Intern - Forward Deployed Engineer – Global Public Sector](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1) | 2 Locations |
-| 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057) | Atlanta, Georgia, United States |
 | 2026-08-21 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119) | Atlanta, Georgia, United States |
+| 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057) | Atlanta, Georgia, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373) | Atlanta, Georgia, United States |
+| 2026-10-23 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784) | Phoenix, Arizona, United States |
+| 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325056?gh_jid=8325056) | Phoenix, Arizona, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | Remote - AZ |
 | 2026-08-21 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799) | Phoenix, Arizona, United States |
-| 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325056?gh_jid=8325056) | Phoenix, Arizona, United States |
-| 2026-10-23 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784) | Phoenix, Arizona, United States |
 | 2026-08-03 | Samsara | [Software Engineering Internship - San Francisco ](https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091) | San Francisco - SF9 |
 | 2026-10-19 | Scale AI | [Machine Learning Research Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | New York, NY; San Francisco, CA |
 | 2026-09-04 | Scale AI | [Software Engineering Intern (Summer 2027) ](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | San Francisco, CA |
