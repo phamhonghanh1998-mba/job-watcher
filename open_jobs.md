@@ -1,6 +1,6 @@
-# Open matching jobs (385)
+# Open matching jobs (384)
 
-Updated 2026-11-01 08:48 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-11-01 15:50 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -174,7 +174,7 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-08 | Coinbase | [Sales Intern](https://www.coinbase.com/careers/positions/8187551?gh_jid=8187551) | Hybrid - New York, NY |
 | 2023-08-17 | Databricks | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, California; San Francisco, California |
 
-## Other internships (229)
+## Other internships (228)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
@@ -185,7 +185,6 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-30 | T-Mobile | [Summer 2027 Strategic Sourcing Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Summer-2027-Strategic-Sourcing-Internship_REQ380586) | Frisco, Texas |
 | 2026-10-30 | T-Mobile | [Summer 2027 Analyst, Supply Chain Internship](https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Flower-Mound-Texas/Summer-2027-Analyst--Supply-Chain-Internship_REQ380677) | 2 Locations |
 | 2026-10-30 | Snowflake | [Product Marketing- Agentic Analytics Intern (Spring 2027)](https://jobs.ashbyhq.com/snowflake/97e37c43-2298-42c8-bb4c-1bcfadc80af9) | US-CA-Menlo Park |
-| 2026-10-30 | Salesforce | [Summer 2027 Intern - Forward Deployed Engineer – Global Public Sector](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1) | 2 Locations |
 | 2026-10-30 | PwC (2) | [Hartford - Tax - Intern - Winter 2027](https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/CT-Hartford/Hartford---Tax-CPA---Intern---Winter-2027_756431WD) | CT-Hartford |
 | 2026-10-30 | Genentech | [Medical Strategy Intern](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Mississauga/Medical-Strategy-Intern_202608-120380) | Mississauga |
 | 2026-10-30 | Genentech | [Internship in Near Patient Care R&D (Rotkreuz, 12 months)](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Rotkreuz/Internship-in-Near-Patient-Care-R-D--Rotkreuz--12-months-_202610-127331) | Rotkreuz |
