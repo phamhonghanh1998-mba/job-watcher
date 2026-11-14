@@ -1359,7 +1359,9 @@
   "10596552",
   "10596728",
   "10597379",
-  "10601090"
+  "10601090",
+  "10605132",
+  "10605141"
  ],
  "Amgen": [
   "/job/Algeria---Algiers/CW---Senior-Finance-Manager_R-225698",
@@ -2775,6 +2777,7 @@
   "5196155007",
   "5196162007",
   "5196254007",
+  "5196267007",
   "5196291007",
   "5196570007",
   "5196583007",
@@ -4901,6 +4904,7 @@
   "5278217007",
   "5278219007",
   "5278315007",
+  "5278317007",
   "5278364007",
   "5278381007",
   "5278403007",
@@ -5308,7 +5312,15 @@
   "5295060007",
   "5295094007",
   "5295095007",
-  "5295096007"
+  "5295096007",
+  "5295237007",
+  "5295260007",
+  "5295265007",
+  "5295270007",
+  "5295276007",
+  "5295280007",
+  "5295297007",
+  "5295323007"
  ],
  "Anthropic": [
   "4017331008",
@@ -7606,6 +7618,7 @@
   "5428281008",
   "5428287008",
   "5428321008",
+  "5428323008",
   "5428419008",
   "5428440008",
   "5428504008",
@@ -8665,7 +8678,11 @@
   "8938895002",
   "8938896002",
   "8939938002",
-  "8939939002"
+  "8939939002",
+  "8943620002",
+  "8943780002",
+  "8943782002",
+  "8943783002"
  ],
  "Broadcom": [
   "/job/AUS-Sydney--Pitt-St/Technical-Adoption-Manager--Application-Networking-and-Security--Australia--New-South-Wales--Remote-_R027708",
@@ -11624,6 +11641,7 @@
   "/job/McLean-VA/Director--Data-Science---Consumer-and-Developer-Experience--Remote-Eligible-_R1003792-1",
   "/job/McLean-VA/Director--Data-Science_R1002344-1",
   "/job/McLean-VA/Director--Data-Science_R1002371-2",
+  "/job/McLean-VA/Director--Data-Science_R1005855-1",
   "/job/McLean-VA/Director--Data-Scientist---US-Card_R1004464-1",
   "/job/McLean-VA/Director--FP-A--Capital-One-Shopping_R247815-1",
   "/job/McLean-VA/Director--Financial-Management--FP-A---Card_R1004382-1",
@@ -13901,6 +13919,7 @@
   "8378851",
   "8378916",
   "8381749",
+  "8383781",
   "8384276",
   "8385867"
  ],
@@ -17721,7 +17740,8 @@
   "8384214",
   "8384411",
   "8386082",
-  "8386180"
+  "8386180",
+  "8386816"
  ],
  "Dropbox": [
   "6330377",
@@ -18262,6 +18282,7 @@
   "/job/Washington---Seattle-Campus/Sr-Director-Engineering---Experience-Platform_R-109663-1",
   "/job/Washington---Seattle-Campus/Sr-Mgr--Workday-Platform-Engineering_R-109075",
   "/job/Washington---Seattle-Campus/Sr-Product-Manager--EG-Advertising---Travel-Supply-Campaigns_R-111036",
+  "/job/Washington---Seattle-Campus/Talent-Strategy-Partner--Senior-Director_R-105627",
   "/job/Washington---Seattle-Campus/Tax-Manager---International_R-110086-1",
   "/job/Washington---Seattle-Campus/Treasury-Analyst--Banking-Infrastructure_R-110518",
   "/job/Washington---Seattle-Campus/Treasury-Manager--Foreign-Currency_R-109482-1",
@@ -29648,6 +29669,7 @@
   "103d7043-28ec-4639-9c8d-0910083a1755",
   "104eb2c4-bf85-4fec-a7e5-0616d235818a",
   "1098311d-3a07-40ad-8107-6245a492a0b3",
+  "10c7fcdc-1f07-41e3-8e37-4d930898a648",
   "110d820b-fcbe-4f02-9203-5b6145132e60",
   "112e34f2-45da-4a08-adf4-cc29398938df",
   "118b71ad-0daa-497d-9061-68e90ea03368",
@@ -29748,6 +29770,7 @@
   "241154df-ab1a-4dfa-8b18-66e087d1e636",
   "2475c6c9-97c1-461b-8c73-0b9ce993860a",
   "24ade569-b2eb-4879-b6d3-82407ac0efe7",
+  "24d1efa7-2b6d-4f5c-873f-362843ca3395",
   "24f3c017-d844-4df1-bc52-71f95b6e731d",
   "2535d647-d4f6-4745-9b97-90dfda3007f7",
   "2560ed50-5535-42b8-b069-9ebc28ce7493",
@@ -29973,6 +29996,7 @@
   "56e699e0-421f-40d1-aad1-20cf6609794f",
   "56fceb8e-589b-410e-8b21-24f9945ccb9d",
   "570df8ac-dacb-4686-b59c-ef48eed0580c",
+  "57486b6e-0b23-4fec-9c35-5efb63fa521a",
   "577e6673-0a4a-491b-9a0d-facbdd3bdf3c",
   "579e2994-ec43-4869-8ad1-8cda8088f74b",
   "57bbaedc-30c1-4f1d-b194-e32a6adf874c",
@@ -30079,6 +30103,7 @@
   "68f7ef0f-97a4-47ce-ac0a-a442572ab7a7",
   "6922ab5c-5b90-4da2-ab10-cbc46d4f4860",
   "69398837-5ceb-44d8-b95a-e53c2acf5230",
+  "695f73a5-00f5-416a-8939-78571263819b",
   "6a7cedbd-0a7c-4f3e-8389-55357ad444b3",
   "6aa78bd0-98d6-4671-a98f-d1010c627eb5",
   "6b47238e-025a-4350-b270-2f3564002fcc",
@@ -31022,6 +31047,7 @@
   "8aec0fba-0ac9-48a5-8f54-f2d8465d6698",
   "8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e",
   "8c95f750-9d42-456e-91fd-464ad87e4b83",
+  "8f15d728-99cc-4003-9add-928bd72a7f30",
   "8f308f3e-43d2-49c9-accd-cc7af0f1565c",
   "8f362a1f-1eff-4327-94c1-ff46e2101c69",
   "8f7bbffa-92aa-4d25-9586-943b3322a27d",
@@ -34309,6 +34335,7 @@
   "8386308",
   "8386580",
   "8386584",
+  "8386601",
   "8386825",
   "8386831"
  ],
@@ -37871,6 +37898,7 @@
   "8368338",
   "8368340",
   "8374447",
+  "8379461",
   "8379685",
   "8384669"
  ],
@@ -38266,6 +38294,7 @@
   "8348625",
   "8350312",
   "8350721",
+  "8350723",
   "8350725",
   "8350727",
   "8351078",
@@ -38279,6 +38308,7 @@
   "8359458",
   "8359634",
   "8364312",
+  "8366921",
   "8374430"
  ],
  "S&P Global": [
@@ -39296,6 +39326,7 @@
   "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Financial-Services-_JR362508-1",
   "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1",
   "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant_JR362509-1",
+  "/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1",
   "/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1",
   "/job/New-York---New-York/Systems-Engineer_JR363163",
   "/job/New-York---Remote/Digital-Account-Executive---Public-Sector_JR361078",
@@ -40053,6 +40084,7 @@
   "8353408",
   "8353530",
   "8353662",
+  "8353780",
   "8354253",
   "8355097",
   "8355516",
@@ -40814,7 +40846,10 @@
   "744000161584329",
   "744000161584449",
   "744000161584669",
-  "744000161585342"
+  "744000161585342",
+  "744000161590090",
+  "744000161592679",
+  "744000161594249"
  ],
  "Smartsheet": [
   "3426405",
@@ -41449,6 +41484,7 @@
   "b4ea4160-e57e-4604-9329-5398b94de202",
   "b59a856f-2132-4c4e-957b-d51304bc4631",
   "b6322e07-c781-4df1-81eb-8cc9f7e0dbaa",
+  "b67291f8-f05d-4c29-ac08-55b831f2861d",
   "b6b385f9-6d27-4e1c-b7d6-8529bf3a101a",
   "b6e0f4a7-7e69-4c92-b3cc-13d018bbabe9",
   "b6fed204-3317-43ba-b87b-f045e4cf8d68",
@@ -45446,6 +45482,7 @@
   "8940638002",
   "8940695002",
   "8940768002",
+  "8940770002",
   "8940772002",
   "8940775002",
   "8940810002",
@@ -45460,7 +45497,9 @@
   "8943221002",
   "8943224002",
   "8943227002",
-  "8943271002"
+  "8943271002",
+  "8943811002",
+  "8943819002"
  ],
  "Spotify": [
   "01b41b49-7d43-4933-9ba7-06ebe0a2a749",
@@ -48201,6 +48240,8 @@
   "8366006",
   "8366370",
   "8367009",
+  "8368738",
+  "8368740",
   "8368751",
   "8370801",
   "8371351",
@@ -48209,6 +48250,9 @@
   "8372357",
   "8372717",
   "8374485",
+  "8374875",
+  "8374878",
+  "8374880",
   "8375255",
   "8375267",
   "8375797",
@@ -50936,7 +50980,9 @@
    "10593054": "2026-10-29",
    "10594713": "2026-11-02",
    "10594714": "2026-11-02",
-   "10594729": "2026-11-02"
+   "10594729": "2026-11-02",
+   "10605132": "2026-11-14",
+   "10605141": "2026-11-14"
   },
   "Amgen": {
    "/job/US---California---South-San-Francisco/Grad-Intern---PKDM-BA--Summer-2027-_R-261206": "2026-11-12",
@@ -52744,6 +52790,7 @@
    "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Financial-Services-_JR362508-1": "2026-10-02",
    "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant--Healthcare---Life-Sciences-_JR362499-1": "2026-10-02",
    "/job/New-York---New-York/Summer-2027-Intern---MBA-Business-Value---Strategic-Selling-Consultant_JR362509-1": "2026-10-02",
+   "/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1": "2026-11-14",
    "/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1": "2026-10-15"
   },
   "Samsara": {
@@ -52781,7 +52828,10 @@
    "744000161550869": "2026-11-13",
    "744000161583461": "2026-11-13",
    "744000161584329": "2026-11-13",
-   "744000161584449": "2026-11-13"
+   "744000161584449": "2026-11-13",
+   "744000161590090": "2026-11-14",
+   "744000161592679": "2026-11-14",
+   "744000161594249": "2026-11-14"
   },
   "Smartsheet": {},
   "Snap": {
@@ -53071,7 +53121,9 @@
    "10593054": true,
    "10594713": true,
    "10594714": true,
-   "10594729": false
+   "10594729": false,
+   "10605132": true,
+   "10605141": true
   },
   "Amgen": {
    "/job/US---California---South-San-Francisco/Grad-Intern---PKDM-BA--Summer-2027-_R-261206": false,
@@ -53700,7 +53752,8 @@
    "/job/California---San-Francisco/Summer-2027-Intern---Product-GTM-Strategy_JR362217-1": false,
    "/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1": false,
    "/job/Illinois---Chicago/Summer-2027-Intern---Pro-Serve-Strategy---Change-Management_JR366222-2": true,
-   "/job/Indiana---Indianapolis/Summer-2027-Intern---Finance-Operations-Associate_JR359638-2": false
+   "/job/Indiana---Indianapolis/Summer-2027-Intern---Finance-Operations-Associate_JR359638-2": false,
+   "/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1": false
   },
   "Samsara": {
    "8082091": false,
@@ -53728,7 +53781,9 @@
    "744000161385779": false,
    "744000161548289": false,
    "744000161548528": false,
-   "744000161550869": false
+   "744000161550869": false,
+   "744000161592679": false,
+   "744000161594249": false
   },
   "Snap": {
    "/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179": false
@@ -54007,7 +54062,9 @@
    "10593054": false,
    "10594713": false,
    "10594714": false,
-   "10594729": false
+   "10594729": false,
+   "10605132": false,
+   "10605141": false
   },
   "Amgen": {
    "/job/US---California---South-San-Francisco/Grad-Intern---PKDM-BA--Summer-2027-_R-261206": true,
@@ -55683,6 +55740,7 @@
    "/job/Illinois---Chicago/Summer-2027-Intern---Pro-Serve-Strategy---Change-Management_JR366222-2": false,
    "/job/India---Hyderabad/Summer-2027-Intern---UI-UX-Designer_JR363342": false,
    "/job/Indiana---Indianapolis/Summer-2027-Intern---Finance-Operations-Associate_JR359638-2": false,
+   "/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1": false,
    "/job/New-York---New-York/Summer-2027-Intern---Solution-Engineer_JR364363-1": false
   },
   "Samsara": {
@@ -55715,7 +55773,9 @@
    "744000161385779": false,
    "744000161548289": false,
    "744000161548528": false,
-   "744000161550869": false
+   "744000161550869": false,
+   "744000161592679": false,
+   "744000161594249": false
   },
   "Snap": {
    "/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179": false
