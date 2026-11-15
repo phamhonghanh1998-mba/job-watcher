@@ -20704,6 +20704,7 @@
   "/job/Riyadh/Business-Value-Partner_202610-125133",
   "/job/Riyadh/Communications---Public-Affairs-Partner_202611-128652",
   "/job/Riyadh/Early-in-Career-Development-Programme---Commercial--Roche-Pharma-_202610-125128",
+  "/job/Riyadh/Health-Technology-Assessment-Evidence-Lead_202611-128964",
   "/job/Riyadh/Marketing-Partner---Breast-Cancer_202611-128195",
   "/job/Riyadh/Medical-Value-Lead-Oncology_202609-123968",
   "/job/Riyadh/Omnichannel---Marketing-Enabler-Hemophilia_202610-127061-1",
@@ -31403,6 +31404,7 @@
   "/job/San-Jose-California-United-States-of-America/Sr-Manager--Tax---Indirect_R0137791",
   "/job/San-Jose-California-United-States-of-America/Sr-Paralegal--Corporate_R0138356-1",
   "/job/Sao-Paulo-Brazil/Sr-Manager--Treasury_R0135633-1",
+  "/job/Tel-Aviv-Tel-Aviv-District-Israel/Software-Engineer-Intern_R0138730",
   "/job/Tokyo-Tokyo-Prefecture-Japan/Manager--Internal-Controls_R0137171-1",
   "/job/Utah-United-States-of-America-Virtual/Sr-Manager--Bank-Audit_R0137950",
   "/job/Utah-United-States-of-America-Virtual/Sr-Manager--Bank-Financial-Planning---Analysis_R0138294"
@@ -32872,6 +32874,7 @@
   "/job/Cairo---ETIC/ETIC---Portfolio---Program-Management--PPM----Agile-Practitioner---Graduate-Program---German-Speakers-_767454WD",
   "/job/Cairo---ETIC/ETIC--Business-Analyst---Associate--German-Speaker-_760376WD",
   "/job/Cairo---ETIC/ETIC--Business-Analyst---Senior-Associate--German-Speaker-_760380WD",
+  "/job/Cairo---ETIC/ETIC--Business-Analyst---Senior-Associate_769429WD",
   "/job/Cairo---ETIC/ETIC--Business-Consultant--Finance----Associate_771727WD",
   "/job/Cairo---ETIC/ETIC--Business-Consultant--Finance----Manager_771729WD",
   "/job/Cairo---ETIC/ETIC--Business-Consultant--Finance----Senior-Associate_771728WD",
@@ -32903,6 +32906,7 @@
   "/job/Cairo---ETIC/ETIC--SAP-TM-Graduate-Program_711742WD",
   "/job/Cairo---ETIC/ETIC--Service-Desk---Associate_748741WD",
   "/job/Cairo---ETIC/ETIC--Site-Operations--Senior-Manager_750145WD",
+  "/job/Cairo---ETIC/ETIC--Summer-Internship---Quality---Testing_735647WD",
   "/job/Cairo---ETIC/ETIC-Finance-Function-Financial-Analyst--Senior-Associate_769485WD",
   "/job/Cairo/ETIC---Portfolio---Program-Management--PPM----Agile-Practitioner----Associate---German-Speakers-_767455WD",
   "/job/Cairo/ETIC--Celonis-BI-Engineer---German-Speaker_773296WD-1",
@@ -33229,8 +33233,10 @@
   "/job/Jakarta/Associate---TLS---IT-Staff_565114WD",
   "/job/Jakarta/Consulting---Finance-Transformation-Manager_753873WD",
   "/job/Jakarta/FY27----Senior-Associate---Risk-Assurance---IT-Governance_767823WD",
+  "/job/Jakarta/FY27---Associate-1---Risk-Assurance---IT-Governance_767821WD",
   "/job/Jakarta/FY27---Assurance---Senior-Associate---Financial-Services--FS-_767803WD",
   "/job/Jakarta/FY27---Risk-Assurance---Senior-Associate---ESG_766848WD",
+  "/job/Jakarta/FY27---Senior-Associate---Risk-Assurance---CMAAS-Technology-Solutions_746750WD",
   "/job/Jakarta/FY27---Senior-Associate---Risk-Assurance---Governance--Risk--and-Compliance--GRC-_767815WD",
   "/job/Jakarta/Manager---Deals-Advisory---Corporate-Valuation-Advisory_199821WD-1",
   "/job/Jakarta/Senior-Associate---Associate---Advisory-Deals---Transaction-Services_766368WD",
@@ -39130,6 +39136,7 @@
   "/job/India---Hyderabad/Support-Engineer-Industry-Cloud-Immediate-Joiner-_JR321330",
   "/job/India---Hyderabad/System-Analyst_JR367594",
   "/job/India---Hyderabad/Systems-Engineer---Workday-HCM_JR364388",
+  "/job/India---Hyderabad/Systems-Engineering-Associate_JR368441",
   "/job/India---Hyderabad/Tax-Senior-Analyst_JR357579",
   "/job/India---Hyderabad/Technical-Business-Analyst--Product---Pricing-Operations_JR366093",
   "/job/India---Hyderabad/Technical-Business-Analyst--Product---Pricing-Operations_JR366420",
@@ -52552,6 +52559,7 @@
   "PwC": {
    "/job/Bandar-Seri-Begawan/Tax-Intern-Trainee_773149WD": "2026-11-10",
    "/job/Cairo---ETIC/ETIC--Cybersecurity-Internship---Working-Student_770258WD": "2026-10-27",
+   "/job/Cairo---ETIC/ETIC--Summer-Internship---Quality---Testing_735647WD": "2026-11-15",
    "/job/Copenhagen/Kommunikationsansvarlig-med-fokus-p-intern-kommunikation-og-samfundsansvar--barselsvikariat-_766443WD-2": "2026-10-07",
    "/job/Kingston/Advisory-Intern_766956WD": "2026-10-08",
    "/job/Kingston/Assurance-Intern_726009WD": "2026-10-08",
@@ -53726,6 +53734,7 @@
   "PwC": {
    "/job/Bandar-Seri-Begawan/Tax-Intern-Trainee_773149WD": false,
    "/job/Cairo---ETIC/ETIC--Cybersecurity-Internship---Working-Student_770258WD": false,
+   "/job/Cairo---ETIC/ETIC--Summer-Internship---Quality---Testing_735647WD": false,
    "/job/Kingston/Assurance-Intern_766212WD": false
   },
   "PwC (2)": {
@@ -55544,6 +55553,7 @@
   "PwC": {
    "/job/Bandar-Seri-Begawan/Tax-Intern-Trainee_773149WD": false,
    "/job/Cairo---ETIC/ETIC--Cybersecurity-Internship---Working-Student_770258WD": false,
+   "/job/Cairo---ETIC/ETIC--Summer-Internship---Quality---Testing_735647WD": false,
    "/job/Copenhagen/Kommunikationsansvarlig-med-fokus-p-intern-kommunikation-og-samfundsansvar--barselsvikariat-_766443WD-2": false,
    "/job/Kingston/Advisory-Intern_766956WD": false,
    "/job/Kingston/Assurance-Intern_726009WD": false,
