@@ -1,6 +1,6 @@
-# Open matching jobs (422)
+# Open matching jobs (421)
 
-Updated 2026-11-15 00:48 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-11-15 07:36 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
@@ -175,7 +175,7 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-08 | Coinbase | [Sales Intern](https://www.coinbase.com/careers/positions/8187551?gh_jid=8187551) | Hybrid - New York, NY |
 | 2023-08-17 | Databricks | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, California; San Francisco, California |
 
-## Other internships (265)
+## Other internships (264)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
@@ -190,7 +190,6 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-11-14 | Nike | [NIKE, Inc. Footwear Design Internship](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Footwear-Design-Internship_R-97436) | Beaverton, Oregon |
 | 2026-11-14 | Nike | [NIKE, Inc. Apparel Design Internship](https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel-Design-Internship_R-97433) | Beaverton, Oregon |
 | 2026-11-14 | Micron | [Intern -  AI Engineer Platform](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern----AI-Engineer-Platform_JR115934) | Boise, ID - Main Site |
-| 2026-11-14 | Merck | [2027 Future Talent Program - Global Safety & Environment - Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Safety---Environment---Intern_R414564) | 2 Locations |
 | 2026-11-14 | Genentech | [2027 Summer Intern - Computational Science](https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Santa-Clara/XMLNAME-2027-Summer-Intern---Computational-Science_202611-129030) | Santa Clara |
 | 2026-11-14 | GE Aerospace | [Digital Systems Engineering Intern - Bohemia, NY - Summer 2027](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Bohemia/Digital-Systems-Engineering-Intern---Bohemia--NY---Summer-2027_R5042961-1) | Bohemia |
 | 2026-11-14 | CrowdStrike | [Intelligence Launch Intern - Summer 2027](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Launch-Intern---Summer-2027_R30506) | USA - Arlington, VA |
