@@ -747,6 +747,8 @@
   "8196114003",
   "8196747003",
   "8196749003",
+  "8197315003",
+  "8197317003",
   "8197325003",
   "8197327003",
   "8197334003",
@@ -755,6 +757,7 @@
   "8197744003",
   "8199157003",
   "8199159003",
+  "8199288003",
   "8199419003",
   "8199421003",
   "8199642003",
@@ -763,11 +766,14 @@
   "8201457003",
   "8201463003",
   "8201465003",
+  "8201566003",
   "8202545003",
   "8202548003",
   "8202705003",
   "8203803003",
   "8203805003",
+  "8205742003",
+  "8205744003",
   "8207671003"
  ],
  "Airbnb": [
@@ -1173,7 +1179,9 @@
   "8383070",
   "8383084",
   "8383090",
+  "8383877",
   "8383913",
+  "8385577",
   "8386065",
   "8386083",
   "8393253",
@@ -1388,7 +1396,8 @@
   "10597379",
   "10601090",
   "10605132",
-  "10605141"
+  "10605141",
+  "10607897"
  ],
  "Amgen": [
   "/job/Algeria---Algiers/CW---Senior-Finance-Manager_R-225698",
@@ -4527,6 +4536,7 @@
   "5262583007",
   "5262590007",
   "5262595007",
+  "5262599007",
   "5262658007",
   "5262714007",
   "5262715007",
@@ -5197,6 +5207,7 @@
   "5285992007",
   "5286038007",
   "5286090007",
+  "5286114007",
   "5286149007",
   "5286177007",
   "5286184007",
@@ -5421,14 +5432,19 @@
   "5298290007",
   "5298294007",
   "5298296007",
+  "5298306007",
   "5298481007",
   "5298761007",
   "5298874007",
   "5298878007",
   "5298882007",
   "5298926007",
+  "5298929007",
   "5299104007",
-  "5299201007"
+  "5299201007",
+  "5300520007",
+  "5300640007",
+  "5300647007"
  ],
  "Anthropic": [
   "4017331008",
@@ -6419,11 +6435,15 @@
   "5481980008",
   "5482207008",
   "5482310008",
+  "5482967008",
   "5483359008",
+  "5483945008",
   "5484035008",
   "5484144008",
   "5484171008",
-  "5485582008"
+  "5484875008",
+  "5485582008",
+  "5486380008"
  ],
  "Applied Materials": [
   "00eaa332-f855-4963-886c-909ac78bce6d",
@@ -7877,7 +7897,8 @@
   "5484041008",
   "5485146008",
   "5485151008",
-  "5485447008"
+  "5485447008",
+  "5485941008"
  ],
  "Blue Origin": [
   "/job/Arlington-WA/Manufacturing-Engineer-III----Castings-Engines_R71538",
@@ -8431,7 +8452,8 @@
   "8393885",
   "8394012",
   "8394838",
-  "8396105"
+  "8396105",
+  "8397816"
  ],
  "Brex": [
   "7732107002",
@@ -13526,6 +13548,7 @@
   "7530475",
   "7534033",
   "7535803",
+  "7540853",
   "7541032",
   "7544182",
   "7552575",
@@ -13540,6 +13563,7 @@
   "7653558",
   "7655695",
   "7657028",
+  "7668318",
   "7681220",
   "7684830",
   "7694407",
@@ -13615,6 +13639,7 @@
   "8030327",
   "8030678",
   "8036150",
+  "8037628",
   "8037985",
   "8038898",
   "8042034",
@@ -14161,11 +14186,18 @@
   "8384969",
   "8385432",
   "8385867",
+  "8386246",
   "8386418",
+  "8386684",
+  "8392838",
+  "8392916",
+  "8393538",
   "8394342",
+  "8394814",
   "8395178",
   "8395358",
-  "8395705"
+  "8395705",
+  "8398448"
  ],
  "Coca-Cola": [
   "/job/Argentina---Buenos-Aires/CPS-AR-Management-system-analyst_R-147863-1",
@@ -16370,6 +16402,7 @@
   "8870718002",
   "8870720002",
   "8870724002",
+  "8870726002",
   "8870938002",
   "8870940002",
   "8871482002",
@@ -16582,7 +16615,8 @@
   "8940488002",
   "8940907002",
   "8943064002",
-  "8944097002"
+  "8944097002",
+  "8948988002"
  ],
  "Datadog": [
   "1497543",
@@ -16704,6 +16738,7 @@
   "7466155",
   "7476847",
   "7487353",
+  "7492312",
   "7496207",
   "7496237",
   "7514534",
@@ -17223,7 +17258,8 @@
   "8378413",
   "8378768",
   "8385200",
-  "8385205"
+  "8385205",
+  "8393631"
  ],
  "Discord": [
   "8214127002",
@@ -17432,6 +17468,7 @@
   "7611520",
   "7612469",
   "7612643",
+  "7616066",
   "7616101",
   "7624434",
   "7627134",
@@ -18046,7 +18083,8 @@
   "8395437",
   "8396300",
   "8396696",
-  "8397297"
+  "8397297",
+  "8399363"
  ],
  "Dropbox": [
   "6330377",
@@ -18123,6 +18161,8 @@
   "8328476",
   "8328511",
   "8328516",
+  "8328519",
+  "8328520",
   "8328534",
   "8328537",
   "8328546",
@@ -18847,7 +18887,10 @@
   "6253326004",
   "6253947004",
   "6256957004",
-  "6261622004"
+  "6261622004",
+  "6263971004",
+  "6263992004",
+  "6263994004"
  ],
  "GE Aerospace": [
   "/job/Arkansas-City/Human-Resources-Business-Partner_R5042498-1",
@@ -23049,7 +23092,9 @@
   "8948517002",
   "8948519002",
   "8948757002",
-  "8948773002"
+  "8948773002",
+  "8950102002",
+  "8950105002"
  ],
  "Mastercard": [
   "/job/Abidjan-Cote-divoire/Senior-Managing-Consultant--Business-Development--Services--Francophone-Africa_R-289538",
@@ -28052,7 +28097,9 @@
   "8348261",
   "8349115",
   "8349239",
+  "8349256",
   "8349259",
+  "8349265",
   "8350841",
   "8351199",
   "8352010",
@@ -28096,6 +28143,7 @@
   "8381898",
   "8381910",
   "8381920",
+  "8381934",
   "8381944",
   "8383022",
   "8383063",
@@ -28113,7 +28161,10 @@
   "8386495",
   "8393203",
   "8395479",
-  "8396867"
+  "8395592",
+  "8396867",
+  "8398664",
+  "8398670"
  ],
  "Morgan Stanley": [
   "/job/1-New-York-Plaza/Stock-Plan-Project-Operations--Manager--AVP-_PT-JR043977-1",
@@ -29961,7 +30012,8 @@
   "8395735",
   "8396676",
   "8396722",
-  "8396761"
+  "8396761",
+  "8398418"
  ],
  "Oliver Wyman": [
   "/job/Amman---Keystone/Operations-Manager_R_369549-1",
@@ -31184,6 +31236,7 @@
   "db31bc85-f5ea-4703-ab78-46fcd67ac3a1",
   "db40bc4f-c7fb-47d5-a7cc-918fb8b1f815",
   "db5a708d-1d7a-4aa3-8dd3-0d0423b6b69f",
+  "db94a680-af5e-49e9-923c-149bc2c81879",
   "db993e24-ce4f-4f55-9187-403726bcb957",
   "dbd5ae8a-7c01-4f17-be39-b8caa8fd95d5",
   "dbe79b89-e593-44b3-8aec-c667f7134445",
@@ -31429,6 +31482,7 @@
   "32295454-6629-4f47-b11e-bbd7f5d41acb",
   "33243fb5-6907-40c7-930c-968b25d825d0",
   "341d5cae-a473-4813-9a6c-0f67fcc1b253",
+  "348befa6-dfc6-4838-8bbd-5bc93cb5bfdc",
   "34b3a697-6e22-4751-befd-0b7921abbd5f",
   "3531977a-9b2f-40a0-a486-4eeb38e75fc1",
   "36703f67-6fae-445c-9277-f946121faaa0",
@@ -31484,6 +31538,7 @@
   "4e99e055-96c7-497e-8099-3318e1ce0626",
   "5168e8fd-fec1-4fea-b7a1-81bdaea65850",
   "5174e95b-2e0a-46f8-8db7-e2c837a0ac94",
+  "51bafe1f-2e8e-4ba7-9692-880fcb4cbabe",
   "51ea4a3b-7764-4c87-96e4-310e19c856d5",
   "53fb4c05-f949-4146-a046-5c063c36a628",
   "55005ee7-4e06-4520-b569-f6e8f26745cb",
@@ -31519,6 +31574,7 @@
   "6a104c4e-35d4-4a1f-98ef-bec00ae4b458",
   "6a82fd06-5754-46c2-8214-9ca4cd89fb9d",
   "6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
+  "6bfbb28e-f61d-4385-be0f-64d7d78d53cb",
   "6ed76ce8-4156-4b60-b120-403538bd66cd",
   "6f5cf287-1d3e-4c10-abf6-18cf4c955ded",
   "6fe5515f-f677-4d98-8ac2-1775a425f5e7",
@@ -31620,6 +31676,7 @@
   "b4aa51a2-bc43-4d67-bf55-12db7feefb3a",
   "b4d82318-0ad6-4730-9b6e-2c8676b2e768",
   "b5362bc1-8a07-44e2-9ddc-cb4236aa0f20",
+  "b53ba9c4-6549-4884-b456-7f8ba507d387",
   "b57f08e9-546c-4b9b-8d21-db0ebbc11363",
   "b5ad6660-8145-4be5-97e2-3799f2912f5b",
   "b72abc17-293d-47e0-a094-c1ab0016b794",
@@ -31698,6 +31755,7 @@
   "e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
   "e7100322-be11-40c8-9dba-7a21b7302c08",
   "e82b696e-a085-4bbf-8bcb-6d2c4f8cf2f7",
+  "e8bfc01c-620c-4b6a-b3f8-cd275228db06",
   "e9aecd15-c7e9-4803-9928-fc0b67e70f5b",
   "ead4e034-e6e1-4993-86d1-ad9b8e2933a5",
   "eb496d6a-a960-43d3-a09b-e3843052f54e",
@@ -32378,6 +32436,7 @@
   "7642253",
   "7656243",
   "7671759",
+  "7678354",
   "7678372",
   "7683734",
   "7683962",
@@ -32631,6 +32690,7 @@
   "8268346",
   "8268348",
   "8273738",
+  "8274384",
   "8278887",
   "8279563",
   "8280111",
@@ -32658,6 +32718,7 @@
   "8331360",
   "8331469",
   "8331501",
+  "8334144",
   "8334878",
   "8334884",
   "8336035",
@@ -34680,6 +34741,7 @@
   "/job/WA-Seattle/Seattle---Audit---Associate---Winter-2027_764785WD"
  ],
  "Qualtrics": [
+  "6127911",
   "6582756",
   "6822754",
   "6825916",
@@ -34891,7 +34953,9 @@
   "8386601",
   "8386794",
   "8386825",
-  "8386831"
+  "8386831",
+  "8397204",
+  "8397225"
  ],
  "RTX": [
   "/job/AE-AZ-ABU-DHABI-ADGM-TOWER-3--Al-Maqam-Tower--GLOBAL-MARKET-SQ-TWR-3/Quality-Manager_01858264",
@@ -37962,6 +38026,7 @@
   "8017196",
   "8017242",
   "8017263",
+  "8017274",
   "8018513",
   "8018517",
   "8018555",
@@ -38194,6 +38259,7 @@
   "/job/Seattle-Washington-United-States/Senior-Manager-Global-Payroll_R_106821-1",
   "/job/Seattle-Washington-United-States/Senior-People-Compliance-Manager_R_106907",
   "/job/Seattle-Washington-United-States/Senior-Product-Designer_R_106913-1",
+  "/job/So-Paulo-Brazil/Head-of-Internal-Audit--Brazil_R_107163",
   "/job/Sydney-Australia/Head-of-Corridor-Growth--APAC_R_107056",
   "/job/Sydney-Australia/Head-of-Operations_R_107064",
   "/job/Tokyo-Japan/Deputy-MLRO--Japan_R_107034",
@@ -39332,6 +39398,7 @@
   "/job/Canada---Vancouver/Senior-Corporate-Counsel---Commercial_JR368311",
   "/job/Canada---Vancouver/Small--Medium--and-Growth-Business---Account-Executive---Vancouver--Office-Based-_JR274505",
   "/job/Canada---Vancouver/Software-Engineering-SMTS_JR364997",
+  "/job/Colombia---Bogota/Associate-AI-Engineer_JR367054-1",
   "/job/Colombia---Bogota/Customer-Success-Manager--Marketing-Cloud_JR362689",
   "/job/Colombia---Bogota/Customer-Success-Manager_JR363050",
   "/job/Colombia---Bogota/LATAM-Internship-Program---Scale-Program-LATAM-Intern--Colombia-_JR361231-1",
@@ -39339,6 +39406,7 @@
   "/job/Colombia---Bogota/Senior-Services-Sales-Solutions-Manager--Service-Pre-Sales_JR360840",
   "/job/Colombia---Bogota/Specialist-Solution-Engineer-6_JR365740",
   "/job/Colombia---Bogota/Territory-Account-Executive_JR354492",
+  "/job/Colombia---Remote/Engagement-Delivery-Senior-Manager_JR368631",
   "/job/Colorado---Denver/Customer-Success-Manager--Senior-Manager_JR359066",
   "/job/Colorado---Denver/Customer-Success-Manager_JR350694",
   "/job/Colorado---Denver/Named-SLG-Account-Executive--Rocky-Mountains_JR366206",
@@ -39395,6 +39463,8 @@
   "/job/Georgia---Atlanta/Customer-Risk-Manager_JR358659",
   "/job/Georgia---Atlanta/Customer-Succes-Manager--Senior-Manager-Mulesoft_JR332588-1",
   "/job/Georgia---Atlanta/Customer-Success-Manager---Slack_JR332569",
+  "/job/Georgia---Atlanta/Customer-Success-Manager_JR360929",
+  "/job/Georgia---Atlanta/Customer-Success-Senior-Manager_JR360439",
   "/job/Georgia---Atlanta/Director--Product-Marketing--Marketing-Cloud-Portfolio-Messaging_JR363941-1",
   "/job/Georgia---Atlanta/Executive-Operations---Leadership-Engagement-DirectorDirector_JR363410",
   "/job/Georgia---Atlanta/Finance-Pathways-Rotation-Analyst--Early-Career-_JR359807-2",
@@ -39482,6 +39552,7 @@
   "/job/Illinois---Chicago/Executive-Assistant---AI-Labs_JR362426",
   "/job/Illinois---Chicago/Financial-Services-Program-Executive-VP_JR354750",
   "/job/Illinois---Chicago/Keynote-Production-Associate-Manager_JR363084",
+  "/job/Illinois---Chicago/Lead-Analytics-Solution-Engineer_JR367910",
   "/job/Illinois---Chicago/Manager--Accounting_JR332986",
   "/job/Illinois---Chicago/Manager--Revenue-Operational-Transformation_JR361095-1",
   "/job/Illinois---Chicago/Migration-Delivery--Deployment-Strategist_JR357407",
@@ -39631,6 +39702,7 @@
   "/job/India---Hyderabad/VP--Success-Management---Portfolio-Leader_JR364448",
   "/job/India---Mumbai/Account-Executive_JR350379",
   "/job/India---Mumbai/Customer-Success-Manager--Marketing-cloud_JR353553",
+  "/job/India---Mumbai/Named-Account-Executive---Public-Sector_JR368147",
   "/job/India---Mumbai/Principal--Account-SE---IT-ITES_JR344881",
   "/job/India---Mumbai/Regional-Sales-Director_JR366703",
   "/job/India---Mumbai/Senior-Partner-Sales-Manager_JR362712",
@@ -39766,6 +39838,7 @@
   "/job/Ireland---Dublin/Sales-Development-Representative_JR364295-1",
   "/job/Ireland---Dublin/Senior-Account-Executive---SMB--German-Speaking-_JR349588",
   "/job/Ireland---Dublin/Senior-Account-Solution-Engineer_JR363386-1",
+  "/job/Ireland---Dublin/Senior-Account-Solution-Engineer_JR368598-1",
   "/job/Ireland---Dublin/Senior-Manager--Customer-Success---Data-Foundation--Informatica-Solutions-_JR365013",
   "/job/Ireland---Dublin/Senior-Manager--M-A-Accounting_JR354965-1",
   "/job/Ireland---Dublin/Senior-Manager--Treasury_JR364252",
@@ -40007,6 +40080,7 @@
   "/job/Saudi-Arabia---Riyadh/Public-Sector-Account-Executive---KSA_JR351606",
   "/job/Saudi-Arabia---Riyadh/Senior-Corporate-Counsel_JR366310",
   "/job/Saudi-Arabia---Riyadh/Senior-Solution-Architect_JR359402",
+  "/job/Saudi-Arabia---Riyadh/Tableau-Account-Executive---KSA_JR368030-1",
   "/job/Singapore---Singapore/Account-Executive---ESMB--Singapore_JR349374",
   "/job/Singapore---Singapore/Account-Solution-Engineer--Singapore---SMB-Market_JR363880",
   "/job/Singapore---Singapore/Credit---Collections-Intern_JR366260",
@@ -40047,6 +40121,7 @@
   "/job/Spain---Madrid/AI-Builder--Emerging-Talent---Italian-Market_JR360573",
   "/job/Spain---Madrid/AI-Builder--Emerging-Talent---Spanish-Market_JR360475-2",
   "/job/Spain---Madrid/Account-Executive---Agentforce-Operations_JR363120",
+  "/job/Spain---Madrid/Account-Executive---Agentforce-Operations_JR363121",
   "/job/Spain---Madrid/D360-Forward-Deployed-Engineer_JR361110",
   "/job/Spain---Madrid/D360-Forward-Deployed-Engineer_JR361113",
   "/job/Spain---Madrid/Engagement-Delivery-Senior-Manager---LSC_JR364258",
@@ -40060,6 +40135,7 @@
   "/job/Spain---Madrid/Territory-Account-Executive--NGO-Mid-Market_JR363168",
   "/job/Sweden---Stockholm/Enterprise-Account-Executive---Sweden_JR363314",
   "/job/Sweden---Stockholm/Named-Account-Executive_JR362415",
+  "/job/Sweden---Stockholm/Sr-Account-Executive---Public-Sector-Sweden_JR359725",
   "/job/Switzerland---Lausanne/Commercial-Account-Executive---Switzerland--Lausanne-based-_JR355530",
   "/job/Switzerland---Zurich/Account-Executive--Agentforce-Revenue-Management--German-Speaking_JR350261",
   "/job/Switzerland---Zurich/Customer-Risk-Manager_JR365943",
@@ -40794,8 +40870,10 @@
   "8382746",
   "8383258",
   "8386261",
+  "8386368",
   "8387002",
   "8387609",
+  "8395381",
   "8395384",
   "8397457",
   "8397679",
@@ -41536,7 +41614,10 @@
   "744000162182200",
   "744000162184569",
   "744000162190039",
-  "744000162223499"
+  "744000162223499",
+  "744000162270249",
+  "744000162270789",
+  "744000162324999"
  ],
  "Smartsheet": [
   "3426405",
@@ -41544,6 +41625,7 @@
   "4732518",
   "4923056",
   "5118912",
+  "5307654",
   "5602313",
   "5702573",
   "6299446",
@@ -41699,7 +41781,9 @@
   "8370779",
   "8374994",
   "8384290",
-  "8395922"
+  "8395922",
+  "8398690",
+  "8398723"
  ],
  "Snap": [
   "/job/Abingdon---141-Park-Drive/Executive-Assistant---1-year-FTC_R0047053-1",
@@ -41792,6 +41876,7 @@
   "16d130a1-4014-4458-829f-ea2ba48d366d",
   "17062476-3295-4bd7-afe1-a07a7f5789e1",
   "180efd2f-72d3-43db-840e-fb80d82695bf",
+  "1813e422-505f-4da1-ae78-87142a6fe48c",
   "1817e4bb-be4a-45ac-8a9f-60b314f0962a",
   "1965834b-f73d-4aeb-8c82-7338481201e4",
   "1a5535bb-bc87-45fa-bfa2-678d6430bf56",
@@ -41864,6 +41949,7 @@
   "33fd86f7-79e4-4180-9726-23f9ae76a804",
   "34f83a57-280d-4ee6-9f99-bcc06d8ab4ea",
   "35026637-d96b-47b3-a154-96e31765a7aa",
+  "351a7313-71bb-4683-9a65-927b03c5d002",
   "351f89c9-7502-4c5c-b600-b3a1192c45eb",
   "35320566-ce01-4204-b366-80b1b914c785",
   "35dfd8bf-a458-4c9c-a5d2-0b5d487b9640",
@@ -46324,6 +46410,7 @@
   "8945922002",
   "8945925002",
   "8945983002",
+  "8945991002",
   "8945995002",
   "8946193002",
   "8946415002",
@@ -46342,6 +46429,7 @@
   "8948744002",
   "8948769002",
   "8948776002",
+  "8948784002",
   "8948810002",
   "8948898002",
   "8948983002",
@@ -46351,6 +46439,7 @@
   "8949413002",
   "8949430002",
   "8949432002",
+  "8949443002",
   "8949448002"
  ],
  "Spotify": [
@@ -46383,6 +46472,7 @@
   "2517cbbf-5640-4467-a3ae-08577e76bead",
   "25fac63d-d4ba-48b9-80b1-b8e87b55e448",
   "281e7db9-86ba-4a1c-8773-c23b96ed32dc",
+  "288ef608-a1e5-4127-b606-3a9981640f91",
   "29252640-3fc6-4ba9-8dac-2838093bab96",
   "29b0056f-f163-4728-a32a-214bcb3232e8",
   "2a55d6c9-c564-443a-be3e-a3851db5a93b",
@@ -46412,6 +46502,7 @@
   "66184cac-4d6c-46f6-868c-bac0c184fd22",
   "6a2a32ab-2ed8-4ce3-94d5-0be9be9b01b7",
   "6af8894a-752f-4485-be70-a6685e5fd696",
+  "6ddd19d7-b4ed-4a1f-b8e9-3e6e55066d4b",
   "6eb9ce0e-5372-4a4f-b2fa-d005f9426750",
   "715ac952-36a0-4ed5-8fca-0c12eab94d6a",
   "71eb64a0-ce99-4166-8462-bad3901a967c",
@@ -46460,6 +46551,7 @@
   "a9d581f9-1361-4227-b230-94a0d6ffdef4",
   "abcc8b41-7553-4054-b5eb-8d3e49e00e25",
   "ac7b1bb0-2300-47a4-8d9d-f80e9392bd19",
+  "b24fe5e5-dcb2-4238-a883-5fdb6bd404db",
   "b27f51aa-9702-486b-ba24-157263d623e9",
   "b459a23c-18bd-43f6-a8fa-2a3165c8dac7",
   "b4f6cd01-1d5d-41a9-b287-6d10416da03c",
@@ -46468,6 +46560,7 @@
   "babebec3-0061-4c39-a4ad-c51a54d23567",
   "bb2c10a2-2bf8-4b21-901e-48b0e2e09cc8",
   "bc70c9af-212e-48d5-b00b-eab26e4c0658",
+  "bcd66391-12eb-4b15-b938-2b5b844e4f2b",
   "be2d7d1e-939e-47f9-8db7-278caa101a60",
   "bf0984d7-c54f-4a8a-9a15-f870633d62c0",
   "c114627b-1306-4581-95a8-77d847ee9962",
@@ -46487,6 +46580,7 @@
   "d1df9e53-27a1-4399-aa8b-7144cf634360",
   "d2489df3-87cb-48bb-81af-83aab5f03bdc",
   "d7c43743-2240-45b6-bc31-33e50cbaba4a",
+  "d83cbddf-871a-4f9a-9b29-52cd676e2b3c",
   "d86e7feb-15df-434d-8054-b7fb65010586",
   "d87833d0-fb78-4794-b45d-3fe5c8274bc8",
   "d9e57c3c-1c0a-483b-a783-6d1c9f2ce057",
@@ -46666,7 +46760,9 @@
   "7913700",
   "7913702",
   "7915144",
+  "7917880",
   "7918088",
+  "7919030",
   "7921649",
   "7923653",
   "7925550",
@@ -47457,6 +47553,7 @@
   "8274773",
   "8274893",
   "8274920",
+  "8275259",
   "8275261",
   "8275366",
   "8275513",
@@ -47680,6 +47777,7 @@
   "8357739",
   "8358044",
   "8358071",
+  "8358823",
   "8360332",
   "8361184",
   "8364868",
@@ -47701,6 +47799,7 @@
   "8382000",
   "8382002",
   "8383460",
+  "8383464",
   "8383466",
   "8383655",
   "8384287",
@@ -47710,11 +47809,15 @@
   "8384567",
   "8386610",
   "8387820",
+  "8392755",
   "8393107",
+  "8393436",
+  "8393544",
   "8393708",
   "8393866",
   "8393939",
-  "8395851"
+  "8395851",
+  "8397260"
  ],
  "Stryker": [
   "/job/Alcobendas-Spain/HR-Transformation-Intern_R575042",
@@ -49175,6 +49278,7 @@
   "8380414",
   "8380450",
   "8380599",
+  "8381022",
   "8382757",
   "8383075",
   "8383535",
@@ -49217,7 +49321,8 @@
   "8397666",
   "8397683",
   "8397684",
-  "8397693"
+  "8397693",
+  "8399016"
  ],
  "Twilio": [
   "6372770",
@@ -49482,6 +49587,7 @@
   "8383479",
   "8385420",
   "8385422",
+  "8385593",
   "8385881",
   "8386024",
   "8386095",
@@ -51780,6 +51886,7 @@
   "5279060007",
   "5279062007",
   "5279066007",
+  "5279068007",
   "5279071007",
   "5279075007",
   "5279081007",
@@ -51809,6 +51916,7 @@
   "5284098007",
   "5286302007",
   "5286893007",
+  "5286993007",
   "5287169007",
   "5287171007",
   "5287177007",
@@ -51823,6 +51931,7 @@
   "5290005007",
   "5290020007",
   "5290470007",
+  "5291481007",
   "5291922007",
   "5291924007",
   "5291938007",
@@ -51830,8 +51939,17 @@
   "5292843007",
   "5292845007",
   "5293336007",
+  "5295948007",
+  "5295956007",
   "5296727007",
-  "5297253007"
+  "5296729007",
+  "5297253007",
+  "5297271007",
+  "5297273007",
+  "5297277007",
+  "5298055007",
+  "5298605007",
+  "5299256007"
  ],
  "_first_seen": {
   "3M": {
@@ -52038,7 +52156,8 @@
    "5289632007": "2026-11-17",
    "5291546007": "2026-11-10",
    "5296825007": "2026-11-17",
-   "5297134007": "2026-11-17"
+   "5297134007": "2026-11-17",
+   "5300647007": "2026-11-18"
   },
   "Anthropic": {},
   "Applied Materials": {
@@ -54193,7 +54312,8 @@
    "5289632007": false,
    "5291546007": false,
    "5296825007": false,
-   "5297134007": false
+   "5297134007": false,
+   "5300647007": false
   },
   "Applied Materials": {
    "91e0686e-272a-4780-b33d-d7860b94a7b4": false,
@@ -55169,7 +55289,8 @@
    "5289632007": false,
    "5291546007": false,
    "5296825007": false,
-   "5297134007": false
+   "5297134007": false,
+   "5300647007": false
   },
   "Applied Materials": {
    "91e0686e-272a-4780-b33d-d7860b94a7b4": false,
