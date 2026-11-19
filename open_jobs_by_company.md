@@ -1,15 +1,24 @@
-# Open matching jobs (196)
+# Open matching jobs (213)
 
-Updated 2026-11-19 13:52 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-11-19 21:59 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (20)
+## MBA-level (27)
 
 Title or job description mentions an MBA.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
+| 2026-10-26 | Adobe | [2027 MBA Intern - Corporate Development](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-MBA-Intern---Corporate-Development_R172745) | 2 Locations |
+| 2026-10-20 (30+ days) | Adobe | [2027 MBA Intern - Corporate Strategy](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-MBA-Intern---Corporate-Strategy_R172471) | 2 Locations |
+| 2026-10-21 | Adobe | [2027 MBA Intern - Digital Strategy Associate, Strategic Advisory](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/XMLNAME-2027-MBA-Intern---Digital-Strategy-Associate--Strategic-Advisory_R172922) | New York |
+| 2026-11-10 | Adobe | [2027 MBA Intern - Integrated GTM Strategy](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-MBA-Intern---Integrated-GTM-Strategy_R173508) | San Francisco |
+| 2026-10-20 (30+ days) | Adobe | [2027 MBA Intern – Product Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Manager_R172261) | 2 Locations |
+| 2026-10-20 (30+ days) | Adobe | [2027 MBA Intern – Product Marketing Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-MBA-Intern---Product-Marketing-Manager_R172262) | 2 Locations |
+| 2026-10-20 (30+ days) | Adobe | [2027 MBA University Graduate - Manager, Corporate Strategy](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-MBA-University-Graduate---Manager--Corporate-Strategy_R171682) | 2 Locations |
+| 2026-10-20 (30+ days) | Adobe | [2027 MBA University Graduate - Product Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-MBA-University-Graduate---Product-Manager_R171900) | 2 Locations |
+| 2026-10-23 | Adobe | [2027 MBA University Graduate – Product Marketing Manager](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-MBA-University-Graduate---Product-Marketing-Manager_R172771) | 2 Locations |
 | 2026-08-04 | Amazon | [2027 MBA Leadership Development Program (MLDP) Intern](https://www.amazon.jobs/en/jobs/10491603/2027-mba-leadership-development-program-mldp-intern) | Seattle, Washington, USA |
 | 2026-08-05 | Amazon | [2027 MBA Marketing Manager (MM) Internship](https://www.amazon.jobs/en/jobs/10493144/2027-mba-marketing-manager-mm-internship) | Seattle, Washington, USA |
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
@@ -19,19 +28,17 @@ Title or job description mentions an MBA.
 | 2026-10-01 | Pinterest | [Master's Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US |
 | 2026-10-01 | Pinterest | [Master's Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US |
 | 2026-09-14 | Robinhood | [Investment Analyst MBA Intern, Robinhood Ventures (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) | Menlo Park, CA |
-| 2026-11-18 | RTX | [MBA Intern: Corporate Strategy & Development (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/MBA-Intern--Corporate-Strategy---Development--Summer-2027-_01888112) | US-VA-ARLINGTON-108 ~ 1100 Wilson Blvd ~ ROSSLYN HQ |
 | 2026-11-16 | ServiceNow | [Forward Deployed Solution Engineer Intern (Masters Summer 2027)](https://jobs.smartrecruiters.com/ServiceNow/744000161936020) | Santa Clara, CALIFORNIA, us |
 | 2026-11-16 | ServiceNow | [Inbound Product Manager (Masters Summer 2027)](https://jobs.smartrecruiters.com/ServiceNow/744000161885234) | San Diego, CALIFORNIA, us |
 | 2026-11-13 | ServiceNow | [Sr Inbound Product Manager Intern (MBA Summer 2027) ](https://jobs.smartrecruiters.com/ServiceNow/744000161584449) | San Diego, CALIFORNIA, us |
 | 2026-11-13 | ServiceNow | [Sr Outbound Product Manager Intern (MBA Summer 2027)](https://jobs.smartrecruiters.com/ServiceNow/744000161590090) | San Diego, CALIFORNIA, us |
 | 2026-11-13 | ServiceNow | [Strategic Operations Intern (Summer 2027 - Masters Degree)](https://jobs.smartrecruiters.com/ServiceNow/744000161583461) | Santa Clara, CALIFORNIA, us |
 | 2026-10-30 | Stripe | [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074) | San Francisco, New York City, Seattle |
-| 2026-10-20 (30+ days) | Target | [MBA Intern, Finance Leadership Development Program (FLDP) Internship - (Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/MBA-Intern--Finance-Leadership-Development-Program--FLDP--Internship----Summer-2027-_R0000451066) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |
 | 2026-09-01 | Waymo | [2027 Summer Intern, MBA, Operations Planning](https://careers.withwaymo.com/jobs?gh_jid=8165014) | San Francisco, California, United States |
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Master's in accounting / finance (28)
+## Master's in accounting / finance (30)
 
 Description says master's/graduate students in accounting, finance, economics or business can apply. Check whether an MBA qualifies (some require an MAcc for CPA hours).
 
@@ -59,19 +66,31 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-08 | Coinbase | [Credit Risk Intern](https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [Sales Intern](https://www.coinbase.com/careers/positions/8187551?gh_jid=8187551) | Hybrid - New York, NY |
 | 2023-08-17 | Databricks | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, California; San Francisco, California |
-| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
 | 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002) | San Francisco, CA |
+| 2026-09-11 | Lyft | [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | New York, NY |
+| 2026-11-19 | MongoDB | [2027 - AI and People Transformation Intern, NYC](https://www.mongodb.com/careers/job/?gh_jid=8346138) | New York City |
+| 2026-11-19 | MongoDB | [2027 - Tax Intern, New York City](https://www.mongodb.com/careers/job/?gh_jid=8301842) | New York City |
 | 2026-11-09 | Pinterest | [Product Design Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8350814) | San Francisco, CA, US; Remote, US |
 | 2026-09-15 | Ramp | [Applied Scientist Intern](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) | New York, NY (HQ) |
 | 2026-09-14 | Robinhood | [People Partner Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src=&gh_jid=8197614) | New York, NY |
 | 2026-10-01 | Stripe | [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291) | New York, Seattle, South San Francisco HQ |
 
-## Other internships (148)
+## Other internships (156)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
+| 2026-10-20 (30+ days) | Adobe | [2027 Intern - AI & Architecture](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998) | San Jose |
+| 2026-11-04 | Adobe | [2027 Intern - Brand Creative](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Brand-Creative_R173411) | San Francisco |
+| 2026-11-12 | Adobe | [2027 Intern - Communications](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Communications_R173413) | 2 Locations |
+| 2026-10-20 (30+ days) | Adobe | [2027 Intern - Experience Researcher](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Experience-Researcher_R172996) | San Jose |
+| 2026-10-20 (30+ days) | Adobe | [2027 Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) | 7 Locations |
+| 2026-10-20 (30+ days) | Adobe | [2027 Intern - Security Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Lehi/XMLNAME-2027-Intern---Security-Engineer_R173000) | Lehi |
+| 2026-10-20 | Adobe | [2027 Intern - Security Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001) | San Jose |
+| 2026-11-19 | Adobe | [2027 Intern - Video Production](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Video-Production_R173409) | San Francisco |
+| 2026-11-06 | Adobe | [2027 Intern — Employee Communications](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Employee-Communications_R173412) | 2 Locations |
+| 2026-11-09 | Adobe | [2027 Intern- Security Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Security-Engineer_R172468) | Bucharest |
 | 2026-10-09 | Affirm | [IT Engineer Intern (Early Careers Summer 2027)](https://job-boards.greenhouse.io/affirm/jobs/8011375003) | San Francisco, California, United States |
 | 2026-11-18 | Airbnb | [Software Engineering Intern (BS/MS)](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) | San Francisco, California |
 | 2026-10-23 | Amazon | [2027 Amazon Air (Network Control Center) Supply Chain Manager Intern](https://www.amazon.jobs/en/jobs/10587855/2027-amazon-air-network-control-center-supply-chain-manager-intern) | Erlanger, Kentucky, USA |
@@ -116,6 +135,7 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-11-18 | Anduril | [2027 Business Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007) | Costa Mesa, California, United States |
 | 2026-11-16 | Anduril | [2027 Deployment Operations Intern](https://boards.greenhouse.io/andurilindustries/jobs/5296825007?gh_jid=5296825007) | Quincy, Massachusetts, United States |
 | 2026-06-11 | Anduril | [2027 Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States |
+| 2026-11-19 | Anduril | [2027 Engineering Systems Intern](https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007) | Costa Mesa, California, United States |
 | 2026-10-19 | Anduril | [2027 Field Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007) | Costa Mesa, California, United States; Quincy, Massachusetts, United States |
 | 2026-10-13 | Anduril | [2027 Firmware Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) | Costa Mesa, California, United States |
 | 2026-10-14 | Anduril | [2027 Flight Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007) | Costa Mesa, California, United States |
@@ -167,7 +187,6 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-11-09 | Duolingo | [Product Designer, Thrive Intern](https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002) | Pittsburgh, PA |
 | 2026-09-23 | Figma | [Data Engineer Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | San Francisco, CA • New York, NY |
-| 2026-11-19 | GE Aerospace | [Manufacturing Engineering Intern – US – Summer 2027](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Manufacturing-Engineering-Intern---US---Summer-2027_R5029659) | 23 Locations |
 | 2026-10-23 | MongoDB | [2027 - Software Engineering Intern, AMER](https://www.mongodb.com/careers/job/?gh_jid=8209134) | Austin; New York City; San Francisco |
 | 2026-11-10 | Notion | [Product Design Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9) | New York, New York |
 | 2026-11-06 | Notion | [Software Engineering Intern, Frontend (Summer 2027)](https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413) | New York, New York |
@@ -194,13 +213,13 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-09-24 | Ramp | [Software Engineering Intern, Frontend](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74) | New York, NY (HQ) |
 | 2026-09-24 | Ramp | [Software Engineering Intern, iOS](https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9) | New York, NY (HQ) |
 | 2026-11-13 | Robinhood | [Corporate Finance Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464) | New York, NY |
-| 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373) | Atlanta, Georgia, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057) | Atlanta, Georgia, United States |
+| 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373) | Atlanta, Georgia, United States |
 | 2026-08-21 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119) | Atlanta, Georgia, United States |
-| 2026-10-23 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784) | Phoenix, Arizona, United States |
-| 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | Phoenix, Arizona, United States |
 | 2026-08-21 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799) | Phoenix, Arizona, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325056?gh_jid=8325056) | Phoenix, Arizona, United States |
+| 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | Phoenix, Arizona, United States |
+| 2026-10-23 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784) | Phoenix, Arizona, United States |
 | 2026-11-06 | Samsara | [Software Engineering Internship - San Francisco ](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) | San Francisco - SF9 |
 | 2026-10-19 | Scale AI | [Machine Learning Research Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | New York, NY; San Francisco, CA |
 | 2026-09-04 | Scale AI | [Software Engineering Intern (Summer 2027) ](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | San Francisco, CA |
@@ -217,6 +236,4 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-08-03 | SpaceX | [Spring 2027 Civil Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002) | Flexible - Any SpaceX Site |
 | 2026-08-03 | SpaceX | [Summer 2027 Civil Engineering Internship](https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002) | Flexible - Any SpaceX Site |
 | 2026-11-05 | Stripe | [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332681) | San Francisco, Seattle, New York City |
-| 2026-11-18 | Target | [Operations Manager Intern (Starting Summer 2027) Regional Distribution Center, West Jefferson, OH](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1-Walker-Way-West-JeffersonOH-43162-9406/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--West-Jefferson--OH_R0000450139) | 1 Walker Way, West Jefferson,OH 43162-9406 |
-| 2026-11-18 | Target | [Target Creative Intern-Minneapolis, MN (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Target-Creative-Intern-Minneapolis--MN--Starting-Summer-2027-_R0000480617) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |
 | 2026-09-17 | Waymo | [2027 Summer Intern, BS/MS, Scenes](https://careers.withwaymo.com/jobs?gh_jid=8210170) | Mountain View, California |
