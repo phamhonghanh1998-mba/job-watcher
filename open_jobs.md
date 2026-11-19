@@ -1,22 +1,23 @@
-# Open matching jobs (193)
+# Open matching jobs (196)
 
-Updated 2026-11-19 04:29 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-11-19 13:52 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (19)
+## MBA-level (20)
 
 Title or job description mentions an MBA.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
+| 2026-11-18 | RTX | [MBA Intern: Corporate Strategy & Development (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/MBA-Intern--Corporate-Strategy---Development--Summer-2027-_01888112) | US-VA-ARLINGTON-108 ~ 1100 Wilson Blvd ~ ROSSLYN HQ |
 | 2026-11-16 | ServiceNow | [Forward Deployed Solution Engineer Intern (Masters Summer 2027)](https://jobs.smartrecruiters.com/ServiceNow/744000161936020) | Santa Clara, CALIFORNIA, us |
 | 2026-11-16 | ServiceNow | [Inbound Product Manager (Masters Summer 2027)](https://jobs.smartrecruiters.com/ServiceNow/744000161885234) | San Diego, CALIFORNIA, us |
 | 2026-11-13 | ServiceNow | [Sr Outbound Product Manager Intern (MBA Summer 2027)](https://jobs.smartrecruiters.com/ServiceNow/744000161590090) | San Diego, CALIFORNIA, us |
 | 2026-11-13 | ServiceNow | [Strategic Operations Intern (Summer 2027 - Masters Degree)](https://jobs.smartrecruiters.com/ServiceNow/744000161583461) | Santa Clara, CALIFORNIA, us |
 | 2026-11-13 | ServiceNow | [Sr Inbound Product Manager Intern (MBA Summer 2027) ](https://jobs.smartrecruiters.com/ServiceNow/744000161584449) | San Diego, CALIFORNIA, us |
 | 2026-10-30 | Stripe | [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074) | San Francisco, New York City, Seattle |
-| 2026-10-15 | Duolingo | [Product Manager, MBA Intern](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) | Pittsburgh, PA |
+| 2026-10-20 (30+ days) | Target | [MBA Intern, Finance Leadership Development Program (FLDP) Internship - (Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/MBA-Intern--Finance-Leadership-Development-Program--FLDP--Internship----Summer-2027-_R0000451066) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |
 | 2026-10-01 | Pinterest | [Master's Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US |
 | 2026-10-01 | Pinterest | [Master's Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US |
 | 2026-09-23 | DoorDash | [Machine Learning Intern (Masters) - Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA |
@@ -65,12 +66,15 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-09-08 | Coinbase | [Sales Intern](https://www.coinbase.com/careers/positions/8187551?gh_jid=8187551) | Hybrid - New York, NY |
 | 2023-08-17 | Databricks | [Data Science Intern (2027 Start)](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) | Mountain View, California; San Francisco, California |
 
-## Other internships (146)
+## Other internships (148)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
+| 2026-11-19 | GE Aerospace | [Manufacturing Engineering Intern – US – Summer 2027](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Manufacturing-Engineering-Intern---US---Summer-2027_R5029659) | 23 Locations |
+| 2026-11-18 | Target | [Operations Manager Intern (Starting Summer 2027) Regional Distribution Center, West Jefferson, OH](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1-Walker-Way-West-JeffersonOH-43162-9406/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--West-Jefferson--OH_R0000450139) | 1 Walker Way, West Jefferson,OH 43162-9406 |
+| 2026-11-18 | Target | [Target Creative Intern-Minneapolis, MN (Starting Summer 2027)](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Target-Creative-Intern-Minneapolis--MN--Starting-Summer-2027-_R0000480617) | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 |
 | 2026-11-18 | Anduril | [2027 Business Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007) | Costa Mesa, California, United States |
 | 2026-11-18 | Airbnb | [Software Engineering Intern (BS/MS)](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) | San Francisco, California |
 | 2026-11-17 | Anduril | [2027 Machine Learning Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007) | Santa Ana, California, United States |
@@ -90,7 +94,6 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-11-12 | ServiceNow | [Assoc AI Engineering (Cloud Security Automation) Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161209600) | Santa Clara, CALIFORNIA, us |
 | 2026-11-12 | ServiceNow | [Assoc Information Security Engineer Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161204235) | San Diego, CALIFORNIA, us |
 | 2026-11-12 | Pinterest | [Sales Analytics Intern 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8214783) | San Francisco, CA, US; Remote, US |
-| 2026-11-11 | Snap | [2027 Generative Media Research Intern](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179) | Los Angeles, California |
 | 2026-11-10 | Notion | [Product Design Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9) | New York, New York |
 | 2026-11-10 | Coinbase | [Strategic Sourcing Intern](https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084) | Hybrid - New York, NY |
 | 2026-11-10 | Anduril | [2027 Optical Payload Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007) | Costa Mesa, California, United States |
@@ -110,8 +113,8 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-27 | Amazon | [Network Development Engineer Intern, 2027 Summer](https://www.amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer) | Seattle, Washington, USA |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373) | Atlanta, Georgia, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057) | Atlanta, Georgia, United States |
-| 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325056?gh_jid=8325056) | Phoenix, Arizona, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | Phoenix, Arizona, United States |
+| 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325056?gh_jid=8325056) | Phoenix, Arizona, United States |
 | 2026-10-23 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784) | Phoenix, Arizona, United States |
 | 2026-10-23 | MongoDB | [2027 - Software Engineering Intern, AMER](https://www.mongodb.com/careers/job/?gh_jid=8209134) | Austin; New York City; San Francisco |
 | 2026-10-23 | Amazon | [2027 Amazon Air (Network Control Center) Supply Chain Manager Intern](https://www.amazon.jobs/en/jobs/10587855/2027-amazon-air-network-control-center-supply-chain-manager-intern) | Erlanger, Kentucky, USA |
