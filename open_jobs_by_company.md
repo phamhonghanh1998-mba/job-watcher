@@ -1,10 +1,10 @@
-# Open matching jobs (225)
+# Open matching jobs (199)
 
-Updated 2026-11-23 13:38 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-11-24 01:12 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (25)
+## MBA-level (21)
 
 Title or job description mentions an MBA.
 
@@ -15,12 +15,8 @@ Title or job description mentions an MBA.
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 | 2026-08-20 | Amazon | [Product Manager Technical (PMT) Intern - Summer 2027](https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) | Seattle, Washington, USA |
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
+| 2026-11-23 | Cloudflare | [People Operations Intern (2026/2027 Batch Only)](https://boards.greenhouse.io/cloudflare/jobs/8392302?gh_jid=8392302) | In-Office |
 | 2026-09-23 | DoorDash | [Machine Learning Intern (Masters) - Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA |
-| 2026-11-02 | Huron | [MBA Summer Associate, Education & Research - Summer 2027](https://huron.wd1.myworkdayjobs.com/en-US/HuronCareers/job/Chicago---550-Van-Buren/MBA-Summer-Associate--Education---Research---Summer-2027_JR-0017056) | Chicago - 550 Van Buren |
-| 2026-10-24 (30+ days) | Oliver Wyman | [Oliver Wyman - 2027 MBA Summer Associate - Health & Life Sciences](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Oliver-Wyman---2027-MBA-Summer-Associate---Health---Life-Sciences_R_363378) | 4 Locations |
-| 2026-10-24 (30+ days) | Oliver Wyman | [Workforce and Rewards Summer Associate (MBA or Master's Track) - Los Angeles - MBA Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Los-Angeles---West-5th/Career-Consulting-Summer-Associate--MBA-or-Master-s-Track----Los-Angeles---MBA-Program-2027_R_365103-1) | Los Angeles - West 5th |
-| 2026-11-20 | Oliver Wyman | [Workforce and Rewards Summer Associate (MBA or Masters Track)- Boston- MBA Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Boston---High-St/Workforce-and-Rewards-Summer-Associate--MBA-or-Masters-Track---Boston--MBA-Program-2027_R_373574) | Boston - High St |
-| 2026-11-13 | Oliver Wyman | [Workforce and Rewards Summer Associate (MBA or Masters Track)- New York- MBA Program 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/New-York---1166/Workforce-and-Rewards-Summer-Associate--MBA-or-Masters-Track---New-York--MBA-Program-2027_R_372752) | New York - 1166 |
 | 2026-10-01 | Pinterest | [Master's Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US |
 | 2026-10-01 | Pinterest | [Master's Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US |
 | 2026-09-14 | Robinhood | [Investment Analyst MBA Intern, Robinhood Ventures (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) | Menlo Park, CA |
@@ -36,7 +32,7 @@ Title or job description mentions an MBA.
 | 2026-09-15 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles, California, United States |
 | 2026-09-14 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco, California, United States |
 
-## Master's in accounting / finance (35)
+## Master's in accounting / finance (31)
 
 Description says master's/graduate students in accounting, finance, economics or business can apply. Check whether an MBA qualifies (some require an MAcc for CPA hours).
 
@@ -69,16 +65,12 @@ Description says master's/graduate students in accounting, finance, economics or
 | 2026-11-19 | MongoDB | [2027 - AI and People Transformation Intern, NYC](https://www.mongodb.com/careers/job/?gh_jid=8346138) | New York City |
 | 2026-11-20 | MongoDB | [2027 - Finance Intern, San Francisco](https://www.mongodb.com/careers/job/?gh_jid=8346144) | San Francisco |
 | 2026-11-19 | MongoDB | [2027 - Tax Intern, New York City](https://www.mongodb.com/careers/job/?gh_jid=8301842) | New York City |
-| 2026-11-06 | Oliver Wyman | [Actuarial Science Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Raleigh---Sugar-Bush/Actuarial-Science-Intern_R_368596) | Raleigh - Sugar Bush |
-| 2026-11-06 | Oliver Wyman | [Client Management Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Charlotte---Carnegie-Boulevard/Client-Management-Intern_R_368586) | 9 Locations |
-| 2026-11-16 | Oliver Wyman | [Sales Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Philadelphia---15th/Sales-Intern_R_373022) | Philadelphia - 15th |
-| 2026-10-24 (30+ days) | Oliver Wyman | [Sales Intern - Sales](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Golden-Valley---Golden/Sales-Intern---Sales_R_365681) | Golden Valley - Golden |
 | 2026-11-09 | Pinterest | [Product Design Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8350814) | San Francisco, CA, US; Remote, US |
 | 2026-09-15 | Ramp | [Applied Scientist Intern](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) | New York, NY (HQ) |
 | 2026-09-14 | Robinhood | [People Partner Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src=&gh_jid=8197614) | New York, NY |
 | 2026-10-01 | Stripe | [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291) | New York, Seattle, South San Francisco HQ |
 
-## Other internships (165)
+## Other internships (147)
 
 No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts for these.
 
@@ -107,6 +99,7 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-20 | Amazon | [Creative Marketing Intern – Summer 2027](https://www.amazon.jobs/en/jobs/10584130/creative-marketing-intern-summer-2027) | Seattle, Washington, USA |
 | 2026-10-19 | Amazon | [Customer Acquisition Representative Intern – Summer 2027](https://www.amazon.jobs/en/jobs/10580807/customer-acquisition-representative-intern-summer-2027) | Arlington, Virginia, USA |
 | 2026-10-09 | Amazon | [General Marketing Specialist Intern – Summer 2027](https://www.amazon.jobs/en/jobs/10575256/general-marketing-specialist-intern-summer-2027) | Seattle, Washington, USA |
+| 2026-11-23 | Amazon | [Human Resources Partner Intern, (Nationwide) - Summer 2027](https://www.amazon.jobs/en/jobs/10612193/human-resources-partner-intern-nationwide-summer-2027) | Austin, Texas, USA |
 | 2026-08-14 | Amazon | [Loss Prevention Specialist Intern 2027](https://www.amazon.jobs/en/jobs/10502807/loss-prevention-specialist-intern-2027) | Fort Worth, Texas, USA |
 | 2026-10-27 | Amazon | [Network Development Engineer Intern, 2027 Summer](https://www.amazon.jobs/en/jobs/10590368/network-development-engineer-intern-2027-summer) | Seattle, Washington, USA |
 | 2026-09-08 | Amazon | [Operations Engineering (Business Strategy & Execution) Intern Spring and Summer 2027 (Bellevue, WA)](https://www.amazon.jobs/en/jobs/10532290/operations-engineering-business-strategy-execution-intern-spring-and-summer-2027-bellevue-wa) | Bellevue, Washington, USA |
@@ -149,18 +142,6 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-02-13 | Applied Materials | [Research Intern - Reinforcement Learning, Robotics](https://jobs.ashbyhq.com/applied/bb953f29-0059-4a40-aa9e-3a8c88733902) | Sunnyvale |
 | 2024-09-21 | Applied Materials | [Research Intern - Reinforcement Learning, Self-Driving](https://jobs.ashbyhq.com/applied/ce58d9fd-f22b-4336-80b5-ba1e8d764526) | Sunnyvale |
 | 2026-02-13 | Applied Materials | [Research Intern - World-Action Foundation Model, Robotics](https://jobs.ashbyhq.com/applied/edc2528d-6e6c-4a67-b871-bfe7d9c890b4) | Sunnyvale |
-| 2026-11-05 | Booz Allen Hamilton | [Design and Verification Engineer Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482) | Beavercreek, OH |
-| 2026-11-06 | Booz Allen Hamilton | [Systems Administrator - Summer Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator---Summer-Intern_R0252406) | Annapolis Junction, MD |
-| 2026-10-24 (30+ days) | Booz Allen Hamilton | [Systems Administrator Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249565) | Annapolis Junction, MD |
-| 2026-10-27 | Booz Allen Hamilton | [Test Engineer Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Test-Engineer-Intern_R0252409) | Lexington Park, MD |
-| 2026-10-24 (30+ days) | Booz Allen Hamilton | [University - Corporate Finance Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Corporate-Finance-Intern_R0246500) | McLean, VA |
-| 2026-11-10 | Booz Allen Hamilton | [University - Defense Strategy Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/University---Defense-Strategy-Intern_R0252902) | San Diego, CA |
-| 2026-10-24 (30+ days) | Booz Allen Hamilton | [University - Summer 27, Contracts Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249252) | McLean, VA |
-| 2026-10-24 (30+ days) | Booz Allen Hamilton | [University - Summer 27, Contracts Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Contracts-Intern_R0249253) | McLean, VA |
-| 2026-10-24 (30+ days) | Booz Allen Hamilton | [University - Summer 27, Pricing Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Pricing-Intern_R0249254) | McLean, VA |
-| 2026-10-24 (30+ days) | Booz Allen Hamilton | [University - Summer 27, Pricing Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---Summer-27--Pricing-Intern_R0250410) | McLean, VA |
-| 2026-10-24 (30+ days) | Booz Allen Hamilton | [University, 2026 Fall Technologist Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/University--2026-Fall-Technologist-Intern_R0249246) | Honolulu, HI |
-| 2026-10-24 (30+ days) | Booz Allen Hamilton | [University, Summer 2027 - Accounting Intern](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Summer-2027---Accounting-Intern_R0250271) | McLean, VA |
 | 2026-11-06 | Cloudflare | [People Team Intern, HR Transformation (Winter 2027)](https://boards.greenhouse.io/cloudflare/jobs/8350166?gh_jid=8350166) | In-Office |
 | 2026-09-08 | Coinbase | [Acceleration Programs Intern](https://www.coinbase.com/careers/positions/8175363?gh_jid=8175363) | Hybrid - New York, NY |
 | 2026-09-08 | Coinbase | [Accounting Intern](https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991) | Hybrid - New York, NY |
@@ -194,17 +175,10 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-11-09 | Duolingo | [Product Designer, Thrive Intern](https://careers.duolingo.com/jobs/8933791002?gh_jid=8933791002) | Pittsburgh, PA |
 | 2026-09-23 | Figma | [Data Engineer Intern (2027)](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) | San Francisco, CA • New York, NY |
 | 2026-09-14 | Figma | [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | San Francisco, CA • New York, NY |
-| 2026-11-11 | Huron | [Internal Audit and Risk Management - Data Analytics & AI (Summer 2027 Internship - Washington, D.C.)](https://huron.wd1.myworkdayjobs.com/en-US/HuronCareers/job/Washington-DC---1800-M-Street-NW/Internal-Audit-and-Risk-Management---Data-Analytics---AI--Summer-2027-Internship-_JR-0017165) | Washington DC - 1800 M Street, NW |
 | 2026-10-23 | MongoDB | [2027 - Software Engineering Intern, AMER](https://www.mongodb.com/careers/job/?gh_jid=8209134) | Austin; New York City; San Francisco |
 | 2026-11-10 | Notion | [Product Design Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9) | New York, New York |
 | 2026-11-06 | Notion | [Software Engineering Intern, Frontend (Summer 2027)](https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413) | New York, New York |
 | 2026-11-06 | Notion | [Software Engineering Intern, iOS (Summer 2027)](https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947) | New York, New York |
-| 2026-11-05 | Oliver Wyman | [Client Management Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Walnut-Creek---1255-Treat/EH-B-Intern_R_337618) | Walnut Creek - 1255 Treat |
-| 2026-11-04 | Oliver Wyman | [Client Management Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Walnut-Creek---1255-Treat/Client-Management-Intern_R_371854) | Walnut Creek - 1255 Treat |
-| 2026-11-06 | Oliver Wyman | [Insurance Summer Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Schaumburg---Martingale/Insurance-Summer-Intern_R_370027) | Schaumburg - Martingale |
-| 2026-10-24 (30+ days) | Oliver Wyman | [Intern - Summer 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Dallas---13155-Noel/Intern---Summer-2027_R_369433) | Dallas - 13155 Noel |
-| 2026-11-09 | Oliver Wyman | [Intern - Summer 2027](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Houston---2929-Allen/Intern---Summer-2027_R_372290) | Houston - 2929 Allen |
-| 2026-10-24 (30+ days) | Oliver Wyman | [Summer Sales Intern](https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Fort-Lauderdale---1000-Corpora/Summer-Sales-Intern_R_324193) | 2 Locations |
 | 2025-12-11 | Palantir | [Deployment Strategist, Internship - US Government](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) | Honolulu, HI |
 | 2026-10-31 | Palantir | [Finance Operator Intern](https://jobs.lever.co/palantir/bd7766c4-6aea-4b37-8d47-a8864bb9bd69) | New York, NY |
 | 2022-08-03 | Palantir | [Information Security Engineer, Internship](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) | New York, NY |
@@ -227,13 +201,13 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-09-24 | Ramp | [Software Engineering Intern, Frontend](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74) | New York, NY (HQ) |
 | 2026-09-24 | Ramp | [Software Engineering Intern, iOS](https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9) | New York, NY (HQ) |
 | 2026-11-13 | Robinhood | [Corporate Finance Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464) | New York, NY |
-| 2026-08-21 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119) | Atlanta, Georgia, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057) | Atlanta, Georgia, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373) | Atlanta, Georgia, United States |
-| 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325056?gh_jid=8325056) | Phoenix, Arizona, United States |
+| 2026-08-21 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119) | Atlanta, Georgia, United States |
 | 2026-08-21 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799) | Phoenix, Arizona, United States |
-| 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | Phoenix, Arizona, United States |
 | 2026-10-23 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784) | Phoenix, Arizona, United States |
+| 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | Phoenix, Arizona, United States |
+| 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325056?gh_jid=8325056) | Phoenix, Arizona, United States |
 | 2026-11-06 | Samsara | [Software Engineering Internship - San Francisco ](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) | San Francisco - SF9 |
 | 2026-10-19 | Scale AI | [Machine Learning Research Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | New York, NY; San Francisco, CA |
 | 2026-09-04 | Scale AI | [Software Engineering Intern (Summer 2027) ](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | San Francisco, CA |
