@@ -1,16 +1,17 @@
-# Open matching jobs (200)
+# Open matching jobs (201)
 
-Updated 2026-11-27 00:20 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
+Updated 2026-11-27 08:50 UTC. Sorted by **date posted (newest first)**. Switch to [sort by company](open_jobs_by_company.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (21)
+## MBA-level (22)
 
 Title or job description mentions an MBA.
 
 | Posted | Company | Role | Location |
 |---|---|---|---|
 | 2026-11-24 | Snowflake | [Product Management Intern (Summer 2027)](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf) | US-CA-Menlo Park |
+| 2026-11-24 | Capital One | [Senior Associate - Internship Program Manager - Students and Grads](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate---Internship-Program-Manager---Students-and-Grads_R1006488-1) | McLean, VA |
 | 2026-11-20 | ServiceNow | [Corporate Business Development Intern - MBA](https://jobs.smartrecruiters.com/ServiceNow/744000162808049) | San Francisco, CALIFORNIA, us |
 | 2026-11-20 | ServiceNow | [Corporate Strategy Manager Intern - MBA](https://jobs.smartrecruiters.com/ServiceNow/744000162629690) | Santa Clara, CALIFORNIA, us |
 | 2026-11-16 | ServiceNow | [Forward Deployed Solution Engineer Intern (Masters Summer 2027)](https://jobs.smartrecruiters.com/ServiceNow/744000161936020) | Santa Clara, CALIFORNIA, us |

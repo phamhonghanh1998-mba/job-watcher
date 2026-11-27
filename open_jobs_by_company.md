@@ -1,10 +1,10 @@
-# Open matching jobs (200)
+# Open matching jobs (201)
 
-Updated 2026-11-27 00:20 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
+Updated 2026-11-27 08:50 UTC. Sorted by **company name**. Switch to [sort by date posted](open_jobs.md).
 
 *Posted* comes from the company's job board. "~ (first seen)" means the board gives no date, so it shows when the tracker first saw the job.
 
-## MBA-level (21)
+## MBA-level (22)
 
 Title or job description mentions an MBA.
 
@@ -15,6 +15,7 @@ Title or job description mentions an MBA.
 | 2026-08-03 | Amazon | [Pathways Operations Manager Intern – Summer 2027 (Nationwide Opportunities)](https://www.amazon.jobs/en/jobs/10491075/pathways-operations-manager-intern-summer-2027-nationwide-opportunities) | Seattle, Washington, USA |
 | 2026-08-20 | Amazon | [Product Manager Technical (PMT) Intern - Summer 2027](https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) | Seattle, Washington, USA |
 | 2026-08-04 | Amazon | [Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS](https://www.amazon.jobs/en/jobs/10491574/summer-2027-aws-human-resources-leadership-development-program-internship-aws) | Seattle, Washington, USA |
+| 2026-11-24 | Capital One | [Senior Associate - Internship Program Manager - Students and Grads](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate---Internship-Program-Manager---Students-and-Grads_R1006488-1) | McLean, VA |
 | 2026-09-23 | DoorDash | [Machine Learning Intern (Masters) - Summer 2027](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) | San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA |
 | 2026-10-01 | Pinterest | [Master's Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US |
 | 2026-10-01 | Pinterest | [Master's Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US |
@@ -207,8 +208,8 @@ No MBA or relevant master's mentioned. Mostly undergrad roles; no phone alerts f
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Atlanta](https://www.samsara.com/company/careers/roles/8325057?gh_jid=8325057) | Atlanta, Georgia, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371) | Phoenix, Arizona, United States |
 | 2026-10-23 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784) | Phoenix, Arizona, United States |
-| 2026-08-21 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799) | Phoenix, Arizona, United States |
 | 2026-10-26 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8325056?gh_jid=8325056) | Phoenix, Arizona, United States |
+| 2026-08-21 | Samsara | [Account Development Representative Intern - Phoenix](https://www.samsara.com/company/careers/roles/8099799?gh_jid=8099799) | Phoenix, Arizona, United States |
 | 2026-11-06 | Samsara | [Software Engineering Internship - San Francisco ](https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786) | San Francisco - SF9 |
 | 2026-10-19 | Scale AI | [Machine Learning Research Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | New York, NY; San Francisco, CA |
 | 2026-09-04 | Scale AI | [Software Engineering Intern (Summer 2027) ](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) | San Francisco, CA |
